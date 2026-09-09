@@ -72,7 +72,20 @@ function credits(i){return [i.creator,i.publisher,i.studio,i.production_company,
 function creditKey(s){return String(s).normalize('NFKC').toLowerCase().replace(/[\s@._·-]+/g,'')}
 function hay(i){return [i.title,i.project,i.subtitle,...credits(i),i.description,i.collection,i.caption_text,...i.tags.flatMap(t=>[t.en,t.zh]),...i.related.flatMap(t=>[t.en,t.zh]),...i.caption].join(' ').toLowerCase()}
 function containsTerm(text,term){if(!/^[a-z0-9 -]+$/i.test(term))return text.includes(term);let start=0;while((start=text.indexOf(term,start))!==-1){const before=text[start-1]||'',after=text[start+term.length]||'';if(!/[a-z0-9]/i.test(before)&&!/[a-z0-9]/i.test(after))return true;start++;}return false;}
-function matches(i,q){const terms=expand(q);return !terms.length||terms.some(w=>containsTerm(hay(i),w)||(creditKey(w)&&credits(i).some(c=>creditKey(c).includes(creditKey(w)))))}
+const phraseTerms=new Set(synonyms.flat().filter(w=>w.includes(' ')));
+const queryCache=new Map();
+function queryParts(q){
+ const normalized=q.normalize('NFKC').toLowerCase().trim();
+ if(queryCache.has(normalized))return queryCache.get(normalized);
+ const parts=[];
+ for(const chunk of normalized.match(/"[^"]*"|[^",，、]+/g)||[]){
+  if(chunk.startsWith('"')){const phrase=chunk.slice(1,-1).trim();if(phrase)parts.push(phrase);continue;}
+  const words=chunk.trim().split(/\s+/).map(w=>w.replace(/^#/,'' )).filter(Boolean);
+  for(let n=0;n<words.length;){let size=1;for(let end=words.length;end>n+1;end--){if(phraseTerms.has(words.slice(n,end).join(' '))){size=end-n;break;}}parts.push(words.slice(n,n+size).join(' '));n+=size;}
+ }
+ if(queryCache.size>=100)queryCache.clear();queryCache.set(normalized,parts);return parts;
+}
+function matches(i,q){const text=hay(i),authors=credits(i).map(creditKey);return queryParts(q).every(part=>expand(part).some(w=>containsTerm(text,w)||(creditKey(w)&&authors.some(c=>c.includes(creditKey(w))))))}
 function image(i,extra=''){return `<img data-src="${esc(i.image)}" decoding="async" loading="lazy" alt="${esc(i.title)}" referrerpolicy="no-referrer" ${extra}>`}
 function tag(t,cls=''){return `<button class="tag ${cls}" data-query="${esc(t.en)}">${esc(t.en)}${t.en.toLowerCase()!==t.zh.toLowerCase()?' · '+esc(t.zh):''}</button>`}
 function scope(i){return i.group==='expansion'?'作品影片參考':i.group==='ref'?'延伸貼文預覽':i.total>1?`輪播 ${i.index} / ${i.total}`:'獨立影片'}
@@ -83,7 +96,7 @@ function render(){
  const shown=items.filter(i=>matches(i,q)&&matches(i,selected)&&(source==='all'||(source==='saved'?i.saved:i.group===source))&&(collection==='all'||i.collection===collection));
  $('#filters').innerHTML=groups.map(([name,value])=>`<button class="chip ${selected===value?'active':''}" data-filter="${value}" aria-pressed="${selected===value}">${name}</button>`).join('');
  $('#count').textContent=`${shown.length} 個參考素材${q?' · 搜尋「'+q+'」':''}`;
- const expanded=expand(q).filter(w=>w!==q.toLowerCase());$('#expanded').textContent=expanded.length?'關聯搜尋：'+expanded.join(' · '):'每個輪播項目，獨立探索';
+ const parts=queryParts(q),expanded=[...new Set(parts.flatMap(p=>expand(p).filter(w=>w!==p)))];$('#expanded').textContent=parts.length>1?'同時符合：'+parts.join(' ＋ '):expanded.length?'關聯搜尋：'+expanded.join(' · '):'可用空格分隔多個關鍵字';
  $('#empty').style.display=shown.length?'none':'block';
  $('#grid').innerHTML=shown.map(i=>`<article class="card"><button class="visual" data-open="${i.id}" style="--ratio:${i.ratio}" aria-label="查看${esc(i.title)}">${image(i)}${video(i)}</button></article>`).join('');
  observeMedia($('#grid'));
