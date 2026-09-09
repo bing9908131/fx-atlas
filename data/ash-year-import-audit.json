@@ -1,0 +1,977 @@
+{
+  "account": "ashthorp",
+  "approved_posts": 29,
+  "media_found": 137,
+  "new_media": 124,
+  "new_posts": 27,
+  "counts": {
+    "already_exists": 2,
+    "imported": 124,
+    "pending_cg_verification": 7,
+    "excluded_live_action": 2,
+    "pending_external_preview": 2
+  },
+  "media": [
+    {
+      "post_id": "DaVhvkgORcE",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DaVhvkgORcE/?img_index=1",
+      "status": "already_exists",
+      "id": "accounts16-DaVhvkgORcE-1"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-1"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-2"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-3"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-4"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-5"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-6"
+    },
+    {
+      "post_id": "DaQtp2mD97m",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DaQtp2mD97m/?img_index=7",
+      "status": "imported",
+      "id": "ashyear-DaQtp2mD97m-7"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-1"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-2"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-3"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-4"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-5"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-6"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=7",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-7"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 8,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=8",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-8"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 9,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=9",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-9"
+    },
+    {
+      "post_id": "DaLSftWFGwm",
+      "media_index": 10,
+      "url": "https://www.instagram.com/p/DaLSftWFGwm/?img_index=10",
+      "status": "imported",
+      "id": "ashyear-DaLSftWFGwm-10"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-1"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-3"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-4"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-5"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-6"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=7",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-7"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 8,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=8",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-8"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 9,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=9",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-9"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 10,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=10",
+      "status": "imported",
+      "id": "ashyear-DaDmai2lNXH-10"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-1"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-2"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-3"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-4"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-6"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=7",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-7"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 8,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=8",
+      "status": "imported",
+      "id": "ashyear-DZ-g0hqmi7R-8"
+    },
+    {
+      "post_id": "DZK2pH9gkvV",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DZK2pH9gkvV/?img_index=1",
+      "status": "already_exists",
+      "id": "accounts16-DZK2pH9gkvV-1"
+    },
+    {
+      "post_id": "DZITPz3FO_W",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DZITPz3FO_W/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DZITPz3FO_W-1"
+    },
+    {
+      "post_id": "DZITPz3FO_W",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DZITPz3FO_W/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DZITPz3FO_W-2"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-1"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-2"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-3"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-4"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-5"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-6"
+    },
+    {
+      "post_id": "DZDKOcxFIQK",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DZDKOcxFIQK/?img_index=7",
+      "status": "imported",
+      "id": "ashyear-DZDKOcxFIQK-7"
+    },
+    {
+      "post_id": "DY76GUkErJt",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DY76GUkErJt/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DY76GUkErJt-1"
+    },
+    {
+      "post_id": "DY76GUkErJt",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DY76GUkErJt/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DY76GUkErJt-2"
+    },
+    {
+      "post_id": "DY76GUkErJt",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DY76GUkErJt/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DY76GUkErJt-3"
+    },
+    {
+      "post_id": "DY2e67uGhLX",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DY2e67uGhLX/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DY2e67uGhLX-1"
+    },
+    {
+      "post_id": "DY2e67uGhLX",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DY2e67uGhLX/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DY2e67uGhLX-2"
+    },
+    {
+      "post_id": "DY2e67uGhLX",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DY2e67uGhLX/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DY2e67uGhLX-3"
+    },
+    {
+      "post_id": "DY2e67uGhLX",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DY2e67uGhLX/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DY2e67uGhLX-4"
+    },
+    {
+      "post_id": "DY2e67uGhLX",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DY2e67uGhLX/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DY2e67uGhLX-5"
+    },
+    {
+      "post_id": "DWCY_2KgRdP",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DWCY_2KgRdP/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DWCY_2KgRdP-1"
+    },
+    {
+      "post_id": "DWCY_2KgRdP",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DWCY_2KgRdP/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DWCY_2KgRdP-2"
+    },
+    {
+      "post_id": "DWCY_2KgRdP",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DWCY_2KgRdP/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DWCY_2KgRdP-3"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-1"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-2"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-3"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-4"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-5"
+    },
+    {
+      "post_id": "DU3mF3fATr0",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DU3mF3fATr0/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DU3mF3fATr0-6"
+    },
+    {
+      "post_id": "DUrRkYKEpOB",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DUrRkYKEpOB/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DUrRkYKEpOB-1"
+    },
+    {
+      "post_id": "DUrRkYKEpOB",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DUrRkYKEpOB/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DUrRkYKEpOB-2"
+    },
+    {
+      "post_id": "DUrRkYKEpOB",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DUrRkYKEpOB/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DUrRkYKEpOB-3"
+    },
+    {
+      "post_id": "DUrRkYKEpOB",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DUrRkYKEpOB/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DUrRkYKEpOB-4"
+    },
+    {
+      "post_id": "DUrRkYKEpOB",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DUrRkYKEpOB/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DUrRkYKEpOB-5"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-1"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-2"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-3"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-4"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-5"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DTdf4uqgUkT-6"
+    },
+    {
+      "post_id": "DTdf4uqgUkT",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DTdf4uqgUkT/?img_index=7",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DRkiJ4kkgtE-1"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=2",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DRkiJ4kkgtE-3"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DRkiJ4kkgtE-4"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=5",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=6",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DRkiJ4kkgtE",
+      "media_index": 7,
+      "url": "https://www.instagram.com/p/DRkiJ4kkgtE/?img_index=7",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DQXSmUIEsi2",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DQXSmUIEsi2/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DQXSmUIEsi2-1"
+    },
+    {
+      "post_id": "DQXSmUIEsi2",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DQXSmUIEsi2/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DQXSmUIEsi2-2"
+    },
+    {
+      "post_id": "DQXSmUIEsi2",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DQXSmUIEsi2/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DQXSmUIEsi2-3"
+    },
+    {
+      "post_id": "DQXSmUIEsi2",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DQXSmUIEsi2/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DQXSmUIEsi2-4"
+    },
+    {
+      "post_id": "DQMrxl0iR7M",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DQMrxl0iR7M/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DQMrxl0iR7M-1"
+    },
+    {
+      "post_id": "DQMrxl0iR7M",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DQMrxl0iR7M/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DQMrxl0iR7M-2"
+    },
+    {
+      "post_id": "DQMrxl0iR7M",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DQMrxl0iR7M/?img_index=3",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DQMrxl0iR7M",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DQMrxl0iR7M/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DQMrxl0iR7M-4"
+    },
+    {
+      "post_id": "DQMrxl0iR7M",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DQMrxl0iR7M/?img_index=5",
+      "status": "pending_cg_verification",
+      "reason": "人物或製作過程畫面；尚無足夠依據確認 CG，沒有直接判定為非 CG。"
+    },
+    {
+      "post_id": "DQKDt5QkeRh",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DQKDt5QkeRh/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DQKDt5QkeRh-1"
+    },
+    {
+      "post_id": "DQKDt5QkeRh",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DQKDt5QkeRh/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DQKDt5QkeRh-2"
+    },
+    {
+      "post_id": "DQKDt5QkeRh",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DQKDt5QkeRh/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DQKDt5QkeRh-3"
+    },
+    {
+      "post_id": "DQKDt5QkeRh",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DQKDt5QkeRh/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DQKDt5QkeRh-4"
+    },
+    {
+      "post_id": "DQKDWTuEcOf",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DQKDWTuEcOf/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DQKDWTuEcOf-1"
+    },
+    {
+      "post_id": "DQKDWTuEcOf",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DQKDWTuEcOf/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DQKDWTuEcOf-2"
+    },
+    {
+      "post_id": "DQFU1nxkjpq",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DQFU1nxkjpq/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DQFU1nxkjpq-1"
+    },
+    {
+      "post_id": "DQFU1nxkjpq",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DQFU1nxkjpq/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DQFU1nxkjpq-2"
+    },
+    {
+      "post_id": "DQFU1nxkjpq",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DQFU1nxkjpq/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DQFU1nxkjpq-3"
+    },
+    {
+      "post_id": "DPzPFIxEkIi",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DPzPFIxEkIi/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DPzPFIxEkIi-1"
+    },
+    {
+      "post_id": "DPzPFIxEkIi",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DPzPFIxEkIi/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DPzPFIxEkIi-2"
+    },
+    {
+      "post_id": "DPzPFIxEkIi",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DPzPFIxEkIi/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DPzPFIxEkIi-3"
+    },
+    {
+      "post_id": "DPzPFIxEkIi",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DPzPFIxEkIi/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DPzPFIxEkIi-4"
+    },
+    {
+      "post_id": "DPjkmBdEvoE",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DPjkmBdEvoE/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DPjkmBdEvoE-1"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-1"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-2"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-3"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-4"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-5"
+    },
+    {
+      "post_id": "DPjjvWlEuxt",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DPjjvWlEuxt/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DPjjvWlEuxt-6"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-1"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-2"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-3"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-4"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-5"
+    },
+    {
+      "post_id": "DPRWfBgAV0F",
+      "media_index": 6,
+      "url": "https://www.instagram.com/p/DPRWfBgAV0F/?img_index=6",
+      "status": "imported",
+      "id": "ashyear-DPRWfBgAV0F-6"
+    },
+    {
+      "post_id": "DO6dun1gZSA",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DO6dun1gZSA/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DO6dun1gZSA-1"
+    },
+    {
+      "post_id": "DO6dun1gZSA",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DO6dun1gZSA/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DO6dun1gZSA-2"
+    },
+    {
+      "post_id": "DO6dun1gZSA",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DO6dun1gZSA/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DO6dun1gZSA-3"
+    },
+    {
+      "post_id": "DOblS9sDI4N",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DOblS9sDI4N/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DOblS9sDI4N-1"
+    },
+    {
+      "post_id": "DOblS9sDI4N",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DOblS9sDI4N/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DOblS9sDI4N-2"
+    },
+    {
+      "post_id": "DOblS9sDI4N",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DOblS9sDI4N/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DOblS9sDI4N-3"
+    },
+    {
+      "post_id": "DOblS9sDI4N",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DOblS9sDI4N/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DOblS9sDI4N-4"
+    },
+    {
+      "post_id": "DObjP9cD1Mu",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DObjP9cD1Mu/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DObjP9cD1Mu-1"
+    },
+    {
+      "post_id": "DObjP9cD1Mu",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DObjP9cD1Mu/?img_index=2",
+      "status": "excluded_live_action",
+      "reason": "作者說明的沙漠攝影素材；此張為日落地景，沒有可辨識的 CG。"
+    },
+    {
+      "post_id": "DObjP9cD1Mu",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DObjP9cD1Mu/?img_index=3",
+      "status": "excluded_live_action",
+      "reason": "作者說明的沙漠攝影素材；此張為日落地景，沒有可辨識的 CG。"
+    },
+    {
+      "post_id": "DObjP9cD1Mu",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DObjP9cD1Mu/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DObjP9cD1Mu-4"
+    },
+    {
+      "post_id": "DObjP9cD1Mu",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DObjP9cD1Mu/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DObjP9cD1Mu-5"
+    },
+    {
+      "post_id": "DOYy0cxEQxa",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DOYy0cxEQxa/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DOYy0cxEQxa-1"
+    },
+    {
+      "post_id": "DOYy0cxEQxa",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DOYy0cxEQxa/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DOYy0cxEQxa-2"
+    },
+    {
+      "post_id": "DOYy0cxEQxa",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DOYy0cxEQxa/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DOYy0cxEQxa-3"
+    },
+    {
+      "post_id": "DOYy0cxEQxa",
+      "media_index": 4,
+      "url": "https://www.instagram.com/p/DOYy0cxEQxa/?img_index=4",
+      "status": "imported",
+      "id": "ashyear-DOYy0cxEQxa-4"
+    },
+    {
+      "post_id": "DOYy0cxEQxa",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DOYy0cxEQxa/?img_index=5",
+      "status": "imported",
+      "id": "ashyear-DOYy0cxEQxa-5"
+    },
+    {
+      "post_id": "DOYx1bxiAfY",
+      "media_index": 1,
+      "url": "https://www.instagram.com/p/DOYx1bxiAfY/?img_index=1",
+      "status": "imported",
+      "id": "ashyear-DOYx1bxiAfY-1"
+    },
+    {
+      "post_id": "DOYx1bxiAfY",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DOYx1bxiAfY/?img_index=2",
+      "status": "imported",
+      "id": "ashyear-DOYx1bxiAfY-2"
+    },
+    {
+      "post_id": "DOYx1bxiAfY",
+      "media_index": 3,
+      "url": "https://www.instagram.com/p/DOYx1bxiAfY/?img_index=3",
+      "status": "imported",
+      "id": "ashyear-DOYx1bxiAfY-3"
+    },
+    {
+      "post_id": "DaDmai2lNXH",
+      "media_index": 2,
+      "url": "https://www.instagram.com/p/DaDmai2lNXH/?img_index=2",
+      "status": "pending_external_preview",
+      "reason": "影片已找到，但未取得該影片獨立外部封面。"
+    },
+    {
+      "post_id": "DZ-g0hqmi7R",
+      "media_index": 5,
+      "url": "https://www.instagram.com/p/DZ-g0hqmi7R/?img_index=5",
+      "status": "pending_external_preview",
+      "reason": "影片已找到，但未取得該影片獨立外部封面。"
+    }
+  ],
+  "complete": false,
+  "note": "已匯入已確認且有外部預覽的媒體；待補項目明確列出，不視為非 CG。"
+}
