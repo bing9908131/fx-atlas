@@ -38,6 +38,7 @@ body:has(#modal[open]){overflow:hidden}
 .account-handle{font-size:11px;font-weight:600;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .account-summary{font-size:10px;color:#808a7a}.account-active{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin:0 0 16px;font-size:12px;color:#385941}.account-active[hidden]{display:none}.account-clear{border:0;border-radius:20px;background:#edf3e8;min-height:44px;padding:8px 14px}
 @media(max-width:650px){.inspiration-actions{gap:10px}.inspiration-button{padding:12px 16px}.account-card{flex-basis:112px;padding:8px 4px;min-height:100px}.account-avatar{width:48px;height:48px}.account-strip{gap:4px}.account-handle{font-size:10px}}
+.ig-player{width:100%;padding:16px 12px 80px;align-self:stretch}.ig-player iframe{display:block;width:100%;height:650px;border:0;border-radius:10px;background:white}.ig-player-note{font-size:12px;line-height:1.7;color:#747b70;margin:12px 4px}.preview:has(.ig-player){justify-content:flex-start}@media(max-width:650px){.ig-player{padding:8px 8px 76px}.ig-player iframe{height:560px}}
 </style></head><body>
 <header><a href="#" class="brand" id="home">FX <b>Atlas</b><span>✳</span></a><nav id="mediafilters" class="mediafilters" aria-label="媒體類型"></nav><label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜尋特效、效果名稱、顏色、品牌、型號、發布人、製作公司…" aria-label="搜尋素材、特效、效果名稱、顏色、品牌、型號、發布人或製作公司"><button id="clear" aria-label="清除搜尋">×</button></label><span class="headnote">A LIBRARY OF MOTION</span></header>
 <main><div class="intro"><p>特效與動態設計參考集</p></div><div class="inspiration-actions"><button type="button" id="inspire" class="inspiration-button" title="隨機排列目前符合篩選的素材">找靈感</button><div class="account-browser"><nav id="account-strip" class="account-strip" aria-label="已收錄的 Instagram 帳號"></nav></div></div><div id="account-active" class="account-active" hidden></div><div class="filters"><nav class="chips" aria-label="特效分類" id="filters"></nav><div class="sourcefilters"><select id="group" aria-label="素材來源"><option value="all">全部來源</option><option value="history156">指定帳號 · 近三年補收</option><option value="accounts16">16 個指定帳號 · 本次新增</option><option value="brand2026">品牌 CG · 2026</option><option value="pendingyear">指定帳號 · 近一年補收</option><option value="ashyear">Ash Thorp · 近一年</option><option value="cnc">CNC CG · 10 篇貼文</option><option value="hublot">Hublot CG · 3 支影片</option><option value="bulk500">工作室與藝術家 IG · 新增500支</option><option value="studioig">工作室 IG · 50 支影片</option><option value="year">2026 年 CG 精選 · 112 個素材</option><option value="recent">2026/08–09 精選 · 29 個素材</option><option value="discovered">新加入 CG · 53 個素材</option><option value="saved">我的收藏 · 48 個素材</option><option value="seed">原始輪播 · 6 支影片</option><option value="ref">延伸參考 · 5 則貼文</option></select><select id="collection" aria-label="珍藏分類"><option value="all">所有珍藏分類</option><option value="指定帳號 · 近三年">指定帳號 · 近三年</option><option value="16 個指定帳號">16 個指定帳號</option><option value="品牌 CG · 2026">品牌 CG · 2026</option><option value="指定帳號 · 近一年補收">指定帳號 · 近一年補收</option><option value="Ash Thorp · 近一年">Ash Thorp · 近一年</option><option value="CNC CG">CNC CG</option><option value="Hublot CG">Hublot CG</option><option value="工作室與藝術家 IG · 新增500支">工作室與藝術家 IG · 新增500支</option><option value="工作室 IG · 50 支精選">工作室 IG · 50 支精選</option><option value="2026 年 CG 精選">2026 年 CG 精選</option><option value="2026/08–09 精選">2026/08–09 精選</option><option value="相關 CG">相關 CG · 本次新增</option><option value="metal liquid">metal liquid · 金屬流體</option><option value="liquid">liquid · 流體</option><option value="particle">particle · 粒子</option><option value="Shoes">Shoes · 鞋履</option></select></div></div><div class="resultline"><span id="count" role="status"></span><span class="expansion" id="expanded"></span></div><div class="grid" id="grid"></div><div id="empty">沒有符合的素材。試試「布料」、「鞋底」或「雪花」。<br><button id="reset">顯示全部素材</button></div></main><footer>FX ATLAS · 共 1876 項 Instagram 參考素材 · 圖片與影片使用遠端連結</footer>
@@ -71,8 +72,12 @@ let mediaType='all';
 
 // Sources stay unset until the media approaches the viewport.
 function video(i,detail=false){
- if(i.type!=='video'||!/^https:\/\//.test(i.video_url||''))return '';
- return `<video data-video-src="${esc(i.video_url)}" muted playsinline loop preload="none" ${detail?'controls':''} aria-label="${esc(i.title)}"></video>`;
+ if(i.type!=='video'||!detail)return '';
+ let source;try{source=new URL(i.url)}catch{return ''}
+ if(!/^(www\.)?instagram\.com$/.test(source.hostname))return '';
+ const match=source.pathname.match(/\/(?:p|reel|reels)\/([A-Za-z0-9_-]+)(?:\/|$)/);
+ if(!match)return '';
+ return `<div class="ig-player"><iframe data-ig-player src="https://www.instagram.com/p/${match[1]}/embed/" title="${esc(i.title)} — Instagram 播放器" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe><p class="ig-player-note">點擊 ▶ 播放${i.total>1?'；輪播以 IG 原貼文呈現，可在播放器內切換媒體':''}。若 IG 限制嵌入，請開啟原貼文。</p></div>`;
 }
 const visibleVideos=new Set();
 function canPlay(v){return !document.hidden&&(!$('#modal').open||$('#detail').contains(v))}
@@ -102,6 +107,7 @@ function observeMedia(root){
  });
 }
 function releaseMedia(root){
+ root.querySelectorAll('iframe[data-ig-player]').forEach(frame=>frame.remove());
  root.querySelectorAll('img').forEach(img=>imageObserver?.unobserve(img));
  root.querySelectorAll('video').forEach(v=>{videoObserver?.unobserve(v);visibleVideos.delete(v);v.pause();v.removeAttribute('src');v.load()});
 }
