@@ -1,0 +1,435 @@
+[
+  {
+    "en": "flow",
+    "zh": "流動",
+    "aliases": [
+      "flowing",
+      "流淌",
+      "流動效果"
+    ],
+    "observe": "追蹤同一群液體、粒子或帶狀物沿路徑的連續位移；物件與動態分開記錄。"
+  },
+  {
+    "en": "dispersion",
+    "zh": "擴散",
+    "aliases": [
+      "dispersal",
+      "dispersing",
+      "散開",
+      "散佈",
+      "擴散效果"
+    ],
+    "observe": "追蹤元素間距或分布範圍隨時間增加；不能只憑分散的靜態構圖。"
+  },
+  {
+    "en": "airflow",
+    "zh": "氣流",
+    "aliases": [
+      "air flow",
+      "wind flow",
+      "風流",
+      "風場",
+      "風流動"
+    ],
+    "observe": "需要可見流線或物件隨風的連續反應；不能只由布料存在推斷。"
+  },
+  {
+    "en": "impact",
+    "zh": "衝擊",
+    "aliases": [
+      "衝撞",
+      "撞擊",
+      "衝擊效果"
+    ],
+    "observe": "確認接觸前、接觸與接觸後的形變或速度變化。"
+  },
+  {
+    "en": "collision",
+    "zh": "碰撞",
+    "aliases": [
+      "collide",
+      "colliding",
+      "碰撞效果"
+    ],
+    "observe": "兩物件或物件與表面實際接觸；不能把靠近當碰撞。"
+  },
+  {
+    "en": "ripple",
+    "zh": "漣漪",
+    "aliases": [
+      "ripples",
+      "rippling",
+      "波紋",
+      "漣漪擴散"
+    ],
+    "observe": "波峰或波谷在同一表面傳播；靜態圓環與條紋不算。"
+  },
+  {
+    "en": "stacking",
+    "zh": "堆疊",
+    "aliases": [
+      "stack",
+      "pile up",
+      "堆積",
+      "逐層堆疊"
+    ],
+    "observe": "物件逐步落位、疊加或累積；只有層狀外觀不算。"
+  },
+  {
+    "en": "smoke",
+    "zh": "煙霧",
+    "aliases": [
+      "smoke billowing",
+      "煙霧翻湧",
+      "濃煙",
+      "煙流"
+    ],
+    "observe": "確認煙體膨展、捲動或飄散；靜態煙霧只屬主體標籤。"
+  },
+  {
+    "en": "flame",
+    "zh": "火焰",
+    "aliases": [
+      "flames",
+      "fire",
+      "burning",
+      "燃燒",
+      "火苗"
+    ],
+    "observe": "確認火舌跳動、延伸或燃燒變化；橘色發光不能當火焰。"
+  },
+  {
+    "en": "growth",
+    "zh": "生長",
+    "aliases": [
+      "growing",
+      "增生",
+      "長出",
+      "生長動畫"
+    ],
+    "observe": "幾何、枝條或生物結構隨時間延伸或生成；鏡頭拉近不能當生長。"
+  },
+  {
+    "en": "assembly",
+    "zh": "組合",
+    "aliases": [
+      "assemble",
+      "assembling",
+      "組裝",
+      "拼合",
+      "聚合成形"
+    ],
+    "observe": "分離元素移動並拼成整體；不能只由完整成品推斷。"
+  },
+  {
+    "en": "fracture",
+    "zh": "破碎",
+    "aliases": [
+      "fracturing",
+      "shatter",
+      "shattering",
+      "destruction",
+      "碎裂",
+      "破裂",
+      "崩碎"
+    ],
+    "observe": "同一完整物件變成碎片；既有碎片飛行不能證明破碎。"
+  },
+  {
+    "en": "splash",
+    "zh": "飛濺",
+    "aliases": [
+      "splashing",
+      "噴濺",
+      "水花",
+      "液體飛濺"
+    ],
+    "observe": "液面或液團分離出液片、液絲或液滴。"
+  },
+  {
+    "en": "dripping",
+    "zh": "滴落",
+    "aliases": [
+      "drip",
+      "滴下",
+      "液滴落下"
+    ],
+    "observe": "液滴形成並下落；靜態水珠不能算滴落。"
+  },
+  {
+    "en": "overflow",
+    "zh": "溢流",
+    "aliases": [
+      "overflowing",
+      "溢出",
+      "滿溢"
+    ],
+    "observe": "液體越過容器邊界，沿外壁或向外流出。"
+  },
+  {
+    "en": "blooming",
+    "zh": "綻放",
+    "aliases": [
+      "bloom",
+      "開花",
+      "花瓣展開"
+    ],
+    "observe": "同一朵花的花瓣逐步張開或舒展。"
+  },
+  {
+    "en": "wobble",
+    "zh": "晃動",
+    "aliases": [
+      "wobbling",
+      "jiggle",
+      "jiggling",
+      "搖晃",
+      "彈性晃動"
+    ],
+    "observe": "物體反覆偏移或彈性變形；與鏡頭搖晃區分。"
+  },
+  {
+    "en": "bounce",
+    "zh": "彈跳",
+    "aliases": [
+      "bouncing",
+      "回彈",
+      "反彈"
+    ],
+    "observe": "接觸或壓縮後回復並反向運動。"
+  },
+  {
+    "en": "twisting",
+    "zh": "扭轉",
+    "aliases": [
+      "twist",
+      "扭動",
+      "扭曲"
+    ],
+    "observe": "物體不同截面產生相對旋轉；靜態螺旋不算。"
+  },
+  {
+    "en": "wrapping",
+    "zh": "纏繞",
+    "aliases": [
+      "wrap",
+      "包覆",
+      "環繞包覆"
+    ],
+    "observe": "帶狀物或表面逐步繞住目標。"
+  },
+  {
+    "en": "soft body deformation",
+    "zh": "軟體形變",
+    "aliases": [
+      "柔體變形",
+      "彈性形變",
+      "軟體變形"
+    ],
+    "observe": "表面輪廓隨時間彎曲、拉伸或壓縮；不能據此推定模擬軟體。"
+  },
+  {
+    "en": "swirling",
+    "zh": "旋流",
+    "aliases": [
+      "swirl",
+      "渦流",
+      "旋渦流動"
+    ],
+    "observe": "多個元素沿旋轉路徑移動；靜態螺旋不足。"
+  },
+  {
+    "en": "fluttering",
+    "zh": "飄動",
+    "aliases": [
+      "flutter",
+      "飄揚",
+      "隨風擺動"
+    ],
+    "observe": "薄片、布或葉片持續擺動；未見風流線時不直接確認氣流。"
+  },
+  {
+    "en": "disassembly",
+    "zh": "拆解",
+    "aliases": [
+      "disassemble",
+      "拆散",
+      "分解動畫"
+    ],
+    "observe": "完整結構的零件逐步分離；與破碎區分。"
+  },
+  {
+    "en": "rotation",
+    "zh": "旋轉",
+    "aliases": [
+      "rotate",
+      "rotating",
+      "spin",
+      "spinning",
+      "轉動",
+      "自轉"
+    ],
+    "observe": "追蹤物件相對固定參照物的角度改變，排除單純運鏡。"
+  },
+  {
+    "en": "domino fall",
+    "zh": "骨牌連鎖倒下",
+    "aliases": [
+      "domino",
+      "domino effect",
+      "toppling",
+      "連鎖倒塌",
+      "骨牌效應"
+    ],
+    "observe": "確認相鄰直立物件依序接觸倒下。"
+  },
+  {
+    "en": "cloud dissipation",
+    "zh": "雲霧消散",
+    "aliases": [
+      "dissipating cloud",
+      "fog dispersal",
+      "霧散",
+      "消霧",
+      "雲霧散去"
+    ],
+    "observe": "確認雲霧逐步變薄並露出被遮住的背景。"
+  },
+  {
+    "en": "stretch",
+    "zh": "拉伸",
+    "aliases": [
+      "stretching",
+      "拉長",
+      "拉絲",
+      "stretching strands"
+    ],
+    "observe": "確認同一表面或絲狀連結長度隨時間增加。"
+  },
+  {
+    "en": "peeling",
+    "zh": "剝離",
+    "aliases": [
+      "peel",
+      "peeling away",
+      "剝落",
+      "揭膜",
+      "表皮剝離"
+    ],
+    "observe": "表層逐步離開原表面，露出下層。"
+  },
+  {
+    "en": "running",
+    "zh": "奔跑",
+    "aliases": [
+      "run",
+      "跑步",
+      "奔馳"
+    ],
+    "observe": "角色交替跨腿並擺臂的連續跑動。"
+  },
+  {
+    "en": "walking",
+    "zh": "行走",
+    "aliases": [
+      "walk",
+      "步行",
+      "走路",
+      "踏步"
+    ],
+    "observe": "角色雙腿交替踏步。"
+  },
+  {
+    "en": "pulsing",
+    "zh": "脈動",
+    "aliases": [
+      "pulse",
+      "pulsating",
+      "光環擴散",
+      "訊號擴散",
+      "signal rings",
+      "pulse rings",
+      "脈衝"
+    ],
+    "observe": "確認光環半徑或亮度反覆改變；不等同水面漣漪。"
+  },
+  {
+    "en": "counting",
+    "zh": "數字計數",
+    "aliases": [
+      "counter animation",
+      "count up",
+      "數字遞增",
+      "數字跳動"
+    ],
+    "observe": "畫面數值隨時間遞增或遞減。"
+  },
+  {
+    "en": "folding",
+    "zh": "折疊",
+    "aliases": [
+      "fold",
+      "foldable animation",
+      "摺疊",
+      "折起",
+      "收折"
+    ],
+    "observe": "同一物件沿鉸鏈或摺痕折起，與物件整體旋轉區分。"
+  },
+  {
+    "en": "flying",
+    "zh": "飛行",
+    "aliases": [
+      "fly",
+      "飛越",
+      "掠過"
+    ],
+    "observe": "物件相對場景持續穿越空間。"
+  },
+  {
+    "en": "debris shedding",
+    "zh": "碎屑剝落",
+    "aliases": [
+      "shedding debris",
+      "碎片散落",
+      "碎屑拖尾",
+      "debris trail"
+    ],
+    "observe": "碎屑由主體脫離並向外或向後移動。"
+  },
+  {
+    "en": "color cycling",
+    "zh": "色彩循環",
+    "aliases": [
+      "colour cycling",
+      "RGB cycling",
+      "RGB變色",
+      "循環變色"
+    ],
+    "observe": "同一區域的色彩連續改變，排除不同鏡頭切換。"
+  },
+  {
+    "en": "light chase",
+    "zh": "追逐燈光",
+    "aliases": [
+      "chasing lights",
+      "traveling light",
+      "流光",
+      "跑馬燈",
+      "光點沿線流動"
+    ],
+    "observe": "亮段沿固定路徑逐段移動，不表示線材本身生長。"
+  },
+  {
+    "en": "embroidery",
+    "zh": "刺繡成形",
+    "aliases": [
+      "stitching",
+      "embroidering",
+      "縫製",
+      "繡線生成",
+      "刺繡動畫"
+    ],
+    "observe": "線段逐步增加、填滿圖形，靜態繡線不能證明此動態。"
+  }
+]
