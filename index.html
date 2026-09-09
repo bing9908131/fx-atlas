@@ -71,7 +71,7 @@ const creatorAliases={studiotendril:['Tendril','Studio Tendril'],panoplycreative
 function credits(i){return [i.creator,i.publisher,i.studio,i.production_company,...(i.collaborators||[]),...String(i.creator||'').split(' · ').flatMap(name=>creatorAliases[name]||[]),...(i.credit_aliases||[])].filter(Boolean)}
 function creditKey(s){return String(s).normalize('NFKC').toLowerCase().replace(/[\s@._·-]+/g,'')}
 function hay(i){return [i.title,i.project,i.subtitle,...credits(i),i.description,i.collection,i.caption_text,...i.tags.flatMap(t=>[t.en,t.zh]),...i.related.flatMap(t=>[t.en,t.zh]),...i.caption].join(' ').toLowerCase()}
-function containsTerm(text,term){if(!/^[a-z0-9 -]+$/i.test(term))return text.includes(term);let start=0;while((start=text.indexOf(term,start))!==-1){const before=text[start-1]||'',after=text[start+term.length]||'';if(!/[a-z0-9]/i.test(before)&&!/[a-z0-9]/i.test(after))return true;start++;}return false;}
+function containsTerm(text,term){return text.includes(term)}
 const phraseTerms=new Set(synonyms.flat().filter(w=>w.includes(' ')));
 const queryCache=new Map();
 function queryParts(q){
