@@ -1,0 +1,4592 @@
+[
+  {
+    "id": "cnc-DT96OBWDHHD-1",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 切削與木屑飛散動畫",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/620989054_18562913944012042_3478203770342121556_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=MzgxODQ2Mzg2NDEzNjI5NjIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=ebiqQ1qQzN8Q7kNvwH0BaBC&_nc_oc=Adp9sadmeG93fMtAc3jWbtAThrHYoGS6_8AWuY2as0hxepGhBAPmQprdg7VIlIyUkNI&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=pZFxButUI_2hDTarq4vbeQ&_nc_ss=7b689&oh=00_AQI4hMCGo1BoaYllhp-fo8edwTtQHMTXImyAyARGUbj_BA&oe=6AA6C00D",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=1",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 6,
+    "type": "video",
+    "published_at": "2026-01-26",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "切削與木屑飛散動畫；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：切削與木屑飛散動畫"
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "chip scattering",
+        "zh": "切屑飛散",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "material removal",
+        "zh": "材料移除",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ],
+    "video_url": "https://instagram.ftpe8-2.fna.fbcdn.net/o1/v/t2/f2/m367/AQNYXv6jNS233KIggZfhNRWlNglIYUt1ZiYHLIk3zF6iokVnx04ucKtXGpxMo97br_H0xO2YNrC1pL8imvv1PHmnEQQJv2AdeMt_Lic.mp4?_nc_cat=103&_nc_oc=Adoc-pIjWfQ5YGboU7tzkBFeTRnT8x-ZPN7tixoRS5Dhme37JGN2BihUyKNQD_dRHWU&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_ohc=fBfYiM2ephUQ7kNvwEF0JAP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo3NTkyMzUxODA1NTg1NjMsImFzc2V0X2FnZV9kYXlzIjoyMjUsInZpX3VzZWNhc2VfaWQiOjEwMTQ2LCJkdXJhdGlvbl9zIjo5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=2e67bc5182ec1cda&_nc_vs=HBksFQIYQGlnX2VwaGVtZXJhbC84MzQyRTgzRTVDNjBCNkZDRTU4RjIyNEZBMkNGRDlCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MzNDQzREFEQ0I2QjJCMUNCNDVEOEIyODNCNUQ1MEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbG4-fzpqHZAhUCKAJDMywXQCIAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAde4HZcSeAQA&_nc_gid=pZFxButUI_2hDTarq4vbeQ&_nc_ss=7b689&_nc_zt=28&oh=00_AQLhDwDyY8cC1WIia-v8_FXDtBI6shyxOGH64ENLUO6WDA&oe=6AA6DC0C"
+  },
+  {
+    "id": "cnc-DT96OBWDHHD-2",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 側面刀具與木屑",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/621659768_18562913881012042_7796682334372315956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzgxODQ2NDEwMTI0OTM1MzI5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=i-LqwjrPRGIQ7kNvwEIqk6i&_nc_oc=Adp6jGF8TBJRSzya7d_F0hVq_7jMvhQbXuXAMwKIrS9GxLAxypSlaGpLqsYiFf8fRxQ&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=pZFxButUI_2hDTarq4vbeQ&_nc_ss=7b689&oh=00_AQIk4P3IDl-dTJa6ZoRa59otRc2WTpdg2ulbyq9Afm1cjw&oe=6AA6F5F9",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=2",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 2,
+    "media_index": 2,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-01-26",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "側面刀具與木屑；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：側面刀具與木屑"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-DT96OBWDHHD-3",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 夾板邊緣切削特寫",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/622492836_18562913875012042_1673698066999022930_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzgxODQ2NDEwMTEyMzUxMDE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=61-4fyhhwyUQ7kNvwFK9VoW&_nc_oc=AdpgO8OkmKFfaFmj-AoQNLIjx6i_KbYOw6bz4w6FYKb1Hf6Mk5AdzYmH6Hlxs8uNe_4&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=cismPUDNFvpKgtq4YyFpJw&_nc_ss=7b689&oh=00_AQKlne8x9kJNCjLEHsKKVZiqDda9q6yraolliR05FLb-uA&oe=6AA6E726",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=3",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 3,
+    "media_index": 3,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-01-26",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "夾板邊緣切削特寫；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：夾板邊緣切削特寫"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-DT96OBWDHHD-4",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 刀具旋轉模糊特寫",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/622261874_18562913905012042_2373831305686597436_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgxODQ2NDEwMTI3NDUzMTkyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LjEgn9nQpfgQ7kNvwG08hns&_nc_oc=AdrV-1LcJFY5tw6uLVMGQBvmKumdo39ZsVb_eKP5vSQCgtFphqShwsrbawYoO5-ziPQ&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=cismPUDNFvpKgtq4YyFpJw&_nc_ss=7b689&oh=00_AQJuIRLSrWjPDzzhyKHLbZwaTx25WRC7cSS0qMgcDw2QPw&oe=6AA6DA5E",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=4",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 4,
+    "media_index": 4,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-01-26",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "刀具旋轉模糊特寫；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具旋轉模糊特寫"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-DT96OBWDHHD-5",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 俯視長圓加工槽",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/622651376_18562913878012042_8335988617682415532_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzgxODQ2NDEwMTI2NjEzNTkyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OdqHFnnlvf0Q7kNvwGrYiop&_nc_oc=AdqtjtVCCyfJLDWiVkBFevA9OmOCY_s31g0OgC9KUKb3P6flpca5n5S_uH8JcyBU41Y&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=cismPUDNFvpKgtq4YyFpJw&_nc_ss=7b689&oh=00_AQJXBmofvkjeAUs6JTTl3ii35tFRV5IrFohoeDYNYATAWg&oe=6AA6C14B",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=5",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 5,
+    "media_index": 5,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-01-26",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "俯視長圓加工槽；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色、長圓槽。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "slot",
+        "zh": "長圓槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：俯視長圓加工槽"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-DT96OBWDHHD-6",
+    "post_id": "DT96OBWDHHD",
+    "title": "木材 CNC 切削 · 刀具與木屑近景",
+    "subtitle": "Vinicius Araújo",
+    "project": "木材 CNC 切削",
+    "creator": "va_viniciusaraujo",
+    "publisher": "va_viniciusaraujo",
+    "credit_aliases": [
+      "Vinicius Araújo",
+      "va_viniciusaraujo"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/622066073_18562913899012042_527003648698228700_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzgxODQ2NDEwMTEzMTkzMDU1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rkTnQIVNBswQ7kNvwHciyki&_nc_oc=AdrHrWHP9d-WJCrY7WQ0TWl1UdgjdAb7niScsv-8vEqr3557DgYeOQ21PVjFB8dNIe8&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=cismPUDNFvpKgtq4YyFpJw&_nc_ss=7b689&oh=00_AQIjkdoZEI4nd6JPxaAUdhYUgpLEIv9rsfScbiYx4umygA&oe=6AA6EB2D",
+    "url": "https://www.instagram.com/p/DT96OBWDHHD/?img_index=6",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 6,
+    "media_index": 6,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-01-26",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "刀具與木屑近景；銑刀、木屑、木板、木材、夾板、金屬、木紋、棕色、米色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "wood chips",
+        "zh": "木屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "plywood",
+        "zh": "夾板",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀具與木屑近景"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-C5GI_u0tDEa-1",
+    "post_id": "C5GI_u0tDEa",
+    "title": "CNC Milling Effect",
+    "subtitle": "Lukas Thorup",
+    "project": "CNC Milling Effect",
+    "creator": "lukas.thorup",
+    "publisher": "lukas.thorup",
+    "credit_aliases": [
+      "Lukas Thorup",
+      "lukas.thorup"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/502128965_696128069820403_2754188778075581403_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzMzNDM5MjEzODA4OTkwMjM2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1x2C5jH-Kf4Q7kNvwEGe9Qr&_nc_oc=Adqh_ZTIuVXZ3uiBP7Eycghk_FleupJPQSU8povNB-x8-9uqWm9xCJ6ZpzFR-ibFx0A&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=oHLmDPps6WF9KvO7PM5B9w&_nc_ss=7b689&oh=00_AQJ3VZLvZ0bs7hnZELj3k_KA3opqpNna_NOM2HntIDknhA&oe=6AA6EF44",
+    "url": "https://www.instagram.com/p/C5GI_u0tDEa/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2024-03-29",
+    "ratio": "0.5627782724844167 / 1",
+    "duration": "",
+    "description": "CNC Milling Effect；金屬塊、凹槽、金屬、粗糙表面、加工刀痕、銀色、黑色、橙色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "metal block",
+        "zh": "金屬塊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "groove",
+        "zh": "凹槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "tool marks",
+        "zh": "加工刀痕",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "orange",
+        "zh": "橙色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Milling Effect"
+      },
+      {
+        "en": "milling",
+        "zh": "銑削",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "material removal",
+        "zh": "材料移除",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Redshift",
+        "zh": "Redshift",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Redshift"
+    ]
+  },
+  {
+    "id": "cnc-CvoZDYJqs6y-1",
+    "post_id": "CvoZDYJqs6y",
+    "title": "CNC Experiment 003",
+    "subtitle": "Albin Merle",
+    "project": "CNC Experiment 003",
+    "creator": "albinmerle",
+    "publisher": "albinmerle",
+    "credit_aliases": [
+      "Albin Merle",
+      "albinmerle"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/491455872_1193834475274806_4854474314353565791_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzE2Mzg4ODkyMTQ4MDk3NDAwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=fcnJVg1ctqMQ7kNvwHnH5nb&_nc_oc=AdpiTjSUfP7HnaWAPPtwASFN1aRGTR7BI9nsOnKmQtBcqOnidsbiuRW_pdJHLvCAd94&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=ejbclvLnMmvPhqfM3zie_A&_nc_ss=7b689&oh=00_AQK3i5donATzYAMkEx5eQMRDaCfUl8XlgrMlbGdgMrfAfA&oe=6AA6DD3E",
+    "url": "https://www.instagram.com/p/CvoZDYJqs6y/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2023-08-07",
+    "ratio": "0.5627782724844167 / 1",
+    "duration": "",
+    "description": "CNC Experiment 003；環形凹槽、金屬圓柱、金屬、拉絲金屬、加工刀痕、銀色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "circular groove",
+        "zh": "環形凹槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "metal cylinder",
+        "zh": "金屬圓柱",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "tool marks",
+        "zh": "加工刀痕",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC Experiment 003"
+      },
+      {
+        "en": "material removal",
+        "zh": "材料移除",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Blender",
+        "zh": "Blender",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Cycles",
+        "zh": "Cycles",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Blender",
+      "Cycles"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-1",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 雙加工頭與雕刻木板",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/653052951_18145129378479495_3917143850928866969_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=107&ig_cache_key=Mjk1NjA4MjI4MDQxMDY1MTA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MwrpdxqKWDkQ7kNvwFueQKZ&_nc_oc=AdrYfM9kAxojQyDv7iXfXVevmvTXrwPrmtxG3sCOCMKbtJ7Ka4mtNzU3kCzMvDVOEXc&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQLWduJ_-vfMoGs7bolRLO6EMSfaRt3IvIqxwb70wfc5tQ&oe=6AA6D276",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=1",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "雙加工頭與雕刻木板；木板、銑床、木材、木紋、金屬、棕色、米色、銀色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：雙加工頭與雕刻木板"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-2",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 木工銑削動畫",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.71878-15/623462481_1617596039486770_4576472895028191665_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mjk1NjA4MTA0MzM5ODA3OTQ0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ab4FmPujnCgQ7kNvwGfBFbr&_nc_oc=AdoIpCqBmSFRcE1oGVQ-yiMTzePtPwmp4I4-cXSAgidEkeB7zM4-R5qbAk2wSBNAVyo&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQL61OhSfZ05orOJ5OdtXUhpEJ0c8P6s3cqe7_iwms2Ukg&oe=6AA6C365",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=2",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 2,
+    "media_index": 2,
+    "total": 8,
+    "type": "video",
+    "published_at": "2022-10-24",
+    "ratio": "0.8008921852774642 / 1",
+    "duration": "",
+    "description": "木工銑削動畫；木板、銑床、木材、木紋、金屬、棕色、米色、銀色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木工銑削動畫"
+      },
+      {
+        "en": "milling",
+        "zh": "銑削",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ],
+    "video_url": "https://instagram.ftpe8-4.fna.fbcdn.net/o1/v/t16/f2/m69/AQPZWvnNVh0F8JRZCOG-YDbFhIM0pNKFtRF1Dm1hyeeG7LqxuynMzIwO0EzH6WH4LEBPkXPSqlEXPMAbD0z0juka.mp4?strext=1&_nc_cat=102&_nc_oc=AdoWE1B-g3flWAtesM6eIfx86CkJ-KNDZbyPLWLiramz0ODt0GhncF7NOst960JbCPI&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-4.fna.fbcdn.net&_nc_ohc=WWUQXGw57oQQ7kNvwFnIE-q&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0FST1VTRUxfSVRFTS5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjo4NTI3NzM4NjI2MzU2NjIsImFzc2V0X2FnZV9kYXlzIjoxNDE1LCJ2aV91c2VjYXNlX2lkIjoxMDEwNCwiZHVyYXRpb25fcyI6MjAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f0ac7e6e3a42bc01&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HQ2JCcEJKb2dWZTZVWk1CQUhYZ0d6UUNMVHhlYmtZTEFBQUYVAALIARIAFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSEJ0b2hMbEtSSUswdk1UQU5EN0o1V19qYTFGYmtZTEFBQUYVAgLIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAmnOK_svzlgwMVAigCQzMsF0A0CHKwIMScGBJkYXNoX2Jhc2VsaW5lXzFfdjERAHXuB2XwnQEA&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&_nc_zt=28&oh=00_AQKJ-fDNxCoWjEPilG-NWb582P6G1RXhUUj6q7qJ2buSqA&oe=6AA6DF3E"
+  },
+  {
+    "id": "cnc-CkGHS1et34W-3",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 笑臉雕刻與機架",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/652602735_18099260713939347_3729464760600343389_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mjk1NjA4MjI4MDU3ODU4MDM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tujyWo4Nl9gQ7kNvwFTORdu&_nc_oc=AdqcLCHo3MjnKZSz2jabkyHmweUseH5snChFZvGHtxaJWqsBw05-m7TSkKMwsAF4MKU&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQJ5-PF_ZZGgRz4TP8DaZzswO48qRqHmmvEZePEV3hk0-A&oe=6AA6CE2C",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=3",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 3,
+    "media_index": 3,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "笑臉雕刻與機架；木板、銑床、木材、木紋、金屬、棕色、米色、銀色、笑臉。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "smiley face",
+        "zh": "笑臉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻與機架"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-4",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 木紋階梯曲面微距",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/669823164_18582667987025167_5395796408801406169_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=106&ig_cache_key=Mjk1NjA4MjI4MDQxMDY2ODkzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ArMVUS3fWW0Q7kNvwHM4Jtm&_nc_oc=AdoVwKWTfXvt9_Zg7313S1SS16Z40hGAlbaSZOx17I5aKQsoo7zDatRPhqlCZV2U_BE&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQIOiMb8p5FVzP-okl1sXKY1Bl9xz4Nkv5Eda-bQyyN4xA&oe=6AA6F184",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=4",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 4,
+    "media_index": 4,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "木紋階梯曲面微距；木材、木紋、棕色、米色、分層表面、曲面。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "layered surface",
+        "zh": "分層表面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "curved surface",
+        "zh": "曲面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：木紋階梯曲面微距"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-5",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 刀头與凹槽特寫",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/654222364_18099758941764488_8808563427797549517_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mjk1NjA4MjI4MDQwMjI4MzAxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OaAewyo2QXYQ7kNvwG7Cdk5&_nc_oc=Ado6_Xekrik0FuNohwuTOZfVklVD23ORpv53aQzEMdVlTwdjrby8oAoI1Q4wgLdf-hI&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQJM_vy5Yx7bXbVJ77nhdMPRLVFDpwI7CY1wIdEkA8eYGA&oe=6AA6E0AB",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=5",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 5,
+    "media_index": 5,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "刀头與凹槽特寫；木板、銑床、木材、木紋、金屬、棕色、米色、銀色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀头與凹槽特寫"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-6",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 嘴形雕刻俯視",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/650409103_18096535042958872_3195350895081422953_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=101&ig_cache_key=Mjk1NjA4MjI4MDM5Mzg3MzI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0cV4A_VTJUUQ7kNvwF9Ksmo&_nc_oc=AdrYSNzw6MNPncERGp85hHpjafChqOVhKvlXWbYq9fkHeionYq7cmM5yxJ67SndK4Ng&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQIHOUfq1GVipp0VeArHZQmfIqmPHOtD9hipH0iNw-ZQyQ&oe=6AA6D437",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=6",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 6,
+    "media_index": 6,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "嘴形雕刻俯視；木板、銑床、木材、木紋、金屬、棕色、米色、銀色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：嘴形雕刻俯視"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-7",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 笑臉雕刻俯視",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/655137224_18106744690893360_173863089817189945_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=109&ig_cache_key=Mjk1NjA4MjI4MDM5MzkxOTQzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wFT9u2VMsLYQ7kNvwG4INrL&_nc_oc=Adqk6Cfir6DT1bdlvk_ExewHOhvO4J0lxKHFbMyI2-GJeX7U9v6pWlstedG7rVcNaeo&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQILWFeGpZuzebTx1NyYK6ZHrQig8ng8Mq9q7IyRkCBg1A&oe=6AA6F15C",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=7",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 7,
+    "media_index": 7,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "笑臉雕刻俯視；木板、銑床、木材、木紋、金屬、棕色、米色、銀色、笑臉。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "smiley face",
+        "zh": "笑臉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉雕刻俯視"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-CkGHS1et34W-8",
+    "post_id": "CkGHS1et34W",
+    "title": "木工 CNC 雕刻探索 · 笑臉與金屬機架側視",
+    "subtitle": "T. Tallmann",
+    "project": "木工 CNC 雕刻探索",
+    "creator": "t.tallmann",
+    "publisher": "t.tallmann",
+    "credit_aliases": [
+      "T. Tallmann",
+      "t.tallmann"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/653458284_18092820280866706_6503581217748198771_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=104&ig_cache_key=Mjk1NjA4MjI4MDQwMjQyNTA2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gg_DllIkrAQQ7kNvwFopDtj&_nc_oc=AdrBLNJ1aEQ-nKfBgO_JWNYYQKIhoJ1CGJz1jqeeNPeljm5Jclwyi7tRZvO95VuUkC8&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zRuxcaY_YEef6CZoaxCELA&_nc_ss=7b689&oh=00_AQLq2gkbahsakL0OlGzsVU4O_JwI8jbEPECT3qIBlLetXg&oe=6AA6F075",
+    "url": "https://www.instagram.com/p/CkGHS1et34W/?img_index=8",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 8,
+    "media_index": 8,
+    "total": 8,
+    "type": "image",
+    "published_at": "2022-10-24",
+    "ratio": "0.8000087993736489 / 1",
+    "duration": "",
+    "description": "笑臉與金屬機架側視；木板、銑床、木材、木紋、金屬、棕色、米色、銀色、笑臉。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "wood board",
+        "zh": "木板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "milling machine",
+        "zh": "銑床",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "smiley face",
+        "zh": "笑臉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：笑臉與金屬機架側視"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D",
+      "Houdini"
+    ]
+  },
+  {
+    "id": "cnc-Bzm_Ut0HGTP-1",
+    "post_id": "Bzm_Ut0HGTP",
+    "title": "CNC 02",
+    "subtitle": "Rich Nosworthy",
+    "project": "CNC 02",
+    "creator": "richnosworthy",
+    "publisher": "richnosworthy",
+    "credit_aliases": [
+      "Rich Nosworthy",
+      "richnosworthy"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/629802632_18420447769136610_4210488942082163652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MjA4MjYzMDM3ODIxNzgyNTQ4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DqiqsT6AA2YQ7kNvwHG345Z&_nc_oc=AdrpIplQu5SGf6TgxCztKIaGOgmIfLF-2VjVr-e-wRiByyAtNfz6mXXE3QSRrTb0mg0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=lQJ9CqgKtRIJQfZ5qKoUzg&_nc_ss=7b689&oh=00_AQJUEpkIOhR06MZdSZrr5tjnieobGJHjV8sVi5FxSvsLSA&oe=6AA6F0BE",
+    "url": "https://www.instagram.com/p/Bzm_Ut0HGTP/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "image",
+    "published_at": "2019-07-07",
+    "ratio": "1.0 / 1",
+    "duration": "",
+    "description": "CNC 02；雕刻塊體、幾何造型、木材、木紋、藍色、橙色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "carved block",
+        "zh": "雕刻塊體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "geometric shape",
+        "zh": "幾何造型",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "wood grain",
+        "zh": "木紋",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "orange",
+        "zh": "橙色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 02"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "Redshift",
+        "zh": "Redshift",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini",
+      "Redshift"
+    ]
+  },
+  {
+    "id": "cnc-DTGM18FEVqs-1",
+    "post_id": "DTGM18FEVqs",
+    "title": "G-code 雷射雕刻模擬",
+    "subtitle": "Emils VFX",
+    "project": "G-code 雷射雕刻模擬",
+    "creator": "emilsvfx",
+    "publisher": "emilsvfx",
+    "credit_aliases": [
+      "Emils VFX",
+      "emilsvfx"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/610878067_18553960357004179_2506393474547770286_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=MzgwMjc4MzQxODU2MDg5NTY2MDE4NTUzOTYwMzU0MDA0MTc5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=BQvW_v0JDqcQ7kNvwFjOGDf&_nc_oc=AdqNdQsqrGneTATRsYpQ-rD0Gu3Pm-tlKMBPB2mnWATzRKKL0E_L8_4Fe88NS_vaoqE&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=wYVhNd4k7crVzCu_-ebfag&_nc_ss=7b689&oh=00_AQJS0JdCpWwyWyfViuLe7gOkJlyGmU3HMBR0-JitjlFzYg&oe=6AA6D843",
+    "url": "https://www.instagram.com/p/DTGM18FEVqs/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2026-01-05",
+    "ratio": "1.0 / 1",
+    "duration": "",
+    "description": "G-code 雷射雕刻模擬；雷射雕刻機、線性滑軌、圖案、金屬、灰色、紅色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "laser engraver",
+        "zh": "雷射雕刻機",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "linear rail",
+        "zh": "線性滑軌",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "pattern",
+        "zh": "圖案",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：G-code 雷射雕刻模擬"
+      },
+      {
+        "en": "laser engraving",
+        "zh": "雷射雕刻",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "path following",
+        "zh": "沿路徑移動",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      },
+      {
+        "en": "G-code",
+        "zh": "G-code",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini",
+      "G-code"
+    ],
+    "video_url": "https://instagram.ftpe8-2.fna.fbcdn.net/o1/v/t2/f2/m86/AQN7bGsmOioA7k6ibfSajZ1cqyhHoA5AeBd7AZlFqP1SxLzqsNroquBPLuYMSQqPsu7vAjf2mRhGan0tVgDrFR0.mp4?_nc_cat=103&_nc_oc=Adrz2w9GBn_ufspzK5NJY6oZNZHBTEYuNPNfex8_0B7Szo34wzqMbLnOekKhusK909M&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-2.fna.fbcdn.net&_nc_ohc=jjX03C4u93AQ7kNvwFwxfr9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6MTIwMzU3MjUyNzk3Nzk3NywiYXNzZXRfYWdlX2RheXMiOjI0NywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjEwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6a0cf7a8792d5c12&_nc_vs=HBkcFQIYRmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMzU4MjQ4OTE1NTgwMDg5XzMwNDk1Mjk3OTY1Mjg4NTYwNS5tcDQVAALIARIAKAAYABsCiAd1c2Vfb2lsATEScHJvZ3Jlc3NpdmVfcmVjaXBlATEVAAAm8tfuj5KpowQVAigCQzMsF0Ak1P3ztkWiGBJkYXNoX2Jhc2VsaW5lXzNfdjERAHX-B2XmnQEA&_nc_gid=wYVhNd4k7crVzCu_-ebfag&_nc_ss=7b689&_nc_zt=28&oh=00_AQIibHYrkHwXDQIMvuQtvwPZ-dZMK8Q9Q474RXwSQHio-Q&oe=6AA2D141"
+  },
+  {
+    "id": "cnc-DUlJbGRCUHj-1",
+    "post_id": "DUlJbGRCUHj",
+    "title": "Precision Milling Simulation",
+    "subtitle": "Rohit Bhon",
+    "project": "Precision Milling Simulation",
+    "creator": "rohitbhon.tv",
+    "publisher": "rohitbhon.tv",
+    "credit_aliases": [
+      "Rohit Bhon",
+      "rohitbhon.tv"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/627725980_18362012557165599_1631719164626977763_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=MzgyOTUwODUwMjcyMTIxNjk5NTE4MzYyMDEyNTU0MTY1NTk5.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjU0MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=OapVA6NQhpgQ7kNvwFyLeqw&_nc_oc=AdpP-ufM3y8t-puMLxCxOBKVIzQBcuP03yo0V1oQ64K6qI4_xodFSeSAkkBtSnz5EZs&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=O5ahw1CmEpmF-cM-CVzmPQ&_nc_ss=7b689&oh=00_AQKxKNFhpdumu2c581-xYoF3VPVY7cIs53yQHppuFsr46g&oe=6AA6BFB2",
+    "url": "https://www.instagram.com/p/DUlJbGRCUHj/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2026-02-10",
+    "ratio": "0.5627782724844167 / 1",
+    "duration": "",
+    "description": "Precision Milling Simulation；刀具路徑、實體幾何、素模渲染、灰色、白色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀具路徑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：Precision Milling Simulation"
+      },
+      {
+        "en": "solid geometry",
+        "zh": "實體幾何",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：Precision Milling Simulation"
+      },
+      {
+        "en": "clay render",
+        "zh": "素模渲染",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：Precision Milling Simulation"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：Precision Milling Simulation"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：Precision Milling Simulation"
+      },
+      {
+        "en": "material removal",
+        "zh": "材料移除",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "toolpath",
+        "zh": "加工路徑",
+        "category": "motion",
+        "source": "caption",
+        "evidence": "原作者貼文描述加工效果；動態尚未逐秒核對。"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Houdini"
+    ],
+    "video_url": "https://instagram.ftpe8-3.fna.fbcdn.net/o1/v/t16/f2/m69/AQOwOQ5iQqFDMFWXFeJqyHPEJFHgnTWMhV5jlygo5NYTntHpLm9bTggsY0MmOskoD3FUqZlCoWMhi2XTLMfRRe1Y.mp4?strext=1&_nc_cat=106&_nc_oc=Ado_O-goXFd89VDQ0TDYbmtgUqcOhZHkZOkbNHr594yrXHE9nBfI3nNMuChX2KYjbtM&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_ohc=2RMABkTmZDQQ7kNvwENq7Aw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5NDAzOTk3MzUxMTkxNTQsImFzc2V0X2FnZV9kYXlzIjoyMTAsInZpX3VzZWNhc2VfaWQiOjEwMDk5LCJkdXJhdGlvbl9zIjoxNCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=3f8f153b7a45d219&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HRDdlaXlXeE8wc2VrRlVEQUVpOGR2ZXF3cHdNYnNwVEFRQUYVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzVCNEMxMkIyREFCOTFGMUJDQzE4RUY4NUFEQjk4NjhEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbk9LiV2qzePxUCKAJDMywXQCwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=O5ahw1CmEpmF-cM-CVzmPQ&_nc_ss=7b689&_nc_zt=28&oh=00_AQJ9CzBrSGUNIjPFqDV6sZOFBTBg6bF0yvUJ5COHTYotwQ&oe=6AA6C2E6"
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-1",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 螺旋刀刃全貌",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/702223758_18117521722750108_6655202336503479778_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwMDU3MDMxNTI0NjI3NzQ0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ekw1HNrXvQIQ7kNvwEkqTqF&_nc_oc=AdpRvvBdEiPOXcejVRHX_VRYVt5jI1X9NwRGtUq4ELjYiGrb3KNPNW0PR75Wg2CYZr0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQKQdd4jTAaotzSg8KXrcuZWLzOpcJF6TUspsmMq46v4EA&oe=6AA6D913",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=1",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "螺旋刀刃全貌；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、黑色、銀色、白色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：螺旋刀刃全貌"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-2",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 刀刃與刀柄特寫",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/702306741_18117521731750108_6054892658490072058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkwMDU3MDMxODM1ODU3NzE2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BnG7MIiH8okQ7kNvwHEGk82&_nc_oc=AdrETEE9sbTzO1kp8o0QUy4uUDxoTK0zkQ2upMC8ZxZsRGw6MF8oCnGaW_0p2_7hJKM&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQJABx1C3R34RD8F7sNTgPVinr1zJ2Do7Gwn9995i2ZijA&oe=6AA6DF43",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=2",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 2,
+    "media_index": 2,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "刀刃與刀柄特寫；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、黑色、銀色、白色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：刀刃與刀柄特寫"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-3",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 紅色光影刀具",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/702209388_18117521749750108_3105245874156984467_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkwMDU3MDMyMDYyMzU5MTA2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nw4QPzNgkYcQ7kNvwFLfTvh&_nc_oc=AdpgHsDhEURbPl-3HiDXXXt5__hOplZLg2DKX6Tt3XtTPrzr0kfTRWvECayaWidHB2k&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQLIMzDJLTM7GRKKpWBGelhf4OpRPyYoRAL01ppOtTrG_A&oe=6AA6EBE8",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=3",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 3,
+    "media_index": 3,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "紅色光影刀具；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、紅色、黑色、白色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅色光影刀具"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-4",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 紅底黑色刀具",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/703111645_18117521758750108_6414779177438116874_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzkwMDU3MDMyMTkwNjkwODM0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jF3t7CZ8WtwQ7kNvwHs-wZJ&_nc_oc=AdqoQmDckyUuDQv3XRknZI9vHl62ucmQO33AAqpNb3P-c7t2AS9y5jI4fHig3OoXX08&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQKnWfvPXeP1hTCnDDJnF0acdVMdeLdYiufbx74bnLWOjA&oe=6AA6E6FD",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=4",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 4,
+    "media_index": 4,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "紅底黑色刀具；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、紅色、黑色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：紅底黑色刀具"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-5",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 白底銀色刀具",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/700944872_18117521740750108_4522435565448474065_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkwMDU3MDMyMzI2NTk2MDY3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MPdKcwPUZtUQ7kNvwE9OXFA&_nc_oc=AdoDKHtbwDA5QV_T2Labw-aN-tTO5eWaQx0bcTNbZH4ipov1FAZ2xctxiQBMHjspZXM&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQKdyUDDMUwp9THYV4eF0fXeNZDWnqthLeOf51VKSLLx2Q&oe=6AA6C620",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=5",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 5,
+    "media_index": 5,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "白底銀色刀具；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、黑色、銀色、白色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：白底銀色刀具"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DYhnouPjFLB-6",
+    "post_id": "DYhnouPjFLB",
+    "title": "Cerin 刀具 R&D · 多刃刀尖微距",
+    "subtitle": "Match Studio",
+    "project": "Cerin 刀具 R&D",
+    "creator": "match.studio_",
+    "publisher": "match.studio_",
+    "credit_aliases": [
+      "Match Studio",
+      "match.studio_"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/702968793_18117521767750108_2902734302332293145_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzkwMDU3MDMyNDEzODMwMTY2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=p82qqsnHgZQQ7kNvwEwkI3h&_nc_oc=AdpAK75fKGhgQB2e0uUC3SnIQklGnD3E7B07n6ETj0raJctSpCjkI5sLX6p-w8bVq9c&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=lJ4zeZ3hybtMI-GggpgMMw&_nc_ss=7b689&oh=00_AQJuWr6SQ3WMsPepofAmQS7fQrJKPuQNT_c5dyFpMm99gQ&oe=6AA6EFE7",
+    "url": "https://www.instagram.com/p/DYhnouPjFLB/?img_index=6",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 6,
+    "media_index": 6,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-05-19",
+    "ratio": "0.750010330307701 / 1",
+    "duration": "",
+    "description": "多刃刀尖微距；立銑刀、螺旋刃槽、金屬、拉絲金屬、反射表面、黑色、銀色、白色、微距。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "end mill",
+        "zh": "立銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "helical flute",
+        "zh": "螺旋刃槽",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "macro",
+        "zh": "微距",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：多刃刀尖微距"
+      },
+      {
+        "en": "Cerin",
+        "zh": "Cerin",
+        "category": "brand",
+        "source": "caption",
+        "evidence": "作者標示 Cerin project"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。此項為獨立圖片，動態詞僅供相關搜尋。",
+    "tag_review": {
+      "status": "complete",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Cinema 4D"
+    ]
+  },
+  {
+    "id": "cnc-DPPEdzDCp53-1",
+    "post_id": "DPPEdzDCp53",
+    "title": "CNC 切屑形成教學 Part 6",
+    "subtitle": "DEVELOPMECH",
+    "project": "CNC 切屑形成教學 Part 6",
+    "creator": "developmech",
+    "publisher": "developmech",
+    "credit_aliases": [
+      "DEVELOPMECH",
+      "developmech"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/557579051_17905873377251291_7426659245713593518_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=MzczMzIyMjI1NTk3NjE2MDg4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjM2MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=QoIVeQXQsvQQ7kNvwEsXKGQ&_nc_oc=Adr1_m5vYuEstdSe9-StWlVpo1M4a11QKyKFO-LGtBWQ-eNPToKVA61gSUaD-8Un2i4&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=qH2w1dfOe22bCbpl-w4Vew&_nc_ss=7b689&oh=00_AQKejRvi_uH82p3HFvy4o8J-TfgiTL5p7_gSIdwEl18uow&oe=6AA6E3B7",
+    "url": "https://www.instagram.com/p/DPPEdzDCp53/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2025-10-01",
+    "ratio": "0.5627782724844167 / 1",
+    "duration": "",
+    "description": "CNC 切屑形成教學 Part 6；銑刀、金屬切屑、軟體介面、金屬、灰色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "milling cutter",
+        "zh": "銑刀",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 切屑形成教學 Part 6"
+      },
+      {
+        "en": "metal chips",
+        "zh": "金屬切屑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 切屑形成教學 Part 6"
+      },
+      {
+        "en": "software interface",
+        "zh": "軟體介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 切屑形成教學 Part 6"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 切屑形成教學 Part 6"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 切屑形成教學 Part 6"
+      },
+      {
+        "en": "Blender",
+        "zh": "Blender",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "Blender"
+    ],
+    "video_url": "https://instagram.ftpe8-1.fna.fbcdn.net/o1/v/t2/f2/m86/AQN-pTb4iioieZSupfWwPvD1UWCGFJMnNGrGz0uuFhOIRDaXdySuWyBJaDCIzeNDHUW-ftPuT2SmP3ye8s97XZzny9YVfEHuf-kim7M.mp4?_nc_cat=109&_nc_oc=AdpC3n7Qj234HmMQg0PpDIUuIVS1ItcKMZzM7aEKHulzqgkilluwGUtifUt6VsuBov8&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-1.fna.fbcdn.net&_nc_ohc=OsgGvFE_1f8Q7kNvwFtad03&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMzYwLmRhc2hfYmFzZWxpbmVfM192MSIsInhwdl9hc3NldF9pZCI6NzYxNTg3NjU2ODU3MzEyLCJhc3NldF9hZ2VfZGF5cyI6MzQzLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6cb615bd56f991e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDRERkJCRDg5Qjk3RTYwMEFCMzg5OTc5N0MxQzZCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMzI3MTAyOTYyNDEzOTc2XzE1ODAyODM0MDI3MTk0ODczOTkubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJsDbhJyeqtoCFQIoAkMzLBdAMMzMzMzMzRgSZGFzaF9iYXNlbGluZV8zX3YxEQB1_gdl5p0BAA&_nc_gid=qH2w1dfOe22bCbpl-w4Vew&_nc_ss=7b689&_nc_zt=28&oh=00_AQKJCx2An6GyCe2bugHU68TduxFR8ut3AY-VUV361A-LeQ&oe=6AA2E0B2"
+  },
+  {
+    "id": "cnc-C1ANnEkLFaK-1",
+    "post_id": "C1ANnEkLFaK",
+    "title": "CNC 金屬渲染教學",
+    "subtitle": "KeyShot / Megosu",
+    "project": "CNC 金屬渲染教學",
+    "creator": "keyshot3d",
+    "publisher": "keyshot3d",
+    "credit_aliases": [
+      "KeyShot / Megosu",
+      "keyshot3d",
+      "Megosu",
+      "megosu"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.71878-15/503144048_1225326416044514_7561174783859086340_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=MzI2MDY2NTk4OTc4MjMyODk3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEwODAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=0zkFtgBaCFkQ7kNvwFopH07&_nc_oc=AdonYHyz6kN7YzEHJ2svqqgFCSHQIX8Z71qWS0j9EzVBPGdyT58eAyG5d-9Zk4lbAVw&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=5qEBMO210Eu8p5oy-lEJUg&_nc_ss=7b689&oh=00_AQIYRXJLSSjDi9-HOVMSyWAWTi-ENvd4_iNKww1XWZHEZg&oe=6AA6BE4E",
+    "url": "https://www.instagram.com/p/C1ANnEkLFaK/",
+    "group": "cnc",
+    "collection": "CNC CG",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2023-12-19",
+    "ratio": "0.5627782724844167 / 1",
+    "duration": "",
+    "description": "CNC 金屬渲染教學；材質編輯器、軟體介面、金屬、粗糙度、拉絲金屬、灰色、銀色。",
+    "tags": [
+      {
+        "en": "CNC",
+        "zh": "電腦數值控制",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "machining",
+        "zh": "切削",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "cutting",
+        "zh": "切割",
+        "category": "topic",
+        "source": "user",
+        "evidence": "使用者指定的 CNC 參考分類與搜尋詞。"
+      },
+      {
+        "en": "material editor",
+        "zh": "材質編輯器",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "software interface",
+        "zh": "軟體介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "roughness",
+        "zh": "粗糙度",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "brushed metal",
+        "zh": "拉絲金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文個別媒體：CNC 金屬渲染教學"
+      },
+      {
+        "en": "KeyShot",
+        "zh": "KeyShot",
+        "category": "software",
+        "source": "caption",
+        "evidence": "原作者貼文或教學介面"
+      }
+    ],
+    "related": [
+      {
+        "en": "milling",
+        "zh": "銑削"
+      },
+      {
+        "en": "carving",
+        "zh": "雕刻"
+      },
+      {
+        "en": "engraving",
+        "zh": "刻印"
+      },
+      {
+        "en": "toolpath",
+        "zh": "刀路"
+      },
+      {
+        "en": "subtractive manufacturing",
+        "zh": "減材製造"
+      },
+      {
+        "en": "numerical control",
+        "zh": "數控"
+      },
+      {
+        "en": "CNC machining",
+        "zh": "CNC 加工"
+      }
+    ],
+    "caption": [
+      "cnc"
+    ],
+    "caption_text": "",
+    "saved": false,
+    "note": "CNC、切削、切割為使用者指定分類。個別畫面已核對；影片尚未完整逐秒分析。",
+    "tag_review": {
+      "status": "partial",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "imported_at": "2026-09-09",
+    "capture_source": "Original Instagram post visual review and rendered embed media URLs",
+    "software": [
+      "KeyShot"
+    ],
+    "video_url": "https://instagram.ftpe8-3.fna.fbcdn.net/o1/v/t2/f2/m82/AQN1Twdc6B3Jv9u1Q_6uzX19KKP0UuoE-1872_jvaxj5ypD72t161u4gdc_wjgW0n1nQLEMXBkiqvPj55B2uiKyoT6UYLEbU6ReKneg.mp4?_nc_cat=107&_nc_oc=AdpNbg6A4fPLqdymKHpR8_sAw9_6J3jwmsBVvvC7dafm04Ga4eARrSx8x88pKDN6dMI&_nc_sid=5e9851&_nc_ht=instagram.ftpe8-3.fna.fbcdn.net&_nc_ohc=oHTPB5ehyscQ7kNvwG4Ycno&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6ODcwMDEwNDg4MjQyNzc3LCJhc3NldF9hZ2VfZGF5cyI6OTk1LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b8807179ef0351a6&_nc_vs=HBksFQIYT2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfcHJvZC85QzRFQTYzQTQ1RkREODkzMUNCNEVEQjAyRTBDQTI5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYR2lnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xMDE3MDI3Mzg5MzkxODM5Xzc0MzkzOTI0MTg5MjQ4NzM2OTIubXA0FQICyAESACgAGAAbAogHdXNlX29pbAExEnByb2dyZXNzaXZlX3JlY2lwZQExFQAAJrKJ0qGj0YsDFQIoAkMzLBdAPhAgxJul4xgSZGFzaF9iYXNlbGluZV8xX3YxEQB1_gdl5p0BAA&_nc_gid=5qEBMO210Eu8p5oy-lEJUg&_nc_ss=7b689&_nc_zt=28&oh=00_AQIiPk-uRhccOugzA5HReCnNT5iBzdan1o1bn2D_1havcQ&oe=6AA2DA2C"
+  }
+]
