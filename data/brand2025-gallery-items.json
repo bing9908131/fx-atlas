@@ -88,6 +88,26 @@
         "category": "brand",
         "source": "author_caption",
         "evidence": "野人為 ASUS CES 2025 展覽打造最終預告，以時光流轉展現筆電強大續航力。\n⁡\n突破時間限制的筆電續航力，一次充電，持久運行，讓靈感與效率不再受電量束縛。無論是工作、創作或娛樂，隨時隨地暢行無阻，陪你走得更遠，成就更多可能。\n⁡\nLaptop Battery Life That Defies Time\nOne charge, endless power. Unleash your creativity and productivity without the limits of battery life. Whether for work, creation, or entertainment, stay unstoppable anytime, anywhere—empowering you to go further and achieve more.\n⁡\nProduction：野人設計 Wild Design\nClients：華碩 ASUS\n⁡\nDirector：陳志育 Ida Chen\nAccount Manager：吳昱緯 Phil Wu\nProject Manager：游佳怡 Chia Yi Yu\nStoryboard：陳志育 Ida Chen\nConcept Art：林意媗 Doris Lin\nPreviz：何荔芳 He Li Fang、魏君恆 James Wei、林詠順 River\nStyleframes：林意媗 Doris Lin、楊博鈞 Jyun Yang、魏君恆 James Wei\nAnimation：陳志育 Ida Chen、楊博鈞 Jyun Yang、何荔芳 He Li Fang、魏君恆 James Wei\n⁡\nMUSIC & SOUND DESIGN：海波浪音樂 HYPERLUNG"
+      },
+      {
+        "en": "fluttering",
+        "zh": "飄動",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "flutter",
+          "飄揚",
+          "隨風擺動"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "9.64–12.77 秒：白色薄布由拱門一側反覆掀起，輪廓由下垂變成橫向鼓起並掠過筆電前方。",
+        "time_ranges": [
+          {
+            "start": 9.635537,
+            "end": 12.77277
+          }
+        ]
       }
     ],
     "related": [
@@ -107,17 +127,52 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。其他段落主要為運鏡與日夜光照切換，未把懸浮構圖當成生長或堆疊。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DGlJykvzVa4-1",
+      "duration_seconds": 16.374999,
+      "sample_times": [
+        5.454644,
+        6.49213,
+        7.537284,
+        8.583708,
+        9.635537,
+        10.674588,
+        11.728037,
+        12.77277
+      ],
+      "events": [
+        {
+          "start": 9.635537,
+          "end": 12.77277,
+          "terms": [
+            "fluttering"
+          ],
+          "description": "白色薄布由拱門一側反覆掀起，輪廓由下垂變成橫向鼓起並掠過筆電前方。"
+        }
+      ],
+      "comment": "其他段落主要為運鏡與日夜光照切換，未把懸浮構圖當成生長或堆疊。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/wilddesignmotion/p/DGlJykvzVa4/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DGiPuDcTKoS-1",
@@ -194,6 +249,68 @@
         "category": "brand",
         "source": "author_caption",
         "evidence": "野人為 ASUS CES 2025 展覽打造的第二波預告，以骨牌演繹筆電的進化歷程，從厚重機身逐步演變為極致輕薄，展現科技不斷突破的可能。\n⁡\n筆電的極致進化，見證有史以來最輕的筆電。\n突破輕薄極限，兼具強大效能與卓越續航，隨行無負擔，工作創作更自由，開啟行動新時代。\n⁡\nThe Ultimate Evolution of Laptops\nExperience the lightest laptop ever. Breaking the limits of thinness and weight while delivering powerful performance and exceptional battery life. Effortless portability for boundless creativity and productivity—ushering in a new era of mobility.\n⁡\nProduction：野人設計 Wild Design\nClients：華碩 ASUS\n⁡\nDirector：陳志育 Ida Chen\nAccount Manager：吳昱緯 Phil Wu\nProject Manager：游佳怡 Chia Yi Yu\nStoryboard：陳志育 Ida Chen\nConcept Art：林意媗 Doris Lin\nPreviz：何荔芳 He Li Fang、魏君恆 James Wei、林詠順 River\nStyleframes：林意媗 Doris Lin、楊博鈞 Jyun Yang、魏君恆 James Wei\nAnimation：陳志育 Ida Chen、楊博鈞 Jyun Yang、何荔芳 He Li Fang、魏君恆 James Wei\n⁡\nMUSIC & SOUND DESIGN：海波浪音樂 HYPERLUNG"
+      },
+      {
+        "en": "collision",
+        "zh": "碰撞",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "collide",
+          "colliding",
+          "碰撞效果"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.91–5.15 秒：直立筆電狀石板依序向鄰片傾倒，接觸後下一片跟著倒下，連鎖沿弧形隊列推進。",
+        "time_ranges": [
+          {
+            "start": 0.9102,
+            "end": 5.153811
+          }
+        ]
+      },
+      {
+        "en": "domino fall",
+        "zh": "骨牌連鎖倒下",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "domino",
+          "domino effect",
+          "toppling",
+          "連鎖倒塌",
+          "骨牌效應"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.91–5.15 秒：直立筆電狀石板依序向鄰片傾倒，接觸後下一片跟著倒下，連鎖沿弧形隊列推進。",
+        "time_ranges": [
+          {
+            "start": 0.9102,
+            "end": 5.153811
+          }
+        ]
+      },
+      {
+        "en": "fluttering",
+        "zh": "飄動",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "flutter",
+          "飄揚",
+          "隨風擺動"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "4.11–5.15 秒：建築拱窗中的薄布輪廓持續翻折擺動。",
+        "time_ranges": [
+          {
+            "start": 4.11174,
+            "end": 5.153811
+          }
+        ]
       }
     ],
     "related": [
@@ -213,17 +330,60 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "author_caption_reviewed"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DGiPuDcTKoS-1",
+      "duration_seconds": 16.291666,
+      "sample_times": [
+        0.9102,
+        1.961918,
+        3.023475,
+        4.11174,
+        5.153811,
+        6.202524,
+        7.262256
+      ],
+      "events": [
+        {
+          "start": 0.9102,
+          "end": 5.153811,
+          "terms": [
+            "collision",
+            "domino fall"
+          ],
+          "description": "直立筆電狀石板依序向鄰片傾倒，接觸後下一片跟著倒下，連鎖沿弧形隊列推進。"
+        },
+        {
+          "start": 4.11174,
+          "end": 5.153811,
+          "terms": [
+            "fluttering"
+          ],
+          "description": "建築拱窗中的薄布輪廓持續翻折擺動。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/wilddesignmotion/p/DGiPuDcTKoS/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DGfe3S2Rmqk-1",
@@ -321,6 +481,51 @@
         "category": "model",
         "source": "author_caption",
         "evidence": "野人為 ASUS CES 2025 展覽打造首發預告，以輕盈想像為核心，營造神秘氛圍。我們將產品化作雲朵，隨著降落時雲氣逸散，Zenbook 宛如極致輕盈的精品般華麗登場。\n⁡\n輕如雲朵的 Zenbook，隨行無負擔，極致輕薄設計，強大效能兼備，無論何處皆能高效工作與創作。\n⁡\nA laptop as light as a cloud, effortless to carry. Ultra-slim design with powerful performance, enabling efficient work and creativity anywhere.\n⁡\nProduction：野人設計 Wild Design\nClients：華碩 ASUS\n⁡\nDirector：陳志育 Ida Chen\nAccount Manager：吳昱緯 Phil Wu\nProject Manager：游佳怡 Chia Yi Yu\nStoryboard：陳志育 Ida Chen\nConcept Art：林意媗 Doris Lin\nPreviz：何荔芳 He Li Fang、魏君恆 James Wei、林詠順 River\nStyleframes：林意媗 Doris Lin、楊博鈞 Jyun Yang、魏君恆 James Wei\nAnimation：陳志育 Ida Chen、楊博鈞 Jyun Yang、何荔芳 He Li Fang、魏君恆 James Wei\n⁡\nMUSIC & SOUND DESIGN：海波浪音樂 HYPERLUNG"
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "rotate",
+          "rotating",
+          "spin",
+          "spinning",
+          "轉動",
+          "自轉"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "4.65–6.56 秒：同一團矩形雲由正面轉為傾斜側面，周圍建築維持相同方向。",
+        "time_ranges": [
+          {
+            "start": 4.649972,
+            "end": 6.558799
+          }
+        ]
+      },
+      {
+        "en": "cloud dissipation",
+        "zh": "雲霧消散",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "dissipating cloud",
+          "fog dispersal",
+          "霧散",
+          "消霧",
+          "雲霧散去"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "12.25–13.75 秒：台座四周的白色雲霧向外攤開並變淡，底座由遮蔽轉為清晰。",
+        "time_ranges": [
+          {
+            "start": 12.248443,
+            "end": 13.749283
+          }
+        ]
       }
     ],
     "related": [
@@ -340,17 +545,73 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "author_caption_reviewed"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DGfe3S2Rmqk-1",
+      "duration_seconds": 17.541666,
+      "sample_times": [
+        0.823208,
+        1.797999,
+        2.750128,
+        3.688613,
+        4.649972,
+        5.60522,
+        6.558799,
+        14.329751,
+        15.332949,
+        16.331225,
+        17.334723,
+        0.641055,
+        1.636545,
+        2.662934,
+        3.65936,
+        12.248443,
+        13.001613,
+        13.749283,
+        14.504719,
+        15.254621,
+        16.000795
+      ],
+      "events": [
+        {
+          "start": 4.649972,
+          "end": 6.558799,
+          "terms": [
+            "rotation"
+          ],
+          "description": "同一團矩形雲由正面轉為傾斜側面，周圍建築維持相同方向。"
+        },
+        {
+          "start": 12.248443,
+          "end": 13.749283,
+          "terms": [
+            "cloud dissipation"
+          ],
+          "description": "台座四周的白色雲霧向外攤開並變淡，底座由遮蔽轉為清晰。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/wilddesignmotion/p/DGfe3S2Rmqk/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DNkvssOPeHg-1",
@@ -458,6 +719,93 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "flow",
+        "zh": "流動",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "flowing",
+          "流淌",
+          "流動效果"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "4.66–5.62 秒：乳白黏性物質沿支架向前爬行，邊緣孔洞與薄膜輪廓持續變形。；18.51–20.26 秒：透明黏性薄層的邊界沿內部元件移動，逐步滑過字樣表面。",
+        "time_ranges": [
+          {
+            "start": 4.662363,
+            "end": 5.62453
+          },
+          {
+            "start": 18.511626,
+            "end": 20.26344
+          }
+        ]
+      },
+      {
+        "en": "soft body deformation",
+        "zh": "軟體形變",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "柔體變形",
+          "彈性形變",
+          "軟體變形"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "4.66–5.62 秒：乳白黏性物質沿支架向前爬行，邊緣孔洞與薄膜輪廓持續變形。",
+        "time_ranges": [
+          {
+            "start": 4.662363,
+            "end": 5.62453
+          }
+        ]
+      },
+      {
+        "en": "stretch",
+        "zh": "拉伸",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "stretching",
+          "拉長",
+          "拉絲",
+          "stretching strands"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "11.14–12.19 秒：螢幕外緣與周圍框架間的薄膜被拉長成細絲，孔洞擴大。",
+        "time_ranges": [
+          {
+            "start": 11.138679,
+            "end": 12.190696
+          }
+        ]
+      },
+      {
+        "en": "peeling",
+        "zh": "剝離",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "peel",
+          "peeling away",
+          "剝落",
+          "揭膜",
+          "表皮剝離"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "13.24–17.46 秒：支架和標誌表面的暗色覆膜逐步退開，露出下方亮色硬質外殼與彩色標誌。",
+        "time_ranges": [
+          {
+            "start": 13.235764,
+            "end": 17.464173
+          }
+        ]
       }
     ],
     "related": [
@@ -507,17 +855,99 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "author_caption_reviewed"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DNkvssOPeHg-1",
+      "duration_seconds": 32.53333333333333,
+      "sample_times": [
+        0.790767,
+        0.837355,
+        1.781754,
+        2.746131,
+        3.71072,
+        4.662363,
+        5.62453,
+        6.587285,
+        15.901776,
+        17.353163,
+        18.805466,
+        20.26344,
+        21.723057,
+        23.17884,
+        24.630637,
+        26.083452,
+        27.541629,
+        28.997412,
+        7.958895,
+        9.012623,
+        10.078208,
+        11.138679,
+        12.190696,
+        13.235764,
+        14.286339,
+        15.341859,
+        16.406756,
+        17.464173,
+        18.511626,
+        19.558464
+      ],
+      "events": [
+        {
+          "start": 4.662363,
+          "end": 5.62453,
+          "terms": [
+            "flow",
+            "soft body deformation"
+          ],
+          "description": "乳白黏性物質沿支架向前爬行，邊緣孔洞與薄膜輪廓持續變形。"
+        },
+        {
+          "start": 11.138679,
+          "end": 12.190696,
+          "terms": [
+            "stretch"
+          ],
+          "description": "螢幕外緣與周圍框架間的薄膜被拉長成細絲，孔洞擴大。"
+        },
+        {
+          "start": 13.235764,
+          "end": 17.464173,
+          "terms": [
+            "peeling"
+          ],
+          "description": "支架和標誌表面的暗色覆膜逐步退開，露出下方亮色硬質外殼與彩色標誌。"
+        },
+        {
+          "start": 18.511626,
+          "end": 20.26344,
+          "terms": [
+            "flow"
+          ],
+          "description": "透明黏性薄層的邊界沿內部元件移動，逐步滑過字樣表面。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/au_au_is/p/DNkvssOPeHg/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DJ3458VTStD-1",
@@ -632,6 +1062,26 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "running",
+        "zh": "奔跑",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "run",
+          "跑步",
+          "奔馳"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "7.65–10.74 秒：透明人形由蹲踞起跑姿勢轉入向右衝刺，手腳交替擺動，追蹤點隨關節移動。",
+        "time_ranges": [
+          {
+            "start": 7.647637,
+            "end": 10.742285
+          }
+        ]
       }
     ],
     "related": [
@@ -681,17 +1131,62 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。已看到拆開零件的排列，但未取到拆開過程，因此未加拆解動態。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DJ3458VTStD-1",
+      "duration_seconds": 32.233333333333334,
+      "sample_times": [
+        1.441263,
+        2.993211,
+        4.535101,
+        6.102334,
+        7.647637,
+        9.187701,
+        10.742285,
+        12.294128,
+        13.847808,
+        15.405727,
+        16.954323,
+        27.334837,
+        28.481742,
+        29.621668,
+        30.790706,
+        31.95577,
+        0.756816,
+        1.898327
+      ],
+      "events": [
+        {
+          "start": 7.647637,
+          "end": 10.742285,
+          "terms": [
+            "running"
+          ],
+          "description": "透明人形由蹲踞起跑姿勢轉入向右衝刺，手腳交替擺動，追蹤點隨關節移動。"
+        }
+      ],
+      "comment": "已看到拆開零件的排列，但未取到拆開過程，因此未加拆解動態。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/au_au_is/p/DJ3458VTStD/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DFIJL_qydtp-1",
@@ -813,6 +1308,31 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "walking",
+        "zh": "行走",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "walk",
+          "步行",
+          "走路",
+          "踏步"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "1.13–2.38 秒：機器人抬起一腳並向前跨步，手臂隨步伐擺動。；6.15–8.67 秒：角色再次向螢幕靠近，跨入偵測區後螢幕與藍色介面亮起。",
+        "time_ranges": [
+          {
+            "start": 1.133456,
+            "end": 2.384068
+          },
+          {
+            "start": 6.148303,
+            "end": 8.667752
+          }
+        ]
       }
     ],
     "related": [
@@ -863,17 +1383,63 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。介面出現不直接當成物理衝擊或氣流。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DFIJL_qydtp-1",
+      "duration_seconds": 16.416507,
+      "sample_times": [
+        1.133456,
+        2.384068,
+        3.63963,
+        4.900888,
+        6.148303,
+        7.414638,
+        8.667752,
+        9.915481,
+        11.164374,
+        12.435107,
+        13.684065
+      ],
+      "events": [
+        {
+          "start": 1.133456,
+          "end": 2.384068,
+          "terms": [
+            "walking"
+          ],
+          "description": "機器人抬起一腳並向前跨步，手臂隨步伐擺動。"
+        },
+        {
+          "start": 6.148303,
+          "end": 8.667752,
+          "terms": [
+            "walking"
+          ],
+          "description": "角色再次向螢幕靠近，跨入偵測區後螢幕與藍色介面亮起。"
+        }
+      ],
+      "comment": "介面出現不直接當成物理衝擊或氣流。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/au_au_is/p/DFIJL_qydtp/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DSZoc7GEdE--1",
@@ -971,6 +1537,53 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "rotate",
+          "rotating",
+          "spin",
+          "spinning",
+          "轉動",
+          "自轉"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "4.65–5.61 秒：麥克風桿繞耳罩側面的轉軸由斜上方向水平位置轉下。",
+        "time_ranges": [
+          {
+            "start": 4.649816,
+            "end": 5.614939
+          }
+        ]
+      },
+      {
+        "en": "pulsing",
+        "zh": "脈動",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "pulse",
+          "pulsating",
+          "光環擴散",
+          "訊號擴散",
+          "signal rings",
+          "pulse rings",
+          "脈衝"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "23.94–25.09 秒：耳罩前的藍色同心訊號環持續改變半徑，形成反覆發散的訊號圖形；不是水面漣漪。",
+        "time_ranges": [
+          {
+            "start": 23.94188,
+            "end": 25.091568
+          }
+        ]
       }
     ],
     "related": [
@@ -1003,17 +1616,67 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DSZoc7GEdE--1",
+      "duration_seconds": 29.013332,
+      "sample_times": [
+        2.731856,
+        3.698027,
+        4.649816,
+        5.614939,
+        6.575213,
+        7.528508,
+        8.476957,
+        9.429235,
+        19.311555,
+        20.474424,
+        21.621662,
+        22.777069,
+        23.94188,
+        25.091568,
+        26.231007
+      ],
+      "events": [
+        {
+          "start": 4.649816,
+          "end": 5.614939,
+          "terms": [
+            "rotation"
+          ],
+          "description": "麥克風桿繞耳罩側面的轉軸由斜上方向水平位置轉下。"
+        },
+        {
+          "start": 23.94188,
+          "end": 25.091568,
+          "terms": [
+            "pulsing"
+          ],
+          "description": "耳罩前的藍色同心訊號環持續改變半徑，形成反覆發散的訊號圖形；不是水面漣漪。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=1",
+      "media_index": 1,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DSZoc7GEdE--2",
@@ -1111,6 +1774,29 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "rotate",
+          "rotating",
+          "spin",
+          "spinning",
+          "轉動",
+          "自轉"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "1.58–2.69 秒：麥克風由接近直立轉至水平，耳罩與頭帶保持固定相對位置。",
+        "time_ranges": [
+          {
+            "start": 1.5788,
+            "end": 2.692876
+          }
+        ]
       }
     ],
     "related": [
@@ -1143,17 +1829,49 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "author_caption_reviewed"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DSZoc7GEdE--2",
+      "duration_seconds": 3.008,
+      "sample_times": [
+        0.445201,
+        1.01709,
+        1.5788,
+        2.129012,
+        2.692876
+      ],
+      "events": [
+        {
+          "start": 1.5788,
+          "end": 2.692876,
+          "terms": [
+            "rotation"
+          ],
+          "description": "麥克風由接近直立轉至水平，耳罩與頭帶保持固定相對位置。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=2",
+      "media_index": 2,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DSZoc7GEdE--3",
@@ -1265,6 +1983,30 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "pulsing",
+        "zh": "脈動",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "pulse",
+          "pulsating",
+          "光環擴散",
+          "訊號擴散",
+          "signal rings",
+          "pulse rings",
+          "脈衝"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "1.86–3.68 秒：辦公桌周圍的藍色同心光環反覆向外擴張，屬無線訊號視覺化。",
+        "time_ranges": [
+          {
+            "start": 1.859691,
+            "end": 3.677754
+          }
+        ]
       }
     ],
     "related": [
@@ -1297,17 +2039,57 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DSZoc7GEdE--3",
+      "duration_seconds": 3.711999,
+      "sample_times": [
+        0.288386,
+        0.847679,
+        1.39403,
+        1.942324,
+        0.035787,
+        0.608389,
+        2.64865,
+        3.172203,
+        3.677754,
+        0.358616,
+        0.860891,
+        1.370238,
+        1.859691
+      ],
+      "events": [
+        {
+          "start": 1.859691,
+          "end": 3.677754,
+          "terms": [
+            "pulsing"
+          ],
+          "description": "辦公桌周圍的藍色同心光環反覆向外擴張，屬無線訊號視覺化。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=3",
+      "media_index": 3,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DSZoc7GEdE--4",
@@ -1426,6 +2208,27 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "counting",
+        "zh": "數字計數",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "counter animation",
+          "count up",
+          "數字遞增",
+          "數字跳動"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "1.41–2.40 秒：耳機後方的大型數字快速遞增並停在35，為數字計數動畫。",
+        "time_ranges": [
+          {
+            "start": 1.406296,
+            "end": 2.398896
+          }
+        ]
       }
     ],
     "related": [
@@ -1458,17 +2261,49 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。辦公家具陣列在本片段沒有組裝或堆疊動作。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DSZoc7GEdE--4",
+      "duration_seconds": 3.434666,
+      "sample_times": [
+        0.407965,
+        0.911557,
+        1.406296,
+        1.893544,
+        2.398896
+      ],
+      "events": [
+        {
+          "start": 1.406296,
+          "end": 2.398896,
+          "terms": [
+            "counting"
+          ],
+          "description": "耳機後方的大型數字快速遞增並停在35，為數字計數動畫。"
+        }
+      ],
+      "comment": "辦公家具陣列在本片段沒有組裝或堆疊動作。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=4",
+      "media_index": 4,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DSZoc7GEdE--5",
@@ -1552,6 +2387,28 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "folding",
+        "zh": "折疊",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "fold",
+          "foldable animation",
+          "摺疊",
+          "折起",
+          "收折"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.42–1.43 秒：耳罩沿鉸鏈向頭帶內侧折入，由展開狀態變成扁平收納形態。",
+        "time_ranges": [
+          {
+            "start": 0.416753,
+            "end": 1.429107
+          }
+        ]
       }
     ],
     "related": [
@@ -1584,17 +2441,49 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DSZoc7GEdE--5",
+      "duration_seconds": 5.066666,
+      "sample_times": [
+        0.416753,
+        0.931612,
+        1.429107,
+        1.932836,
+        2.435831
+      ],
+      "events": [
+        {
+          "start": 0.416753,
+          "end": 1.429107,
+          "terms": [
+            "folding"
+          ],
+          "description": "耳罩沿鉸鏈向頭帶內侧折入，由展開狀態變成扁平收納形態。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=5",
+      "media_index": 5,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DPgTZsvkSmE-1",
@@ -3325,6 +4214,47 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "flying",
+        "zh": "飛行",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "fly",
+          "飛越",
+          "掠過"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.24–1.09 秒：隕石朝行星方向掠過，尾部碎屑與發光拖尾持續向後散出。",
+        "time_ranges": [
+          {
+            "start": 0.236555,
+            "end": 1.093885
+          }
+        ]
+      },
+      {
+        "en": "debris shedding",
+        "zh": "碎屑剝落",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "shedding debris",
+          "碎片散落",
+          "碎屑拖尾",
+          "debris trail"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.24–1.09 秒：隕石朝行星方向掠過，尾部碎屑與發光拖尾持續向後散出。",
+        "time_ranges": [
+          {
+            "start": 0.236555,
+            "end": 1.093885
+          }
+        ]
       }
     ],
     "related": [
@@ -3361,17 +4291,49 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。未看到撞擊地面，不標記碰撞或衝擊。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-2",
+      "duration_seconds": 1.299999,
+      "sample_times": [
+        0.236555,
+        0.520791,
+        0.80886,
+        1.093885
+      ],
+      "events": [
+        {
+          "start": 0.236555,
+          "end": 1.093885,
+          "terms": [
+            "flying",
+            "debris shedding"
+          ],
+          "description": "隕石朝行星方向掠過，尾部碎屑與發光拖尾持續向後散出。"
+        }
+      ],
+      "comment": "未看到撞擊地面，不標記碰撞或衝擊。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=2",
+      "media_index": 2,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-3",
@@ -3613,6 +4575,27 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "color cycling",
+        "zh": "色彩循環",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "colour cycling",
+          "RGB cycling",
+          "RGB變色",
+          "循環變色"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.70–2.21 秒：機身燈帶由藍紫轉為粉紫再轉回藍色，呈現RGB色彩循環。",
+        "time_ranges": [
+          {
+            "start": 0.6994,
+            "end": 2.212216
+          }
+        ]
       }
     ],
     "related": [
@@ -3649,17 +4632,51 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。主體視角變化主要來自運鏡，不直接標為物件旋轉。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-4",
+      "duration_seconds": 6.499999,
+      "sample_times": [
+        0.6994,
+        1.450676,
+        2.212216,
+        2.963746,
+        3.709751,
+        4.457993,
+        5.211915
+      ],
+      "events": [
+        {
+          "start": 0.6994,
+          "end": 2.212216,
+          "terms": [
+            "color cycling"
+          ],
+          "description": "機身燈帶由藍紫轉為粉紫再轉回藍色，呈現RGB色彩循環。"
+        }
+      ],
+      "comment": "主體視角變化主要來自運鏡，不直接標為物件旋轉。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=4",
+      "media_index": 4,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-5",
@@ -3764,6 +4781,28 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "light chase",
+        "zh": "追逐燈光",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "chasing lights",
+          "traveling light",
+          "流光",
+          "跑馬燈",
+          "光點沿線流動"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.72–2.14 秒：藍色短光段沿固定彎曲纜線路徑逐段移動，晶片周圍的方形指示燈依序點亮。",
+        "time_ranges": [
+          {
+            "start": 0.718279,
+            "end": 2.135591
+          }
+        ]
       }
     ],
     "related": [
@@ -3800,17 +4839,50 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。纜線本身保持形狀，沒有生長或編織動作。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-5",
+      "duration_seconds": 5.333333,
+      "sample_times": [
+        0.718279,
+        1.418115,
+        2.135591,
+        0.658353,
+        1.353473,
+        2.056351
+      ],
+      "events": [
+        {
+          "start": 0.718279,
+          "end": 2.135591,
+          "terms": [
+            "light chase"
+          ],
+          "description": "藍色短光段沿固定彎曲纜線路徑逐段移動，晶片周圍的方形指示燈依序點亮。"
+        }
+      ],
+      "comment": "纜線本身保持形狀，沒有生長或編織動作。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=5",
+      "media_index": 5,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-6",
@@ -3908,6 +4980,51 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "light chase",
+        "zh": "追逐燈光",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "chasing lights",
+          "traveling light",
+          "流光",
+          "跑馬燈",
+          "光點沿線流動"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.41–1.31 秒：外圈的藍紫亮段沿環形路徑循環移動，中央標誌保持朝上。",
+        "time_ranges": [
+          {
+            "start": 0.405438,
+            "end": 1.314837
+          }
+        ]
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "rotate",
+          "rotating",
+          "spin",
+          "spinning",
+          "轉動",
+          "自轉"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "1.77–2.70 秒：散熱扇內圈葉片相對外側固定框架繞軸轉動。",
+        "time_ranges": [
+          {
+            "start": 1.769873,
+            "end": 2.700272
+          }
+        ]
       }
     ],
     "related": [
@@ -3944,17 +5061,58 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。沒有可見氣流線或煙霧，不因為有風扇就加氣流。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-6",
+      "duration_seconds": 3.233333,
+      "sample_times": [
+        0.405438,
+        0.862496,
+        1.314837,
+        1.769873,
+        2.23655,
+        2.700272
+      ],
+      "events": [
+        {
+          "start": 0.405438,
+          "end": 1.314837,
+          "terms": [
+            "light chase"
+          ],
+          "description": "外圈的藍紫亮段沿環形路徑循環移動，中央標誌保持朝上。"
+        },
+        {
+          "start": 1.769873,
+          "end": 2.700272,
+          "terms": [
+            "rotation"
+          ],
+          "description": "散熱扇內圈葉片相對外側固定框架繞軸轉動。"
+        }
+      ],
+      "comment": "沒有可見氣流線或煙霧，不因為有風扇就加氣流。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=6",
+      "media_index": 6,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-7",
@@ -4203,6 +5361,27 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "color cycling",
+        "zh": "色彩循環",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "colour cycling",
+          "RGB cycling",
+          "RGB變色",
+          "循環變色"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "2.03–3.43 秒：WASD與方向鍵的背光持續在粉、藍、綠之間變色。",
+        "time_ranges": [
+          {
+            "start": 2.03184,
+            "end": 3.43084
+          }
+        ]
       }
     ],
     "related": [
@@ -4239,17 +5418,51 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。開頭鍵帽已是爆炸圖排列，所見時間點未確認分解過程。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-8",
+      "duration_seconds": 6.033333,
+      "sample_times": [
+        0.632208,
+        1.34109,
+        2.03184,
+        2.72219,
+        3.43084,
+        4.134744,
+        4.829528
+      ],
+      "events": [
+        {
+          "start": 2.03184,
+          "end": 3.43084,
+          "terms": [
+            "color cycling"
+          ],
+          "description": "WASD與方向鍵的背光持續在粉、藍、綠之間變色。"
+        }
+      ],
+      "comment": "開頭鍵帽已是爆炸圖排列，所見時間點未確認分解過程。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=8",
+      "media_index": 8,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-9",
@@ -4354,6 +5567,28 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "dispersion",
+        "zh": "擴散",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "dispersal",
+          "dispersing",
+          "散開",
+          "散佈",
+          "擴散效果"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "0.08–0.99 秒：藍紫色粒子由畫面中心向外膨散，越過螢幕邊緣，外緣持續拉出細絲。",
+        "time_ranges": [
+          {
+            "start": 0.07944,
+            "end": 0.986983
+          }
+        ]
       }
     ],
     "related": [
@@ -4390,17 +5625,49 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "cg_visual_reference",
-    "note": "已核對獨立預覽與作者資料。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。能確認粒子擴散，無明確燃燒證據，不標火焰。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DMNQgV6xXSf-9",
+      "duration_seconds": 2.733333,
+      "sample_times": [
+        0.351844,
+        0.07944,
+        0.517727,
+        0.986983,
+        1.448082
+      ],
+      "events": [
+        {
+          "start": 0.07944,
+          "end": 0.986983,
+          "terms": [
+            "dispersion"
+          ],
+          "description": "藍紫色粒子由畫面中心向外膨散，越過螢幕邊緣，外緣持續拉出細絲。"
+        }
+      ],
+      "comment": "能確認粒子擴散，無明確燃燒證據，不標火焰。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=9",
+      "media_index": 9,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DMNQgV6xXSf-10",
@@ -6395,17 +7662,38 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "mixed_cg_live_action",
-    "note": "已核對獨立預覽與作者資料。包含 CG 與實拍合成。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。快速剪輯取樣未捕捉到足夠連續時間點，暫不新增確定動態標籤；需更密集複查。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "pending_dense_video_review"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DRUIAOJF7eS-1",
+      "duration_seconds": 6.057375,
+      "sample_times": [
+        0.027598,
+        0.775494,
+        1.549022,
+        2.315615,
+        3.068102,
+        3.820664
+      ],
+      "events": [],
+      "comment": "快速剪輯取樣未捕捉到足夠連續時間點，暫不新增確定動態標籤；需更密集複查。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=1",
+      "media_index": 1,
+      "status": "insufficient_evidence",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DRUIAOJF7eS-3",
@@ -6552,17 +7840,40 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "mixed_cg_live_action",
-    "note": "已核對獨立預覽與作者資料。包含 CG 與實拍合成。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。本次取樣主要為角色設計圖、材質與服裝展示，未取得足夠連續動作證據。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "pending_dense_video_review"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DRUIAOJF7eS-3",
+      "duration_seconds": 9.109333,
+      "sample_times": [
+        0.759218,
+        1.667276,
+        2.577548,
+        3.473933,
+        4.374695,
+        5.266471,
+        6.15208,
+        7.057537
+      ],
+      "events": [],
+      "comment": "本次取樣主要為角色設計圖、材質與服裝展示，未取得足夠連續動作證據。",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=3",
+      "media_index": 3,
+      "status": "insufficient_evidence",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DRUIAOJF7eS-4",
@@ -6667,6 +7978,29 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "rotation",
+        "zh": "旋轉",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "rotate",
+          "rotating",
+          "spin",
+          "spinning",
+          "轉動",
+          "自轉"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "7.94–8.26 秒：機械手握住旋鈕，旋鈕上放射狀標線相對手指轉過角度。",
+        "time_ranges": [
+          {
+            "start": 7.942761,
+            "end": 8.256357
+          }
+        ]
       }
     ],
     "related": [
@@ -6702,17 +8036,64 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "mixed_cg_live_action",
-    "note": "已核對獨立預覽與作者資料。包含 CG 與實拍合成。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "pending"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DRUIAOJF7eS-4",
+      "duration_seconds": 9.408,
+      "sample_times": [
+        0.756531,
+        1.667776,
+        2.553775,
+        3.449125,
+        4.357485,
+        5.243833,
+        6.144913,
+        7.049449,
+        4.953374,
+        5.249975,
+        5.550285,
+        5.839454,
+        6.139805,
+        6.440672,
+        6.736042,
+        7.032788,
+        7.323672,
+        7.636409,
+        7.942761,
+        8.256357
+      ],
+      "events": [
+        {
+          "start": 7.942761,
+          "end": 8.256357,
+          "terms": [
+            "rotation"
+          ],
+          "description": "機械手握住旋鈕，旋鈕上放射狀標線相對手指轉過角度。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=4",
+      "media_index": 4,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DRUIAOJF7eS-5",
@@ -6817,6 +8198,51 @@
         "category": "software",
         "source": "author_caption",
         "evidence": "作者於專案層級註明工具，未推定所有畫面均使用此工具。"
+      },
+      {
+        "en": "fracture",
+        "zh": "破碎",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "fracturing",
+          "shatter",
+          "shattering",
+          "destruction",
+          "碎裂",
+          "破裂",
+          "崩碎"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "3.33–4.04 秒：牆面板塊沿裂縫脫離，碎片向外散出並落向地面，渲染版本可見碎屑與塵霧。",
+        "time_ranges": [
+          {
+            "start": 3.333053,
+            "end": 4.040907
+          }
+        ]
+      },
+      {
+        "en": "debris shedding",
+        "zh": "碎屑剝落",
+        "category": "motion",
+        "source": "video_sequence",
+        "review_batch": "motion-rereview-20260909",
+        "search_aliases": [
+          "shedding debris",
+          "碎片散落",
+          "碎屑拖尾",
+          "debris trail"
+        ],
+        "reviewed_at": "2026-09-09",
+        "evidence": "3.33–4.04 秒：牆面板塊沿裂縫脫離，碎片向外散出並落向地面，渲染版本可見碎屑與塵霧。",
+        "time_ranges": [
+          {
+            "start": 3.333053,
+            "end": 4.040907
+          }
+        ]
       }
     ],
     "related": [
@@ -6852,17 +8278,53 @@
     "imported_at": "2026-09-09",
     "saved": false,
     "reference_kind": "mixed_cg_live_action",
-    "note": "已核對獨立預覽與作者資料。包含 CG 與實拍合成。動態僅在有對應作者描述時標記，未完成全片逐段動態分析。影片透過 Instagram 嵌入播放。",
+    "note": "已複查原影片的多個連續時間點；僅將有秒數證據的動作標為已確認，尚未完成全片審核。",
     "tag_review": {
       "status": "partial",
       "dimension_status": {
         "subject": "reviewed",
         "material": "appearance_reviewed",
         "color": "reviewed",
-        "motion": "author_caption_reviewed"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_reviewed": false,
+      "motion_sampled": true,
+      "checked_dimensions": [
+        "motion"
+      ]
     },
-    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review"
+    "capture_source": "Original Instagram DOM media and dates; individual external preview / rendered frame review",
+    "motion_review": {
+      "id": "brand2025-DRUIAOJF7eS-5",
+      "duration_seconds": 7.466666,
+      "sample_times": [
+        0.531844,
+        1.236004,
+        1.939043,
+        2.632471,
+        3.333053,
+        4.040907,
+        4.752455,
+        5.44165
+      ],
+      "events": [
+        {
+          "start": 3.333053,
+          "end": 4.040907,
+          "terms": [
+            "fracture",
+            "debris shedding"
+          ],
+          "description": "牆面板塊沿裂縫脫離，碎片向外散出並落向地面，渲染版本可見碎屑與塵霧。"
+        }
+      ],
+      "comment": "",
+      "reviewed_at": "2026-09-09",
+      "source_url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=5",
+      "media_index": 5,
+      "status": "sampled",
+      "review_batch": "motion-rereview-20260909"
+    }
   },
   {
     "id": "brand2025-DK1jvT6NW2a-1",
