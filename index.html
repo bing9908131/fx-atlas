@@ -115,12 +115,14 @@ function releaseMedia(root){
 document.addEventListener('visibilitychange',()=>{if(document.hidden)pauseAll();else syncPlayback()});
 window.addEventListener('pagehide',pauseAll);
 
-function expand(q){q=q.toLowerCase().trim().replace(/^#/,'');return [...new Set([q,...synonyms.filter(g=>g.includes(q)).flat()])].filter(Boolean)}
+const liquidTerms=['fluid','liquid','liquids','流體','液體','流體物件','流體動畫'];
+function expand(q){q=q.toLowerCase().trim().replace(/^#/,'');if(liquidTerms.includes(q))return liquidTerms;return [...new Set([q,...synonyms.filter(g=>g.includes(q)).flat()])].filter(Boolean)}
 const creatorAliases={studiotendril:['Tendril','Studio Tendril'],panoplycreative:['Panoply','Panoply Creative'],buildersclub_studios:['Builders Club'],found_studio:['Found','Found Studio'],mondlichtstudios:['Mondlicht Studios','Mondlicht Studio'],general_definition:['General Definition'],_studiomulti:['Studio Multi'],'yacht.studio':['Yacht Studio'],sidefxhoudini:['SideFX','SideFX Houdini']};
 function credits(i){return [i.creator,i.publisher,i.studio,i.production_company,...(i.collaborators||[]),...String(i.creator||'').split(' · ').flatMap(name=>creatorAliases[name]||[]),...(i.credit_aliases||[])].filter(Boolean)}
 function creditKey(s){return String(s).normalize('NFKC').toLowerCase().replace(/[\s@._·-]+/g,'')}
 function productTerms(i){return [...(i.brands||[]).flatMap(b=>[b.en,b.zh,...(b.aliases||[])]),...(i.product_models||[]).flatMap(m=>[m.brand,m.name,...(m.aliases||[])])]}
-function hay(i){return [i.title,i.project,i.subtitle,...(i.styles||[]).flatMap(s=>[s.zh,s.en]),...credits(i),...productTerms(i),i.description,i.collection,i.caption_text,...i.tags.flatMap(t=>[t.en,t.zh,...(t.search_aliases||[])]),...i.related.flatMap(t=>[t.en,t.zh]),...i.caption].join(' ').toLowerCase()}
+function tagTerms(i){return (i.tags||[]).flatMap(t=>[t.en,t.zh,...(t.search_aliases||[])]).filter(Boolean).map(t=>String(t).normalize('NFKC').toLowerCase())}
+function hay(i){return [...tagTerms(i),...(i.styles||[]).flatMap(s=>[s.zh,s.en]),...credits(i),...productTerms(i)].join(' ').normalize('NFKC').toLowerCase()}
 function containsTerm(text,term){return text.includes(term)}
 const phraseTerms=new Set(synonyms.flat().filter(w=>w.includes(' ')));
 const queryCache=new Map();
@@ -135,7 +137,10 @@ function queryParts(q){
  }
  if(queryCache.size>=100)queryCache.clear();queryCache.set(normalized,parts);return parts;
 }
-function matches(i,q){const text=hay(i),authors=credits(i).map(creditKey);return queryParts(q).every(part=>expand(part).some(w=>containsTerm(text,w)||(creditKey(w)&&authors.some(c=>c.includes(creditKey(w))))))}
+function matches(i,q){
+ const text=hay(i),tags=tagTerms(i),authors=credits(i).map(creditKey);
+ return queryParts(q).every(part=>containsTerm(text,part)||(creditKey(part)&&authors.some(c=>c.includes(creditKey(part))))||expand(part).some(w=>tags.includes(w)));
+}
 function image(i,extra=''){return `<img data-src="${esc(i.image)}" decoding="async" loading="lazy" alt="${esc(i.title)}" referrerpolicy="no-referrer" ${extra}>`}
 function tag(t,cls=''){return `<button class="tag ${cls}" data-query="${esc(t.en)}">${esc(t.en)}${t.en.toLowerCase()!==t.zh.toLowerCase()?' · '+esc(t.zh):''}</button>`}
 function scope(i){return i.group==='expansion'?'作品影片參考':i.group==='ref'?'延伸貼文預覽':i.total>1?`輪播 ${i.index} / ${i.total}`:i.type==='image'?'獨立圖片':'獨立影片'}
