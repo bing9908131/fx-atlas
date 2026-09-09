@@ -11224,5 +11224,5774 @@
     },
     "capture_source": "Instagram original post DOM and individual media screenshot",
     "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaiT6GMFG1G-2",
+    "post_id": "DaiT6GMFG1G",
+    "title": "Interstellar Arc · 太空服內層",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空服內層",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/732986304_18599520529037186_5753246826335617992_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzkzNjc5NjMxNzY4NTY1Nzc2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=jF3bxM2SZ1oQ7kNvwG1JUxy&_nc_oc=AdqZ4OF7tg-LlxH8BST5CV6_1vQS_sAp6rBnxPG95xWPwAB_3iweSRh7CuRXp8wiZb8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=mNADlpBDu32nyRpAU4tbJg&_nc_ss=7a22e&oh=00_AQLwvUzf-1g1jsnvdnj3DhbjjBGJNuvCF0PVB83KQo09cg&oe=6AA6C468",
+    "url": "https://www.instagram.com/michaelrigley/p/DaiT6GMFG1G/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-07-08T14:59:05.000Z",
+    "duration": "",
+    "ratio": "0.7523597937830314 / 1",
+    "description": "畫面包含太空服、頭盔、接頭；材質外觀為織物、網布、硬質外殼；主要顏色為白色、灰色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；太空服。"
+      },
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；頭盔。"
+      },
+      {
+        "en": "connector",
+        "zh": "接頭",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；接頭。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；織物。"
+      },
+      {
+        "en": "mesh",
+        "zh": "網布",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；網布。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；硬質外殼。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；灰色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；橘色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 太空服內層；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "We approached the suit as a layered system.\n\nAt its core, a biometric compression layer supporting cryogenic sleep, life support, and physiological monitoring throughout the journey. Built around that is a more familiar outer garment - pockets/seams/zippers/etc. Familiar and functional details that help ground the suit within the world of civilian space travel.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaiT6GMFG1G-3",
+    "post_id": "DaiT6GMFG1G",
+    "title": "Interstellar Arc · 太空服外套",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空服外套",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/734458604_18599520562037186_147378723396323438_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzNjc5NjMxODM1NjgyNzk1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTY3NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=V4ra3wYe4CIQ7kNvwEx8cHu&_nc_oc=Adr8FkHtDS7eqwR0Rm6eqhFFLTfzQTSSuSNuqLuh9d7gmr0tt42jRTE9ElXCnhZPo90&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=mNADlpBDu32nyRpAU4tbJg&_nc_ss=7a22e&oh=00_AQIhdRjYik598gaj8C7UqCs0ZBVeVIxKUJ5P1abMYgOolQ&oe=6AA6C63C",
+    "url": "https://www.instagram.com/michaelrigley/p/DaiT6GMFG1G/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-07-08T14:59:05.000Z",
+    "duration": "",
+    "ratio": "0.7523597937830314 / 1",
+    "description": "畫面包含太空服、外套、頭盔；材質外觀為織物、平滑表面、硬質外殼；主要顏色為白色、灰色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；太空服。"
+      },
+      {
+        "en": "jacket",
+        "zh": "外套",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；外套。"
+      },
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；頭盔。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；織物。"
+      },
+      {
+        "en": "smooth surface",
+        "zh": "平滑表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；平滑表面。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；硬質外殼。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；灰色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；橘色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 太空服外套；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "We approached the suit as a layered system.\n\nAt its core, a biometric compression layer supporting cryogenic sleep, life support, and physiological monitoring throughout the journey. Built around that is a more familiar outer garment - pockets/seams/zippers/etc. Familiar and functional details that help ground the suit within the world of civilian space travel.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaiT6GMFG1G-4",
+    "post_id": "DaiT6GMFG1G",
+    "title": "Interstellar Arc · 太空服頭燈",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空服頭燈",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/735257287_18599520553037186_8207117919013447399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzkzNjc5NjMxOTIzNzU3NjY1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SnJVp069WmEQ7kNvwGCZG3t&_nc_oc=Adro99-uQp93RbffapvztuvJ4rO9Iitp8zQyfwE4tuik8emFWfgXmgoRDiMEFREdnuI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=mNADlpBDu32nyRpAU4tbJg&_nc_ss=7a22e&oh=00_AQJrRTAgak5Vso66xDb-mu72xcaxQO_sd96aKn_5RDC0mw&oe=6AA6C17F",
+    "url": "https://www.instagram.com/michaelrigley/p/DaiT6GMFG1G/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-07-08T14:59:05.000Z",
+    "duration": "",
+    "ratio": "0.7502751852193505 / 1",
+    "description": "畫面包含太空服、頭盔、光束；材質外觀為織物、反射表面；主要顏色為黑色、灰色、白色、橘色。",
+    "tags": [
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；太空服。"
+      },
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；頭盔。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；光束。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；織物。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；反射表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；黑色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；灰色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 太空服頭燈；橘色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "We approached the suit as a layered system.\n\nAt its core, a biometric compression layer supporting cryogenic sleep, life support, and physiological monitoring throughout the journey. Built around that is a more familiar outer garment - pockets/seams/zippers/etc. Familiar and functional details that help ground the suit within the world of civilian space travel.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaiT6GMFG1G-5",
+    "post_id": "DaiT6GMFG1G",
+    "title": "Interstellar Arc · 織物徽標微距",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 織物徽標微距",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/741215349_18599520544037186_3999127165000635142_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzNjc5NjMyMDQxMjE5MjEwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=400W0LJAB-MQ7kNvwGs6bJ4&_nc_oc=AdrC1ijzrDiQZ3XBpm_-epuvOJqkDLqHEM4IjJHrPCTg3uKG4Ko1lpMc-sMQv2LGQR4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=mNADlpBDu32nyRpAU4tbJg&_nc_ss=7a22e&oh=00_AQJjmKzwcrtXO8dbC7CCyhIlHGiprrRNlAfMVMLGh6H5Mg&oe=6AA6B0C5",
+    "url": "https://www.instagram.com/michaelrigley/p/DaiT6GMFG1G/?img_index=5",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 5,
+    "media_index": 5,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-07-08T14:59:05.000Z",
+    "duration": "",
+    "ratio": "0.7502751852193505 / 1",
+    "description": "畫面包含織物、標誌、六角圖紋；材質外觀為網布、編織布料；主要顏色為橘色、白色、灰色。",
+    "tags": [
+      {
+        "en": "textile",
+        "zh": "織物",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；織物。"
+      },
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；標誌。"
+      },
+      {
+        "en": "hexagonal pattern",
+        "zh": "六角圖紋",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；六角圖紋。"
+      },
+      {
+        "en": "mesh",
+        "zh": "網布",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；網布。"
+      },
+      {
+        "en": "woven fabric",
+        "zh": "編織布料",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；編織布料。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；橘色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 織物徽標微距；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "We approached the suit as a layered system.\n\nAt its core, a biometric compression layer supporting cryogenic sleep, life support, and physiological monitoring throughout the journey. Built around that is a more familiar outer garment - pockets/seams/zippers/etc. Familiar and functional details that help ground the suit within the world of civilian space travel.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaN-N33Gt-v-1",
+    "post_id": "DaN-N33Gt-v",
+    "title": "Interstellar Arc · 頭盔機能圖",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 頭盔機能圖",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/730376453_18597163126037186_3904510496331395247_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzMTA3MDk2NjA2NjE4ODQ5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9lhjYZ0os14Q7kNvwFFkdIj&_nc_oc=AdoQ_1CMH3vfooiJ4a2WASGXFxUIin7LIyMDpDXW3dyh1TpBJomqPu0li0fOtkVQBVQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=5zgSQT2h_z184b6V00dwyA&_nc_ss=7a22e&oh=00_AQKNtijMDBHs0uxg6QMswhcQtcKO1SFhtyD4oqK6Dzkx8g&oe=6AA6D8C1",
+    "url": "https://www.instagram.com/michaelrigley/p/DaN-N33Gt-v/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-06-30T17:24:44.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含頭盔、接頭、技術圖解；材質外觀為金屬、硬質外殼、織物；主要顏色為灰色、白色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；頭盔。"
+      },
+      {
+        "en": "connector",
+        "zh": "接頭",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；接頭。"
+      },
+      {
+        "en": "technical diagram",
+        "zh": "技術圖解",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；技術圖解。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；金屬。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；硬質外殼。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；織物。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；灰色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；橘色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/6：Interstellar Arc · 頭盔機能圖；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaN-N33Gt-v-2",
+    "post_id": "DaN-N33Gt-v",
+    "title": "Interstellar Arc · 頭盔後側機構",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 頭盔後側機構",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/731113976_18597163147037186_5398201020932778785_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzkzMTA3MDk2NjgzNzk0MTUzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QTamZLKhW0AQ7kNvwEID_CU&_nc_oc=AdoYAgj9-CAlNzuJs5n__RWfVwGoeXx3Byzn0L2cJvF8rTJqF7Iv4l3mmkCHdu_sNoo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=5zgSQT2h_z184b6V00dwyA&_nc_ss=7a22e&oh=00_AQJMg827Cwjci14A9f14N8dpS3zjD2kY3mdBqBALwGudsA&oe=6AA6C554",
+    "url": "https://www.instagram.com/michaelrigley/p/DaN-N33Gt-v/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-06-30T17:24:44.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含頭盔、接頭、技術圖解；材質外觀為金屬、硬質外殼、織物；主要顏色為灰色、白色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；頭盔。"
+      },
+      {
+        "en": "connector",
+        "zh": "接頭",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；接頭。"
+      },
+      {
+        "en": "technical diagram",
+        "zh": "技術圖解",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；技術圖解。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；金屬。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；硬質外殼。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；織物。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；灰色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；橘色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/6：Interstellar Arc · 頭盔後側機構；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaN-N33Gt-v-4",
+    "post_id": "DaN-N33Gt-v",
+    "title": "Interstellar Arc · 機械手套",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 機械手套",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/731113982_18597163138037186_7853032998275365517_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMTA3MDk2ODMwNTgzMDU1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=eh0_qvrg710Q7kNvwHu2YMR&_nc_oc=AdoLY6OpMl5ez67L9fDLEhq0w7ANvGnMbLaBmlZRI7jOlSiqfUjHMzUSR-ffrj0F_EI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=5zgSQT2h_z184b6V00dwyA&_nc_ss=7a22e&oh=00_AQIy-JXHkF4eZxBwsu9pETzZxU7hj79arbVHu3Q8mTljvA&oe=6AA6A6EF",
+    "url": "https://www.instagram.com/michaelrigley/p/DaN-N33Gt-v/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-06-30T17:24:44.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含手套、手指關節、手腕顯示器；材質外觀為網布、硬質外殼、金屬；主要顏色為白色、橘色、灰色、青色。",
+    "tags": [
+      {
+        "en": "glove",
+        "zh": "手套",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；手套。"
+      },
+      {
+        "en": "finger joint",
+        "zh": "手指關節",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；手指關節。"
+      },
+      {
+        "en": "wrist display",
+        "zh": "手腕顯示器",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；手腕顯示器。"
+      },
+      {
+        "en": "mesh",
+        "zh": "網布",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；網布。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；硬質外殼。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；金屬。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；橘色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；灰色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/6：Interstellar Arc · 機械手套；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaN-N33Gt-v-5",
+    "post_id": "DaN-N33Gt-v",
+    "title": "Interstellar Arc · 太空靴",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空靴",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/730498917_18597163129037186_7526543865196516104_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkzMTA3MDk2ODY1ODE0NjQ3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gX_nLB0sGyEQ7kNvwE52nqW&_nc_oc=AdouQkcWRmMntwHk3_IaPLBdcRSKyUoh8NG_Q9tWaaT9kCf6vDYAh5_PT5XVag-XT9o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=5zgSQT2h_z184b6V00dwyA&_nc_ss=7a22e&oh=00_AQJbSAZA-BKPf6Ft446PCGoO3GfcnSrEKZoifMXOzEXMOA&oe=6AA6D0D1",
+    "url": "https://www.instagram.com/michaelrigley/p/DaN-N33Gt-v/?img_index=5",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 5,
+    "media_index": 5,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-06-30T17:24:44.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含靴子、扣具、鞋底；材質外觀為織物、橡膠、半透明表面；主要顏色為白色、橘色、灰色。",
+    "tags": [
+      {
+        "en": "boot",
+        "zh": "靴子",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；靴子。"
+      },
+      {
+        "en": "buckle",
+        "zh": "扣具",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；扣具。"
+      },
+      {
+        "en": "outsole",
+        "zh": "鞋底",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；鞋底。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；織物。"
+      },
+      {
+        "en": "rubber",
+        "zh": "橡膠",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；橡膠。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；半透明表面。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；橘色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/6：Interstellar Arc · 太空靴；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaN-N33Gt-v-6",
+    "post_id": "DaN-N33Gt-v",
+    "title": "Interstellar Arc · 透明面罩",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 透明面罩",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/731187627_18597163159037186_8461231849324679007_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkzMTA3MDk2OTc1NzI0NDU3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=i8l2ZFLq9RMQ7kNvwF3UVj2&_nc_oc=Adqe6vuriCC2RDiqUK7rKzNM3sZs4CVY_f1LOciGRVlmAF6n6c0R2swpEB8TvQh0ukU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=5zgSQT2h_z184b6V00dwyA&_nc_ss=7a22e&oh=00_AQKobdH-WzLuE5Gb2qnLv551cI_m_LQbx1FHf25haFVsrQ&oe=6AA6B5BE",
+    "url": "https://www.instagram.com/michaelrigley/p/DaN-N33Gt-v/?img_index=6",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 6,
+    "media_index": 6,
+    "total": 6,
+    "type": "image",
+    "published_at": "2026-06-30T17:24:44.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含頭盔、面罩、衣領；材質外觀為霧化表面、半透明表面、織物、金屬；主要顏色為白色、橘色、灰色。",
+    "tags": [
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；頭盔。"
+      },
+      {
+        "en": "visor",
+        "zh": "面罩",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；面罩。"
+      },
+      {
+        "en": "collar",
+        "zh": "衣領",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；衣領。"
+      },
+      {
+        "en": "frosted surface",
+        "zh": "霧化表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；霧化表面。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；半透明表面。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；織物。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；金屬。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；橘色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 6/6：Interstellar Arc · 透明面罩；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DZp2BoplF_4-1",
+    "post_id": "DZp2BoplF_4",
+    "title": "Interstellar Arc · 太空服肩背",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空服肩背",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/724216475_18592741546037186_1779848291046032004_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkyMDkwMjE0NDIxMDI2MzQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s0qLbDsCNcEQ7kNvwHv32fQ&_nc_oc=AdqmgnZZqu56Rd5ZEpdCUG4D3DKwauX4icaotTN4XZkuVRuJfXxTsXNjHzrkHevkMlY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=fHIZebwRmNMAWsIw_mrUdA&_nc_ss=7a22e&oh=00_AQKOqnYAsyLaB3d1w8c9t1B57op1QsiEs3IcnK7SuB9YwQ&oe=6AA6B400",
+    "url": "https://www.instagram.com/michaelrigley/p/DZp2BoplF_4/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-06-16T16:40:30.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含太空服、頭盔、接頭；材質外觀為織物、網布、硬質外殼；主要顏色為白色、灰色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；太空服。"
+      },
+      {
+        "en": "helmet",
+        "zh": "頭盔",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；頭盔。"
+      },
+      {
+        "en": "connector",
+        "zh": "接頭",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；接頭。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；織物。"
+      },
+      {
+        "en": "mesh",
+        "zh": "網布",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；網布。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；硬質外殼。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；灰色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；橘色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服肩背；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DZp2BoplF_4-2",
+    "post_id": "DZp2BoplF_4",
+    "title": "Interstellar Arc · 數位人臉微距",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 數位人臉微距",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/724459782_18592741564037186_4285940682779901862_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=MzkyMDkwMjE0NDU4Nzc1NDM5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=uITSTjhHCCgQ7kNvwHFiw8O&_nc_oc=AdruZvvgfs3pUZ-Tgs2mQ9sFpXKjSc0TU6xiPI9V2OxbCZ5SwvGMDmwoi3KbNF7uMd0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=fHIZebwRmNMAWsIw_mrUdA&_nc_ss=7a22e&oh=00_AQJVmCr66MyXH6du0all1-D2ZFjaedKZY_38ADogbVd5Ow&oe=6AA6CD6C",
+    "url": "https://www.instagram.com/michaelrigley/p/DZp2BoplF_4/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-06-16T16:40:30.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含人臉、全息影像、掃描線、六角網格；材質外觀為半透明表面、虹彩表面；主要顏色為青色、白色、灰色、黃色。",
+    "tags": [
+      {
+        "en": "human face",
+        "zh": "人臉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；人臉。"
+      },
+      {
+        "en": "hologram",
+        "zh": "全息影像",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；全息影像。"
+      },
+      {
+        "en": "scanline",
+        "zh": "掃描線",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；掃描線。"
+      },
+      {
+        "en": "hexagonal mesh",
+        "zh": "六角網格",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；六角網格。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；半透明表面。"
+      },
+      {
+        "en": "iridescent surface",
+        "zh": "虹彩表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；虹彩表面。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；青色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；灰色。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Interstellar Arc · 數位人臉微距；黃色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DZp2BoplF_4-3",
+    "post_id": "DZp2BoplF_4",
+    "title": "Interstellar Arc · 幾何標誌面板",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 幾何標誌面板",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/724407847_18592741582037186_8658580952695402229_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkyMDkwMjE0NDk1Njg5NTgzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fIYNbV0-6jEQ7kNvwFh2M7z&_nc_oc=Adq_fvRDVEZwff1pvC8YVnIzVY-hv96y86S7uVjsHIlVl70yg2lCtkeyyteW_757q30&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=fHIZebwRmNMAWsIw_mrUdA&_nc_ss=7a22e&oh=00_AQK2dDVRtLkt_tjAYqJvRFjLgQJEXB90mZGOKZl3UHKc2w&oe=6AA6D188",
+    "url": "https://www.instagram.com/michaelrigley/p/DZp2BoplF_4/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-06-16T16:40:30.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含標誌、數字、面板；材質外觀為平滑表面、半透明表面；主要顏色為白色、青色、灰色。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；標誌。"
+      },
+      {
+        "en": "number",
+        "zh": "數字",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；數字。"
+      },
+      {
+        "en": "panel",
+        "zh": "面板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；面板。"
+      },
+      {
+        "en": "smooth surface",
+        "zh": "平滑表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；平滑表面。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；半透明表面。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；白色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；青色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Interstellar Arc · 幾何標誌面板；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DZp2BoplF_4-4",
+    "post_id": "DZp2BoplF_4",
+    "title": "Interstellar Arc · 手套與拉鍊",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 手套與拉鍊",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/724004883_18592741573037186_984037673508533457_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkyMDkwMjE0NTkzODQ2NjExNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qwZc87DBbxAQ7kNvwHbuKjN&_nc_oc=Adojyt0DaF0oApelCd6-CUFKPt-HjKTFU9KWdnFYZvOC-djEn7seDEv-ondCclqkcGU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=fHIZebwRmNMAWsIw_mrUdA&_nc_ss=7a22e&oh=00_AQLt7tiHW-iuT0rh7B2cYC7PA0HquCI9XO0Oa1hqnsxZcw&oe=6AA6C672",
+    "url": "https://www.instagram.com/michaelrigley/p/DZp2BoplF_4/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-06-16T16:40:30.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含手套、拉鍊、手腕顯示器、太空服；材質外觀為織物、硬質外殼、金屬；主要顏色為白色、橘色、灰色。",
+    "tags": [
+      {
+        "en": "glove",
+        "zh": "手套",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；手套。"
+      },
+      {
+        "en": "zipper",
+        "zh": "拉鍊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；拉鍊。"
+      },
+      {
+        "en": "wrist display",
+        "zh": "手腕顯示器",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；手腕顯示器。"
+      },
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；太空服。"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；織物。"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；硬質外殼。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；金屬。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；白色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；橘色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Interstellar Arc · 手套與拉鍊；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DZp2BoplF_4-5",
+    "post_id": "DZp2BoplF_4",
+    "title": "Interstellar Arc · 虹彩人頭",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 虹彩人頭",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/724880434_18592741555037186_749814354907283132_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkyMDkwMjE0NjAxMzgyODE0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vElpsGz4yuEQ7kNvwEKhPOA&_nc_oc=AdqeljnNZwiORN2bhygv8cK_mpuUNmal3_MOWXeUYFiJyUIIDD6lYQheg8C93wVKnGI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=fHIZebwRmNMAWsIw_mrUdA&_nc_ss=7a22e&oh=00_AQLRyN2yMw38FNO7LfPP0YrtEbi6_m0mI1sXl8mieO79uQ&oe=6AA6A462",
+    "url": "https://www.instagram.com/michaelrigley/p/DZp2BoplF_4/?img_index=5",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 5,
+    "media_index": 5,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-06-16T16:40:30.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含人頭、六角網格、粒子、全息影像；材質外觀為虹彩表面、半透明表面；主要顏色為青色、白色、灰色。",
+    "tags": [
+      {
+        "en": "human head",
+        "zh": "人頭",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；人頭。"
+      },
+      {
+        "en": "hexagonal mesh",
+        "zh": "六角網格",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；六角網格。"
+      },
+      {
+        "en": "particle",
+        "zh": "粒子",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；粒子。"
+      },
+      {
+        "en": "hologram",
+        "zh": "全息影像",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；全息影像。"
+      },
+      {
+        "en": "iridescent surface",
+        "zh": "虹彩表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；虹彩表面。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；半透明表面。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；青色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；白色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Interstellar Arc · 虹彩人頭；灰色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DYPuxt-uWj3-1",
+    "post_id": "DYPuxt-uWj3",
+    "title": "Interstellar Arc · 線框圖形介面",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 線框圖形介面",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/694225172_1840558223306968_1328481798079430502_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzg5NTUzNzkyOTQ2MzM1OTczNTE3MTg2ODMxMTI0NTQzNTQ%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_dx45yESZEIQ7kNvwHb4MMS&_nc_oc=AdqizbJRKadAfqVliUqeJ7utdGvZJZ-pVjO9jyG5UR5b7VEB7R2vaaeTs8R5zKjrG78&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=zCBtq-BkhB8nHB0MqAjB8w&_nc_ss=7a22e&oh=00_AQJfRXO0X4oVUaDR7vLlOlMfPQ_iwPjqtuQGvBfZGR-BsA&oe=6AA6C0A4",
+    "url": "https://www.instagram.com/michaelrigley/reel/DYPuxt-uWj3/",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2026-05-12T16:45:47.000Z",
+    "duration": "17.5s",
+    "ratio": "0.5625047207273677 / 1",
+    "description": "畫面包含圖形介面、標誌、字體、輪廓線；材質外觀為平面圖形；主要顏色為白色、灰色、黑色、橘色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；圖形介面。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；標誌。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；字體。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "outline",
+        "zh": "輪廓線",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；輪廓線。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；平面圖形。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；白色。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；灰色。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；黑色。取樣秒數：[10.19248]"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Interstellar Arc · 線框圖形介面；橘色。取樣秒數：[10.19248]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        10.19248
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-8ATPKvEay-1",
+    "post_id": "C-8ATPKvEay",
+    "title": "Marathon · 紅色故障介面",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 紅色故障介面",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/656255807_18101467213738234_8142955170820161470_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzQzOTYyNTUyODcyODc4NTEzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0liAAmXI_NkQ7kNvwHgRZv6&_nc_oc=AdrdIddYtcIs_0O8p2awdRt-WXtB1U7mPq7IMk4QT14-oc8qRAFrj50v4ISrU5IuTWc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=PdxmE_NYY5ntNInLtHKMdg&_nc_ss=7a22e&oh=00_AQJ608YhCsW-qe3KC6PALjkVwuZOFKFV9akH4pDVPl9ddQ&oe=6AA6BF5B",
+    "url": "https://www.instagram.com/michaelrigley/p/C-8ATPKvEay/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-08-21T15:48:58.000Z",
+    "duration": "",
+    "ratio": "0.8000114211391736 / 1",
+    "description": "畫面包含圖形介面、字體、像素方塊、掃描線；材質外觀為平面圖形；主要顏色為紅色、粉紅色、黑色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；圖形介面。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；字體。"
+      },
+      {
+        "en": "pixel block",
+        "zh": "像素方塊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；像素方塊。"
+      },
+      {
+        "en": "scanline",
+        "zh": "掃描線",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；掃描線。"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；平面圖形。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；紅色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；粉紅色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Marathon · 紅色故障介面；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "Some concept frames from Marathon.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-8ATPKvEay-2",
+    "post_id": "C-8ATPKvEay",
+    "title": "Marathon · 藍紫掃描線",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 藍紫掃描線",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/649223220_17919178875268474_2107810336059583965_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzQzOTYyNTUyODcxMjA5NTMxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LCLJa3E87BkQ7kNvwFBZ9J3&_nc_oc=AdpH_xvIqQH8ssNnKrmf33WD4L3PNrcVkIqW7aeVMSpq3MZlVPtPE-25asR4jiEerSw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=PdxmE_NYY5ntNInLtHKMdg&_nc_ss=7a22e&oh=00_AQL1WQG0iqGbJG1vp6q3-6IBIoerm9bDIPDPUNnmKTLtyw&oe=6AA6A437",
+    "url": "https://www.instagram.com/michaelrigley/p/C-8ATPKvEay/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-08-21T15:48:58.000Z",
+    "duration": "",
+    "ratio": "0.8000114211391736 / 1",
+    "description": "畫面包含圖形介面、字體、條紋、掃描線；材質外觀為平面圖形；主要顏色為藍色、紫色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；圖形介面。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；字體。"
+      },
+      {
+        "en": "stripe",
+        "zh": "條紋",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；條紋。"
+      },
+      {
+        "en": "scanline",
+        "zh": "掃描線",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；掃描線。"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；平面圖形。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Marathon · 藍紫掃描線；紫色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "Some concept frames from Marathon.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-8ATPKvEay-3",
+    "post_id": "C-8ATPKvEay",
+    "title": "Marathon · 對稱圖形版式",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 對稱圖形版式",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/662181819_18080046905625721_2434403663900993903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=MzQzOTYyNTUyODg1NDUzODQyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nAgk7FYtnQQQ7kNvwE-DUgF&_nc_oc=Ado8l6MC8qJ1m345XiWV8yL0cbYNSbxZr0xbmYQj4LIlPvDwr-0XvwNiVu51AMZ1io8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=PdxmE_NYY5ntNInLtHKMdg&_nc_ss=7a22e&oh=00_AQILX0RaHYIaTyNWY35Tk0oY_7rerwHwyb8q3r-hga4L4w&oe=6AA6BDF1",
+    "url": "https://www.instagram.com/michaelrigley/p/C-8ATPKvEay/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-08-21T15:48:58.000Z",
+    "duration": "",
+    "ratio": "0.8000114211391736 / 1",
+    "description": "畫面包含圖形介面、數字、對稱圖案、條紋；材質外觀為平面圖形；主要顏色為灰色、米色、白色、藍色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；圖形介面。"
+      },
+      {
+        "en": "number",
+        "zh": "數字",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；數字。"
+      },
+      {
+        "en": "symmetric pattern",
+        "zh": "對稱圖案",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；對稱圖案。"
+      },
+      {
+        "en": "stripe",
+        "zh": "條紋",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；條紋。"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；平面圖形。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；灰色。"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；米色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；白色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Marathon · 對稱圖形版式；藍色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "Some concept frames from Marathon.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-8ATPKvEay-4",
+    "post_id": "C-8ATPKvEay",
+    "title": "Marathon · 藍黑數字圖形",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 藍黑數字圖形",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/649594619_17961596675997892_6141069277278438143_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzQzOTYyNTUyODg2MzAwOTMzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ahqzuajuzrkQ7kNvwHR4vbq&_nc_oc=Ado64znid83PeZR_AQStJs_q3V2MLZd1Ktb-_ZotsS4Yjem9fRF7pLcMFFVKWfgkYMw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=PdxmE_NYY5ntNInLtHKMdg&_nc_ss=7a22e&oh=00_AQJ20PC6W2PV-RO53h8C0Xo6rsQeVYQTlVjzjE6Qv2ZbKw&oe=6AA6C532",
+    "url": "https://www.instagram.com/michaelrigley/p/C-8ATPKvEay/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-08-21T15:48:58.000Z",
+    "duration": "",
+    "ratio": "0.8000114211391736 / 1",
+    "description": "畫面包含圖形介面、數字、字體、條紋；材質外觀為平面圖形；主要顏色為藍色、黑色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；圖形介面。"
+      },
+      {
+        "en": "number",
+        "zh": "數字",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；數字。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；字體。"
+      },
+      {
+        "en": "stripe",
+        "zh": "條紋",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；條紋。"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；平面圖形。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；藍色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Marathon · 藍黑數字圖形；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "Some concept frames from Marathon.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-tFKp_ygyY-1",
+    "post_id": "C-tFKp_ygyY",
+    "title": "Marathon · 像素干擾動畫",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 像素干擾動畫",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.71878-15/503269313_1208498290566236_4671559905592609569_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzQzNTQyNDgxMzI3NDUwMDI0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjMyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=aJrN3nDcowwQ7kNvwEFg-YV&_nc_oc=AdoAJs3ITBLXYm3xt_ZJSPdp6Sr7u4o02SyYZJZZ8cF1a7frG6mKsA4Ljr3awvhQir8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=zCBtq-BkhB8nHB0MqAjB8w&_nc_ss=7a22e&oh=00_AQLjb6eOAN6o8nA-hEzbVr1g9z_wzdFlDcpndzblkVJY-A&oe=6AA6BC4C",
+    "url": "https://www.instagram.com/michaelrigley/reel/C-tFKp_ygyY/",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2024-08-15T20:47:55.000Z",
+    "duration": "14.8s",
+    "ratio": "0.5625047207273677 / 1",
+    "description": "畫面包含像素方塊、字體、掃描線；材質外觀為平面圖形；主要顏色為紫色、藍色、粉紅色、青色、黑色。",
+    "tags": [
+      {
+        "en": "pixel block",
+        "zh": "像素方塊",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；像素方塊。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；字體。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "scanline",
+        "zh": "掃描線",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；掃描線。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；平面圖形。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；紫色。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；藍色。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；粉紅色。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；青色。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 像素干擾動畫；黑色。取樣秒數：[6.062657, 13.818552]"
+      },
+      {
+        "en": "glitch",
+        "zh": "故障干擾",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "6.063–13.819 秒：6.063 與 13.819 秒取樣中，像素方塊與條紋的邊界、長度與位置改變；作者亦標示為 glitch 動畫。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "More glitchiness from Marathon. This was one of the source animations before it was brought into the edit.",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "sampled"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [
+        {
+          "start": 6.063,
+          "end": 13.819,
+          "description": "6.063 與 13.819 秒取樣中，像素方塊與條紋的邊界、長度與位置改變；作者亦標示為 glitch 動畫。"
+        }
+      ],
+      "frame_times": [
+        6.062657,
+        13.818552
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-npBVwyp04-1",
+    "post_id": "C-npBVwyp04",
+    "title": "Marathon · 半透明圖形投影",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 半透明圖形投影",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/641586191_18570513181018104_4096905664890820810_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzQzMzg5MzY1Mjg4Njg4NzczNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iHpWAd5FDdMQ7kNvwFbHGOc&_nc_oc=AdqyRfzid2PtZOKoyE98uf78ucsdEoFQ39oe-OW0osBqQmib4e5fQcuTGUmd8Lyws5A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=ZisWKFtVJR24zSJB1njAGw&_nc_ss=7a22e&oh=00_AQL-iOmXbID9nhMk24YEHmkqIzVf4VC0iVDKa8MkfbsIwA&oe=6AA6D903",
+    "url": "https://www.instagram.com/michaelrigley/p/C-npBVwyp04/",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "image",
+    "published_at": "2024-08-13T18:00:44.000Z",
+    "duration": "",
+    "ratio": "0.7999999694361146 / 1",
+    "description": "畫面包含圖形介面、字體、數字、分層面板；材質外觀為半透明表面、發光表面；主要顏色為紫色、粉紅色、黃綠色、青色。",
+    "tags": [
+      {
+        "en": "graphic interface",
+        "zh": "圖形介面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；圖形介面。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；字體。"
+      },
+      {
+        "en": "number",
+        "zh": "數字",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；數字。"
+      },
+      {
+        "en": "layered panel",
+        "zh": "分層面板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；分層面板。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；半透明表面。"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；發光表面。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；粉紅色。"
+      },
+      {
+        "en": "yellow green",
+        "zh": "黃綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；黃綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/1：Marathon · 半透明圖形投影；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C-YN30OSw5Y-1",
+    "post_id": "C-YN30OSw5Y",
+    "title": "Marathon · 點陣與十字網格",
+    "subtitle": "Michael Rigley",
+    "project": "Marathon · 點陣與十字網格",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/503891722_1547120186247454_2292407446544658038_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzQyOTU1MjEyNjQ5Mjg3MjI4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjMyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=60pYsgzRAxMQ7kNvwG2LbxA&_nc_oc=Adpzpy3Xix-ZzHH9Uf1b-KLeTjT1lPkXGSAXLZASx4pDT0P6nrSHCoJriC1Be_2SYOU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=zCBtq-BkhB8nHB0MqAjB8w&_nc_ss=7a22e&oh=00_AQJ_1rUEHwwCaNdVvXtpuRuj32WKXXE9hfOho7zItCxPEQ&oe=6AA6CB0F",
+    "url": "https://www.instagram.com/michaelrigley/reel/C-YN30OSw5Y/",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2024-08-07T18:16:33.000Z",
+    "duration": "6.9s",
+    "ratio": "0.6428639226857444 / 1",
+    "description": "畫面包含點陣、十字標記、像素方塊；材質外觀為平面圖形、發光表面；主要顏色為黃綠色、青色、黑色、橘色。",
+    "tags": [
+      {
+        "en": "dot matrix",
+        "zh": "點陣",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；點陣。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "crosshair",
+        "zh": "十字標記",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；十字標記。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "pixel block",
+        "zh": "像素方塊",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；像素方塊。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；平面圖形。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；發光表面。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "yellow green",
+        "zh": "黃綠色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；黃綠色。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；青色。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；黑色。取樣秒數：[6.762649]"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Marathon · 點陣與十字網格；橘色。取樣秒數：[6.762649]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "Never got around to posting all my work from the Marathon reveal trailer last year. Some early animation tests here.",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        6.762649
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C92PbgmJK7I-1",
+    "post_id": "C92PbgmJK7I",
+    "title": "Alienware · 岩石柱狀晶體",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 岩石柱狀晶體",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/656294764_18086576528216598_691011672864163006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQxOTk4ODgyMDQ0MDI0NDU5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JcQLVteCSGsQ7kNvwEGJ5Po&_nc_oc=AdrzNXJC5ptOlm9Xv7FJjHaMGKKJZgyE3fjXWTWqoDHXyPJx132S3ZJMExtOv70XeLw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=HjBeW9fmbV4dBAb3F8X98w&_nc_ss=7a22e&oh=00_AQI7P9I1Lim3t4ThDr7RWdztvlbDqdeut1L_3t2hVmGN_Q&oe=6AA6A738",
+    "url": "https://www.instagram.com/michaelrigley/p/C92PbgmJK7I/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-25T13:34:20.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含岩石、柱狀晶體；材質外觀為石材、晶體、反射表面；主要顏色為黑色、紫色、青色、粉紅色。",
+    "tags": [
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；岩石。"
+      },
+      {
+        "en": "columnar crystal",
+        "zh": "柱狀晶體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；柱狀晶體。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；晶體。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；反射表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；黑色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；紫色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；青色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 岩石柱狀晶體；粉紅色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C92PbgmJK7I-2",
+    "post_id": "C92PbgmJK7I",
+    "title": "Alienware · 岩石虹彩金屬",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 岩石虹彩金屬",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/654310904_17995636559869181_6439090596735568656_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQxOTk4ODgyMDQ0MDI5NjQzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0vWRj5okBXAQ7kNvwENLe2J&_nc_oc=AdqdBr5F6PLsEab0AHfZiCZ1RJcw8uEElphgInKMf_2GQJ9zuUpfM64JS9lT7THcKto&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=HjBeW9fmbV4dBAb3F8X98w&_nc_ss=7a22e&oh=00_AQJMlSMQ8lcVB0grRzx63k1aFqPrxXsy9DrwAl7A8m0g3A&oe=6AA6CD21",
+    "url": "https://www.instagram.com/michaelrigley/p/C92PbgmJK7I/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-25T13:34:20.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含岩石、液態表面、粒子；材質外觀為石材、液態金屬、虹彩表面；主要顏色為黑色、紫色、粉紅色、藍色、橘色。",
+    "tags": [
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；岩石。"
+      },
+      {
+        "en": "liquid surface",
+        "zh": "液態表面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；液態表面。"
+      },
+      {
+        "en": "particle",
+        "zh": "粒子",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；粒子。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；石材。"
+      },
+      {
+        "en": "liquid metal",
+        "zh": "液態金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；液態金屬。"
+      },
+      {
+        "en": "iridescent surface",
+        "zh": "虹彩表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；虹彩表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；黑色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；粉紅色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；藍色。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 岩石虹彩金屬；橘色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C92PbgmJK7I-3",
+    "post_id": "C92PbgmJK7I",
+    "title": "Alienware · 懸浮晶礦",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 懸浮晶礦",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/655289674_17980774775976457_1099692349768671151_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzQxOTk4ODgyMDM5MDAyMzM4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vcfLm0E89Y8Q7kNvwE0MHeF&_nc_oc=Adp2eMQqPltfXm9QwhoQ-s4y5T8H_cZWxczethIAFN9mr4nQAMOkF-Db2T09NLjfSWk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=HjBeW9fmbV4dBAb3F8X98w&_nc_ss=7a22e&oh=00_AQJLLdsFqZf8lz6M23R7GFdLGy4_k-MNdmMhdLVPN5hJfQ&oe=6AA6AB73",
+    "url": "https://www.instagram.com/michaelrigley/p/C92PbgmJK7I/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-25T13:34:20.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含岩石、晶簇；材質外觀為石材、晶體、反射表面；主要顏色為黑色、紫色、粉紅色、青色。",
+    "tags": [
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；岩石。"
+      },
+      {
+        "en": "crystal cluster",
+        "zh": "晶簇",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；晶簇。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；晶體。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；反射表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；黑色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；粉紅色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 懸浮晶礦；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9xfQjAPCQL-1",
+    "post_id": "C9xfQjAPCQL",
+    "title": "Alienware · 鐘乳石與水面",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 鐘乳石與水面",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/657922500_18058736078427047_444996431207935376_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQxODY1MTA2MjA1NDAzNzE5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=s4-nixAcdoIQ7kNvwGh6U6e&_nc_oc=Adrd-rDbbosYvQHC6sfAtpQ2IQQBaEKyVz-PjvCdKxFA85kHu66y8MKSFV9sz-piGas&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=x4HGfYMPe1k8Rc1RSRvDLA&_nc_ss=7a22e&oh=00_AQIqwUMlYHBqggC4gc4EHVnx70L8wq9jQm1pCDuQTgxSvg&oe=6AA6AB3C",
+    "url": "https://www.instagram.com/michaelrigley/p/C9xfQjAPCQL/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-23T17:16:26.000Z",
+    "duration": "",
+    "ratio": "1 / 1",
+    "description": "畫面包含洞穴、鐘乳石、水面、岩石；材質外觀為石材、水、反射表面；主要顏色為黑色、藍色、紫色、青色。",
+    "tags": [
+      {
+        "en": "cave",
+        "zh": "洞穴",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；洞穴。"
+      },
+      {
+        "en": "stalactite",
+        "zh": "鐘乳石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；鐘乳石。"
+      },
+      {
+        "en": "water surface",
+        "zh": "水面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；水面。"
+      },
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；岩石。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；石材。"
+      },
+      {
+        "en": "water",
+        "zh": "水",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；水。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；反射表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；紫色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 鐘乳石與水面；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9xfQjAPCQL-2",
+    "post_id": "C9xfQjAPCQL",
+    "title": "Alienware · 晶簇洞穴湖泊",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 晶簇洞穴湖泊",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/656507962_18091692701331963_9110352997665198550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQxODY1MTA2MjAzNzMxNzc3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ziod2Jdoo5wQ7kNvwHIWDnv&_nc_oc=Adq79767djA0JbNLpNB1Tiui4zqhrsuszaVJHsnmPyrWahdgT2BSo8OVVbK3VvBi9bk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=x4HGfYMPe1k8Rc1RSRvDLA&_nc_ss=7a22e&oh=00_AQIBW8Z3IDHpR72EpbLmlyw0ooPq323V-FO4m0WOf1Yz3Q&oe=6AA6D4F5",
+    "url": "https://www.instagram.com/michaelrigley/p/C9xfQjAPCQL/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-23T17:16:26.000Z",
+    "duration": "",
+    "ratio": "1 / 1",
+    "description": "畫面包含洞穴、晶簇、湖泊、草葉；材質外觀為石材、晶體、水；主要顏色為黑色、藍色、紫色、青色。",
+    "tags": [
+      {
+        "en": "cave",
+        "zh": "洞穴",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；洞穴。"
+      },
+      {
+        "en": "crystal cluster",
+        "zh": "晶簇",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；晶簇。"
+      },
+      {
+        "en": "lake",
+        "zh": "湖泊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；湖泊。"
+      },
+      {
+        "en": "grass",
+        "zh": "草葉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；草葉。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；晶體。"
+      },
+      {
+        "en": "water",
+        "zh": "水",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；水。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；紫色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 晶簇洞穴湖泊；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9xfQjAPCQL-3",
+    "post_id": "C9xfQjAPCQL",
+    "title": "Alienware · 晶洞植物與石柱",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 晶洞植物與石柱",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/650727253_17938161414173908_2469965105227801305_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzQxODY1MTA2MjA1NDA4ODI5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1cUqyyHkT-QQ7kNvwHcvZNZ&_nc_oc=AdpMKqq7TJtgGxCOsBqnWIhklnWLgap956tmFpoCTD6QqDhulC2l8O37_irWGH9fRpg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=x4HGfYMPe1k8Rc1RSRvDLA&_nc_ss=7a22e&oh=00_AQIkQmH5tbWhOunSZ-PGMPDrdF4Qzw_piGtDi3xfK56MHA&oe=6AA6DB6F",
+    "url": "https://www.instagram.com/michaelrigley/p/C9xfQjAPCQL/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-23T17:16:26.000Z",
+    "duration": "",
+    "ratio": "1 / 1",
+    "description": "畫面包含洞穴、晶簇、植物、尖石柱；材質外觀為石材、晶體、有機表面；主要顏色為黑色、藍色、紫色、青色。",
+    "tags": [
+      {
+        "en": "cave",
+        "zh": "洞穴",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；洞穴。"
+      },
+      {
+        "en": "crystal cluster",
+        "zh": "晶簇",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；晶簇。"
+      },
+      {
+        "en": "plant",
+        "zh": "植物",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；植物。"
+      },
+      {
+        "en": "stone spire",
+        "zh": "尖石柱",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；尖石柱。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；晶體。"
+      },
+      {
+        "en": "organic surface",
+        "zh": "有機表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；有機表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；紫色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 晶洞植物與石柱；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9xfQjAPCQL-4",
+    "post_id": "C9xfQjAPCQL",
+    "title": "Alienware · 水岸晶柱",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 水岸晶柱",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/656267161_18206243008332106_8781088341461915014_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzQxODY1MTA2MjMwNTU2NzgzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yx_P9q4DzC4Q7kNvwHbwJcq&_nc_oc=AdoKVBn0rQXZN5nh7NKMSWpAQz29hf_V_tQPQDfpoYG1mKroVrKABZD-wIPWvqwC8KQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=x4HGfYMPe1k8Rc1RSRvDLA&_nc_ss=7a22e&oh=00_AQKHY-tKzGRoB4Di3gtmAme58A0h0-cBmLyIHA7SAygBRA&oe=6AA6BA38",
+    "url": "https://www.instagram.com/michaelrigley/p/C9xfQjAPCQL/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-23T17:16:26.000Z",
+    "duration": "",
+    "ratio": "1 / 1",
+    "description": "畫面包含洞穴、晶簇、水面、草葉；材質外觀為石材、晶體、水；主要顏色為黑色、藍色、紫色、青色。",
+    "tags": [
+      {
+        "en": "cave",
+        "zh": "洞穴",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；洞穴。"
+      },
+      {
+        "en": "crystal cluster",
+        "zh": "晶簇",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；晶簇。"
+      },
+      {
+        "en": "water surface",
+        "zh": "水面",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；水面。"
+      },
+      {
+        "en": "grass",
+        "zh": "草葉",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；草葉。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；晶體。"
+      },
+      {
+        "en": "water",
+        "zh": "水",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；水。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；紫色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 水岸晶柱；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9nLCbzvlTZ-1",
+    "post_id": "C9nLCbzvlTZ",
+    "title": "Alienware · 荒原光柱",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 荒原光柱",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/655937049_18115452466729836_5290862638353082962_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzQxNTc0NzM4MzA3NjQ1NjAzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OjNk-jlDe1MQ7kNvwEyJxe4&_nc_oc=AdperDr9CSs6s0EN1KBrIz1RTKzQmjMqEm8jTih3cCzEew4nxfF82ZTtlcuiAd0dSCk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=9Wgyi0g2d-m5jK_Mp7QVVw&_nc_ss=7a22e&oh=00_AQLd5ggrjsIOjx3vG3qcQIpInXcCk9D2A9MxBilwjrsxlA&oe=6AA6B73E",
+    "url": "https://www.instagram.com/michaelrigley/p/C9nLCbzvlTZ/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-19T17:07:21.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含地形、山脈、燈條、雲；材質外觀為石材、粗糙表面、發光表面；主要顏色為黑色、藍色、紫色、粉紅色。",
+    "tags": [
+      {
+        "en": "terrain",
+        "zh": "地形",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；地形。"
+      },
+      {
+        "en": "mountain",
+        "zh": "山脈",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；山脈。"
+      },
+      {
+        "en": "light bar",
+        "zh": "燈條",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；燈條。"
+      },
+      {
+        "en": "cloud",
+        "zh": "雲",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；雲。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；石材。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；粗糙表面。"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；發光表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/4：Alienware · 荒原光柱；粉紅色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9nLCbzvlTZ-2",
+    "post_id": "C9nLCbzvlTZ",
+    "title": "Alienware · 山谷光門",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 山谷光門",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/652380936_18082529357608375_4134915244640099006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzQxNTc0NzM4Mjg5MTkxMzcyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=g7c480M7aeUQ7kNvwHHb5ae&_nc_oc=AdrfbROvwI4KYisdzeSGDM2UGTuLEH75WZimw7dLITOVhbG4wehCRLuQlViZu9rc5mc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=9Wgyi0g2d-m5jK_Mp7QVVw&_nc_ss=7a22e&oh=00_AQJYudAWr6WXzyb1IHIlc9w-SpxQc6TApQWIq7MzEmxpxw&oe=6AA6A483",
+    "url": "https://www.instagram.com/michaelrigley/p/C9nLCbzvlTZ/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-19T17:07:21.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含傳送門、山脈、凹坑；材質外觀為石材、粗糙表面、發光表面；主要顏色為黑色、藍色、紫色、粉紅色、青色。",
+    "tags": [
+      {
+        "en": "portal",
+        "zh": "傳送門",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；傳送門。"
+      },
+      {
+        "en": "mountain",
+        "zh": "山脈",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；山脈。"
+      },
+      {
+        "en": "crater",
+        "zh": "凹坑",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；凹坑。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；石材。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；粗糙表面。"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；發光表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；粉紅色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Alienware · 山谷光門；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9nLCbzvlTZ-3",
+    "post_id": "C9nLCbzvlTZ",
+    "title": "Alienware · 岩地光幕",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 岩地光幕",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/654940637_18086256842584425_7571057314683112990_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=MzQxNTc0NzM4MzAxNzg0NjM2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lv22J8iGXUEQ7kNvwHWhF8L&_nc_oc=AdobbT4Ry87x7iJD9-ZgWgZ936D4N5b-vXHFZHpCd8FVSut1-nEjOWpjm7ryp3fwK10&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=9Wgyi0g2d-m5jK_Mp7QVVw&_nc_ss=7a22e&oh=00_AQL2ealSbDACSVofmbKhBWRYr72JeFxTUoD0Ypm1HPpDpA&oe=6AA6D98C",
+    "url": "https://www.instagram.com/michaelrigley/p/C9nLCbzvlTZ/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-19T17:07:21.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含光幕、地形、山脈；材質外觀為石材、發光表面；主要顏色為藍色、青色、粉紅色、紫色、黑色。",
+    "tags": [
+      {
+        "en": "light sheet",
+        "zh": "光幕",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；光幕。"
+      },
+      {
+        "en": "terrain",
+        "zh": "地形",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；地形。"
+      },
+      {
+        "en": "mountain",
+        "zh": "山脈",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；山脈。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；石材。"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；發光表面。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；藍色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；青色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；粉紅色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；紫色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Alienware · 岩地光幕；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9nLCbzvlTZ-4",
+    "post_id": "C9nLCbzvlTZ",
+    "title": "Alienware · 岩地筆電展示",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 岩地筆電展示",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/669862474_18118114954633510_1834071392344144696_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzQxNTc0NzM4MzA1OTU1Mzc4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LsUkORX8FcgQ7kNvwGeugw8&_nc_oc=AdqehNLHeEX5oIdpLDOqCX8_Ds9xlshKyeOfcYySh8irJnFdH9U9AiJZGwjoKzwxxFI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=9Wgyi0g2d-m5jK_Mp7QVVw&_nc_ss=7a22e&oh=00_AQJ61nO8vAe2bDLrZadd-HprPx7C5Y6275IXGA0jbCyFhw&oe=6AA6D5A0",
+    "url": "https://www.instagram.com/michaelrigley/p/C9nLCbzvlTZ/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "type": "image",
+    "published_at": "2024-07-19T17:07:21.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含筆記型電腦、岩石、雲、燈條；材質外觀為金屬、石材、平滑表面；主要顏色為黑色、銀色、藍色、粉紅色、彩虹色。",
+    "tags": [
+      {
+        "en": "laptop",
+        "zh": "筆記型電腦",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；筆記型電腦。"
+      },
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；岩石。"
+      },
+      {
+        "en": "cloud",
+        "zh": "雲",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；雲。"
+      },
+      {
+        "en": "light strip",
+        "zh": "燈條",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；燈條。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；金屬。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；石材。"
+      },
+      {
+        "en": "smooth surface",
+        "zh": "平滑表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；平滑表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；黑色。"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；銀色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；藍色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；粉紅色。"
+      },
+      {
+        "en": "rainbow",
+        "zh": "彩虹色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Alienware · 岩地筆電展示；彩虹色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9hrEhEpEK0-1",
+    "post_id": "C9hrEhEpEK0",
+    "title": "Alienware · 晶體階梯微距",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 晶體階梯微距",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/655126645_18117987088714210_1553129949653020714_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQxNDE5OTQxMDAzNzg0OTE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LimMprM3ZncQ7kNvwEmWdgM&_nc_oc=AdqM9ZdE3tFzQ2Mb6JxldqOjp1prtbrtesl0YvOonGjFWV-NcJ3XliWJEwxIWC5GK4k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=mGPm_ApWSZXImR-Q6L9qbw&_nc_ss=7a22e&oh=00_AQLK49JQKQQP6XwucwZBX6sCNc7ghlDZYTVjiUEo1yZmJQ&oe=6AA6D40B",
+    "url": "https://www.instagram.com/michaelrigley/p/C9hrEhEpEK0/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-17T13:51:48.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含晶體、岩石、階梯結構；材質外觀為晶體、石材、反射表面；主要顏色為紫色、粉紅色、黑色、藍色。",
+    "tags": [
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；晶體。"
+      },
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；岩石。"
+      },
+      {
+        "en": "stepped structure",
+        "zh": "階梯結構",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；階梯結構。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；晶體。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；石材。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；反射表面。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；紫色。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；粉紅色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 1/3：Alienware · 晶體階梯微距；藍色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9hrEhEpEK0-2",
+    "post_id": "C9hrEhEpEK0",
+    "title": "Alienware · 礦石與光束",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 礦石與光束",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/651962826_18003943904871830_2703562578926550397_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzQxNDE5OTQxMDAyOTI0MzI5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=izW9eXOCC8sQ7kNvwGRB_Zb&_nc_oc=AdoFLt4ocdKjrFK6l5NBi--KBzeIa1uuUMm_VplTN84zBsXp2hnraZUq5T1u4KBKg9g&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=mGPm_ApWSZXImR-Q6L9qbw&_nc_ss=7a22e&oh=00_AQKxTwpJtb3oYVxwl5LQME6ml7UsNkF1pF67t8uWUHOwaA&oe=6AA6CAAF",
+    "url": "https://www.instagram.com/michaelrigley/p/C9hrEhEpEK0/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-17T13:51:48.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含岩石、光束、碎石、晶體；材質外觀為石材、晶體、粗糙表面；主要顏色為黑色、灰色、藍色、紫色。",
+    "tags": [
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；岩石。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；光束。"
+      },
+      {
+        "en": "gravel",
+        "zh": "碎石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；碎石。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；晶體。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；石材。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；晶體。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；粗糙表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；黑色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；灰色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/3：Alienware · 礦石與光束；紫色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C9hrEhEpEK0-3",
+    "post_id": "C9hrEhEpEK0",
+    "title": "Alienware · 藍色透光礦層",
+    "subtitle": "Michael Rigley",
+    "project": "Alienware · 藍色透光礦層",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/655917954_18076252844387538_6729566102806092720_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzQxNDE5OTQxMDA3MTI3MzI1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7DPocqIxOYQQ7kNvwHHIoRl&_nc_oc=AdostyS-XidicLgKE0eofKfqETkbYVPE6BrlD-vXHeIHJpUVQIKLHlzSJ4S3Xt7q1sk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=mGPm_ApWSZXImR-Q6L9qbw&_nc_ss=7a22e&oh=00_AQLcGykpB6WIZoY52zIdTZiuwcuXVFc8lmdIDcFftCG3LA&oe=6AA6D9D1",
+    "url": "https://www.instagram.com/michaelrigley/p/C9hrEhEpEK0/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 3,
+    "type": "image",
+    "published_at": "2024-07-17T13:51:48.000Z",
+    "duration": "",
+    "ratio": "1.777815982941572 / 1",
+    "description": "畫面包含岩石、晶體、裂縫；材質外觀為石材、半透明表面、晶體；主要顏色為黑色、藍色、青色。",
+    "tags": [
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；岩石。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；晶體。"
+      },
+      {
+        "en": "crack",
+        "zh": "裂縫",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；裂縫。"
+      },
+      {
+        "en": "stone",
+        "zh": "石材",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；石材。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；半透明表面。"
+      },
+      {
+        "en": "crystal",
+        "zh": "晶體",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；晶體。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；藍色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/3：Alienware · 藍色透光礦層；青色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-C2anZKAPvyl-1",
+    "post_id": "C2anZKAPvyl",
+    "title": "Ash Thorp × Michael Rigley · 幾何字體動畫",
+    "subtitle": "Michael Rigley",
+    "project": "Ash Thorp × Michael Rigley · 幾何字體動畫",
+    "creator": "ashthorp",
+    "publisher": "ashthorp",
+    "source_accounts": [
+      "michaelrigley",
+      "ashthorp"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "ashthorp",
+      "Michael Rigley",
+      "Ash Thorp",
+      "ashthorp"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/503262638_1847586789119139_4597372912403279835_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzI4NjExMjEzMDY2MjU5NTc0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=CdEcxDsbNeEQ7kNvwFP97kV&_nc_oc=AdqcFho6Iqf3EW_9Ko1FvxANdp4ETLNyxLGpcWJc4_YvjXgUCBleKPC6qPGvXS6qhJA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=zCBtq-BkhB8nHB0MqAjB8w&_nc_ss=7a22e&oh=00_AQKkXGWcvfvOAM4R1W0_WOBNFIhEhk_x1D-jxPQa5P5FrQ&oe=6AA69F95",
+    "url": "https://www.instagram.com/ashthorp/reel/C2anZKAPvyl/",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 1,
+    "type": "video",
+    "published_at": "2024-01-22T20:29:52.000Z",
+    "duration": "130.8s",
+    "ratio": "1.7763330041236465 / 1",
+    "description": "畫面包含字體、幾何形狀、點狀網格；材質外觀為平面圖形；主要顏色為黑色、紅色、藍色、綠色、白色、橘色。",
+    "tags": [
+      {
+        "en": "typography",
+        "zh": "字體",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；字體。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "geometric shape",
+        "zh": "幾何形狀",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；幾何形狀。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "dot grid",
+        "zh": "點狀網格",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；點狀網格。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "flat graphic",
+        "zh": "平面圖形",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；平面圖形。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；黑色。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；紅色。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；藍色。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；綠色。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；白色。取樣秒數：[6.906038, 17.123882]"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/1：Ash Thorp × Michael Rigley · 幾何字體動畫；橘色。取樣秒數：[6.906038, 17.123882]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "A truly special project to me that has held through the test of time. Couldn’t have been made without this exceptional group of amazing talent I am humbled and thankful to know and work with.\n-\nDirector - @ashthorp \nComposer - @pilotpriest \nProducer - Andrew Hawryluk \nArt Director - @michaelrigley \nType Designer - @nic.girard \nDesigners - Ash Thorp + Michael Rigley + Nicolas Girard\nType Animators - Nicolas Girard + @alasdairwillson \nAnimators - Michael Rigley + @chris_bjerre + Andrew Hawryluk\nComputational Artist -  @albertomoss \nProcess Editor - @franckderon",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        6.906038,
+        17.123882
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DdCI3HdmsjP-1",
+    "post_id": "DdCI3HdmsjP",
+    "title": "Dataland · 透光數據空間動畫",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 透光數據空間動畫",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/799767580_18619776625037186_2164534782857907880_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzk4MTc4MTMwNDA1NjEyNDc5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=fPXKQmkjUoAQ7kNvwFQPf_X&_nc_oc=AdoarIOhsiZTwKo4k_p8AztXO43qX81hWI6a37OTMma22LuVfYwm22yT1Yz9-Oz_wpM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=5jJnuU_T7fR1ULNq8VdTzg&_nc_ss=7a22e&oh=00_AQImB3S67w0VaimT6xrJAg7r7E78XkwpuAPsbybbkG2nGg&oe=6AA6BF90",
+    "url": "https://www.instagram.com/michaelrigley/p/DdCI3HdmsjP/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 5,
+    "type": "video",
+    "published_at": "2026-09-08T16:41:02.000Z",
+    "duration": "21.0s",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含模組結構、光束、分層面板；材質外觀為玻璃、半透明表面、反射表面；主要顏色為綠色、青色、黑色、白色、藍色。",
+    "tags": [
+      {
+        "en": "modular structure",
+        "zh": "模組結構",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；模組結構。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；光束。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "layered panel",
+        "zh": "分層面板",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；分層面板。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；玻璃。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；半透明表面。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；反射表面。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；綠色。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；青色。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；黑色。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；白色。取樣秒數：[5.546068]"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Dataland · 透光數據空間動畫；藍色。取樣秒數：[5.546068]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I started a lot of this work while trying to figure out the narrative for the Data Pavilion - the largest gallery @datalandmuseum \n\nWe wanted to build a system that evolved as you moved through the space. Starting with basic computational structures, then getting denser, more dimensional and more immersive.\n\nThis is concept art and animation tests for the concluding chapter where things are at their most complex. A lot of this expanded into the museum’s marketing and broader visual system.",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        5.546068
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DdCI3HdmsjP-2",
+    "post_id": "DdCI3HdmsjP",
+    "title": "Dataland · 方塊空間全景",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 方塊空間全景",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/800514354_18619776535037186_4891064035788020290_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4MTc4MTI0NjU4MDI0NDg2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vhqez1Ld3hAQ7kNvwHk_4mc&_nc_oc=AdouuJ7TEO1CqK_NyD0YHT364C2JhEgx7GYcrpIkmh_F7S4_Z1ddUyeDBsA-SVpj-DY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=X6zuoAngIc9_h46UCsM3Nw&_nc_ss=7a22e&oh=00_AQK3Bn7xM_RnX45mryllnrK1DxqcdXX4TbgsvI6PvYdNxw&oe=6AA6C3CE",
+    "url": "https://www.instagram.com/michaelrigley/p/DdCI3HdmsjP/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-09-08T16:41:02.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含方塊、模組結構、光束；材質外觀為玻璃、半透明表面、反射表面；主要顏色為綠色、青色、黑色、白色。",
+    "tags": [
+      {
+        "en": "cube",
+        "zh": "方塊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；方塊。"
+      },
+      {
+        "en": "modular structure",
+        "zh": "模組結構",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；模組結構。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；光束。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；玻璃。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；半透明表面。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；反射表面。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；青色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；黑色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/5：Dataland · 方塊空間全景；白色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I started a lot of this work while trying to figure out the narrative for the Data Pavilion - the largest gallery @datalandmuseum \n\nWe wanted to build a system that evolved as you moved through the space. Starting with basic computational structures, then getting denser, more dimensional and more immersive.\n\nThis is concept art and animation tests for the concluding chapter where things are at their most complex. A lot of this expanded into the museum’s marketing and broader visual system.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DdCI3HdmsjP-3",
+    "post_id": "DdCI3HdmsjP",
+    "title": "Dataland · 透視光束走廊",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 透視光束走廊",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/799085882_18619776544037186_3786809368058399543_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4MTc4MTI1MDEyMDI0NjU1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MfxcNletLeUQ7kNvwGjQxdm&_nc_oc=AdoFB96Y1uWb9mSNeJtoi8TRn12flO-SWOKFoKEQb36RZ2b9iG7KO_K-Gyc8XJO3xRU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=X6zuoAngIc9_h46UCsM3Nw&_nc_ss=7a22e&oh=00_AQLyJVbPk8Q8NpGc2hlvafO1KQlj57gTBUX3Jk7Rxe0TOg&oe=6AA6C8F2",
+    "url": "https://www.instagram.com/michaelrigley/p/DdCI3HdmsjP/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-09-08T16:41:02.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含光束、走廊、分層面板；材質外觀為玻璃、半透明表面、反射表面；主要顏色為黃綠色、青色、黑色、藍色。",
+    "tags": [
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；光束。"
+      },
+      {
+        "en": "corridor",
+        "zh": "走廊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；走廊。"
+      },
+      {
+        "en": "layered panel",
+        "zh": "分層面板",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；分層面板。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；玻璃。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；半透明表面。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；反射表面。"
+      },
+      {
+        "en": "yellow green",
+        "zh": "黃綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；黃綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；青色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/5：Dataland · 透視光束走廊；藍色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I started a lot of this work while trying to figure out the narrative for the Data Pavilion - the largest gallery @datalandmuseum \n\nWe wanted to build a system that evolved as you moved through the space. Starting with basic computational structures, then getting denser, more dimensional and more immersive.\n\nThis is concept art and animation tests for the concluding chapter where things are at their most complex. A lot of this expanded into the museum’s marketing and broader visual system.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DdCI3HdmsjP-4",
+    "post_id": "DdCI3HdmsjP",
+    "title": "Dataland · 懸浮片狀數據",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 懸浮片狀數據",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/798786236_18619776553037186_885846274668206894_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4MTc4MTI1MzAzMTE4MDE1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dmVIU_DW4qIQ7kNvwElkMGO&_nc_oc=AdoCBu5y1t-Hbj8EH1GfMHe9rPgBsmI-9nPXkGJkSuj_99y2re4ZESmbdh-_T2a1BLk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=X6zuoAngIc9_h46UCsM3Nw&_nc_ss=7a22e&oh=00_AQJRNqeCRcdFUcLar44IuVlovk6L6BtfusMqzgy6e02fCw&oe=6AA6D79F",
+    "url": "https://www.instagram.com/michaelrigley/p/DdCI3HdmsjP/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-09-08T16:41:02.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含面板陣列、光束、幾何結構；材質外觀為玻璃、半透明表面；主要顏色為綠色、青色、黑色、藍色。",
+    "tags": [
+      {
+        "en": "panel array",
+        "zh": "面板陣列",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；面板陣列。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；光束。"
+      },
+      {
+        "en": "geometric structure",
+        "zh": "幾何結構",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；幾何結構。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；玻璃。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；半透明表面。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；青色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/5：Dataland · 懸浮片狀數據；藍色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I started a lot of this work while trying to figure out the narrative for the Data Pavilion - the largest gallery @datalandmuseum \n\nWe wanted to build a system that evolved as you moved through the space. Starting with basic computational structures, then getting denser, more dimensional and more immersive.\n\nThis is concept art and animation tests for the concluding chapter where things are at their most complex. A lot of this expanded into the museum’s marketing and broader visual system.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DdCI3HdmsjP-5",
+    "post_id": "DdCI3HdmsjP",
+    "title": "Dataland · 玻璃矩陣縱深",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 玻璃矩陣縱深",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/800186377_18619776571037186_8715562387702021162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4MTc4MTI1NTQzODU2NzMwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=m990iUHwCrMQ7kNvwHq18ND&_nc_oc=AdqpibzzKZVcYniorusxhgqTDwzpOSBYZ2U7VYmS-TF0fx_NUcjnX5aJHYjl_kT5YBM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=X6zuoAngIc9_h46UCsM3Nw&_nc_ss=7a22e&oh=00_AQI_ggbZbwboeYElCXH00VMZJ3WOEuwOmJZeSvfQb0g5MA&oe=6AA6BE39",
+    "url": "https://www.instagram.com/michaelrigley/p/DdCI3HdmsjP/?img_index=5",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 5,
+    "media_index": 5,
+    "total": 5,
+    "type": "image",
+    "published_at": "2026-09-08T16:41:02.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含方塊、矩形框、光束；材質外觀為玻璃、半透明表面、反射表面；主要顏色為黃綠色、青色、黑色、藍色。",
+    "tags": [
+      {
+        "en": "cube",
+        "zh": "方塊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；方塊。"
+      },
+      {
+        "en": "rectangular frame",
+        "zh": "矩形框",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；矩形框。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；光束。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；玻璃。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；半透明表面。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；反射表面。"
+      },
+      {
+        "en": "yellow green",
+        "zh": "黃綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；黃綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；青色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；黑色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 5/5：Dataland · 玻璃矩陣縱深；藍色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I started a lot of this work while trying to figure out the narrative for the Data Pavilion - the largest gallery @datalandmuseum \n\nWe wanted to build a system that evolved as you moved through the space. Starting with basic computational structures, then getting denser, more dimensional and more immersive.\n\nThis is concept art and animation tests for the concluding chapter where things are at their most complex. A lot of this expanded into the museum’s marketing and broader visual system.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DaiT6GMFG1G-1",
+    "post_id": "DaiT6GMFG1G",
+    "title": "Interstellar Arc · 太空服手套細節動畫",
+    "subtitle": "Michael Rigley",
+    "project": "Interstellar Arc · 太空服手套細節動畫",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/733519684_18599520595037186_7103269858551133696_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkzNjc5NjMyNDUwMjgzNjAyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=DE5skvKFQlMQ7kNvwH1PUoA&_nc_oc=AdofBx6wGLpwCKivhqb_eNZE_FKQxsKjmnzhGOP6RDLjwzbSbcUPs18S1ALDkdT7cpE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=5jJnuU_T7fR1ULNq8VdTzg&_nc_ss=7a22e&oh=00_AQIlM5QqhDsnaz4w39ezW1ANW3cKSP7Wh8rOSDa2haLOhw&oe=6AA6B61E",
+    "url": "https://www.instagram.com/michaelrigley/p/DaiT6GMFG1G/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 5,
+    "type": "video",
+    "published_at": "2026-07-08T14:59:05.000Z",
+    "duration": "6.0s",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含手套、太空服、手腕顯示器、拉鍊；材質外觀為織物、硬質外殼、金屬；主要顏色為白色、灰色、橘色、黑色。",
+    "tags": [
+      {
+        "en": "glove",
+        "zh": "手套",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；手套。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "space suit",
+        "zh": "太空服",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；太空服。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "wrist display",
+        "zh": "手腕顯示器",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；手腕顯示器。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "zipper",
+        "zh": "拉鍊",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；拉鍊。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "fabric",
+        "zh": "織物",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；織物。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "hard shell",
+        "zh": "硬質外殼",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；硬質外殼。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；金屬。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；白色。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；灰色。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；橘色。取樣秒數：[2.18036]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/5：Interstellar Arc · 太空服手套細節動畫；黑色。取樣秒數：[2.18036]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "We approached the suit as a layered system.\n\nAt its core, a biometric compression layer supporting cryogenic sleep, life support, and physiological monitoring throughout the journey. Built around that is a more familiar outer garment - pockets/seams/zippers/etc. Familiar and functional details that help ground the suit within the world of civilian space travel.",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        2.18036
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DcwKhWxmrtW-1",
+    "post_id": "DcwKhWxmrtW",
+    "title": "Dataland · 沉浸式數據展廳",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 沉浸式數據展廳",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/790425490_18617466187037186_8254542295433564740_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk3NjcyMTE4OTkzMDE0NDczNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19maXJzdF9mcmFtZV90aHVtYm5haWwuQzMifQ%3D%3D&_nc_ohc=hhxlOQDJUDYQ7kNvwGFZBfE&_nc_oc=AdrOjY1rTFbYEEVihr383Y48k79J0a1MorHS-e0MmUider1h3xRWX3kuoPijbmWy_8U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=5jJnuU_T7fR1ULNq8VdTzg&_nc_ss=7a22e&oh=00_AQJqhXRr5PIRMfUlln2Ce5C6iGJhiGetswgoyxfCcfrJ-g&oe=6AA6A964",
+    "url": "https://www.instagram.com/michaelrigley/p/DcwKhWxmrtW/?img_index=1",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 1,
+    "media_index": 1,
+    "total": 4,
+    "type": "video",
+    "published_at": "2026-09-01T17:09:13.000Z",
+    "duration": "6.1s",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含展覽空間、人影、圖像投影；材質外觀為發光表面、反射表面；主要顏色為綠色、青色、黑色、白色。",
+    "tags": [
+      {
+        "en": "exhibition space",
+        "zh": "展覽空間",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；展覽空間。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "human silhouette",
+        "zh": "人影",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；人影。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "graphic projection",
+        "zh": "圖像投影",
+        "category": "subject",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；圖像投影。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；發光表面。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；反射表面。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；綠色。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；青色。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；黑色。取樣秒數：[4.938423]"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "video_frame",
+        "evidence": "原貼文媒體 1/4：Dataland · 沉浸式數據展廳；白色。取樣秒數：[4.938423]"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I’m super excited to finally begin sharing my work for @datalandmuseum.\n\nFor anyone unfamiliar, Dataland is a permanent museum in downtown Los Angeles exploring data and nature through immersive digital art. It was a rare project: enormous in vision, generous in creative freedom, and backed by the commitment needed to carry that vision through. I’m incredibly proud to have collaborated with the multidisciplinary team at @refikanadol Studio that built it.\n\nI’ve been working on Dataland since late 2023. That time has brought together nearly everything I’ve learned throughout my career while constantly pushing me into new territory. Concept development, production, immersive spaces, interfaces, screen graphics and key art - I have literal years of artwork and experiments to share. \n\nMore to come.",
+    "saved": false,
+    "note": "已核對個別媒體；影片為畫面取樣，完整動態審核待補。",
+    "tag_review": {
+      "status": "partial",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "pending"
+      }
+    },
+    "motion_review": {
+      "status": "sampled",
+      "events": [],
+      "frame_times": [
+        4.938423
+      ],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DcwKhWxmrtW-2",
+    "post_id": "DcwKhWxmrtW",
+    "title": "Dataland · 透光方塊空間",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 透光方塊空間",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/789594933_18617466106037186_4635172658529552895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3NjcyMTE3MTc5NjgyODU1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8WiZ-Y5ysVIQ7kNvwHSLxrY&_nc_oc=AdoGjImIpTTATd7cFQvWNaafg8vxqwX4ROPdJp8Nys32kUK1eR1gvBN9K4IisHRatRE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=f1R3v8ny69Segc7ryrqyEw&_nc_ss=7a22e&oh=00_AQKajw8HhN6aOLS1zIzmKGLu1pBxFA6AHXFoYi_WrsuWWQ&oe=6AA6AD9A",
+    "url": "https://www.instagram.com/michaelrigley/p/DcwKhWxmrtW/?img_index=2",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "type": "image",
+    "published_at": "2026-09-01T17:09:13.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含方塊、模組結構、光束；材質外觀為玻璃、半透明表面；主要顏色為黃綠色、青色、黑色。",
+    "tags": [
+      {
+        "en": "cube",
+        "zh": "方塊",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；方塊。"
+      },
+      {
+        "en": "modular structure",
+        "zh": "模組結構",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；模組結構。"
+      },
+      {
+        "en": "light beam",
+        "zh": "光束",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；光束。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；玻璃。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；半透明表面。"
+      },
+      {
+        "en": "yellow green",
+        "zh": "黃綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；黃綠色。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；青色。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 2/4：Dataland · 透光方塊空間；黑色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I’m super excited to finally begin sharing my work for @datalandmuseum.\n\nFor anyone unfamiliar, Dataland is a permanent museum in downtown Los Angeles exploring data and nature through immersive digital art. It was a rare project: enormous in vision, generous in creative freedom, and backed by the commitment needed to carry that vision through. I’m incredibly proud to have collaborated with the multidisciplinary team at @refikanadol Studio that built it.\n\nI’ve been working on Dataland since late 2023. That time has brought together nearly everything I’ve learned throughout my career while constantly pushing me into new territory. Concept development, production, immersive spaces, interfaces, screen graphics and key art - I have literal years of artwork and experiments to share. \n\nMore to come.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DcwKhWxmrtW-3",
+    "post_id": "DcwKhWxmrtW",
+    "title": "Dataland · 蘑菇與數位疊影",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 蘑菇與數位疊影",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/793028545_18617466121037186_2363359692017805781_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3NjcyMTE3NDQyMjM3ODUyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PML5Xq3029AQ7kNvwF0bX_E&_nc_oc=AdpukEaUTZipTciOYQbAHAGur8kj-i_Dsr4AlbPvPliAcaWWMvs6AkLCEFzhxIdeduo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=f1R3v8ny69Segc7ryrqyEw&_nc_ss=7a22e&oh=00_AQKFVMmdq0K4eJseTdc4tkHqEtAyPM99tDIqkXIVYSOyow&oe=6AA6AD6C",
+    "url": "https://www.instagram.com/michaelrigley/p/DcwKhWxmrtW/?img_index=3",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "type": "image",
+    "published_at": "2026-09-01T17:09:13.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含蘑菇、圖像疊加、網格；材質外觀為有機表面、發光表面；主要顏色為橘色、紅色、白色、藍色、紫色、綠色。",
+    "tags": [
+      {
+        "en": "mushroom",
+        "zh": "蘑菇",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；蘑菇。"
+      },
+      {
+        "en": "graphic overlay",
+        "zh": "圖像疊加",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；圖像疊加。"
+      },
+      {
+        "en": "grid",
+        "zh": "網格",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；網格。"
+      },
+      {
+        "en": "organic surface",
+        "zh": "有機表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；有機表面。"
+      },
+      {
+        "en": "luminous surface",
+        "zh": "發光表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；發光表面。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；橘色。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；紅色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；白色。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；藍色。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；紫色。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 3/4：Dataland · 蘑菇與數位疊影；綠色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I’m super excited to finally begin sharing my work for @datalandmuseum.\n\nFor anyone unfamiliar, Dataland is a permanent museum in downtown Los Angeles exploring data and nature through immersive digital art. It was a rare project: enormous in vision, generous in creative freedom, and backed by the commitment needed to carry that vision through. I’m incredibly proud to have collaborated with the multidisciplinary team at @refikanadol Studio that built it.\n\nI’ve been working on Dataland since late 2023. That time has brought together nearly everything I’ve learned throughout my career while constantly pushing me into new territory. Concept development, production, immersive spaces, interfaces, screen graphics and key art - I have literal years of artwork and experiments to share. \n\nMore to come.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
+  },
+  {
+    "id": "history156-DcwKhWxmrtW-4",
+    "post_id": "DcwKhWxmrtW",
+    "title": "Dataland · 折射線框構造",
+    "subtitle": "Michael Rigley",
+    "project": "Dataland · 折射線框構造",
+    "creator": "michaelrigley",
+    "publisher": "michaelrigley",
+    "source_accounts": [
+      "michaelrigley"
+    ],
+    "credit_aliases": [
+      "michaelrigley",
+      "Michael Rigley",
+      "michaelrigley"
+    ],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/791014549_18617466124037186_630000243848241341_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3NjcyMTE3NTc0Nzk3MDQ2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Lz1yJdSrRtcQ7kNvwE1kbZs&_nc_oc=AdpNNCzmDtDKN2Fx_i1ROAgMswmm0Hj-5Nb0dX3H7I_vbH7jpKNVGNmkKOiuAbxgkNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=f1R3v8ny69Segc7ryrqyEw&_nc_ss=7a22e&oh=00_AQL5xEN0oiKa2EkHJ_uK2a5q_ROWuEly_gBbv3iOBcM1Bw&oe=6AA6C646",
+    "url": "https://www.instagram.com/michaelrigley/p/DcwKhWxmrtW/?img_index=4",
+    "group": "history156",
+    "collection": "指定帳號 · 近三年",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "type": "image",
+    "published_at": "2026-09-01T17:09:13.000Z",
+    "duration": "",
+    "ratio": "0.7500047889782583 / 1",
+    "description": "畫面包含幾何結構、線框、燈條；材質外觀為玻璃、反射表面、半透明表面；主要顏色為黑色、灰色、白色、彩虹色。",
+    "tags": [
+      {
+        "en": "geometric structure",
+        "zh": "幾何結構",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；幾何結構。"
+      },
+      {
+        "en": "wireframe",
+        "zh": "線框",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；線框。"
+      },
+      {
+        "en": "light strip",
+        "zh": "燈條",
+        "category": "subject",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；燈條。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；玻璃。"
+      },
+      {
+        "en": "reflective surface",
+        "zh": "反射表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；反射表面。"
+      },
+      {
+        "en": "translucent surface",
+        "zh": "半透明表面",
+        "category": "material",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；半透明表面。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；黑色。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；灰色。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；白色。"
+      },
+      {
+        "en": "rainbow",
+        "zh": "彩虹色",
+        "category": "color",
+        "source": "visual",
+        "evidence": "原貼文媒體 4/4：Dataland · 折射線框構造；彩虹色。"
+      }
+    ],
+    "related": [],
+    "caption": [],
+    "caption_text": "I’m super excited to finally begin sharing my work for @datalandmuseum.\n\nFor anyone unfamiliar, Dataland is a permanent museum in downtown Los Angeles exploring data and nature through immersive digital art. It was a rare project: enormous in vision, generous in creative freedom, and backed by the commitment needed to carry that vision through. I’m incredibly proud to have collaborated with the multidisciplinary team at @refikanadol Studio that built it.\n\nI’ve been working on Dataland since late 2023. That time has brought together nearly everything I’ve learned throughout my career while constantly pushing me into new territory. Concept development, production, immersive spaces, interfaces, screen graphics and key art - I have literal years of artwork and experiments to share. \n\nMore to come.",
+    "saved": false,
+    "note": "已核對個別圖片；靜態畫面不推定為已发生的動作。",
+    "tag_review": {
+      "status": "complete",
+      "reviewed_at": "2026-09-09",
+      "dimension_status": {
+        "subject": "reviewed",
+        "material": "reviewed",
+        "color": "reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "motion_review": {
+      "status": "not_applicable",
+      "events": [],
+      "frame_times": [],
+      "full_video_reviewed": false
+    },
+    "capture_source": "Instagram original post DOM and individual media screenshot",
+    "imported_at": "2026-09-09"
   }
 ]
