@@ -1,0 +1,844 @@
+{
+  "range_taipei": [
+    "2025-01-01",
+    "2025-12-31"
+  ],
+  "candidate_posts": 26,
+  "media_found": 90,
+  "new_posts": 26,
+  "new_media": 85,
+  "counts": {
+    "imported": 85,
+    "excluded_or_pending": 5
+  },
+  "accounts": {
+    "wilddesignmotion": 3,
+    "au_au_is": 3,
+    "_studiomulti": 35,
+    "lumaidea.inc": 2,
+    "masonrystudios": 7,
+    "millarc_com": 35
+  },
+  "brands": {
+    "ASUS": 6,
+    "Acer": 35,
+    "MSI": 2,
+    "Razer": 7,
+    "Huawei": 35
+  },
+  "media": [
+    {
+      "post_id": "DGlJykvzVa4",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DGlJykvzVa4/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2025-02-27T15:02:32.000Z",
+      "status": "imported",
+      "id": "brand2025-DGlJykvzVa4-1"
+    },
+    {
+      "post_id": "DGiPuDcTKoS",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DGiPuDcTKoS/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2025-02-26T11:55:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DGiPuDcTKoS-1"
+    },
+    {
+      "post_id": "DGfe3S2Rmqk",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DGfe3S2Rmqk/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2025-02-25T10:19:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DGfe3S2Rmqk-1"
+    },
+    {
+      "post_id": "DNkvssOPeHg",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DNkvssOPeHg/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2025-08-20T10:53:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DNkvssOPeHg-1"
+    },
+    {
+      "post_id": "DJ3458VTStD",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DJ3458VTStD/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2025-05-20T11:15:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DJ3458VTStD-1"
+    },
+    {
+      "post_id": "DFIJL_qydtp",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DFIJL_qydtp/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2025-01-22T12:11:36.000Z",
+      "status": "imported",
+      "id": "brand2025-DFIJL_qydtp-1"
+    },
+    {
+      "post_id": "DSZoc7GEdE-",
+      "media_index": 1,
+      "url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=1",
+      "account": "_studiomulti",
+      "published_at": "2025-12-18T09:54:17.000Z",
+      "status": "imported",
+      "id": "brand2025-DSZoc7GEdE--1"
+    },
+    {
+      "post_id": "DSZoc7GEdE-",
+      "media_index": 2,
+      "url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=2",
+      "account": "_studiomulti",
+      "published_at": "2025-12-18T09:54:17.000Z",
+      "status": "imported",
+      "id": "brand2025-DSZoc7GEdE--2"
+    },
+    {
+      "post_id": "DSZoc7GEdE-",
+      "media_index": 3,
+      "url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=3",
+      "account": "_studiomulti",
+      "published_at": "2025-12-18T09:54:17.000Z",
+      "status": "imported",
+      "id": "brand2025-DSZoc7GEdE--3"
+    },
+    {
+      "post_id": "DSZoc7GEdE-",
+      "media_index": 4,
+      "url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=4",
+      "account": "_studiomulti",
+      "published_at": "2025-12-18T09:54:17.000Z",
+      "status": "imported",
+      "id": "brand2025-DSZoc7GEdE--4"
+    },
+    {
+      "post_id": "DSZoc7GEdE-",
+      "media_index": 5,
+      "url": "https://www.instagram.com/_studiomulti/p/DSZoc7GEdE-/?img_index=5",
+      "account": "_studiomulti",
+      "published_at": "2025-12-18T09:54:17.000Z",
+      "status": "imported",
+      "id": "brand2025-DSZoc7GEdE--5"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 1,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=1",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-1"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 2,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=2",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-2"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 3,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=3",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-3"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 4,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=4",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-4"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 5,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=5",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-5"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 6,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=6",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-6"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 7,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=7",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-7"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 8,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=8",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-8"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 9,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=9",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-9"
+    },
+    {
+      "post_id": "DPgTZsvkSmE",
+      "media_index": 10,
+      "url": "https://www.instagram.com/_studiomulti/p/DPgTZsvkSmE/?img_index=10",
+      "account": "_studiomulti",
+      "published_at": "2025-10-07T10:30:50.000Z",
+      "status": "imported",
+      "id": "brand2025-DPgTZsvkSmE-10"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 1,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=1",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-1"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 2,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=2",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-2"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 3,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=3",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-3"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 4,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=4",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-4"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 5,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=5",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-5"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 6,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=6",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-6"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 7,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=7",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-7"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 8,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=8",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-8"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 9,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=9",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-9"
+    },
+    {
+      "post_id": "DMNQgV6xXSf",
+      "media_index": 10,
+      "url": "https://www.instagram.com/_studiomulti/p/DMNQgV6xXSf/?img_index=10",
+      "account": "_studiomulti",
+      "published_at": "2025-07-17T11:25:47.000Z",
+      "status": "imported",
+      "id": "brand2025-DMNQgV6xXSf-10"
+    },
+    {
+      "post_id": "DHa8Tj3h3vW",
+      "media_index": 1,
+      "url": "https://www.instagram.com/_studiomulti/p/DHa8Tj3h3vW/?img_index=1",
+      "account": "_studiomulti",
+      "published_at": "2025-03-20T12:23:28.000Z",
+      "status": "imported",
+      "id": "brand2025-DHa8Tj3h3vW-1"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 1,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=1",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-1"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 2,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=2",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-2"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 3,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=3",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-3"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 4,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=4",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-4"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 5,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=5",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-5"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 6,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=6",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-6"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 7,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=7",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-7"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 8,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=8",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-8"
+    },
+    {
+      "post_id": "DFKs3C5yzqK",
+      "media_index": 9,
+      "url": "https://www.instagram.com/_studiomulti/p/DFKs3C5yzqK/?img_index=9",
+      "account": "_studiomulti",
+      "published_at": "2025-01-23T11:56:04.000Z",
+      "status": "imported",
+      "id": "brand2025-DFKs3C5yzqK-9"
+    },
+    {
+      "post_id": "DFFhu8DzhaJ",
+      "media_index": 1,
+      "url": "https://www.instagram.com/lumaidea.inc/p/DFFhu8DzhaJ/?img_index=1",
+      "account": "lumaidea.inc",
+      "published_at": "2025-01-21T11:46:34.000Z",
+      "status": "imported",
+      "id": "brand2025-DFFhu8DzhaJ-1"
+    },
+    {
+      "post_id": "DFCkfkZzUdW",
+      "media_index": 1,
+      "url": "https://www.instagram.com/lumaidea.inc/p/DFCkfkZzUdW/?img_index=1",
+      "account": "lumaidea.inc",
+      "published_at": "2025-01-20T08:13:20.000Z",
+      "status": "imported",
+      "id": "brand2025-DFCkfkZzUdW-1"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "imported",
+      "id": "brand2025-DRUIAOJF7eS-1"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "excluded_or_pending",
+      "reason": "辦公室實拍與螢幕拍攝花絮，非獨立 CG 參考"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "imported",
+      "id": "brand2025-DRUIAOJF7eS-3"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 4,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=4",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "imported",
+      "id": "brand2025-DRUIAOJF7eS-4"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 5,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=5",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "imported",
+      "id": "brand2025-DRUIAOJF7eS-5"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 6,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=6",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "excluded_or_pending",
+      "reason": "音效軟體螢幕實拍，非 CG 畫面參考"
+    },
+    {
+      "post_id": "DRUIAOJF7eS",
+      "media_index": 7,
+      "url": "https://www.instagram.com/masonrystudios/p/DRUIAOJF7eS/?img_index=7",
+      "account": "masonrystudios",
+      "published_at": "2025-11-21T10:03:31.000Z",
+      "status": "excluded_or_pending",
+      "reason": "追蹤帳號結尾宣傳卡，非獨立效果展示"
+    },
+    {
+      "post_id": "DK1jvT6NW2a",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DK1jvT6NW2a/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2025-06-13T10:03:35.000Z",
+      "status": "imported",
+      "id": "brand2025-DK1jvT6NW2a-1"
+    },
+    {
+      "post_id": "DKqRVG_Cr-P",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DKqRVG_Cr-P/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2025-06-09T00:48:36.000Z",
+      "status": "imported",
+      "id": "brand2025-DKqRVG_Cr-P-1"
+    },
+    {
+      "post_id": "DKqRVG_Cr-P",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DKqRVG_Cr-P/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2025-06-09T00:48:36.000Z",
+      "status": "excluded_or_pending",
+      "reason": "此段目前可核對為手部操作實拍，尚未確認獨立 CG 畫面，暫不匯入"
+    },
+    {
+      "post_id": "DKqRVG_Cr-P",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DKqRVG_Cr-P/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2025-06-09T00:48:36.000Z",
+      "status": "excluded_or_pending",
+      "reason": "玩家實拍情緒鏡頭，非獨立 CG 參考"
+    },
+    {
+      "post_id": "DKqRVG_Cr-P",
+      "media_index": 4,
+      "url": "https://www.instagram.com/masonrystudios/p/DKqRVG_Cr-P/?img_index=4",
+      "account": "masonrystudios",
+      "published_at": "2025-06-09T00:48:36.000Z",
+      "status": "imported",
+      "id": "brand2025-DKqRVG_Cr-P-4"
+    },
+    {
+      "post_id": "DQZMxoiDAwi",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DQZMxoiDAwi/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-10-29T12:51:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DQZMxoiDAwi-1"
+    },
+    {
+      "post_id": "DOvHQ0TCCUT",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DOvHQ0TCCUT/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-09-18T08:01:59.000Z",
+      "status": "imported",
+      "id": "brand2025-DOvHQ0TCCUT-1"
+    },
+    {
+      "post_id": "DOvHQ0TCCUT",
+      "media_index": 2,
+      "url": "https://www.instagram.com/millarc_com/p/DOvHQ0TCCUT/?img_index=2",
+      "account": "millarc_com",
+      "published_at": "2025-09-18T08:01:59.000Z",
+      "status": "imported",
+      "id": "brand2025-DOvHQ0TCCUT-2"
+    },
+    {
+      "post_id": "DOvHQ0TCCUT",
+      "media_index": 3,
+      "url": "https://www.instagram.com/millarc_com/p/DOvHQ0TCCUT/?img_index=3",
+      "account": "millarc_com",
+      "published_at": "2025-09-18T08:01:59.000Z",
+      "status": "imported",
+      "id": "brand2025-DOvHQ0TCCUT-3"
+    },
+    {
+      "post_id": "DOvHQ0TCCUT",
+      "media_index": 4,
+      "url": "https://www.instagram.com/millarc_com/p/DOvHQ0TCCUT/?img_index=4",
+      "account": "millarc_com",
+      "published_at": "2025-09-18T08:01:59.000Z",
+      "status": "imported",
+      "id": "brand2025-DOvHQ0TCCUT-4"
+    },
+    {
+      "post_id": "DOvHQ0TCCUT",
+      "media_index": 5,
+      "url": "https://www.instagram.com/millarc_com/p/DOvHQ0TCCUT/?img_index=5",
+      "account": "millarc_com",
+      "published_at": "2025-09-18T08:01:59.000Z",
+      "status": "imported",
+      "id": "brand2025-DOvHQ0TCCUT-5"
+    },
+    {
+      "post_id": "DOVYht-DfkO",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DOVYht-DfkO/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-09-08T08:13:29.000Z",
+      "status": "imported",
+      "id": "brand2025-DOVYht-DfkO-1"
+    },
+    {
+      "post_id": "DNSeoPAvjHH",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DNSeoPAvjHH/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-08-13T08:38:07.000Z",
+      "status": "imported",
+      "id": "brand2025-DNSeoPAvjHH-1"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-1"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 2,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=2",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-2"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 3,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=3",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-3"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 4,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=4",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-4"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 5,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=5",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-5"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 6,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=6",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-6"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 7,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=7",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-7"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 8,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=8",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-8"
+    },
+    {
+      "post_id": "DMzhAPbiFlc",
+      "media_index": 9,
+      "url": "https://www.instagram.com/millarc_com/p/DMzhAPbiFlc/?img_index=9",
+      "account": "millarc_com",
+      "published_at": "2025-08-01T08:01:05.000Z",
+      "status": "imported",
+      "id": "brand2025-DMzhAPbiFlc-9"
+    },
+    {
+      "post_id": "DMtSpmGNsYo",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DMtSpmGNsYo/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-07-29T22:00:32.000Z",
+      "status": "imported",
+      "id": "brand2025-DMtSpmGNsYo-1"
+    },
+    {
+      "post_id": "DLIHpCeuoeP",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DLIHpCeuoeP/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-06-20T15:01:09.000Z",
+      "status": "imported",
+      "id": "brand2025-DLIHpCeuoeP-1"
+    },
+    {
+      "post_id": "DJt_cYFt7g0",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DJt_cYFt7g0/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-05-16T14:58:22.000Z",
+      "status": "imported",
+      "id": "brand2025-DJt_cYFt7g0-1"
+    },
+    {
+      "post_id": "DJcFv_-o9WJ",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DJcFv_-o9WJ/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-05-09T16:06:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DJcFv_-o9WJ-1"
+    },
+    {
+      "post_id": "DJcFv_-o9WJ",
+      "media_index": 2,
+      "url": "https://www.instagram.com/millarc_com/p/DJcFv_-o9WJ/?img_index=2",
+      "account": "millarc_com",
+      "published_at": "2025-05-09T16:06:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DJcFv_-o9WJ-2"
+    },
+    {
+      "post_id": "DJcFv_-o9WJ",
+      "media_index": 3,
+      "url": "https://www.instagram.com/millarc_com/p/DJcFv_-o9WJ/?img_index=3",
+      "account": "millarc_com",
+      "published_at": "2025-05-09T16:06:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DJcFv_-o9WJ-3"
+    },
+    {
+      "post_id": "DJcFv_-o9WJ",
+      "media_index": 4,
+      "url": "https://www.instagram.com/millarc_com/p/DJcFv_-o9WJ/?img_index=4",
+      "account": "millarc_com",
+      "published_at": "2025-05-09T16:06:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DJcFv_-o9WJ-4"
+    },
+    {
+      "post_id": "DJcFv_-o9WJ",
+      "media_index": 5,
+      "url": "https://www.instagram.com/millarc_com/p/DJcFv_-o9WJ/?img_index=5",
+      "account": "millarc_com",
+      "published_at": "2025-05-09T16:06:13.000Z",
+      "status": "imported",
+      "id": "brand2025-DJcFv_-o9WJ-5"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-1"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 2,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=2",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-2"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 3,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=3",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-3"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 4,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=4",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-4"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 5,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=5",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-5"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 6,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=6",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-6"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 7,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=7",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-7"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 8,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=8",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-8"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 9,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=9",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-9"
+    },
+    {
+      "post_id": "DIi116Rt07_",
+      "media_index": 10,
+      "url": "https://www.instagram.com/millarc_com/p/DIi116Rt07_/?img_index=10",
+      "account": "millarc_com",
+      "published_at": "2025-04-17T10:30:30.000Z",
+      "status": "imported",
+      "id": "brand2025-DIi116Rt07_-10"
+    }
+  ],
+  "proart": "尚未確認到 2025 製作者 IG 貼文；已確認的 2026 案例未混入。",
+  "scope": "本批已核對六位製作者候選，不代表 Instagram 全站已窮盡。",
+  "motion_analysis_complete": false
+}
