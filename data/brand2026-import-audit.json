@@ -1,0 +1,445 @@
+{
+  "range_taipei": [
+    "2026-01-01",
+    "2026-09-09"
+  ],
+  "candidate_posts": 27,
+  "media_found": 46,
+  "new_posts": 27,
+  "new_media": 45,
+  "counts": {
+    "imported": 45,
+    "pending_preview": 1
+  },
+  "accounts": {
+    "wilddesignmotion": 7,
+    "masonrystudios": 16,
+    "millarc_com": 16,
+    "au_au_is": 6
+  },
+  "brands": {
+    "Acer": 4,
+    "ASUS": 9,
+    "Razer": 16,
+    "Huawei": 16
+  },
+  "media": [
+    {
+      "post_id": "DcKoFpBM0Pc",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DcKoFpBM0Pc/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-08-18T03:18:27.000Z",
+      "status": "imported",
+      "id": "brand2026-DcKoFpBM0Pc-1"
+    },
+    {
+      "post_id": "DcIWz88MPPN",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DcIWz88MPPN/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-08-17T06:09:39.000Z",
+      "status": "imported",
+      "id": "brand2026-DcIWz88MPPN-1"
+    },
+    {
+      "post_id": "DVKt7zTk2mJ",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DVKt7zTk2mJ/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-02-25T04:29:17.000Z",
+      "status": "imported",
+      "id": "brand2026-DVKt7zTk2mJ-1"
+    },
+    {
+      "post_id": "DUkUcZAk-29",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DUkUcZAk-29/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-02-10T06:35:47.000Z",
+      "status": "imported",
+      "id": "brand2026-DUkUcZAk-29-1"
+    },
+    {
+      "post_id": "DUhtTBFk9vK",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DUhtTBFk9vK/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-02-09T06:14:55.000Z",
+      "status": "imported",
+      "id": "brand2026-DUhtTBFk9vK-1"
+    },
+    {
+      "post_id": "DUXlnAwE0dX",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DUXlnAwE0dX/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-02-05T07:55:34.000Z",
+      "status": "imported",
+      "id": "brand2026-DUXlnAwE0dX-1"
+    },
+    {
+      "post_id": "DUVVvvNE069",
+      "media_index": 1,
+      "url": "https://www.instagram.com/wilddesignmotion/p/DUVVvvNE069/?img_index=1",
+      "account": "wilddesignmotion",
+      "published_at": "2026-02-04T10:58:45.000Z",
+      "status": "imported",
+      "id": "brand2026-DUVVvvNE069-1"
+    },
+    {
+      "post_id": "DWQ13NwiqaD",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DWQ13NwiqaD/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-03-24T10:04:12.000Z",
+      "status": "imported",
+      "id": "brand2026-DWQ13NwiqaD-1"
+    },
+    {
+      "post_id": "DWQ13NwiqaD",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DWQ13NwiqaD/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2026-03-24T10:04:12.000Z",
+      "status": "imported",
+      "id": "brand2026-DWQ13NwiqaD-2"
+    },
+    {
+      "post_id": "DWQ13NwiqaD",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DWQ13NwiqaD/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2026-03-24T10:04:12.000Z",
+      "status": "imported",
+      "id": "brand2026-DWQ13NwiqaD-3"
+    },
+    {
+      "post_id": "DWQ13NwiqaD",
+      "media_index": 4,
+      "url": "https://www.instagram.com/masonrystudios/p/DWQ13NwiqaD/?img_index=4",
+      "account": "masonrystudios",
+      "published_at": "2026-03-24T10:04:12.000Z",
+      "status": "imported",
+      "id": "brand2026-DWQ13NwiqaD-4"
+    },
+    {
+      "post_id": "DWGiS4NDWXg",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DWGiS4NDWXg/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-03-20T10:03:29.000Z",
+      "status": "imported",
+      "id": "brand2026-DWGiS4NDWXg-1"
+    },
+    {
+      "post_id": "DVsyrCRETdn",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DVsyrCRETdn/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-03-10T10:03:42.000Z",
+      "status": "imported",
+      "id": "brand2026-DVsyrCRETdn-1"
+    },
+    {
+      "post_id": "DVsyrCRETdn",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DVsyrCRETdn/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2026-03-10T10:03:42.000Z",
+      "status": "imported",
+      "id": "brand2026-DVsyrCRETdn-2"
+    },
+    {
+      "post_id": "DVsyrCRETdn",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DVsyrCRETdn/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2026-03-10T10:03:42.000Z",
+      "status": "imported",
+      "id": "brand2026-DVsyrCRETdn-3"
+    },
+    {
+      "post_id": "DVsyrCRETdn",
+      "media_index": 4,
+      "url": "https://www.instagram.com/masonrystudios/p/DVsyrCRETdn/?img_index=4",
+      "account": "masonrystudios",
+      "published_at": "2026-03-10T10:03:42.000Z",
+      "status": "imported",
+      "id": "brand2026-DVsyrCRETdn-4"
+    },
+    {
+      "post_id": "DVifLfzjiwb",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DVifLfzjiwb/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-03-06T10:03:09.000Z",
+      "status": "imported",
+      "id": "brand2026-DVifLfzjiwb-1"
+    },
+    {
+      "post_id": "DVIvhXllPw0",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DVIvhXllPw0/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-02-24T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DVIvhXllPw0-1"
+    },
+    {
+      "post_id": "DVIvhXllPw0",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DVIvhXllPw0/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2026-02-24T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DVIvhXllPw0-2"
+    },
+    {
+      "post_id": "DVIvhXllPw0",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DVIvhXllPw0/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2026-02-24T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DVIvhXllPw0-3"
+    },
+    {
+      "post_id": "DT2WGh2k5UO",
+      "media_index": 1,
+      "url": "https://www.instagram.com/masonrystudios/p/DT2WGh2k5UO/?img_index=1",
+      "account": "masonrystudios",
+      "published_at": "2026-01-23T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DT2WGh2k5UO-1"
+    },
+    {
+      "post_id": "DT2WGh2k5UO",
+      "media_index": 2,
+      "url": "https://www.instagram.com/masonrystudios/p/DT2WGh2k5UO/?img_index=2",
+      "account": "masonrystudios",
+      "published_at": "2026-01-23T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DT2WGh2k5UO-2"
+    },
+    {
+      "post_id": "DT2WGh2k5UO",
+      "media_index": 3,
+      "url": "https://www.instagram.com/masonrystudios/p/DT2WGh2k5UO/?img_index=3",
+      "account": "masonrystudios",
+      "published_at": "2026-01-23T10:03:32.000Z",
+      "status": "imported",
+      "id": "brand2026-DT2WGh2k5UO-3"
+    },
+    {
+      "post_id": "DcyUa_PNgpE",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DcyUa_PNgpE/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-09-02T13:15:41.000Z",
+      "status": "imported",
+      "id": "brand2026-DcyUa_PNgpE-1"
+    },
+    {
+      "post_id": "Dcsv0pbBID8",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/Dcsv0pbBID8/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-08-31T09:19:15.000Z",
+      "status": "imported",
+      "id": "brand2026-Dcsv0pbBID8-1"
+    },
+    {
+      "post_id": "DbaOzrVMuXb",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DbaOzrVMuXb/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-07-30T08:13:23.000Z",
+      "status": "imported",
+      "id": "brand2026-DbaOzrVMuXb-1"
+    },
+    {
+      "post_id": "DbVsNHXvmUZ",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DbVsNHXvmUZ/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-07-28T13:53:54.000Z",
+      "status": "imported",
+      "id": "brand2026-DbVsNHXvmUZ-1"
+    },
+    {
+      "post_id": "DZ9vY26hRVg",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DZ9vY26hRVg/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-06-24T10:10:01.000Z",
+      "status": "imported",
+      "id": "brand2026-DZ9vY26hRVg-1"
+    },
+    {
+      "post_id": "DYwVKGNMC11",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DYwVKGNMC11/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-05-25T08:37:20.000Z",
+      "status": "imported",
+      "id": "brand2026-DYwVKGNMC11-1"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-1"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 2,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=2",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-2"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 3,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=3",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-3"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 4,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=4",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-4"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 5,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=5",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "pending_preview",
+      "reason": "已確認是紫色 GT 6 CG 影片，但來源影片封面全白；等待可用的外部預覽，未判為非 CG。"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 6,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=6",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-6"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 7,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=7",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-7"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 8,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=8",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-8"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 9,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=9",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-9"
+    },
+    {
+      "post_id": "DVOgL8HCFTx",
+      "media_index": 10,
+      "url": "https://www.instagram.com/millarc_com/p/DVOgL8HCFTx/?img_index=10",
+      "account": "millarc_com",
+      "published_at": "2026-02-26T15:44:35.000Z",
+      "status": "imported",
+      "id": "brand2026-DVOgL8HCFTx-10"
+    },
+    {
+      "post_id": "DUa77SzDHTV",
+      "media_index": 1,
+      "url": "https://www.instagram.com/millarc_com/p/DUa77SzDHTV/?img_index=1",
+      "account": "millarc_com",
+      "published_at": "2026-02-06T15:06:49.000Z",
+      "status": "imported",
+      "id": "brand2026-DUa77SzDHTV-1"
+    },
+    {
+      "post_id": "Da2g85HTXHm",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/Da2g85HTXHm/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-07-16T11:18:52.000Z",
+      "status": "imported",
+      "id": "brand2026-Da2g85HTXHm-1"
+    },
+    {
+      "post_id": "DZFETjRTvMn",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DZFETjRTvMn/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-06-02T09:55:56.000Z",
+      "status": "imported",
+      "id": "brand2026-DZFETjRTvMn-1"
+    },
+    {
+      "post_id": "DV0jkSOk5ib",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DV0jkSOk5ib/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-03-13T10:27:17.000Z",
+      "status": "imported",
+      "id": "brand2026-DV0jkSOk5ib-1"
+    },
+    {
+      "post_id": "DTPiuSLkwz7",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DTPiuSLkwz7/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-01-08T08:24:18.000Z",
+      "status": "imported",
+      "id": "brand2026-DTPiuSLkwz7-1"
+    },
+    {
+      "post_id": "DTM-g7wE0xR",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DTM-g7wE0xR/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-01-07T08:32:46.000Z",
+      "status": "imported",
+      "id": "brand2026-DTM-g7wE0xR-1"
+    },
+    {
+      "post_id": "DTKWteVk2YC",
+      "media_index": 1,
+      "url": "https://www.instagram.com/au_au_is/p/DTKWteVk2YC/?img_index=1",
+      "account": "au_au_is",
+      "published_at": "2026-01-06T08:02:27.000Z",
+      "status": "imported",
+      "id": "brand2026-DTKWteVk2YC-1"
+    }
+  ],
+  "msi": "尚未確認到 2026 製作者 IG 原文；未用品牌官網或舊年份補數。",
+  "scope": "已核對四個製作者的本批候選，不代表 Instagram 全站已窮盡。",
+  "motion_analysis_complete": false
+}
