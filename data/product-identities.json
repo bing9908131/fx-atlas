@@ -1,5 +1,1325 @@
 [
   {
+    "id": "accounts16-DUprJT1Ddi1-1",
+    "post_id": "DUprJT1Ddi1",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CIVLDR2H_jV-1",
+    "post_id": "CIVLDR2H_jV",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CZ_e9tAgEcm-1",
+    "post_id": "CZ_e9tAgEcm",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DU2dLpljaIU-1",
+    "post_id": "DU2dLpljaIU",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DP3MturDdcY-1",
+    "post_id": "DP3MturDdcY",
+    "brands": [
+      {
+        "en": "Hong Kong International Airport",
+        "zh": "香港國際機場",
+        "aliases": [
+          "Hong Kong International Airport",
+          "香港國際機場",
+          "hongkongairport",
+          "hkia"
+        ],
+        "source": "caption_text",
+        "evidence": "We worked on a fun and playful take on our project for @hongkongairport 🎡\n\nSound design @soundby.chris\n\n#hongkong #3ddesign #cgi #3danimation #food #delicacy #airport #hkia",
+        "source_url": "https://www.instagram.com/tomaszewicz.studio/reel/DP3MturDdcY/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DNFZ_YGtGVo-1",
+    "post_id": "DNFZ_YGtGVo",
+    "brands": [
+      {
+        "en": "SOUNDBOKS",
+        "zh": "SOUNDBOKS",
+        "aliases": [
+          "SOUNDBOKS",
+          "soundboks"
+        ],
+        "source": "caption_text",
+        "evidence": "Another little clip from our recent collab with @soundboks ✨\n\n#minimal #design #cgi #motiongraphics #party #friyay",
+        "source_url": "https://www.instagram.com/tomaszewicz.studio/reel/DNFZ_YGtGVo/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DM9tmccst6L-1",
+    "post_id": "DM9tmccst6L",
+    "brands": [
+      {
+        "en": "SOUNDBOKS",
+        "zh": "SOUNDBOKS",
+        "aliases": [
+          "SOUNDBOKS",
+          "soundboks"
+        ],
+        "source": "caption_text",
+        "evidence": "New for @soundboks\n\nA party light you haven’t seen before ✨\n\nDesign and animation by us.\n\n#lightboks #soundboks #cgi #animation #party #partylights ",
+        "source_url": "https://www.instagram.com/tomaszewicz.studio/reel/DM9tmccst6L/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "SOUNDBOKS",
+        "name": "LIGHTBOKS",
+        "aliases": [
+          "lightboks"
+        ],
+        "source": "caption_text",
+        "evidence": " party light you haven’t seen before ✨\n\nDesign and animation by us.\n\n#lightboks #soundboks #cgi #animation #party #partylights #partymood #portable #sound #lightandsound",
+        "source_url": "https://www.instagram.com/tomaszewicz.studio/reel/DM9tmccst6L/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZ7_e_COQp9-1",
+    "post_id": "DZ7_e_COQp9",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZX4DM0OVnG-1",
+    "post_id": "DZX4DM0OVnG",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZIbbnhuWWf-1",
+    "post_id": "DZIbbnhuWWf",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DYzt-RcuoqJ-1",
+    "post_id": "DYzt-RcuoqJ",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DYhvHu2Oae6-1",
+    "post_id": "DYhvHu2Oae6",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZKDTzOjsgz-1",
+    "post_id": "DZKDTzOjsgz",
+    "brands": [
+      {
+        "en": "Nike",
+        "zh": "耐吉",
+        "aliases": [
+          "Nike",
+          "耐吉",
+          "nike",
+          "nikefootball"
+        ],
+        "source": "caption_text",
+        "evidence": "Nike TN Pink Foam - and yes, that's exactly what it is.\nPink foam bubbling out of the shoe, simulated and rendered properly. No shader",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DZKDTzOjsgz/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Nike",
+        "name": "TN Pink Foam",
+        "aliases": [
+          "tn pink foam"
+        ],
+        "source": "caption_text",
+        "evidence": "Nike TN Pink Foam - and yes, that's exactly what it is.\nPink foam bubbling out of the shoe, simulated and rendered properly. No shader tricks, no f",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DZKDTzOjsgz/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZFmSRQlWwo-1",
+    "post_id": "DZFmSRQlWwo",
+    "brands": [
+      {
+        "en": "Nike",
+        "zh": "耐吉",
+        "aliases": [
+          "Nike",
+          "耐吉",
+          "nike",
+          "nikefootball"
+        ],
+        "source": "caption_text",
+        "evidence": "tive direction of @applied.artists  in Melbourne, we've been bringing Nike's colorways to life for a while. Translating TN, Air Max 90, and TN7 designs into 3D still renders, turntable animations, and cre",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DZFmSRQlWwo/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Nike",
+        "name": "Air Max",
+        "aliases": [
+          "airmax",
+          "air max"
+        ],
+        "source": "caption_text",
+        "evidence": "e been bringing Nike's colorways to life for a while. Translating TN, Air Max 90, and TN7 designs into 3D still renders, turntable animations, and creative animations with a twist for the guys down under to ",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DZFmSRQlWwo/",
+        "scope": "post"
+      },
+      {
+        "brand": "Nike",
+        "name": "Air Max 90",
+        "aliases": [
+          "air max 90"
+        ],
+        "source": "caption_text",
+        "evidence": "e been bringing Nike's colorways to life for a while. Translating TN, Air Max 90, and TN7 designs into 3D still renders, turntable animations, and creative animations with a twist for the guys down under to put",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DZFmSRQlWwo/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DY42X2GiJ0E-1",
+    "post_id": "DY42X2GiJ0E",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DYzrBuKip-h-1",
+    "post_id": "DYzrBuKip-h",
+    "brands": [
+      {
+        "en": "Don Julio",
+        "zh": "唐胡立歐",
+        "aliases": [
+          "Don Julio",
+          "唐胡立歐",
+          "don julio"
+        ],
+        "source": "caption_text",
+        "evidence": "sign Bridge Singapore, we produced the launch film for the redesigned Don Julio Tequila bottle. The concept centres on a single sustained reveal: traditional Mexican woven cloth conceals the bottle before givi",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DYzrBuKip-h/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DWO3Q3pD2CF-1",
+    "post_id": "DWO3Q3pD2CF",
+    "brands": [
+      {
+        "en": "Hyundai",
+        "zh": "現代汽車",
+        "aliases": [
+          "Hyundai",
+          "現代汽車",
+          "hyundai"
+        ],
+        "source": "caption_text",
+        "evidence": "The Hyundai IONIQ 9 is on its way, and together with Jung von Matt we were tasked with building the hype. No spoilers though. Just a complete",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DWO3Q3pD2CF/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Hyundai",
+        "name": "IONIQ 9",
+        "aliases": [
+          "ioniq 9"
+        ],
+        "source": "caption_text",
+        "evidence": "The Hyundai IONIQ 9 is on its way, and together with Jung von Matt we were tasked with building the hype. No spoilers though. Just a completely unrem",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DWO3Q3pD2CF/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DWHbbeYD35V-1",
+    "post_id": "DWHbbeYD35V",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DWB24kfCZqb-1",
+    "post_id": "DWB24kfCZqb",
+    "brands": [
+      {
+        "en": "Hyundai",
+        "zh": "現代汽車",
+        "aliases": [
+          "Hyundai",
+          "現代汽車",
+          "hyundai"
+        ],
+        "source": "caption_text",
+        "evidence": "Together with Jung von Matt, we created a series of teasers for Hyundai's social media ahead of the IONIQ 9 launch. We just can't tell you what it looks like yet. What we can show you: a few hundred bu",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DWB24kfCZqb/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Hyundai",
+        "name": "IONIQ 9",
+        "aliases": [
+          "ioniq 9"
+        ],
+        "source": "caption_text",
+        "evidence": "e created a series of teasers for Hyundai's social media ahead of the IONIQ 9 launch. We just can't tell you what it looks like yet. What we can show you: a few hundred bubbles of shimmering car paint that d",
+        "source_url": "https://www.instagram.com/aixsponza/reel/DWB24kfCZqb/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DbvFsF3hAYK-1",
+    "post_id": "DbvFsF3hAYK",
+    "brands": [
+      {
+        "en": "Nike",
+        "zh": "耐吉",
+        "aliases": [
+          "Nike",
+          "耐吉",
+          "nike",
+          "nikefootball"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0826】 hyperice x nike, hyperslide, product, 2026\n\n@hyperice and @niketraining have joined forces once again to debut the Nike Air Zoom Hyperslide a cut",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DbvFsF3hAYK/",
+        "scope": "post"
+      },
+      {
+        "en": "Hyperice",
+        "zh": "Hyperice",
+        "aliases": [
+          "Hyperice",
+          "hyperice"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0826】 hyperice x nike, hyperslide, product, 2026\n\n@hyperice and @niketraining have joined forces once again to debut the Nike Air Zoom Hyperslid",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DbvFsF3hAYK/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Nike",
+        "name": "Air Zoom Hyperslide",
+        "aliases": [
+          "air zoom hyperslide",
+          "hyperslide"
+        ],
+        "source": "caption_text",
+        "evidence": "ice and @niketraining have joined forces once again to debut the Nike Air Zoom Hyperslide a cutting-edge footwear innovation engineered to elevate post-activity recovery. Partnering closely with our long-term client Hyp",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DbvFsF3hAYK/",
+        "scope": "post"
+      },
+      {
+        "brand": "Hyperice",
+        "name": "Air Zoom Hyperslide",
+        "aliases": [
+          "air zoom hyperslide",
+          "hyperslide"
+        ],
+        "source": "caption_text",
+        "evidence": "ice and @niketraining have joined forces once again to debut the Nike Air Zoom Hyperslide a cutting-edge footwear innovation engineered to elevate post-activity recovery. Partnering closely with our long-term client Hyp",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DbvFsF3hAYK/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DKM63XLoDGb-1",
+    "post_id": "DKM63XLoDGb",
+    "brands": [
+      {
+        "en": "Nike",
+        "zh": "耐吉",
+        "aliases": [
+          "Nike",
+          "耐吉",
+          "nike",
+          "nikefootball"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0525】 hyperice x nike, hyperboot, product, 2025\n\nWe are excited to share our newest project for performance recovery pioneer @hyperice and global sport",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DKM63XLoDGb/",
+        "scope": "post"
+      },
+      {
+        "en": "Hyperice",
+        "zh": "Hyperice",
+        "aliases": [
+          "Hyperice",
+          "hyperice"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0525】 hyperice x nike, hyperboot, product, 2025\n\nWe are excited to share our newest project for performance recovery pioneer @hyperice and globa",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DKM63XLoDGb/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Hyperice",
+        "name": "Hyperboot",
+        "aliases": [
+          "hyperboot"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0525】 hyperice x nike, hyperboot, product, 2025\n\nWe are excited to share our newest project for performance recovery pioneer @hyperice and global sportswear leade",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DKM63XLoDGb/",
+        "scope": "post"
+      },
+      {
+        "brand": "Nike",
+        "name": "Hyperboot",
+        "aliases": [
+          "hyperboot"
+        ],
+        "source": "caption_text",
+        "evidence": "【sf-0525】 hyperice x nike, hyperboot, product, 2025\n\nWe are excited to share our newest project for performance recovery pioneer @hyperice and global sportswear leade",
+        "source_url": "https://www.instagram.com/someform.studio/reel/DKM63XLoDGb/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DCuAK6jtxx2-1",
+    "post_id": "DCuAK6jtxx2",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DCqq0put-G2-1",
+    "post_id": "DCqq0put-G2",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8uC8IUgkyO-1",
+    "post_id": "C8uC8IUgkyO",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8o4iPSAkgY-1",
+    "post_id": "C8o4iPSAkgY",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8eD2PoAH92-1",
+    "post_id": "C8eD2PoAH92",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8MmYi5sPgS-1",
+    "post_id": "C8MmYi5sPgS",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8CDndhsgAR-1",
+    "post_id": "C8CDndhsgAR",
+    "brands": [
+      {
+        "en": "Formula 1",
+        "zh": "一級方程式",
+        "aliases": [
+          "Formula 1",
+          "一級方程式",
+          "formula 1",
+          "formula1",
+          "f1"
+        ],
+        "source": "caption_text",
+        "evidence": "tage Visual for #AliciaKeys, premiered on  March 8 in #Jeddah at the #F1 race gig.\nA clip from the 20+min of 12k recorded #realtime rendered footage.\n\n#aliciakeys #stage #live #ineedyou #forest #woods #",
+        "source_url": "https://www.instagram.com/zeitguised/reel/C8CDndhsgAR/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C76rc71M8Ug-1",
+    "post_id": "C76rc71M8Ug",
+    "brands": [
+      {
+        "en": "Formula 1",
+        "zh": "一級方程式",
+        "aliases": [
+          "Formula 1",
+          "一級方程式",
+          "formula 1",
+          "formula1",
+          "f1"
+        ],
+        "source": "caption_text",
+        "evidence": "s: a 12k recording of real time animation.\n\nPremiered in her #jeddah #formula1 post race concert in 2024.\n\nportfolio link up in bio...\n\n#aliciakeys #stage #trees #live #ineedyou #forest #woods #outofthewoods ",
+        "source_url": "https://www.instagram.com/zeitguised/reel/C76rc71M8Ug/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DGQ8zuVtj70-1",
+    "post_id": "DGQ8zuVtj70",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DBhBdcdtxnH-1",
+    "post_id": "DBhBdcdtxnH",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DBO7dFXt1w5-1",
+    "post_id": "DBO7dFXt1w5",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DctUlEpM-2W-1",
+    "post_id": "DctUlEpM-2W",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-Daxr2OTMwUp-1",
+    "post_id": "Daxr2OTMwUp",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZ5I9jFM-yH-1",
+    "post_id": "DZ5I9jFM-yH",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZ5IwTasReY-1",
+    "post_id": "DZ5IwTasReY",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZXL7h-sk3Z-1",
+    "post_id": "DZXL7h-sk3Z",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZIY6lChH-K-1",
+    "post_id": "DZIY6lChH-K",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DYw4hyNsJkC-1",
+    "post_id": "DYw4hyNsJkC",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DYPffN0su3J-1",
+    "post_id": "DYPffN0su3J",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DXrgQiQs0IR-1",
+    "post_id": "DXrgQiQs0IR",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DXXIurOMbCs-1",
+    "post_id": "DXXIurOMbCs",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DctsZN8T0UB-1",
+    "post_id": "DctsZN8T0UB",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DcrDRU5TC3D-1",
+    "post_id": "DcrDRU5TC3D",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-Dcb_jIPSCTC-1",
+    "post_id": "Dcb_jIPSCTC",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CaC6wgPtkZs-1",
+    "post_id": "CaC6wgPtkZs",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CaC6wgPtkZs-2",
+    "post_id": "CaC6wgPtkZs",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CcNsDisN5ll-1",
+    "post_id": "CcNsDisN5ll",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CcNsDisN5ll-2",
+    "post_id": "CcNsDisN5ll",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-CcNsDisN5ll-3",
+    "post_id": "CcNsDisN5ll",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DaVhvkgORcE-1",
+    "post_id": "DaVhvkgORcE",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZK2pH9gkvV-1",
+    "post_id": "DZK2pH9gkvV",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C3aeLh6xmf0-1",
+    "post_id": "C3aeLh6xmf0",
+    "brands": [
+      {
+        "en": "Hublot",
+        "zh": "宇舶錶",
+        "aliases": [
+          "Hublot",
+          "宇舶錶",
+          "hublot",
+          "宇舶"
+        ],
+        "source": "caption_text",
+        "evidence": "Hublot MP-10 process reel\n\nSo many fun explorations in this one!\nMade with the great people at \n@studiotendril",
+        "source_url": "https://www.instagram.com/lepikdaniel/reel/C3aeLh6xmf0/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Hublot",
+        "name": "MP-10",
+        "aliases": [
+          "mp-10",
+          "mp10"
+        ],
+        "source": "caption_text",
+        "evidence": "Hublot MP-10 process reel\n\nSo many fun explorations in this one!\nMade with the great people at \n@studiotendril",
+        "source_url": "https://www.instagram.com/lepikdaniel/reel/C3aeLh6xmf0/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DdBYPFRRRD6-1",
+    "post_id": "DdBYPFRRRD6",
+    "brands": [
+      {
+        "en": "HAY",
+        "zh": "HAY",
+        "aliases": [
+          "HAY",
+          "hay"
+        ],
+        "source": "caption_text",
+        "evidence": "Frame teamed up with Danish design brand HAY to create a film for its 3daysofdesign exhibition, held at the stunning contemporary art venue Overgaden. Created with the intent",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DdBYPFRRRD6/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DcTag85oD5I-1",
+    "post_id": "DcTag85oD5I",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DanUHnCIbLb-1",
+    "post_id": "DanUHnCIbLb",
+    "brands": [
+      {
+        "en": "Kvadrat",
+        "zh": "Kvadrat",
+        "aliases": [
+          "Kvadrat",
+          "kvadrat",
+          "kvadrattextiles"
+        ],
+        "source": "caption_text",
+        "evidence": "Kvadrat Acoustics Soft Cells \nFrame has once again teamed up with Danish textile design powerhouse Kvadrat, this time to create a film th",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DanUHnCIbLb/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Kvadrat",
+        "name": "Soft Cells",
+        "aliases": [
+          "soft cells"
+        ],
+        "source": "caption_text",
+        "evidence": "Kvadrat Acoustics Soft Cells \nFrame has once again teamed up with Danish textile design powerhouse Kvadrat, this time to create a film that marks the release ",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DanUHnCIbLb/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DaVmqFQoulw-1",
+    "post_id": "DaVmqFQoulw",
+    "brands": [
+      {
+        "en": "Kvadrat",
+        "zh": "Kvadrat",
+        "aliases": [
+          "Kvadrat",
+          "kvadrat",
+          "kvadrattextiles"
+        ],
+        "source": "caption_text",
+        "evidence": "Waves, developed by Kvadrat Acoustics in collaboration with Foster + Partners Industrial Design, is a new acoustic curtain solution designed to create adapta",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DaVmqFQoulw/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Kvadrat",
+        "name": "Waves",
+        "aliases": [
+          "waves"
+        ],
+        "source": "caption_text",
+        "evidence": "Waves, developed by Kvadrat Acoustics in collaboration with Foster + Partners Industrial Design, is a new acoustic curtain solution des",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DaVmqFQoulw/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DZnHEJjozB8-1",
+    "post_id": "DZnHEJjozB8",
+    "brands": [
+      {
+        "en": "Montblanc",
+        "zh": "萬寶龍",
+        "aliases": [
+          "Montblanc",
+          "萬寶龍",
+          "montblanc"
+        ],
+        "source": "caption_text",
+        "evidence": "Full film of the Montblanc Meisterstück 149, a design that truly writes history.\n\nThe Meisterstück 149 is crafted from deep black precious resin with gold-c",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DZnHEJjozB8/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Montblanc",
+        "name": "Meisterstück 149",
+        "aliases": [
+          "meisterstück 149",
+          "meisterstuck 149"
+        ],
+        "source": "caption_text",
+        "evidence": "Full film of the Montblanc Meisterstück 149, a design that truly writes history.\n\nThe Meisterstück 149 is crafted from deep black precious resin with gold-coated details, to",
+        "source_url": "https://www.instagram.com/frame_cph/reel/DZnHEJjozB8/",
+        "scope": "post"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C84wGUvPZ1--1",
+    "post_id": "C84wGUvPZ1-",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DJUwP_2tL_X-1",
+    "post_id": "DJUwP_2tL_X",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DCEPBoCvmng-1",
+    "post_id": "DCEPBoCvmng",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C9R4p_yvd9y-1",
+    "post_id": "C9R4p_yvd9y",
+    "brands": [
+      {
+        "en": "Cornetto",
+        "zh": "可愛多",
+        "aliases": [
+          "Cornetto",
+          "可愛多",
+          "cornetto"
+        ],
+        "source": "caption_text",
+        "evidence": "Last year's designs for Cornetto, led by @spectral2 \nDone at @man.vs.machine with @lolamullenlowe",
+        "source_url": "https://www.instagram.com/zheminwork/reel/C9R4p_yvd9y/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C8-uFBeoiL5-1",
+    "post_id": "C8-uFBeoiL5",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DTISGO1DEIy-1",
+    "post_id": "DTISGO1DEIy",
+    "brands": [
+      {
+        "en": "Ford",
+        "zh": "福特",
+        "aliases": [
+          "Ford",
+          "福特",
+          "ford"
+        ],
+        "source": "caption_text",
+        "evidence": "ion #design #artwork #artist #test #rnd #creative #maxonc4d #mustang #ford #fordmustang #musclecar #car #gtd #motiongraphics",
+        "source_url": "https://www.instagram.com/alvaro____navarro/reel/DTISGO1DEIy/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DA8ShQ4NtGK-1",
+    "post_id": "DA8ShQ4NtGK",
+    "brands": [
+      {
+        "en": "reMarkable",
+        "zh": "reMarkable",
+        "aliases": [
+          "reMarkable",
+          "remarkable"
+        ],
+        "source": "caption_text",
+        "evidence": "Excited to share the “Newness” film we created for @remarkable alongside with a super talented team @man.vs.machine. Checkout the full case study at mvsm.com. \n.\n.\n.\n.\n#c4d #cinema4d #maxon #r",
+        "source_url": "https://www.instagram.com/alvaro____navarro/reel/DA8ShQ4NtGK/",
+        "scope": "post"
+      }
+    ],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DWowuBBDEXz-1",
+    "post_id": "DWowuBBDEXz",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DWOyWqHjA-s-1",
+    "post_id": "DWOyWqHjA-s",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DUDs2wUDNwa-1",
+    "post_id": "DUDs2wUDNwa",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-DAbWbokN3OW-1",
+    "post_id": "DAbWbokN3OW",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "accounts16-C89syXet4j_-1",
+    "post_id": "C89syXet4j_",
+    "brands": [],
+    "product_models": [],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
     "id": "hublot-DUB1KdekeG--1",
     "post_id": "DUB1KdekeG-",
     "brands": [
