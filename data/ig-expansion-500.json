@@ -2729,6 +2729,34 @@
         "evidence_url": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.71878-15/499131563_1221210382874103_7197889964879727622_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=MzEzMzY3MTQ0NjI3ODEzODMxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjYwOC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=Bd57TnZnupgQ7kNvwHKXdjl&_nc_oc=AdrBfzSpgCn90O0D4YT1fx8okZXzryICN80C2ShDhqh8q7DfTJvuZnK3EomFC3ZnQDo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=lB9vdmxrx1tUUFSsx9lV5w&_nc_ss=7a22e&oh=00_AQKtoBvsgbcMnfKsZOF5YdKOzWZKw4qZ-LKpHp0KiBE5uA&oe=6AA5FB84",
         "reviewed_at": "2026-09-09",
         "review_batch": "remaining490"
+      },
+      {
+        "en": "flow",
+        "zh": "流動",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.74–2.54 秒：銀色顆粒團輪廓持續改變，邊緣顆粒向周圍散開。",
+        "time_ranges": [
+          {
+            "start": 0.744,
+            "end": 2.542
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "dispersion",
+        "zh": "擴散",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.74–2.54 秒：銀色顆粒團輪廓持續改變，邊緣顆粒向周圍散開。",
+        "time_ranges": [
+          {
+            "start": 0.744,
+            "end": 2.542
+          }
+        ],
+        "reviewed_at": "2026-09-09"
       }
     ],
     "related": [],
@@ -2740,12 +2768,13 @@
     ],
     "caption_text": "",
     "published_at": "",
-    "note": "已逐項檢視封面，補上可辨識的主體、材質外觀與顏色。這是靜態畫面標籤整理，整支影片的動態尚未完成審核；無法辨識的材質不猜測補滿。軟體與其餘來源文字標籤另列於貼文提及。",
+    "note": "已逐項檢查靜態畫面，並依原影片連續時間點確認下列動態片段；尚未完成整支影片動態審核。軟體僅依來源明確署名；延伸詞不是已確認效果。",
     "tag_review": {
       "status": "partial",
       "checked_dimensions": [
         "color",
         "material",
+        "motion",
         "subject"
       ],
       "motion_reviewed": false,
@@ -2756,8 +2785,36 @@
         "subject": "confirmed",
         "material": "confirmed",
         "color": "confirmed",
-        "motion": "pending_video_review"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_sampled": true
+    },
+    "motion_review": {
+      "id": "bulk500-Ct9CZPWMWnL",
+      "duration_seconds": 21.222,
+      "sample_times": [
+        0.744,
+        1.632,
+        2.542,
+        3.885,
+        8.76,
+        13.644
+      ],
+      "events": [
+        {
+          "start": 0.744,
+          "end": 2.542,
+          "description": "銀色顆粒團輪廓持續改變，邊緣顆粒向周圍散開。",
+          "terms": [
+            "flow",
+            "dispersion"
+          ]
+        }
+      ],
+      "status": "sampled",
+      "source_url": "https://www.instagram.com/buildersclub_studios/reel/Ct9CZPWMWnL/",
+      "media_index": 1,
+      "reviewed_at": "2026-09-09"
     }
   },
   {
@@ -11271,6 +11328,38 @@
         "evidence_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.71878-15/528319290_1305572814402190_3060532121208558572_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MjU2MzQyMTkyNjY5NTExMTk2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=BLVF5lz_QN4Q7kNvwFRFPOV&_nc_oc=AdpRaJTXEJL7OFfMwKbiygbPQeCre0lA9rEZiNbHWqKzfgZYeWrNvprAO9mxgTg6cIU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=JR6EuMwt7tKZFSSaf4KkVA&_nc_ss=7a22e&oh=00_AQKuPv9kTcFTAwjWy9xii61zv-Bl2iDBu748sb-eYImIjw&oe=6AA5F72C",
         "reviewed_at": "2026-09-09",
         "review_batch": "remaining490"
+      },
+      {
+        "en": "blooming",
+        "zh": "綻放",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.55–1.29 秒：米白色花朵的內圈花瓣向外舒展，花心開口增加。；1.98–2.68 秒：紫色花朵由較收攏的花瓣向外展開。",
+        "time_ranges": [
+          {
+            "start": 0.554,
+            "end": 1.286
+          },
+          {
+            "start": 1.976,
+            "end": 2.681
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "growth",
+        "zh": "生長",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.55–1.29 秒：米白色花朵的內圈花瓣向外舒展，花心開口增加。",
+        "time_ranges": [
+          {
+            "start": 0.554,
+            "end": 1.286
+          }
+        ],
+        "reviewed_at": "2026-09-09"
       }
     ],
     "related": [],
@@ -11301,11 +11390,12 @@
     ],
     "caption_text": "",
     "published_at": "",
-    "note": "已逐項檢視封面，補上可辨識的主體、材質外觀與顏色。這是靜態畫面標籤整理，整支影片的動態尚未完成審核；無法辨識的材質不猜測補滿。軟體與其餘來源文字標籤另列於貼文提及。",
+    "note": "已逐項檢查靜態畫面，並依原影片連續時間點確認下列動態片段；尚未完成整支影片動態審核。軟體僅依來源明確署名；延伸詞不是已確認效果。",
     "tag_review": {
       "status": "partial",
       "checked_dimensions": [
         "color",
+        "motion",
         "subject"
       ],
       "motion_reviewed": false,
@@ -11316,8 +11406,48 @@
         "subject": "confirmed",
         "material": "not_identifiable_in_still",
         "color": "confirmed",
-        "motion": "pending_video_review"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_sampled": true
+    },
+    "motion_review": {
+      "id": "bulk500-COTGqkmHA0a",
+      "duration_seconds": 19.087,
+      "sample_times": [
+        0.554,
+        1.286,
+        1.976,
+        2.681,
+        5.301,
+        6.742,
+        10.517,
+        16.743,
+        17.518,
+        18.322
+      ],
+      "events": [
+        {
+          "start": 0.554,
+          "end": 1.286,
+          "description": "米白色花朵的內圈花瓣向外舒展，花心開口增加。",
+          "terms": [
+            "blooming",
+            "growth"
+          ]
+        },
+        {
+          "start": 1.976,
+          "end": 2.681,
+          "description": "紫色花朵由較收攏的花瓣向外展開。",
+          "terms": [
+            "blooming"
+          ]
+        }
+      ],
+      "status": "sampled",
+      "source_url": "https://www.instagram.com/opticalarts.studio/reel/COTGqkmHA0a/",
+      "media_index": 1,
+      "reviewed_at": "2026-09-09"
     }
   },
   {
@@ -16107,6 +16237,80 @@
         "evidence_url": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.71878-15/529832618_24202668639400340_946525746703381815_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=MjE4NTc5MDI5MDU1NjUwMjU4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=pFK6mmqiZyAQ7kNvwEaG4cA&_nc_oc=AdrbNB47VsfGSmPS9ODObhWoxy2xCmmgD2ypoE2tmnuY3JGCR9fGBa1KQMDgBurgnS8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=LqiFYjbWeFVghjFX0kdjqQ&_nc_ss=7a22e&oh=00_AQIiyZX4Nc-rWicPwXD4xAEugTAxgrKvq5ZQKSRBn9kuvQ&oe=6AA60B52",
         "reviewed_at": "2026-09-09",
         "review_batch": "remaining490"
+      },
+      {
+        "en": "dripping",
+        "zh": "滴落",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–1.59 秒：紅色液絲斷為液滴，向下落入綠色高腳杯。",
+        "time_ranges": [
+          {
+            "start": 0.78,
+            "end": 1.592
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "flow",
+        "zh": "流動",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–1.59 秒：紅色液絲斷為液滴，向下落入綠色高腳杯。；2.41–5.60 秒：紅色液體越過杯口，沿外側下流並逐步退回較低的液面。",
+        "time_ranges": [
+          {
+            "start": 0.78,
+            "end": 1.592
+          },
+          {
+            "start": 2.406,
+            "end": 5.602
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "impact",
+        "zh": "衝擊",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "1.59–2.41 秒：液體落入杯中，接觸後迅速向上、向外展成液片與水花。",
+        "time_ranges": [
+          {
+            "start": 1.592,
+            "end": 2.406
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "splash",
+        "zh": "飛濺",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "1.59–2.41 秒：液體落入杯中，接觸後迅速向上、向外展成液片與水花。",
+        "time_ranges": [
+          {
+            "start": 1.592,
+            "end": 2.406
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "overflow",
+        "zh": "溢流",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "2.41–5.60 秒：紅色液體越過杯口，沿外側下流並逐步退回較低的液面。",
+        "time_ranges": [
+          {
+            "start": 2.406,
+            "end": 5.602
+          }
+        ],
+        "reviewed_at": "2026-09-09"
       }
     ],
     "related": [
@@ -16150,12 +16354,13 @@
     ],
     "caption_text": "",
     "published_at": "",
-    "note": "已逐項檢視封面，補上可辨識的主體、材質外觀與顏色。這是靜態畫面標籤整理，整支影片的動態尚未完成審核；無法辨識的材質不猜測補滿。軟體與其餘來源文字標籤另列於貼文提及。",
+    "note": "已逐項檢查靜態畫面，並依原影片連續時間點確認下列動態片段；尚未完成整支影片動態審核。軟體僅依來源明確署名；延伸詞不是已確認效果。",
     "tag_review": {
       "status": "partial",
       "checked_dimensions": [
         "color",
         "material",
+        "motion",
         "subject"
       ],
       "motion_reviewed": false,
@@ -16166,8 +16371,55 @@
         "subject": "confirmed",
         "material": "confirmed",
         "color": "confirmed",
-        "motion": "pending_video_review"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_sampled": true
+    },
+    "motion_review": {
+      "id": "bulk500-B5VfLA-HkI5",
+      "duration_seconds": 8,
+      "sample_times": [
+        0.78,
+        1.592,
+        2.406,
+        3.354,
+        4.084,
+        4.847,
+        5.602
+      ],
+      "events": [
+        {
+          "start": 0.78,
+          "end": 1.592,
+          "description": "紅色液絲斷為液滴，向下落入綠色高腳杯。",
+          "terms": [
+            "dripping",
+            "flow"
+          ]
+        },
+        {
+          "start": 1.592,
+          "end": 2.406,
+          "description": "液體落入杯中，接觸後迅速向上、向外展成液片與水花。",
+          "terms": [
+            "impact",
+            "splash"
+          ]
+        },
+        {
+          "start": 2.406,
+          "end": 5.602,
+          "description": "紅色液體越過杯口，沿外側下流並逐步退回較低的液面。",
+          "terms": [
+            "overflow",
+            "flow"
+          ]
+        }
+      ],
+      "status": "sampled",
+      "source_url": "https://www.instagram.com/lukasvojir/reel/B5VfLA-HkI5/",
+      "media_index": 1,
+      "reviewed_at": "2026-09-09"
     }
   },
   {
@@ -18541,6 +18793,62 @@
         "evidence_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.75761-15/469074489_18339325351196572_8676526652564208100_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=MzUxNDgwOTIzNDI0MTI2Njg1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=5p_4KZtXE6EQ7kNvwGyJffl&_nc_oc=AdqA_yBCzJNk_SQwS_N7RiCzTMCSCld088YvAMBLed15-P_OIRrYlg24u4QE8zdsE10&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=jVsvL1bs1YjTHPw9Vbe2Cg&_nc_ss=7a22e&oh=00_AQL_vO0OVdlFdkxNuzrq9jO6xLmCQtw1hsHrONwrJ1YXxw&oe=6AA5EC01",
         "reviewed_at": "2026-09-09",
         "review_batch": "remaining490"
+      },
+      {
+        "en": "wrapping",
+        "zh": "纏繞",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–2.55 秒：多條彩色帶狀物環繞中心、收攏，形成 Microsoft 365 標誌。",
+        "time_ranges": [
+          {
+            "start": 0.776,
+            "end": 2.548
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "assembly",
+        "zh": "組合",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–2.55 秒：多條彩色帶狀物環繞中心、收攏，形成 Microsoft 365 標誌。",
+        "time_ranges": [
+          {
+            "start": 0.776,
+            "end": 2.548
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "disassembly",
+        "zh": "拆解",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "3.48–4.36 秒：完整標誌重新鬆開，帶狀部分拉開為開放的曲面。",
+        "time_ranges": [
+          {
+            "start": 3.476,
+            "end": 4.364
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "soft body deformation",
+        "zh": "軟體形變",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "3.48–4.36 秒：完整標誌重新鬆開，帶狀部分拉開為開放的曲面。",
+        "time_ranges": [
+          {
+            "start": 3.476,
+            "end": 4.364
+          }
+        ],
+        "reviewed_at": "2026-09-09"
       }
     ],
     "related": [],
@@ -18569,11 +18877,12 @@
     ],
     "caption_text": "",
     "published_at": "",
-    "note": "已逐項檢視封面，補上可辨識的主體、材質外觀與顏色。這是靜態畫面標籤整理，整支影片的動態尚未完成審核；無法辨識的材質不猜測補滿。軟體與其餘來源文字標籤另列於貼文提及。",
+    "note": "已逐項檢查靜態畫面，並依原影片連續時間點確認下列動態片段；尚未完成整支影片動態審核。軟體僅依來源明確署名；延伸詞不是已確認效果。",
     "tag_review": {
       "status": "partial",
       "checked_dimensions": [
         "color",
+        "motion",
         "subject"
       ],
       "motion_reviewed": false,
@@ -18584,8 +18893,44 @@
         "subject": "confirmed",
         "material": "not_identifiable_in_still",
         "color": "confirmed",
-        "motion": "pending_video_review"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_sampled": true
+    },
+    "motion_review": {
+      "id": "bulk500-DDHHGBUNqSn",
+      "duration_seconds": 30,
+      "sample_times": [
+        0.776,
+        1.655,
+        2.548,
+        3.476,
+        4.364
+      ],
+      "events": [
+        {
+          "start": 0.776,
+          "end": 2.548,
+          "description": "多條彩色帶狀物環繞中心、收攏，形成 Microsoft 365 標誌。",
+          "terms": [
+            "wrapping",
+            "assembly"
+          ]
+        },
+        {
+          "start": 3.476,
+          "end": 4.364,
+          "description": "完整標誌重新鬆開，帶狀部分拉開為開放的曲面。",
+          "terms": [
+            "disassembly",
+            "soft body deformation"
+          ]
+        }
+      ],
+      "status": "sampled",
+      "source_url": "https://www.instagram.com/notreal.tv/reel/DDHHGBUNqSn/",
+      "media_index": 1,
+      "reviewed_at": "2026-09-09"
     }
   },
   {
@@ -27086,6 +27431,38 @@
         "evidence_url": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.71878-15/530499852_1268138547858569_1641315246482633978_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=MjU3OTg4MzAxNTc0Nzc0MzExNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Rk9A32fXiYYQ7kNvwEKg4BI&_nc_oc=Adq5QW6sAf356VirRxs0_Xs-OujeCkh_Tyrb4OowW1EMFsGzdT34QYTOsLPdR5HuvHI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=sXFB9y4QJY77BZSFTWs8Nw&_nc_ss=7a22e&oh=00_AQJIFV-rvkGLvblLt29x5Se7aYV2DTt3X0Mr7WWYyeFFvA&oe=6AA5F4CF",
         "reviewed_at": "2026-09-09",
         "review_batch": "remaining490"
+      },
+      {
+        "en": "wobble",
+        "zh": "晃動",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–3.21 秒：黃色透明果凍的肋狀輪廓反覆彎曲與回復，表面連續起伏。；11.24–13.65 秒：俯視角度下，果凍外緣持續小幅晃動與形變。",
+        "time_ranges": [
+          {
+            "start": 0.784,
+            "end": 3.21
+          },
+          {
+            "start": 11.245,
+            "end": 13.653
+          }
+        ],
+        "reviewed_at": "2026-09-09"
+      },
+      {
+        "en": "soft body deformation",
+        "zh": "軟體形變",
+        "category": "motion",
+        "source": "video_sequence",
+        "evidence": "0.78–3.21 秒：黃色透明果凍的肋狀輪廓反覆彎曲與回復，表面連續起伏。",
+        "time_ranges": [
+          {
+            "start": 0.784,
+            "end": 3.21
+          }
+        ],
+        "reviewed_at": "2026-09-09"
       }
     ],
     "related": [
@@ -27123,12 +27500,13 @@
     ],
     "caption_text": "",
     "published_at": "",
-    "note": "已逐項檢視封面，補上可辨識的主體、材質外觀與顏色。這是靜態畫面標籤整理，整支影片的動態尚未完成審核；無法辨識的材質不猜測補滿。軟體與其餘來源文字標籤另列於貼文提及。",
+    "note": "已逐項檢查靜態畫面，並依原影片連續時間點確認下列動態片段；尚未完成整支影片動態審核。軟體僅依來源明確署名；延伸詞不是已確認效果。",
     "tag_review": {
       "status": "partial",
       "checked_dimensions": [
         "color",
         "material",
+        "motion",
         "subject"
       ],
       "motion_reviewed": false,
@@ -27139,8 +27517,46 @@
         "subject": "confirmed",
         "material": "confirmed",
         "color": "confirmed",
-        "motion": "pending_video_review"
-      }
+        "motion": "confirmed_sampled_segments"
+      },
+      "motion_sampled": true
+    },
+    "motion_review": {
+      "id": "bulk500-CPNle8btS2L",
+      "duration_seconds": 14.267,
+      "sample_times": [
+        0.784,
+        1.583,
+        2.384,
+        3.21,
+        11.245,
+        12.044,
+        12.862,
+        13.653
+      ],
+      "events": [
+        {
+          "start": 0.784,
+          "end": 3.21,
+          "description": "黃色透明果凍的肋狀輪廓反覆彎曲與回復，表面連續起伏。",
+          "terms": [
+            "wobble",
+            "soft body deformation"
+          ]
+        },
+        {
+          "start": 11.245,
+          "end": 13.653,
+          "description": "俯視角度下，果凍外緣持續小幅晃動與形變。",
+          "terms": [
+            "wobble"
+          ]
+        }
+      ],
+      "status": "sampled",
+      "source_url": "https://www.instagram.com/seh.sucht/reel/CPNle8btS2L/",
+      "media_index": 1,
+      "reviewed_at": "2026-09-09"
     }
   },
   {
