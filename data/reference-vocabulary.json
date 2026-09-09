@@ -1,0 +1,948 @@
+[
+  {
+    "en": "grain",
+    "zh": "顆粒",
+    "category": "subject",
+    "aliases": [
+      "particle",
+      "particles",
+      "granular",
+      "grains",
+      "微粒",
+      "粒子",
+      "粒狀"
+    ]
+  },
+  {
+    "en": "curve",
+    "zh": "曲線",
+    "category": "subject",
+    "aliases": [
+      "curves",
+      "curved line",
+      "弧線",
+      "曲線條"
+    ]
+  },
+  {
+    "en": "shape",
+    "zh": "形狀",
+    "category": "subject",
+    "aliases": [
+      "shapes",
+      "form",
+      "造型",
+      "形體",
+      "幾何形狀"
+    ]
+  },
+  {
+    "en": "font",
+    "zh": "字型",
+    "category": "subject",
+    "aliases": [
+      "typography",
+      "typeface",
+      "text",
+      "字體",
+      "文字",
+      "字型設計"
+    ]
+  },
+  {
+    "en": "product",
+    "zh": "產品",
+    "category": "subject",
+    "aliases": [
+      "products",
+      "商品",
+      "產品物件"
+    ]
+  },
+  {
+    "en": "building",
+    "zh": "建築",
+    "category": "subject",
+    "aliases": [
+      "buildings",
+      "architecture",
+      "建築物",
+      "樓房"
+    ]
+  },
+  {
+    "en": "character",
+    "zh": "角色",
+    "category": "subject",
+    "aliases": [
+      "characters",
+      "人物",
+      "角色造型"
+    ]
+  },
+  {
+    "en": "fire",
+    "zh": "火焰",
+    "category": "subject",
+    "aliases": [
+      "flame",
+      "flames",
+      "火",
+      "火苗"
+    ]
+  },
+  {
+    "en": "fluid",
+    "zh": "流體",
+    "category": "subject",
+    "aliases": [
+      "liquid",
+      "liquids",
+      "液體",
+      "流體物件"
+    ]
+  },
+  {
+    "en": "light",
+    "zh": "光線",
+    "category": "subject",
+    "aliases": [
+      "lighting",
+      "lights",
+      "燈光",
+      "光照"
+    ]
+  },
+  {
+    "en": "shield",
+    "zh": "護盾",
+    "category": "subject",
+    "aliases": [
+      "shields",
+      "energy shield",
+      "防護罩",
+      "能量護盾"
+    ]
+  },
+  {
+    "en": "land",
+    "zh": "地形",
+    "category": "subject",
+    "aliases": [
+      "terrain",
+      "landscape",
+      "地貌",
+      "陸地",
+      "地景"
+    ]
+  },
+  {
+    "en": "sci-fi",
+    "zh": "科幻",
+    "category": "style",
+    "aliases": [
+      "scifi",
+      "sci fi",
+      "science fiction",
+      "科幻風格",
+      "未來科幻"
+    ]
+  },
+  {
+    "en": "GUI",
+    "zh": "圖形介面",
+    "category": "subject",
+    "aliases": [
+      "gui",
+      "user interface",
+      "graphical user interface",
+      "使用者介面",
+      "圖形使用者介面"
+    ]
+  },
+  {
+    "en": "cloth",
+    "zh": "布料",
+    "category": "subject",
+    "aliases": [
+      "fabric",
+      "textile",
+      "織物",
+      "布",
+      "衣料"
+    ]
+  },
+  {
+    "en": "vehicle",
+    "zh": "載具",
+    "category": "subject",
+    "aliases": [
+      "vehicles",
+      "交通工具",
+      "運輸工具"
+    ]
+  },
+  {
+    "en": "animal",
+    "zh": "動物",
+    "category": "subject",
+    "aliases": [
+      "animals",
+      "生物角色"
+    ]
+  },
+  {
+    "en": "smoke",
+    "zh": "煙霧",
+    "category": "subject",
+    "aliases": [
+      "煙",
+      "濃煙",
+      "煙體"
+    ]
+  },
+  {
+    "en": "ocean",
+    "zh": "海洋",
+    "category": "subject",
+    "aliases": [
+      "sea",
+      "seascape",
+      "大海",
+      "海面",
+      "海景"
+    ]
+  },
+  {
+    "en": "beam",
+    "zh": "光束",
+    "category": "subject",
+    "aliases": [
+      "light beam",
+      "laser beam",
+      "光柱",
+      "雷射光束"
+    ]
+  },
+  {
+    "en": "stone",
+    "zh": "石頭",
+    "category": "subject",
+    "aliases": [
+      "rock",
+      "rocks",
+      "stones",
+      "岩石",
+      "石塊"
+    ]
+  },
+  {
+    "en": "logo",
+    "zh": "標誌",
+    "category": "subject",
+    "aliases": [
+      "logotype",
+      "brand mark",
+      "商標",
+      "品牌標誌"
+    ]
+  },
+  {
+    "en": "food",
+    "zh": "食物",
+    "category": "subject",
+    "aliases": [
+      "foods",
+      "食材",
+      "食品"
+    ]
+  },
+  {
+    "en": "city",
+    "zh": "城市",
+    "category": "subject",
+    "aliases": [
+      "cityscape",
+      "urban environment",
+      "都市",
+      "城市景觀"
+    ]
+  },
+  {
+    "en": "plant",
+    "zh": "植物",
+    "category": "subject",
+    "aliases": [
+      "plants",
+      "vegetation",
+      "植被",
+      "植物造型"
+    ]
+  },
+  {
+    "en": "cloud",
+    "zh": "雲朵",
+    "category": "subject",
+    "aliases": [
+      "clouds",
+      "雲",
+      "雲層"
+    ]
+  },
+  {
+    "en": "nebula",
+    "zh": "星雲",
+    "category": "subject",
+    "aliases": [
+      "nebulae",
+      "星際雲"
+    ]
+  },
+  {
+    "en": "lightning",
+    "zh": "閃電",
+    "category": "subject",
+    "aliases": [
+      "lightning bolt",
+      "electric arc",
+      "電弧",
+      "雷電"
+    ]
+  },
+  {
+    "en": "planet",
+    "zh": "行星",
+    "category": "subject",
+    "aliases": [
+      "planets",
+      "星球"
+    ]
+  },
+  {
+    "en": "magic",
+    "zh": "魔法",
+    "category": "style",
+    "aliases": [
+      "magical",
+      "魔法效果",
+      "魔幻效果"
+    ]
+  },
+  {
+    "en": "weapon",
+    "zh": "武器",
+    "category": "subject",
+    "aliases": [
+      "weapons",
+      "兵器"
+    ]
+  },
+  {
+    "en": "portal",
+    "zh": "傳送門",
+    "category": "subject",
+    "aliases": [
+      "portals",
+      "gateway",
+      "空間門",
+      "入口傳送門"
+    ]
+  },
+  {
+    "en": "space",
+    "zh": "太空",
+    "category": "subject",
+    "aliases": [
+      "outer space",
+      "cosmos",
+      "宇宙",
+      "外太空"
+    ]
+  },
+  {
+    "en": "bubble",
+    "zh": "氣泡",
+    "category": "subject",
+    "aliases": [
+      "bubbles",
+      "泡泡",
+      "水泡"
+    ]
+  },
+  {
+    "en": "assemble",
+    "zh": "組合",
+    "category": "motion",
+    "aliases": [
+      "assembly",
+      "assembling",
+      "組裝",
+      "拼合",
+      "聚合成形"
+    ]
+  },
+  {
+    "en": "array",
+    "zh": "陣列排列",
+    "category": "motion",
+    "aliases": [
+      "arraying",
+      "排列成陣列",
+      "規則排列"
+    ]
+  },
+  {
+    "en": "collide",
+    "zh": "碰撞",
+    "category": "motion",
+    "aliases": [
+      "collision",
+      "colliding",
+      "碰撞效果"
+    ]
+  },
+  {
+    "en": "depart",
+    "zh": "分離",
+    "category": "motion",
+    "aliases": [
+      "separate",
+      "separation",
+      "分開",
+      "離開",
+      "分離動作"
+    ]
+  },
+  {
+    "en": "drive",
+    "zh": "驅動",
+    "category": "motion",
+    "aliases": [
+      "driving",
+      "帶動",
+      "驅動運動"
+    ]
+  },
+  {
+    "en": "drop",
+    "zh": "落下",
+    "category": "motion",
+    "aliases": [
+      "fall",
+      "falling",
+      "dropping",
+      "下落",
+      "掉落",
+      "墜落"
+    ]
+  },
+  {
+    "en": "expand",
+    "zh": "擴張",
+    "category": "motion",
+    "aliases": [
+      "expansion",
+      "expanding",
+      "擴展",
+      "擴大"
+    ]
+  },
+  {
+    "en": "flow",
+    "zh": "流動",
+    "category": "motion",
+    "aliases": [
+      "flowing",
+      "流淌",
+      "流動效果"
+    ]
+  },
+  {
+    "en": "follow",
+    "zh": "跟隨",
+    "category": "motion",
+    "aliases": [
+      "following",
+      "path following",
+      "追隨",
+      "沿路徑跟隨"
+    ]
+  },
+  {
+    "en": "growth",
+    "zh": "生長",
+    "category": "motion",
+    "aliases": [
+      "growing",
+      "grow",
+      "增生",
+      "長出"
+    ]
+  },
+  {
+    "en": "flock",
+    "zh": "群聚運動",
+    "category": "motion",
+    "aliases": [
+      "flocking",
+      "boids",
+      "群集運動",
+      "鳥群運動"
+    ]
+  },
+  {
+    "en": "fly",
+    "zh": "飛行",
+    "category": "motion",
+    "aliases": [
+      "flying",
+      "飛翔",
+      "飛動"
+    ]
+  },
+  {
+    "en": "inflate",
+    "zh": "充氣膨脹",
+    "category": "motion",
+    "aliases": [
+      "inflation",
+      "inflating",
+      "充氣",
+      "鼓起",
+      "膨脹"
+    ]
+  },
+  {
+    "en": "knit",
+    "zh": "編織",
+    "category": "motion",
+    "aliases": [
+      "knitting",
+      "weaving",
+      "織造",
+      "織合"
+    ]
+  },
+  {
+    "en": "peel",
+    "zh": "剝離",
+    "category": "motion",
+    "aliases": [
+      "peeling",
+      "剝落",
+      "剝開"
+    ]
+  },
+  {
+    "en": "pull",
+    "zh": "拉動",
+    "category": "motion",
+    "aliases": [
+      "pulling",
+      "牽引",
+      "拉扯"
+    ]
+  },
+  {
+    "en": "procedural",
+    "zh": "程序化",
+    "category": "technique",
+    "aliases": [
+      "procedural generation",
+      "程序生成",
+      "程序式生成"
+    ]
+  },
+  {
+    "en": "rain",
+    "zh": "降雨",
+    "category": "motion",
+    "aliases": [
+      "raining",
+      "rainfall",
+      "下雨",
+      "雨落"
+    ]
+  },
+  {
+    "en": "recover",
+    "zh": "恢復",
+    "category": "motion",
+    "aliases": [
+      "recovery",
+      "restore",
+      "restoration",
+      "復原",
+      "還原",
+      "恢復原狀"
+    ]
+  },
+  {
+    "en": "stretch",
+    "zh": "拉伸",
+    "category": "motion",
+    "aliases": [
+      "stretching",
+      "延展",
+      "伸長"
+    ]
+  },
+  {
+    "en": "shrink",
+    "zh": "收縮",
+    "category": "motion",
+    "aliases": [
+      "shrinking",
+      "contraction",
+      "縮小",
+      "縮合"
+    ]
+  },
+  {
+    "en": "stack",
+    "zh": "堆疊",
+    "category": "motion",
+    "aliases": [
+      "stacking",
+      "pile up",
+      "堆積",
+      "逐層堆疊"
+    ]
+  },
+  {
+    "en": "squeeze",
+    "zh": "擠壓",
+    "category": "motion",
+    "aliases": [
+      "squiz",
+      "squeezing",
+      "compression",
+      "壓縮",
+      "擠扁"
+    ]
+  },
+  {
+    "en": "scan",
+    "zh": "掃描",
+    "category": "motion",
+    "aliases": [
+      "scanning",
+      "掃掠",
+      "掃描動畫"
+    ]
+  },
+  {
+    "en": "spin",
+    "zh": "旋轉",
+    "category": "motion",
+    "aliases": [
+      "spinning",
+      "rotation",
+      "rotating",
+      "轉動",
+      "自轉"
+    ]
+  },
+  {
+    "en": "twinkle",
+    "zh": "閃爍",
+    "category": "motion",
+    "aliases": [
+      "twinkling",
+      "flicker",
+      "flickering",
+      "閃耀",
+      "忽明忽暗"
+    ]
+  },
+  {
+    "en": "twist",
+    "zh": "扭轉",
+    "category": "motion",
+    "aliases": [
+      "twisting",
+      "torsion",
+      "扭動",
+      "扭曲"
+    ]
+  },
+  {
+    "en": "untie",
+    "zh": "解開",
+    "category": "motion",
+    "aliases": [
+      "untying",
+      "unravel",
+      "unraveling",
+      "解結",
+      "解纏"
+    ]
+  },
+  {
+    "en": "vibrate",
+    "zh": "振動",
+    "category": "motion",
+    "aliases": [
+      "vibration",
+      "vibrating",
+      "震動",
+      "顫動"
+    ]
+  },
+  {
+    "en": "wave",
+    "zh": "波動",
+    "category": "motion",
+    "aliases": [
+      "waving",
+      "undulation",
+      "undulating",
+      "波浪",
+      "起伏",
+      "波浪運動"
+    ]
+  },
+  {
+    "en": "explode",
+    "zh": "爆炸",
+    "category": "motion",
+    "aliases": [
+      "explosion",
+      "exploding",
+      "爆破",
+      "炸開"
+    ]
+  },
+  {
+    "en": "fracture",
+    "zh": "破碎",
+    "category": "motion",
+    "aliases": [
+      "fracturing",
+      "shatter",
+      "shattering",
+      "destruction",
+      "破裂",
+      "碎裂",
+      "崩碎"
+    ]
+  },
+  {
+    "en": "split",
+    "zh": "分裂",
+    "category": "motion",
+    "aliases": [
+      "splitting",
+      "裂分",
+      "分割"
+    ]
+  },
+  {
+    "en": "melt",
+    "zh": "融化",
+    "category": "motion",
+    "aliases": [
+      "melting",
+      "熔化",
+      "熔融"
+    ]
+  },
+  {
+    "en": "dissolve",
+    "zh": "溶解",
+    "category": "motion",
+    "aliases": [
+      "dissolving",
+      "溶散",
+      "溶解消失"
+    ]
+  },
+  {
+    "en": "suck",
+    "zh": "吸入",
+    "category": "motion",
+    "aliases": [
+      "suction",
+      "sucking",
+      "吸附收攏",
+      "吸收進入"
+    ]
+  },
+  {
+    "en": "cut",
+    "zh": "切割",
+    "category": "motion",
+    "aliases": [
+      "cutting",
+      "slice",
+      "slicing",
+      "裁切",
+      "切開"
+    ]
+  },
+  {
+    "en": "transform",
+    "zh": "變形",
+    "category": "motion",
+    "aliases": [
+      "transformation",
+      "morph",
+      "morphing",
+      "形態轉換",
+      "形變"
+    ]
+  },
+  {
+    "en": "POP",
+    "zh": "粒子模擬",
+    "category": "simulation",
+    "aliases": [
+      "pop",
+      "POP solver",
+      "POP simulation",
+      "粒子求解器"
+    ]
+  },
+  {
+    "en": "RBD",
+    "zh": "剛體模擬",
+    "category": "simulation",
+    "aliases": [
+      "rbd",
+      "rigid body dynamics",
+      "rigid body simulation",
+      "剛體動力學"
+    ]
+  },
+  {
+    "en": "Vellum",
+    "zh": "Vellum 模擬",
+    "category": "simulation",
+    "aliases": [
+      "vellum",
+      "Vellum solver",
+      "Vellum simulation",
+      "Vellum求解器"
+    ]
+  },
+  {
+    "en": "FLIP",
+    "zh": "FLIP 流體模擬",
+    "category": "simulation",
+    "aliases": [
+      "flip",
+      "FLIP solver",
+      "FLIP simulation",
+      "FLIP流體",
+      "FLIP求解器"
+    ]
+  },
+  {
+    "en": "Pyro",
+    "zh": "Pyro 煙火模擬",
+    "category": "simulation",
+    "aliases": [
+      "pyro",
+      "Pyro solver",
+      "Pyro simulation",
+      "Pyro煙霧",
+      "Pyro求解器"
+    ]
+  },
+  {
+    "en": "crowd",
+    "zh": "群眾模擬",
+    "category": "simulation",
+    "aliases": [
+      "crowd simulation",
+      "crowd solver",
+      "人群模擬",
+      "群眾動畫"
+    ]
+  },
+  {
+    "en": "geometry",
+    "zh": "幾何體",
+    "category": "technique",
+    "aliases": [
+      "geometric",
+      "幾何",
+      "幾何造型"
+    ]
+  },
+  {
+    "en": "real",
+    "zh": "寫實",
+    "category": "style",
+    "aliases": [
+      "realistic",
+      "photoreal",
+      "photorealistic",
+      "寫實風格",
+      "擬真",
+      "照片級寫實"
+    ]
+  },
+  {
+    "en": "anime",
+    "zh": "動畫風",
+    "category": "style",
+    "aliases": [
+      "anime style",
+      "日系動畫",
+      "動漫風格"
+    ]
+  },
+  {
+    "en": "pixel",
+    "zh": "像素風",
+    "category": "style",
+    "aliases": [
+      "pixel art",
+      "pixelated",
+      "點陣風格",
+      "像素藝術"
+    ]
+  },
+  {
+    "en": "luxury",
+    "zh": "奢華",
+    "category": "style",
+    "aliases": [
+      "luxurious",
+      "奢華風格",
+      "精品風格"
+    ]
+  },
+  {
+    "en": "retro",
+    "zh": "復古",
+    "category": "style",
+    "aliases": [
+      "vintage",
+      "復古風格",
+      "懷舊"
+    ]
+  },
+  {
+    "en": "fantasy",
+    "zh": "奇幻",
+    "category": "style",
+    "aliases": [
+      "fantastical",
+      "奇幻風格",
+      "幻想風格"
+    ]
+  },
+  {
+    "en": "tech",
+    "zh": "科技感",
+    "category": "style",
+    "aliases": [
+      "technological",
+      "technology aesthetic",
+      "科技風格",
+      "科技美學"
+    ]
+  }
+]
