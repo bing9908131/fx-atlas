@@ -189,7 +189,7 @@ function itemTags(i){
  if(!i.tag_review)return `<h3>個別素材標籤</h3><div class="tags">${i.tags.map(t=>tag(t)).join('')}</div>`;
  const groups=[['subject','主體物件'],['motion','動態'],['material','材質與表面'],['color','顏色']];
  const visual=i.tags.filter(t=>['cover','video_frame','visual','video_sequence'].includes(t.source));
- return groups.map(([key,label])=>{const ts=visual.filter(t=>t.category===key);return `<h3>${label}</h3>${ts.length?'<div class="tags">'+ts.map(t=>tag(t)).join('')+'</div>':'<p class="note">'+(key==='motion'?'待影片動態確認':i.tag_review.dimension_status?.[key]==='not_identifiable_in_still'?'此畫面無法明確辨識':'待畫面確認')+'</p>'}`}).join('')+motionEvidence(i)+'<h3>貼文提及 · 尚未逐項畫面確認</h3><div class="tags">'+i.tags.filter(t=>!visual.includes(t)).map(t=>tag(t)).join('')+'</div>';
+ return groups.map(([key,label])=>{const ts=visual.filter(t=>t.category===key);return `<h3>${label}</h3>${ts.length?'<div class="tags">'+ts.map(t=>tag(t)).join('')+'</div>':'<p class="note">'+(key==='motion'?'待影片動態確認':i.tag_review.dimension_status?.[key]==='not_identifiable_in_still'?'此畫面無法明確辨識':'待畫面確認')+'</p>'}`}).join('')+motionEvidence(i)+'<h3>貼文提及 · 尚未逐項畫面確認</h3><div class="tags">'+i.tags.filter(t=>!visual.includes(t)&&!visual.some(v=>v.category===t.category&&v.en.toLowerCase()===t.en.toLowerCase())).map(t=>tag(t)).join('')+'</div>';
 }
 function openItem(id){
  const i=items.find(i=>i.id===id);if(!i)return;
