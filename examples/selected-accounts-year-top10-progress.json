@@ -1509,7 +1509,7 @@
           "shortcode": "DdF8sCmMsIg",
           "url": "https://www.instagram.com/beeple_crap/p/DdF8sCmMsIg/",
           "published_at": "2026-09-09",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdF8sCmMsIg-1"
           ]
@@ -1518,7 +1518,7 @@
           "shortcode": "Dc3K4eNsv80",
           "url": "https://www.instagram.com/beeple_crap/p/Dc3K4eNsv80/",
           "published_at": "2026-09-04",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc3K4eNsv80-1"
           ]
@@ -1598,7 +1598,7 @@
           "shortcode": "Dc_MrY9zR7y",
           "url": "https://www.instagram.com/blkb.studio/reel/Dc_MrY9zR7y/",
           "published_at": "2026-09-07T13:27:01.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_MrY9zR7y-1"
           ]
@@ -1607,7 +1607,7 @@
           "shortcode": "DJGzQl2CxCp",
           "url": "https://www.instagram.com/g6tem/p/DJGzQl2CxCp/",
           "published_at": "2025-05-01T09:40:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DJGzQl2CxCp-1"
           ]
@@ -1629,7 +1629,7 @@
           "shortcode": "DcgNEZuiIAk",
           "url": "https://www.instagram.com/blublustudios/p/DcgNEZuiIAk/",
           "published_at": "2026-08-26",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcgNEZuiIAk-1"
           ]
@@ -1638,7 +1638,7 @@
           "shortcode": "DcLfFCbAmrI",
           "url": "https://www.instagram.com/blublustudios/p/DcLfFCbAmrI/",
           "published_at": "2026-08-18",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcLfFCbAmrI-1"
           ]
@@ -1660,7 +1660,7 @@
           "shortcode": "Dc9fZISEtPv",
           "url": "https://www.instagram.com/brandon.fretwell/p/Dc9fZISEtPv/",
           "published_at": "2026-09-06T21:21:43.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc9fZISEtPv-1"
           ]
@@ -1669,7 +1669,7 @@
           "shortcode": "Dc7ZIgFGkje",
           "url": "https://www.instagram.com/brandon.fretwell/p/Dc7ZIgFGkje/",
           "published_at": "2026-09-06T01:48:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc7ZIgFGkje-1"
           ]
@@ -1685,42 +1685,137 @@
     {
       "handle": "bus.group",
       "url": "https://www.instagram.com/bus.group/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcs2PsdDVR2",
+          "url": "https://www.instagram.com/bus.group/p/Dcs2PsdDVR2/",
+          "published_at": "2026-08-31",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcs2PsdDVR2-1"
+          ]
+        },
+        {
+          "shortcode": "DcdENRpDYHc",
+          "url": "https://www.instagram.com/bus.group/p/DcdENRpDYHc/",
+          "published_at": "2026-08-25T07:08:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcdENRpDYHc-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcs2PsdDVR2",
+        "DcdENRpDYHc"
+      ],
+      "latest_two_selection_evidence": "Pinned review dated December 19 2025; newest photo date from profile alt, second date from individual post time."
     },
     {
       "handle": "by.grais",
       "url": "https://www.instagram.com/by.grais/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcupoxkhTdb",
+          "url": "https://www.instagram.com/by.grais/reel/DcupoxkhTdb/",
+          "published_at": "2026-09-01T03:04:14.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcupoxkhTdb-1"
+          ]
+        },
+        {
+          "shortcode": "DWqEW_OlqXT",
+          "url": "https://www.instagram.com/by.grais/p/DWqEW_OlqXT/",
+          "published_at": "2026-04-03T05:11:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWqEW_OlqXT-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcupoxkhTdb",
+        "DWqEW_OlqXT"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; dates individually read from post time elements."
     },
     {
       "handle": "c6x6c6",
       "url": "https://www.instagram.com/c6x6c6/",
-      "status": "pending_latest_two_selection",
+      "status": "private_profile_unavailable",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "latest_two_selection_evidence": "Profile explicitly states it is private; no post links visible. No follow request sent.",
+      "last_checked_at": "2026-09-10",
+      "selection_blocked": true
     },
     {
       "handle": "cameron.galley",
       "url": "https://www.instagram.com/cameron.galley/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdB905rtc34",
+          "url": "https://www.instagram.com/cameron.galley/reel/DdB905rtc34/",
+          "published_at": "2026-09-08T15:09:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdB905rtc34-1"
+          ]
+        },
+        {
+          "shortcode": "Dc35riVmt1i",
+          "url": "https://www.instagram.com/cameron.galley/p/Dc35riVmt1i/",
+          "published_at": "2026-09-04",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc35riVmt1i-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdB905rtc34",
+        "Dc35riVmt1i"
+      ],
+      "latest_two_selection_evidence": "Pinned dates January 2 2025, April 2 2025, December 14 2024 verified individually. Newest two dates from post time and profile alt."
     },
     {
       "handle": "ccstudio.studio",
       "url": "https://www.instagram.com/ccstudio.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXeTxSCF64s",
+          "url": "https://www.instagram.com/ccstudio.studio/p/DXeTxSCF64s/",
+          "published_at": "2026-04-23T12:06:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXeTxSCF64s-1"
+          ]
+        },
+        {
+          "shortcode": "DWrbUqDD6QF",
+          "url": "https://www.instagram.com/ccstudio.studio/reel/DWrbUqDD6QF/",
+          "published_at": "2026-04-03T17:58:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWrbUqDD6QF-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXeTxSCF64s",
+        "DWrbUqDD6QF"
+      ],
+      "latest_two_selection_evidence": "Pinned dates December 26 2024 and May 30 2024 verified; newest two dates read individually."
     },
     {
       "handle": "cgeye",
@@ -3771,8 +3866,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 58,
-  "imported_media": 59,
+  "imported_posts": 66,
+  "imported_media": 67,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
