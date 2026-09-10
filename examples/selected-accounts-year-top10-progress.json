@@ -6608,7 +6608,7 @@
           "shortcode": "DdD4yyFspXY",
           "url": "https://www.instagram.com/notreal.tv/reel/DdD4yyFspXY/",
           "published_at": "2026-09-09T09:00:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdD4yyFspXY-1"
           ]
@@ -6638,7 +6638,7 @@
           "shortcode": "DdBaWP8PVzF",
           "url": "https://www.instagram.com/ohso0hwan/reel/DdBaWP8PVzF/",
           "published_at": "2026-09-08T09:57:56.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdBaWP8PVzF-1"
           ]
@@ -6647,7 +6647,7 @@
           "shortcode": "DcsnonjPbex",
           "url": "https://www.instagram.com/ohso0hwan/reel/DcsnonjPbex/",
           "published_at": "2026-08-31T08:07:31.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcsnonjPbex-1"
           ]
@@ -6669,7 +6669,7 @@
           "shortcode": "DWYfk2zDKTG",
           "url": "https://www.instagram.com/signalspaceprague/p/DWYfk2zDKTG/",
           "published_at": "2026-03-27T09:23:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWYfk2zDKTG-1"
           ]
@@ -6678,7 +6678,7 @@
           "shortcode": "DDHFXHxtaqn",
           "url": "https://www.instagram.com/ondrejzunka/reel/DDHFXHxtaqn/",
           "published_at": "2024-12-03T09:10:56.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DDHFXHxtaqn-1"
           ]
@@ -6694,34 +6694,124 @@
     {
       "handle": "oo_kk_aa",
       "url": "https://www.instagram.com/oo_kk_aa/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdFcjveATcs",
+          "url": "https://www.instagram.com/oo_kk_aa/p/DdFcjveATcs/",
+          "published_at": "2026-09-09T23:30:52.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實物火柴與紙卡逐格動畫；畫面可见紙張切片與實拍桌面，非 CG 參考。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdCzFSege3e",
+          "url": "https://www.instagram.com/oo_kk_aa/p/DdCzFSege3e/",
+          "published_at": "2026-09-08T22:49:58.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實物火柴與紙卡逐格動畫；畫面可见紙張切片與實拍桌面，非 CG 參考。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdFcjveATcs",
+        "DdCzFSege3e"
+      ],
+      "latest_two_selection_evidence": "First two profile posts, no pins; original dates read. Both show practical matchstick and cut-paper stop-motion on a wooden desk."
     },
     {
       "handle": "opticalarts.studio",
       "url": "https://www.instagram.com/opticalarts.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcBAiiyo2cg",
+          "url": "https://www.instagram.com/opticalarts.studio/reel/DcBAiiyo2cg/",
+          "published_at": "2026-08-14T09:40:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcBAiiyo2cg-1"
+          ]
+        },
+        {
+          "shortcode": "DbVgUQVoN_p",
+          "url": "https://www.instagram.com/opticalarts.studio/reel/DbVgUQVoN_p/",
+          "published_at": "2026-07-28T12:09:31.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbVgUQVoN_p-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcBAiiyo2cg",
+        "DbVgUQVoN_p"
+      ],
+      "latest_two_selection_evidence": "Pinned directed film is older than the two unpinned recruitment reels. Both reels contain studio imagery under recruitment text; retained pending full CG/physical-shot and duplicate-content review."
     },
     {
       "handle": "orlov.it",
       "url": "https://www.instagram.com/orlov.it/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc4OQ0WjOWj",
+          "url": "https://www.instagram.com/orlov.it/p/Dc4OQ0WjOWj/",
+          "published_at": "2026-09-04T20:15:50.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc4OQ0WjOWj-1"
+          ]
+        },
+        {
+          "shortcode": "DclPdK4Iftp",
+          "url": "https://www.instagram.com/orlov.it/reel/DclPdK4Iftp/",
+          "published_at": "2026-08-28T11:23:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DclPdK4Iftp-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc4OQ0WjOWj",
+        "DclPdK4Iftp"
+      ],
+      "latest_two_selection_evidence": "Grid is reordered: third post September 4 2026 is newer than first August 28. Second collaboration dated August 21; later visible entries older. Selected September 4 and August 28."
     },
     {
       "handle": "owow.point",
       "url": "https://www.instagram.com/owow.point/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbFF003zAFB",
+          "url": "https://www.instagram.com/owow.point/reel/DbFF003zAFB/",
+          "published_at": "2026-07-22T03:11:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbFF003zAFB-1"
+          ]
+        },
+        {
+          "shortcode": "DbCC9fLT7kE",
+          "url": "https://www.instagram.com/owow.point/reel/DbCC9fLT7kE/",
+          "published_at": "2026-07-20T22:51:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbCC9fLT7kE-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbFF003zAFB",
+        "DbCC9fLT7kE"
+      ],
+      "latest_two_selection_evidence": "Three earlier challenge/fan-art pins skipped. First two unpinned posts July 22 and July 20 2026, original dates read. AI-generated 3D assets noted; full CG/brand-use review pending."
     },
     {
       "handle": "panoplycreative",
@@ -7428,9 +7518,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 302,
-  "imported_media": 303,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 308,
+  "imported_media": 309,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
