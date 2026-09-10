@@ -4,20 +4,25 @@
   "window_end": "2026-09-10",
   "complete": false,
   "policy": {
-    "max_posts_per_account": 10,
-    "rank": "verified_visible_like_count_desc",
-    "require_full_year_enumerated": true,
+    "selection": "latest_two_by_publication_date",
+    "max_posts_to_analyze_per_account": 2,
+    "max_posts_per_account": 2,
+    "rank": "published_at_desc",
+    "require_full_year_enumerated": false,
     "exclude_non_cg": true,
+    "replace_excluded_with_older_posts": false,
+    "pinned_posts": "use_original_publication_date_not_grid_position",
     "carousel_review_per_media": true,
     "stop_on_rate_limit": true,
-    "hidden_likes": "unrankable_not_zero",
-    "reading_mode": "one post at a time; save before next; no parallel requests"
+    "reading_mode": "one post at a time; reuse recorded metadata; no parallel requests",
+    "existing_published_items": "preserve",
+    "publication_order": "publish_pending_before_visual_analysis"
   },
   "accounts": [
     {
       "handle": "0scarpettersson",
       "url": "https://www.instagram.com/0scarpettersson/",
-      "status": "year_top10_imported_pending_full_motion_review",
+      "status": "latest_two_published_analysis_pending",
       "posts": [
         {
           "shortcode": "DaBB2KBN567",
@@ -386,8 +391,10 @@
           "likes": 347,
           "likes_evidence": "347 button; named account plus 346 others",
           "caption": "SUMMER SALE! 30 %.",
-          "status": "below_top10_cutoff",
-          "media_ids": []
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaTQfhuN5Sy-1"
+          ]
         }
       ],
       "profile_post_count": 287,
@@ -431,1750 +438,2725 @@
         "DY4VveyNN8Y"
       ],
       "ranking_basis": "19 visible profile posts incl. 3 pinned; reached 2025-09-04 post DOMTO9zDRmJ outside window",
-      "verified_like_counts": 19
+      "verified_like_counts": 19,
+      "previous_status": "year_top10_imported_pending_full_motion_review",
+      "latest_two_shortcodes": [
+        "DaTQfhuN5Sy",
+        "DaBB2KBN567"
+      ],
+      "latest_two_selection_evidence": "Previously enumerated profile dates including pinned posts."
     },
     {
       "handle": "2d.pete",
       "url": "https://www.instagram.com/2d.pete/",
-      "status": "pending",
-      "posts": []
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DKpuENIMz0C",
+          "url": "https://www.instagram.com/2d.pete/reel/DKpuENIMz0C/",
+          "published_at": "2025-06-09",
+          "likes": 258,
+          "status": "outside_date_window"
+        },
+        {
+          "shortcode": "DPgRzJ7jV4A",
+          "url": "https://www.instagram.com/2d.pete/reel/DPgRzJ7jV4A/",
+          "published_at": "2025-10-07",
+          "likes": 341,
+          "likes_evidence": "341 button; named account plus 340 others",
+          "status": "cg_verified_pending_ranking",
+          "cg_review": "白色網格面板構成紅橘洋紅漸層數字 6；面板翻转露出銀黑鏡面，鏡頭推近。兩時點確認。",
+          "tags": [
+            {
+              "en": "typography",
+              "zh": "文字造型",
+              "category": "subject"
+            },
+            {
+              "en": "number",
+              "zh": "數字",
+              "category": "subject"
+            },
+            {
+              "en": "tile",
+              "zh": "面板",
+              "category": "subject"
+            },
+            {
+              "en": "mirror",
+              "zh": "鏡面",
+              "category": "material"
+            },
+            {
+              "en": "metal",
+              "zh": "金屬",
+              "category": "material"
+            },
+            {
+              "en": "white",
+              "zh": "白色",
+              "category": "color"
+            },
+            {
+              "en": "red",
+              "zh": "紅色",
+              "category": "color"
+            },
+            {
+              "en": "orange",
+              "zh": "橘色",
+              "category": "color"
+            },
+            {
+              "en": "magenta",
+              "zh": "洋紅色",
+              "category": "color"
+            },
+            {
+              "en": "rotation",
+              "zh": "旋轉",
+              "category": "motion"
+            }
+          ]
+        },
+        {
+          "shortcode": "DTI9icFj-1i",
+          "url": "https://www.instagram.com/p/DTI9icFj-1i/",
+          "published_at": "2026-01-05T19:04:24.000Z",
+          "likes": 424,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "CzYvuSOoHLb",
+          "url": "https://www.instagram.com/p/CzYvuSOoHLb/",
+          "published_at": "2023-11-08T13:26:15.000Z",
+          "likes": null,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "outside_date_window",
+          "cg_review": "Outside window; UI only shows rounded 2.7萬 likes."
+        },
+        {
+          "shortcode": "Dc-FbTItjL5",
+          "url": "https://www.instagram.com/p/Dc-FbTItjL5/",
+          "published_at": "2026-09-07T02:54:48.000Z",
+          "likes": 235,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc-FbTItjL5-1"
+          ]
+        },
+        {
+          "shortcode": "DczsPkcN24L",
+          "url": "https://www.instagram.com/p/DczsPkcN24L/",
+          "published_at": "2026-09-03T02:02:23.000Z",
+          "likes": 132,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DczsPkcN24L-1"
+          ]
+        },
+        {
+          "shortcode": "DcSM3yxN6eE",
+          "url": "https://www.instagram.com/p/DcSM3yxN6eE/",
+          "published_at": "2026-08-21T01:53:18.000Z",
+          "likes": 280,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DboFg9ajBaY",
+          "url": "https://www.instagram.com/p/DboFg9ajBaY/",
+          "published_at": "2026-08-04T17:21:07.000Z",
+          "likes": 570,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DbYEJYOhcOa",
+          "url": "https://www.instagram.com/p/DbYEJYOhcOa/",
+          "published_at": "2026-07-29T12:00:06.000Z",
+          "likes": 1815,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review",
+          "cg_review": "CG 彩色翻牌招牌交錯懸浮，字體與笑臉印刷於方格面板；紫色、洋紅、黄綠、白色與銀色金屬框，翻牌與鏡頭位移；兩影片畫面核對，作者確認 Signal、Cinema4D、Redshift。"
+        },
+        {
+          "shortcode": "DaNYs7bCdFx",
+          "url": "https://www.instagram.com/p/DaNYs7bCdFx/",
+          "published_at": "2026-06-30T12:00:11.000Z",
+          "likes": 364,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DaJd2yWpB-6",
+          "url": "https://www.instagram.com/p/DaJd2yWpB-6/",
+          "published_at": "2026-06-28T23:25:39.000Z",
+          "likes": 122,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DYnzG1ZNPFx",
+          "url": "https://www.instagram.com/p/DYnzG1ZNPFx/",
+          "published_at": "2026-05-22T01:06:51.000Z",
+          "likes": 116,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DYhK3lfs-H3",
+          "url": "https://www.instagram.com/p/DYhK3lfs-H3/",
+          "published_at": "2026-05-19T11:19:56.000Z",
+          "likes": 253,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DYfDkjaj84y",
+          "url": "https://www.instagram.com/p/DYfDkjaj84y/",
+          "published_at": "2026-05-18T15:36:16.000Z",
+          "likes": 422,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DX6rmaotSvm",
+          "url": "https://www.instagram.com/p/DX6rmaotSvm/",
+          "published_at": "2026-05-04T12:34:52.000Z",
+          "likes": 61,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXwXAUsOGiY",
+          "url": "https://www.instagram.com/p/DXwXAUsOGiY/",
+          "published_at": "2026-04-30T12:22:12.000Z",
+          "likes": 653,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXuVordFp2l",
+          "url": "https://www.instagram.com/p/DXuVordFp2l/",
+          "published_at": "2026-04-29T17:30:53.000Z",
+          "likes": 548,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXpunoxDbFR",
+          "url": "https://www.instagram.com/p/DXpunoxDbFR/",
+          "published_at": "2026-04-27T22:39:32.000Z",
+          "likes": 704,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXhpiRIjmaI",
+          "url": "https://www.instagram.com/p/DXhpiRIjmaI/",
+          "published_at": "2026-04-24T19:15:50.000Z",
+          "likes": 273,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXfSMKlG3O6",
+          "url": "https://www.instagram.com/p/DXfSMKlG3O6/",
+          "published_at": "2026-04-23T21:12:10.000Z",
+          "likes": 543,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXX92F1jd1a",
+          "url": "https://www.instagram.com/p/DXX92F1jd1a/",
+          "published_at": "2026-04-21T01:02:41.000Z",
+          "likes": 2935,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXFjaRolQHu",
+          "url": "https://www.instagram.com/p/DXFjaRolQHu/",
+          "published_at": "2026-04-13T21:23:52.000Z",
+          "likes": 268,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DXADCI6ESZO",
+          "url": "https://www.instagram.com/p/DXADCI6ESZO/",
+          "published_at": "2026-04-11T18:04:01.000Z",
+          "likes": 120,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DW2Gz0hGNUG",
+          "url": "https://www.instagram.com/p/DW2Gz0hGNUG/",
+          "published_at": "2026-04-07T21:23:51.000Z",
+          "likes": 305,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DW1LdtEjfYY",
+          "url": "https://www.instagram.com/p/DW1LdtEjfYY/",
+          "published_at": "2026-04-07T12:46:21.000Z",
+          "likes": 136,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        },
+        {
+          "shortcode": "DWcJ97ED0JW",
+          "url": "https://www.instagram.com/p/DWcJ97ED0JW/",
+          "published_at": "2026-03-28T19:32:49.000Z",
+          "likes": 88,
+          "likes_evidence": "Visible post page count, read individually",
+          "status": "pending_visual_review"
+        }
+      ],
+      "profile_post_count": 556,
+      "discovered_shortcodes": [
+        "DTI9icFj-1i",
+        "CzYvuSOoHLb",
+        "Dc-FbTItjL5",
+        "DczsPkcN24L",
+        "DcSM3yxN6eE",
+        "DboFg9ajBaY",
+        "DbYEJYOhcOa",
+        "DaNYs7bCdFx",
+        "DaJd2yWpB-6",
+        "DYnzG1ZNPFx",
+        "DYhK3lfs-H3",
+        "DYfDkjaj84y",
+        "DX6rmaotSvm",
+        "DXwXAUsOGiY",
+        "DXuVordFp2l",
+        "DXpunoxDbFR",
+        "DXhpiRIjmaI",
+        "DXfSMKlG3O6",
+        "DXX92F1jd1a",
+        "DXFjaRolQHu",
+        "DXADCI6ESZO",
+        "DW2Gz0hGNUG",
+        "DW1LdtEjfYY",
+        "DWcJ97ED0JW",
+        "DVmLDfpj-BD",
+        "DVJD3kiDpdP",
+        "DU3AhKgDdly",
+        "DUtXB1pD8mN",
+        "DUemCNejaf4",
+        "DUGITBujXJF",
+        "DUCHunbjRya",
+        "DTyX-eJkvJU",
+        "DSdb0sjjTEh",
+        "DSKg-KKDpFa",
+        "DSDiVrfkpE0",
+        "DR0PT8Nkuwr",
+        "DRVfzvSDSEC",
+        "DQfSdkIkmYu",
+        "DP3q9aQDTll",
+        "DPhg88vDdJX",
+        "DPgRzJ7jV4A",
+        "DKpuENIMz0C",
+        "DJ8gndYsJAp",
+        "DJrv4-tsf3a",
+        "DF_Peqti0FL",
+        "DF7BKjpCJ04",
+        "DFrp3vEsFXj",
+        "DFgqSWvip2n"
+      ],
+      "year_coverage_complete": false,
+      "note": "48 visible profile entries incl. pinned and coauthor posts; dates/likes not yet verified. Never interpret unimported as non-CG.",
+      "boundary_evidence": "Profile chronological sequence: DPgRzJ7jV4A 2025-10-07 followed by DKpuENIMz0C 2025-06-09; pinned dates still require verification.",
+      "candidate_shortcodes": [
+        "DTI9icFj-1i",
+        "CzYvuSOoHLb",
+        "Dc-FbTItjL5",
+        "DczsPkcN24L",
+        "DcSM3yxN6eE",
+        "DboFg9ajBaY",
+        "DbYEJYOhcOa",
+        "DaNYs7bCdFx",
+        "DaJd2yWpB-6",
+        "DYnzG1ZNPFx",
+        "DYhK3lfs-H3",
+        "DYfDkjaj84y",
+        "DX6rmaotSvm",
+        "DXwXAUsOGiY",
+        "DXuVordFp2l",
+        "DXpunoxDbFR",
+        "DXhpiRIjmaI",
+        "DXfSMKlG3O6",
+        "DXX92F1jd1a",
+        "DXFjaRolQHu",
+        "DXADCI6ESZO",
+        "DW2Gz0hGNUG",
+        "DW1LdtEjfYY",
+        "DWcJ97ED0JW",
+        "DVmLDfpj-BD",
+        "DVJD3kiDpdP",
+        "DU3AhKgDdly",
+        "DUtXB1pD8mN",
+        "DUemCNejaf4",
+        "DUGITBujXJF",
+        "DUCHunbjRya",
+        "DTyX-eJkvJU",
+        "DSdb0sjjTEh",
+        "DSKg-KKDpFa",
+        "DSDiVrfkpE0",
+        "DR0PT8Nkuwr",
+        "DRVfzvSDSEC",
+        "DQfSdkIkmYu",
+        "DP3q9aQDTll",
+        "DPhg88vDdJX",
+        "DPgRzJ7jV4A"
+      ],
+      "verified_like_counts": 25,
+      "previous_status": "year_boundary_found_pending_40_dates_likes_and_ranking",
+      "latest_two_shortcodes": [
+        "Dc-FbTItjL5",
+        "DczsPkcN24L"
+      ],
+      "latest_two_selection_evidence": "Previously enumerated profile dates including pinned posts."
     },
     {
       "handle": "_dofstudio_",
       "url": "https://www.instagram.com/_dofstudio_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "_florianbaumann",
       "url": "https://www.instagram.com/_florianbaumann/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "a_iwaac",
       "url": "https://www.instagram.com/a_iwaac/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "aaroncovrett",
       "url": "https://www.instagram.com/aaroncovrett/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "abraham___3",
       "url": "https://www.instagram.com/abraham___3/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "aether3.0",
       "url": "https://www.instagram.com/aether3.0/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "agovik",
       "url": "https://www.instagram.com/agovik/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "alexander.stepnoy",
       "url": "https://www.instagram.com/alexander.stepnoy/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "alexandreveaux",
       "url": "https://www.instagram.com/alexandreveaux/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "alfiemotion",
       "url": "https://www.instagram.com/alfiemotion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "alfieri_pablo",
       "url": "https://www.instagram.com/alfieri_pablo/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "amr_render",
       "url": "https://www.instagram.com/amr_render/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "andreiwarren",
       "url": "https://www.instagram.com/andreiwarren/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "andrewkramer",
       "url": "https://www.instagram.com/andrewkramer/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "antar.gd",
       "url": "https://www.instagram.com/antar.gd/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "archillect",
       "url": "https://www.instagram.com/archillect/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "art.gadzhiev",
       "url": "https://www.instagram.com/art.gadzhiev/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "art.of.styleframe",
       "url": "https://www.instagram.com/art.of.styleframe/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ashthorp",
       "url": "https://www.instagram.com/ashthorp/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "atom63_",
       "url": "https://www.instagram.com/atom63_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "axis_fx",
       "url": "https://www.instagram.com/axis_fx/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "bassetlaurie",
       "url": "https://www.instagram.com/bassetlaurie/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "beeple_crap",
       "url": "https://www.instagram.com/beeple_crap/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "beetrootdesign",
       "url": "https://www.instagram.com/beetrootdesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "bentomotion.studio",
       "url": "https://www.instagram.com/bentomotion.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "blkb.studio",
       "url": "https://www.instagram.com/blkb.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "blublustudios",
       "url": "https://www.instagram.com/blublustudios/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "brandon.fretwell",
       "url": "https://www.instagram.com/brandon.fretwell/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "bus.group",
       "url": "https://www.instagram.com/bus.group/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "by.grais",
       "url": "https://www.instagram.com/by.grais/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "c6x6c6",
       "url": "https://www.instagram.com/c6x6c6/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "cameron.galley",
       "url": "https://www.instagram.com/cameron.galley/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ccstudio.studio",
       "url": "https://www.instagram.com/ccstudio.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "cgeye",
       "url": "https://www.instagram.com/cgeye/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "chingyeh005",
       "url": "https://www.instagram.com/chingyeh005/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "christoph_strohfeld",
       "url": "https://www.instagram.com/christoph_strohfeld/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "chrometype",
       "url": "https://www.instagram.com/chrometype/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "cjwidd",
       "url": "https://www.instagram.com/cjwidd/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "clanhub",
       "url": "https://www.instagram.com/clanhub/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "clemensmako",
       "url": "https://www.instagram.com/clemensmako/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "clim_studio",
       "url": "https://www.instagram.com/clim_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "colorsandthekids",
       "url": "https://www.instagram.com/colorsandthekids/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "combine.pics",
       "url": "https://www.instagram.com/combine.pics/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "computerface_tw",
       "url": "https://www.instagram.com/computerface_tw/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "curry_tian",
       "url": "https://www.instagram.com/curry_tian/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "cxingyou",
       "url": "https://www.instagram.com/cxingyou/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dada.projects",
       "url": "https://www.instagram.com/dada.projects/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "daisy_chain_studio",
       "url": "https://www.instagram.com/daisy_chain_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "daitomanabe",
       "url": "https://www.instagram.com/daitomanabe/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "damien_visual",
       "url": "https://www.instagram.com/damien_visual/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "danbarkle",
       "url": "https://www.instagram.com/danbarkle/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "davewebsteryeah",
       "url": "https://www.instagram.com/davewebsteryeah/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "david_mcleod",
       "url": "https://www.instagram.com/david_mcleod/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "davidariew",
       "url": "https://www.instagram.com/davidariew/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "daytogu",
       "url": "https://www.instagram.com/daytogu/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dddidaci",
       "url": "https://www.instagram.com/dddidaci/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "death_render",
       "url": "https://www.instagram.com/death_render/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "debx.design",
       "url": "https://www.instagram.com/debx.design/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dennistiege",
       "url": "https://www.instagram.com/dennistiege/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "designarf",
       "url": "https://www.instagram.com/designarf/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "devastudios",
       "url": "https://www.instagram.com/devastudios/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dia_mitch",
       "url": "https://www.instagram.com/dia_mitch/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dibujantenocturno",
       "url": "https://www.instagram.com/dibujantenocturno/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "digital_archive",
       "url": "https://www.instagram.com/digital_archive/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "diss_embargo",
       "url": "https://www.instagram.com/diss_embargo/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dkngstudios",
       "url": "https://www.instagram.com/dkngstudios/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dorian_gourg",
       "url": "https://www.instagram.com/dorian_gourg/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dorianlegret",
       "url": "https://www.instagram.com/dorianlegret/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dot4.studio",
       "url": "https://www.instagram.com/dot4.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "drak_e.s",
       "url": "https://www.instagram.com/drak_e.s/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "droikcg",
       "url": "https://www.instagram.com/droikcg/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "dsgden",
       "url": "https://www.instagram.com/dsgden/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ducky3d",
       "url": "https://www.instagram.com/ducky3d/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "duncanimate",
       "url": "https://www.instagram.com/duncanimate/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "eliseohz",
       "url": "https://www.instagram.com/eliseohz/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "elmotionlab",
       "url": "https://www.instagram.com/elmotionlab/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "emi.fls_",
       "url": "https://www.instagram.com/emi.fls_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "etiennebauquin",
       "url": "https://www.instagram.com/etiennebauquin/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "etinjcb",
       "url": "https://www.instagram.com/etinjcb/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "eynnbarriosart",
       "url": "https://www.instagram.com/eynnbarriosart/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fafa_motion",
       "url": "https://www.instagram.com/fafa_motion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fantasticmotion",
       "url": "https://www.instagram.com/fantasticmotion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "faturkoztih",
       "url": "https://www.instagram.com/faturkoztih/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "federico_picci",
       "url": "https://www.instagram.com/federico_picci/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "firstovalexey",
       "url": "https://www.instagram.com/firstovalexey/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "flmoonsta",
       "url": "https://www.instagram.com/flmoonsta/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "flojuri",
       "url": "https://www.instagram.com/flojuri/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fluentstudio",
       "url": "https://www.instagram.com/fluentstudio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "found_studio",
       "url": "https://www.instagram.com/found_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fra_motion_design",
       "url": "https://www.instagram.com/fra_motion_design/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "frame.48",
       "url": "https://www.instagram.com/frame.48/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "francesco.m.lucini",
       "url": "https://www.instagram.com/francesco.m.lucini/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "frankbell.co",
       "url": "https://www.instagram.com/frankbell.co/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "friedrich.neumann",
       "url": "https://www.instagram.com/friedrich.neumann/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "futuredeluxe",
       "url": "https://www.instagram.com/futuredeluxe/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fvckrender",
       "url": "https://www.instagram.com/fvckrender/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "fwiedel",
       "url": "https://www.instagram.com/fwiedel/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ge.iiid",
       "url": "https://www.instagram.com/ge.iiid/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "gene_jiang",
       "url": "https://www.instagram.com/gene_jiang/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "general_definition",
       "url": "https://www.instagram.com/general_definition/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "generativeartstudio",
       "url": "https://www.instagram.com/generativeartstudio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "georgieyanadesign",
       "url": "https://www.instagram.com/georgieyanadesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ginawangya",
       "url": "https://www.instagram.com/ginawangya/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "gmunk",
       "url": "https://www.instagram.com/gmunk/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "goodboixian",
       "url": "https://www.instagram.com/goodboixian/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "goodmovestv",
       "url": "https://www.instagram.com/goodmovestv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "googledesign",
       "url": "https://www.instagram.com/googledesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "grassjelly",
       "url": "https://www.instagram.com/grassjelly/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "greyscalegorilla",
       "url": "https://www.instagram.com/greyscalegorilla/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "guido.glid",
       "url": "https://www.instagram.com/guido.glid/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "guyshield",
       "url": "https://www.instagram.com/guyshield/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "hamidebrahimnia",
       "url": "https://www.instagram.com/hamidebrahimnia/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "hanalenofx",
       "url": "https://www.instagram.com/hanalenofx/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "here.creative",
       "url": "https://www.instagram.com/here.creative/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "heyfakuno",
       "url": "https://www.instagram.com/heyfakuno/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "hirokazu_yokohara",
       "url": "https://www.instagram.com/hirokazu_yokohara/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "holographik.co",
       "url": "https://www.instagram.com/holographik.co/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "hyperthalamuscorp",
       "url": "https://www.instagram.com/hyperthalamuscorp/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "iammoteh",
       "url": "https://www.instagram.com/iammoteh/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "iantseng_wysi",
       "url": "https://www.instagram.com/iantseng_wysi/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "imnidiadias",
       "url": "https://www.instagram.com/imnidiadias/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "intervaltype",
       "url": "https://www.instagram.com/intervaltype/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jaevnstroem",
       "url": "https://www.instagram.com/jaevnstroem/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "janurschel",
       "url": "https://www.instagram.com/janurschel/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jdashscott",
       "url": "https://www.instagram.com/jdashscott/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jeffmantv",
       "url": "https://www.instagram.com/jeffmantv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jesslwiseman",
       "url": "https://www.instagram.com/jesslwiseman/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jiabayheh",
       "url": "https://www.instagram.com/jiabayheh/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jieliouart",
       "url": "https://www.instagram.com/jieliouart/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jit_effect",
       "url": "https://www.instagram.com/jit_effect/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "joangarciapons",
       "url": "https://www.instagram.com/joangarciapons/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jonashempel_",
       "url": "https://www.instagram.com/jonashempel_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jonathanplesel",
       "url": "https://www.instagram.com/jonathanplesel/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "joonathanlindgren",
       "url": "https://www.instagram.com/joonathanlindgren/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jordipagespons",
       "url": "https://www.instagram.com/jordipagespons/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jose_motiondesigner",
       "url": "https://www.instagram.com/jose_motiondesigner/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "jrecoskie",
       "url": "https://www.instagram.com/jrecoskie/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "juangsegura",
       "url": "https://www.instagram.com/juangsegura/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "julian_hespenheide",
       "url": "https://www.instagram.com/julian_hespenheide/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "julienrivoire",
       "url": "https://www.instagram.com/julienrivoire/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "kchuangfx",
       "url": "https://www.instagram.com/kchuangfx/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "keikanamori_",
       "url": "https://www.instagram.com/keikanamori_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "kevin_learn",
       "url": "https://www.instagram.com/kevin_learn/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "kidmograph",
       "url": "https://www.instagram.com/kidmograph/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "kollektiiv",
       "url": "https://www.instagram.com/kollektiiv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "korb.tv",
       "url": "https://www.instagram.com/korb.tv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "kskee_sketches",
       "url": "https://www.instagram.com/kskee_sketches/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "landgrenwilliam",
       "url": "https://www.instagram.com/landgrenwilliam/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "leeinhyuk",
       "url": "https://www.instagram.com/leeinhyuk/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "lewisorton",
       "url": "https://www.instagram.com/lewisorton/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "linusschneider",
       "url": "https://www.instagram.com/linusschneider/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "look.deva",
       "url": "https://www.instagram.com/look.deva/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "loop_creative_studio",
       "url": "https://www.instagram.com/loop_creative_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "loremdeloop",
       "url": "https://www.instagram.com/loremdeloop/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "loudsqueak",
       "url": "https://www.instagram.com/loudsqueak/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "lucas_piazzini",
       "url": "https://www.instagram.com/lucas_piazzini/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "lucas_zanotto",
       "url": "https://www.instagram.com/lucas_zanotto/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "lumindigital.au",
       "url": "https://www.instagram.com/lumindigital.au/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mad.dog.jones",
       "url": "https://www.instagram.com/mad.dog.jones/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "man.vs.machine",
       "url": "https://www.instagram.com/man.vs.machine/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "manonlouart",
       "url": "https://www.instagram.com/manonlouart/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mariannesanche",
       "url": "https://www.instagram.com/mariannesanche/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "markfancherfx",
       "url": "https://www.instagram.com/markfancherfx/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "markusgonser3d",
       "url": "https://www.instagram.com/markusgonser3d/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "masd.lab",
       "url": "https://www.instagram.com/masd.lab/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mathias_lynge",
       "url": "https://www.instagram.com/mathias_lynge/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "matthewcustar",
       "url": "https://www.instagram.com/matthewcustar/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "maximeroz",
       "url": "https://www.instagram.com/maximeroz/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "maximkroft",
       "url": "https://www.instagram.com/maximkroft/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "maxonredshift",
       "url": "https://www.instagram.com/maxonredshift/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "maxsalzborn",
       "url": "https://www.instagram.com/maxsalzborn/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "maxschwugier",
       "url": "https://www.instagram.com/maxschwugier/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "megfenske",
       "url": "https://www.instagram.com/megfenske/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mhad.inc",
       "url": "https://www.instagram.com/mhad.inc/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "microsoft.design",
       "url": "https://www.instagram.com/microsoft.design/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "min_shi_art",
       "url": "https://www.instagram.com/min_shi_art/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mingrising",
       "url": "https://www.instagram.com/mingrising/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "miss_nairagishian",
       "url": "https://www.instagram.com/miss_nairagishian/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mnaumanndesign",
       "url": "https://www.instagram.com/mnaumanndesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "mojapoly",
       "url": "https://www.instagram.com/mojapoly/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "motioncan_design",
       "url": "https://www.instagram.com/motioncan_design/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "motiongraphics_collective",
       "url": "https://www.instagram.com/motiongraphics_collective/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "motionmate",
       "url": "https://www.instagram.com/motionmate/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "motionographerpro",
       "url": "https://www.instagram.com/motionographerpro/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "muartive",
       "url": "https://www.instagram.com/muartive/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "murilomrtarello",
       "url": "https://www.instagram.com/murilomrtarello/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "nakobaev",
       "url": "https://www.instagram.com/nakobaev/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "newnewnew.studio",
       "url": "https://www.instagram.com/newnewnew.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "nicolaslopardo",
       "url": "https://www.instagram.com/nicolaslopardo/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "noah1art",
       "url": "https://www.instagram.com/noah1art/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "nonotakstudio",
       "url": "https://www.instagram.com/nonotakstudio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "nopattern",
       "url": "https://www.instagram.com/nopattern/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "normanstagram",
       "url": "https://www.instagram.com/normanstagram/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "notarton",
       "url": "https://www.instagram.com/notarton/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "notreal.tv",
       "url": "https://www.instagram.com/notreal.tv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ohso0hwan",
       "url": "https://www.instagram.com/ohso0hwan/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ondrejzunka",
       "url": "https://www.instagram.com/ondrejzunka/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "oo_kk_aa",
       "url": "https://www.instagram.com/oo_kk_aa/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "opticalarts.studio",
       "url": "https://www.instagram.com/opticalarts.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "orlov.it",
       "url": "https://www.instagram.com/orlov.it/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "owow.point",
       "url": "https://www.instagram.com/owow.point/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "panoplycreative",
       "url": "https://www.instagram.com/panoplycreative/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "passionanimation",
       "url": "https://www.instagram.com/passionanimation/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "paulesteves28",
       "url": "https://www.instagram.com/paulesteves28/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "peelanimation",
       "url": "https://www.instagram.com/peelanimation/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "peter.pongoo",
       "url": "https://www.instagram.com/peter.pongoo/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "petertarka",
       "url": "https://www.instagram.com/petertarka/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ping.motiondesign",
       "url": "https://www.instagram.com/ping.motiondesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "pleasecallmechamp",
       "url": "https://www.instagram.com/pleasecallmechamp/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "porto.motion",
       "url": "https://www.instagram.com/porto.motion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "rawandrendered",
       "url": "https://www.instagram.com/rawandrendered/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "render_gal",
       "url": "https://www.instagram.com/render_gal/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "rettlesnake",
       "url": "https://www.instagram.com/rettlesnake/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "richnosworthy",
       "url": "https://www.instagram.com/richnosworthy/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "rikoostenbroek",
       "url": "https://www.instagram.com/rikoostenbroek/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "robenrobin.nl",
       "url": "https://www.instagram.com/robenrobin.nl/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "rohitbhon.tv",
       "url": "https://www.instagram.com/rohitbhon.tv/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "roma_kuzminykh",
       "url": "https://www.instagram.com/roma_kuzminykh/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "romain.rosi",
       "url": "https://www.instagram.com/romain.rosi/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "rourke",
       "url": "https://www.instagram.com/rourke/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "runwiththegoldenwolf",
       "url": "https://www.instagram.com/runwiththegoldenwolf/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "samplikprost",
       "url": "https://www.instagram.com/samplikprost/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sartakov_cg",
       "url": "https://www.instagram.com/sartakov_cg/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sava.zivkovic",
       "url": "https://www.instagram.com/sava.zivkovic/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "seb_scribbles",
       "url": "https://www.instagram.com/seb_scribbles/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sebastian_jelic",
       "url": "https://www.instagram.com/sebastian_jelic/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "secondarybounce",
       "url": "https://www.instagram.com/secondarybounce/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sekanisolomon",
       "url": "https://www.instagram.com/sekanisolomon/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "serialcut",
       "url": "https://www.instagram.com/serialcut/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "services.meb",
       "url": "https://www.instagram.com/services.meb/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "shanren.3d",
       "url": "https://www.instagram.com/shanren.3d/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "shittyrenders",
       "url": "https://www.instagram.com/shittyrenders/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "simon_stalenhag",
       "url": "https://www.instagram.com/simon_stalenhag/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "simonbrauud",
       "url": "https://www.instagram.com/simonbrauud/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "simonholmedal",
       "url": "https://www.instagram.com/simonholmedal/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "simonsjoo",
       "url": "https://www.instagram.com/simonsjoo/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "slimesunday",
       "url": "https://www.instagram.com/slimesunday/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "slimjimstudios",
       "url": "https://www.instagram.com/slimjimstudios/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "someform.studio",
       "url": "https://www.instagram.com/someform.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "steelworksstudio",
       "url": "https://www.instagram.com/steelworksstudio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "stefansagmeister",
       "url": "https://www.instagram.com/stefansagmeister/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "studio_loopa",
       "url": "https://www.instagram.com/studio_loopa/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "studiobyts",
       "url": "https://www.instagram.com/studiobyts/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "studiodumbar",
       "url": "https://www.instagram.com/studiodumbar/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "styleframe.studio",
       "url": "https://www.instagram.com/styleframe.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sub.stnc",
       "url": "https://www.instagram.com/sub.stnc/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "subframe_studio",
       "url": "https://www.instagram.com/subframe_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "superpolarity",
       "url": "https://www.instagram.com/superpolarity/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sy_gaussens",
       "url": "https://www.instagram.com/sy_gaussens/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sydneysie",
       "url": "https://www.instagram.com/sydneysie/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "sylviahsudesign",
       "url": "https://www.instagram.com/sylviahsudesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "szoraidez",
       "url": "https://www.instagram.com/szoraidez/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "tavo_studio",
       "url": "https://www.instagram.com/tavo_studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "teaaalexis",
       "url": "https://www.instagram.com/teaaalexis/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "thanu_lee",
       "url": "https://www.instagram.com/thanu_lee/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "theberd",
       "url": "https://www.instagram.com/theberd/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "therealentagma",
       "url": "https://www.instagram.com/therealentagma/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "thevirtualcinematographer",
       "url": "https://www.instagram.com/thevirtualcinematographer/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "thomas_dubois_art",
       "url": "https://www.instagram.com/thomas_dubois_art/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "thomas_pomarelle",
       "url": "https://www.instagram.com/thomas_pomarelle/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "tomarena_",
       "url": "https://www.instagram.com/tomarena_/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "tomorrowbureau",
       "url": "https://www.instagram.com/tomorrowbureau/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "tomteller",
       "url": "https://www.instagram.com/tomteller/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "unishkov",
       "url": "https://www.instagram.com/unishkov/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "unitmotiondesign",
       "url": "https://www.instagram.com/unitmotiondesign/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vacades",
       "url": "https://www.instagram.com/vacades/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vaclav.patka",
       "url": "https://www.instagram.com/vaclav.patka/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vertex.cgi",
       "url": "https://www.instagram.com/vertex.cgi/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vincentschwenk",
       "url": "https://www.instagram.com/vincentschwenk/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "visual_tense",
       "url": "https://www.instagram.com/visual_tense/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "visualoperator",
       "url": "https://www.instagram.com/visualoperator/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "visualpleasuremag",
       "url": "https://www.instagram.com/visualpleasuremag/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vladislav.solovjov",
       "url": "https://www.instagram.com/vladislav.solovjov/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "vzhemotion",
       "url": "https://www.instagram.com/vzhemotion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "warrickwong",
       "url": "https://www.instagram.com/warrickwong/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "water.prouf",
       "url": "https://www.instagram.com/water.prouf/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "wearefakery",
       "url": "https://www.instagram.com/wearefakery/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "whitelightmotion",
       "url": "https://www.instagram.com/whitelightmotion/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "why.cgi",
       "url": "https://www.instagram.com/why.cgi/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "willsweeney_uk",
       "url": "https://www.instagram.com/willsweeney_uk/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "willtschafer",
       "url": "https://www.instagram.com/willtschafer/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "wonderfall",
       "url": "https://www.instagram.com/wonderfall/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "worship.studio",
       "url": "https://www.instagram.com/worship.studio/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "yamb0x",
       "url": "https://www.instagram.com/yamb0x/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "yeseong_k",
       "url": "https://www.instagram.com/yeseong_k/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "yugxl",
       "url": "https://www.instagram.com/yugxl/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "yuriikhomovskyi",
       "url": "https://www.instagram.com/yuriikhomovskyi/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "zheminwork",
       "url": "https://www.instagram.com/zheminwork/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     },
     {
       "handle": "ziyad.abah",
       "url": "https://www.instagram.com/ziyad.abah/",
-      "status": "pending",
-      "posts": []
+      "status": "pending_latest_two_selection",
+      "posts": [],
+      "previous_status": "pending",
+      "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 10,
-  "imported_media": 11,
-  "last_check_note": "Completed visible-year ranking for 0scarpettersson; replaced two provisional lower-liked posts with two pinned CG loops. Other accounts pending."
+  "imported_posts": 13,
+  "imported_media": 14,
+  "last_check_note": "Published-first intake: three newly added pending posts; one latest post already present. Remaining 289 accounts not yet selected.",
+  "policy_history": [
+    {
+      "policy": {
+        "max_posts_per_account": 10,
+        "rank": "verified_visible_like_count_desc",
+        "require_full_year_enumerated": true,
+        "exclude_non_cg": true,
+        "carousel_review_per_media": true,
+        "stop_on_rate_limit": true,
+        "hidden_likes": "unrankable_not_zero",
+        "reading_mode": "one post at a time; save before next; no parallel requests"
+      },
+      "window_start": "2025-09-10",
+      "window_end": "2026-09-10",
+      "reason": "User changed scope to latest two posts per account."
+    }
+  ],
+  "active_window": null
 }
