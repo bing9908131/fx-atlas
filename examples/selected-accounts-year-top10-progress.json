@@ -17,7 +17,7 @@
     {
       "handle": "0scarpettersson",
       "url": "https://www.instagram.com/0scarpettersson/",
-      "status": "partially_imported_pending_year_ranking",
+      "status": "year_top10_imported_pending_full_motion_review",
       "posts": [
         {
           "shortcode": "DaBB2KBN567",
@@ -72,42 +72,44 @@
           "published_at": "2026-05-21T15:56:52.000Z",
           "likes": 289,
           "likes_evidence": "one named account plus 288 others",
-          "status": "pending_visual_review_unranked"
+          "status": "below_top10_cutoff",
+          "media_ids": []
         },
         {
           "shortcode": "DYTvmRNNE7f",
           "url": "https://www.instagram.com/p/DYTvmRNNE7f/",
           "published_at": "2026-05-14T06:10:04.000Z",
           "likes": 608,
-          "status": "imported_partial_visual_review",
+          "status": "below_top10_cutoff",
           "cg_review": "藍色纖維繩索在白底中交纏，繩面可見細毛與螺旋紋理。",
-          "media_ids": [
-            "selectedyear-DYTvmRNNE7f-1"
-          ]
+          "media_ids": []
         },
         {
           "shortcode": "DXwak8VtBEb",
           "url": "https://www.instagram.com/p/DXwak8VtBEb/",
           "published_at": "2026-04-30T12:53:27.000Z",
           "likes": 561,
-          "status": "pending_visual_review_unranked"
+          "status": "below_top10_cutoff",
+          "media_ids": []
         },
         {
           "shortcode": "DRpnLdojc_P",
           "url": "https://www.instagram.com/p/DRpnLdojc_P/",
           "published_at": "2025-11-29T18:21:09.000Z",
           "likes": 329,
-          "status": "pending_visual_review_unranked"
+          "status": "below_top10_cutoff",
+          "media_ids": []
         },
         {
           "shortcode": "DRiBekbDWQQ",
           "url": "https://www.instagram.com/p/DRiBekbDWQQ/",
           "published_at": "2025-11-26T19:36:39.000Z",
           "likes": 151,
-          "status": "candidate_unranked",
+          "status": "below_top10_cutoff",
           "likes_evidence": "post like button shows 151",
           "cg_review": "CG metallic balls and staggered dark trays; Cinema 4D Fields tutorial",
-          "duration_seconds": 12.028
+          "duration_seconds": 12.028,
+          "media_ids": []
         },
         {
           "shortcode": "DOeYIQrjRnr",
@@ -301,7 +303,7 @@
           "published_at": "2025-10-17T15:16:12.000Z",
           "likes": 615,
           "likes_evidence": "615個讚",
-          "status": "imported_partial_visual_review",
+          "status": "below_top10_cutoff",
           "cg_review": "Gray soft rounded blocks in grid, orange shapes squeezing between blocks; Cinema 4D stated",
           "tags": [
             {
@@ -325,9 +327,7 @@
               "category": "color"
             }
           ],
-          "media_ids": [
-            "selectedyear-DP6j9LJjF40-1"
-          ]
+          "media_ids": []
         },
         {
           "shortcode": "DROv0D7DedG",
@@ -335,21 +335,63 @@
           "published_at": "2025-11-19T07:59:28.000Z",
           "likes": 269,
           "likes_evidence": "269個讚",
-          "status": "pending_visual_review_unranked",
+          "status": "below_top10_cutoff",
           "brand": "ECCO",
           "brand_evidence": "Author: #ad New work for @ECCO; official ecco account comments; video end card ECCO Black Friday",
-          "model": null
+          "model": null,
+          "media_ids": []
         },
         {
           "shortcode": "DReGUNtjVxu",
           "url": "https://www.instagram.com/p/DReGUNtjVxu/",
           "published_at": "2025-11-25T07:01:25.000Z",
-          "likes": null,
-          "status": "post_content_unavailable"
+          "likes": 475,
+          "status": "below_top10_cutoff",
+          "likes_evidence": "Visible Instagram like button: 475",
+          "caption": "Lesson 1 - Counter Rotation",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DRtllGfDVVI",
+          "url": "https://www.instagram.com/p/DRtllGfDVVI/",
+          "likes": 4828,
+          "published_at": "2025-12-01",
+          "likes_evidence": "Visible 4,828; named account plus 4827 others",
+          "status": "imported_partial_visual_review",
+          "caption": "Lesson 5 - Rolling Cubes",
+          "cg_review": "灰黑色帶圓形凹口方塊以邊緣為軸翻轉，逐一對齊堆疊；兩個影片時點確認旋轉；霧面石材外觀、灰藍背景。",
+          "duration_seconds": 12,
+          "media_ids": [
+            "selectedyear-DRtllGfDVVI-1"
+          ]
+        },
+        {
+          "shortcode": "DRsL934jZnt",
+          "url": "https://www.instagram.com/p/DRsL934jZnt/",
+          "likes": 1484,
+          "published_at": "2025-12-01",
+          "likes_evidence": "Visible 1,484; named account plus 1483 others",
+          "status": "imported_partial_visual_review",
+          "caption": "Lesson 4 - Pure Animation",
+          "cg_review": "六向金屬軸結構懸浮旋轉，下方黑色帶字母按鍵的多面體轉動；黃綠端點與淡黃綠背景。",
+          "duration_seconds": 12.027936,
+          "media_ids": [
+            "selectedyear-DRsL934jZnt-1"
+          ]
+        },
+        {
+          "shortcode": "DaTQfhuN5Sy",
+          "url": "https://www.instagram.com/p/DaTQfhuN5Sy/",
+          "published_at": "2026-07-02T18:48:46.000Z",
+          "likes": 347,
+          "likes_evidence": "347 button; named account plus 346 others",
+          "caption": "SUMMER SALE! 30 %.",
+          "status": "below_top10_cutoff",
+          "media_ids": []
         }
       ],
       "profile_post_count": 287,
-      "year_coverage_complete": false,
+      "year_coverage_complete": true,
       "discovered_shortcodes": [
         "DRtllGfDVVI",
         "DRsL934jZnt",
@@ -375,7 +417,21 @@
         "url": "https://www.instagram.com/0scarpettersson/p/DOMTO9zDRmJ/",
         "profile_alt": "Photo by Oscar Pettersson on September 04, 2025.",
         "note": "First chronological out-of-window item observed; exact dates of remaining 19 require verification, pinned items included."
-      }
+      },
+      "selected_shortcodes": [
+        "DRtllGfDVVI",
+        "DZKek3hNXOC",
+        "DPmQmDEDWm6",
+        "DaBB2KBN567",
+        "DRsL934jZnt",
+        "DPT4mHHDWd6",
+        "DOeYIQrjRnr",
+        "DZb_q5Stjji",
+        "DOv9IAPDRfU",
+        "DY4VveyNN8Y"
+      ],
+      "ranking_basis": "19 visible profile posts incl. 3 pinned; reached 2025-09-04 post DOMTO9zDRmJ outside window",
+      "verified_like_counts": 19
     },
     {
       "handle": "2d.pete",
@@ -2120,5 +2176,5 @@
   ],
   "imported_posts": 10,
   "imported_media": 11,
-  "last_check_note": "User authorized publishing reviewed existing candidates before full-year ranking; staged for publication."
+  "last_check_note": "Completed visible-year ranking for 0scarpettersson; replaced two provisional lower-liked posts with two pinned CG loops. Other accounts pending."
 }

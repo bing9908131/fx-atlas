@@ -5,9 +5,9 @@
   "unclassified": 0,
   "counts": {
     "graphic": 380,
-    "product": 726,
-    "organic": 410,
-    "geometric": 807,
+    "product": 727,
+    "organic": 408,
+    "geometric": 806,
     "scifi": 269,
     "effects": 99
   },
@@ -387,12 +387,12 @@
       ]
     },
     {
-      "id": "selectedyear-DP6j9LJjF40-1",
+      "id": "selectedyear-DRtllGfDVVI-1",
       "styles": [
         {
-          "id": "organic",
-          "zh": "有機形態",
-          "en": "Organic Forms",
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
           "role": "primary",
           "source": "existing_media_tags",
           "review_status": "tag_based",
@@ -400,34 +400,20 @@
             "依個別素材現有標籤分類；不使用發布人、品牌或整篇文案。"
           ],
           "matched_tags": [
-            "soft body"
-          ]
-        },
-        {
-          "id": "geometric",
-          "zh": "幾何構成",
-          "en": "Geometric Forms",
-          "role": "secondary",
-          "source": "existing_media_tags",
-          "review_status": "tag_based",
-          "evidence": [
-            "依個別素材現有標籤分類；不使用發布人、品牌或整篇文案。"
-          ],
-          "matched_tags": [
-            "grid",
-            "rounded cube",
-            "網格"
+            "cube",
+            "stone-like",
+            "方塊"
           ]
         }
       ]
     },
     {
-      "id": "selectedyear-DYTvmRNNE7f-1",
+      "id": "selectedyear-DRsL934jZnt-1",
       "styles": [
         {
-          "id": "organic",
-          "zh": "有機形態",
-          "en": "Organic Forms",
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
           "role": "primary",
           "source": "existing_media_tags",
           "review_status": "tag_based",
@@ -435,25 +421,8 @@
             "依個別素材現有標籤分類；不使用發布人、品牌或整篇文案。"
           ],
           "matched_tags": [
-            "fabric",
-            "fiber",
-            "織物",
-            "纖維"
-          ]
-        },
-        {
-          "id": "geometric",
-          "zh": "幾何構成",
-          "en": "Geometric Forms",
-          "role": "secondary",
-          "source": "existing_media_tags",
-          "review_status": "tag_based",
-          "evidence": [
-            "依個別素材現有標籤分類；不使用發布人、品牌或整篇文案。"
-          ],
-          "matched_tags": [
-            "helix",
-            "螺旋"
+            "keycap",
+            "鍵帽"
           ]
         }
       ]
