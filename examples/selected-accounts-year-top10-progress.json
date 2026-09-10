@@ -9472,19 +9472,24 @@
           "shortcode": "C4L-vPQrCMM",
           "url": "https://www.instagram.com/water.prouf/reel/C4L-vPQrCMM/",
           "published_at": "2024-03-06T21:07:28.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-C4L-vPQrCMM-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "CqArIwfIKQs",
           "url": "https://www.instagram.com/water.prouf/p/CqArIwfIKQs/",
           "published_at": "2023-03-20T12:20:58.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-CqArIwfIKQs-1"
-          ]
+            "selectedyear-CqArIwfIKQs-1",
+            "selectedyear-CqArIwfIKQs-2"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

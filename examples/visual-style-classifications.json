@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2045,
+  "total": 2048,
   "unclassified": 0,
   "counts": {
-    "graphic": 394,
-    "product": 746,
+    "graphic": 397,
+    "product": 747,
     "organic": 425,
     "geometric": 821,
-    "scifi": 289,
+    "scifi": 291,
     "effects": 108
   },
   "fallback_count": 194,
@@ -596,6 +596,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。車鼻與多層前翼俯視特寫，紅色燈光照亮纖維編織紋理。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C4L-vPQrCMM-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.78至1.51秒可見外殼打開露出内部層次；3.62秒矩形面板分離並改變角度，旁有活動字樣；6.07秒為傾斜數字手錶展示，8.58秒只留下活動字標。可確認拆分、面板翻轉和畫面轉場，未看到碰撞、破碎或流體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.78至1.51秒可見外殼打開露出内部層次；3.62秒矩形面板分離並改變角度，旁有活動字樣；6.07秒為傾斜數字手錶展示，8.58秒只留下活動字標。可確認拆分、面板翻轉和畫面轉場，未看到碰撞、破碎或流體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CqArIwfIKQs-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際開啟輪播第1張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際開啟輪播第1張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
           ],
           "matched_tags": []
         }
@@ -1880,6 +1938,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。賽車座艙側面，防護架、頭盔及上方結構形成深色輪廓與紅色邊光。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CqArIwfIKQs-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際開啟輪播第2張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際開啟輪播第2張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
           ],
           "matched_tags": []
         }
