@@ -7800,7 +7800,7 @@
           "shortcode": "DUSnE55Dn4t",
           "url": "https://www.instagram.com/simonbrauud/reel/DUSnE55Dn4t/",
           "published_at": "2026-02-03T09:30:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DUSnE55Dn4t-1"
           ]
@@ -7809,7 +7809,7 @@
           "shortcode": "DOYNF3rDBBG",
           "url": "https://www.instagram.com/simonbrauud/reel/DOYNF3rDBBG/",
           "published_at": "2025-09-09T10:30:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DOYNF3rDBBG-1"
           ]
@@ -7831,7 +7831,7 @@
           "shortcode": "DIykgQuN9EB",
           "url": "https://www.instagram.com/offfest/p/DIykgQuN9EB/",
           "published_at": "2025-04-23T13:06:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DIykgQuN9EB-1"
           ]
@@ -7840,7 +7840,7 @@
           "shortcode": "DBzIMvStuHI",
           "url": "https://www.instagram.com/simonholmedal/p/DBzIMvStuHI/",
           "published_at": "2024-10-31T18:39:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DBzIMvStuHI-1"
           ]
@@ -7856,26 +7856,93 @@
     {
       "handle": "simonsjoo",
       "url": "https://www.instagram.com/simonsjoo/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaAzUsTCKUU",
+          "url": "https://www.instagram.com/simonsjoo/p/DaAzUsTCKUU/",
+          "published_at": "2026-06-25T14:39:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaAzUsTCKUU-1"
+          ]
+        },
+        {
+          "shortcode": "DZuvh1KoLRb",
+          "url": "https://www.instagram.com/simonsjoo/reel/DZuvh1KoLRb/",
+          "published_at": "2026-06-18T14:20:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZuvh1KoLRb-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaAzUsTCKUU",
+        "DZuvh1KoLRb"
+      ],
+      "latest_two_selection_evidence": "Newest unpinned posts in weekly 9/9 and 8/9 series; original dates read. C4D/Redshift generic visual studies; older glass pin not substituted."
     },
     {
       "handle": "slimesunday",
       "url": "https://www.instagram.com/slimesunday/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZnQtsvx2en",
+          "url": "https://www.instagram.com/slimesunday/p/DZnQtsvx2en/",
+          "published_at": "2026-06-15T16:37:50.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "作者明說雜誌剪貼掃描後在 Photoshop 編輯，非 CG 製作。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DRhw4wUgA0C",
+          "url": "https://www.instagram.com/slimesunday/p/DRhw4wUgA0C/",
+          "published_at": "2025-11-26T17:10:31.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "靜態攝影與商品標誌拼貼，並非可確認的 CG 作品或品牌正式專案。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZnQtsvx2en",
+        "DRhw4wUgA0C"
+      ],
+      "latest_two_selection_evidence": "Old 2019/2022 pins skipped; original dates read. First explicitly scanned magazine cut-and-paste; second static satirical photo/product-logo collage, not commissioned brand use."
     },
     {
       "handle": "slimjimstudios",
       "url": "https://www.instagram.com/slimjimstudios/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DL5csnGy4Hf",
+          "url": "https://www.instagram.com/slimjimstudios/reel/DL5csnGy4Hf/",
+          "published_at": "2025-07-09T18:52:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DL5csnGy4Hf-1"
+          ]
+        },
+        {
+          "shortcode": "DJHi1CXPO8I",
+          "url": "https://www.instagram.com/slimjimstudios/reel/DJHi1CXPO8I/",
+          "published_at": "2025-05-01T16:45:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJHi1CXPO8I-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DL5csnGy4Hf",
+        "DJHi1CXPO8I"
+      ],
+      "latest_two_selection_evidence": "First two posts without pins; exact dates read. Latest visibly rendered robot typing loop; generic character animation, full motion review pending."
     },
     {
       "handle": "someform.studio",
@@ -8286,8 +8353,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 358,
-  "imported_media": 359,
+  "imported_posts": 362,
+  "imported_media": 363,
   "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
