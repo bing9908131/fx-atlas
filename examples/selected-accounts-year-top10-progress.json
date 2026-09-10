@@ -4824,7 +4824,7 @@
           "shortcode": "DTfIbZiiCWV",
           "url": "https://www.instagram.com/jordipagespons/reel/DTfIbZiiCWV/",
           "published_at": "2026-01-14T09:46:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTfIbZiiCWV-1"
           ]
@@ -4833,7 +4833,7 @@
           "shortcode": "DFFVKs_tI5u",
           "url": "https://www.instagram.com/jordipagespons/p/DFFVKs_tI5u/",
           "published_at": "2025-01-21T09:52:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DFFVKs_tI5u-1"
           ]
@@ -4855,7 +4855,7 @@
           "shortcode": "DAtAIgptKw0",
           "url": "https://www.instagram.com/bohrium_records/p/DAtAIgptKw0/",
           "published_at": "2024-10-04T13:01:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DAtAIgptKw0-1"
           ]
@@ -4864,7 +4864,7 @@
           "shortcode": "C-H2NaGNwGq",
           "url": "https://www.instagram.com/jose_motiondesigner/reel/C-H2NaGNwGq/",
           "published_at": "2024-08-01T09:41:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C-H2NaGNwGq-1"
           ]
@@ -4894,7 +4894,7 @@
           "shortcode": "DYSNyhYR7xO",
           "url": "https://www.instagram.com/saga___cg/reel/DYSNyhYR7xO/",
           "published_at": "2026-05-13T16:00:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYSNyhYR7xO-1"
           ]
@@ -4916,7 +4916,7 @@
           "shortcode": "DW_LiL0gqJH",
           "url": "https://www.instagram.com/juangsegura/reel/DW_LiL0gqJH/",
           "published_at": "2026-04-11T10:00:12.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DW_LiL0gqJH-1"
           ]
@@ -4925,7 +4925,7 @@
           "shortcode": "DHJfUgzilzi",
           "url": "https://www.instagram.com/juangsegura/reel/DHJfUgzilzi/",
           "published_at": "2025-03-13T17:44:07.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DHJfUgzilzi-1"
           ]
@@ -4941,58 +4941,192 @@
     {
       "handle": "julian_hespenheide",
       "url": "https://www.instagram.com/julian_hespenheide/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEvDWHNnd2",
+          "url": "https://www.instagram.com/julian_hespenheide/reel/DdEvDWHNnd2/",
+          "published_at": "2026-09-09T16:55:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEvDWHNnd2-1"
+          ]
+        },
+        {
+          "shortcode": "Dc_dBsbxn4T",
+          "url": "https://www.instagram.com/julian_hespenheide/reel/Dc_dBsbxn4T/",
+          "published_at": "2026-09-07T15:40:28.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實拍手持玻璃折射物件；IRL pixel glass，非 CG 模擬。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEvDWHNnd2",
+        "Dc_dBsbxn4T"
+      ],
+      "latest_two_selection_evidence": "Three pins individually dated 2022-02-09T18:00:36.000Z, 2021-06-07T17:34:18.000Z, 2022-05-17T17:00:59.000Z; latest unpinned Sept 9 and Sept 7 2026. VMU displays generated ASCII animation; glass test excluded as practical optics."
     },
     {
       "handle": "julienrivoire",
       "url": "https://www.instagram.com/julienrivoire/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DGgIWl0Nd_P",
+          "url": "https://www.instagram.com/julienrivoire/p/DGgIWl0Nd_P/",
+          "published_at": "2025-02-25T16:11:45.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Austra Bauhaus 系列為靜態平面海報，未展示 CG 或動態特效。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DFvSqE_tCx-",
+          "url": "https://www.instagram.com/julienrivoire/p/DFvSqE_tCx-/",
+          "published_at": "2025-02-06T16:59:00.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Nintendo Game Boy 個人風格改作渲染，未見品牌委託或實際採用證據。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DGgIWl0Nd_P",
+        "DFvSqE_tCx-"
+      ],
+      "latest_two_selection_evidence": "First six profile entries have no pins; first two exact publication dates checked. Excluded static poster and unverified branded personal render; no older backfill."
     },
     {
       "handle": "kchuangfx",
       "url": "https://www.instagram.com/kchuangfx/",
-      "status": "pending_latest_two_selection",
+      "status": "private_profile_unavailable",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Public profile shows 36 posts and 此個人檔案不公開; no post links accessible. No follow request sent."
     },
     {
       "handle": "keikanamori_",
       "url": "https://www.instagram.com/keikanamori_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DPbeN2CgapT",
+          "url": "https://www.instagram.com/keikanamori_/p/DPbeN2CgapT/",
+          "published_at": "2025-10-05T13:29:08.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "音樂祭舞台現場實拍紀錄；同作品另有正式 CG 片頭影片，排除此現場版本。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DO56ij7gcnW",
+          "url": "https://www.instagram.com/keikanamori_/reel/DO56ij7gcnW/",
+          "published_at": "2025-09-22T12:56:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DO56ij7gcnW-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DPbeN2CgapT",
+        "DO56ij7gcnW"
+      ],
+      "latest_two_selection_evidence": "Observed first 12 entries; two marked pins dated 2025-01-11T15:12:59.000Z, 2022-07-03T12:26:16.000Z; displaced award photo is Oct 25 2024. Latest dated Oct 5 and Sep 22 2025. Stage documentation excluded, original CG sequence retained."
     },
     {
       "handle": "kevin_learn",
       "url": "https://www.instagram.com/kevin_learn/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc_Zdk2jSuT",
+          "url": "https://www.instagram.com/kevin_learn/p/Dc_Zdk2jSuT/",
+          "published_at": "2026-09-07T15:08:30.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "設計新聞彙整文章，非 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dc6IRjRjRPs",
+          "url": "https://www.instagram.com/kevin_learn/p/Dc6IRjRjRPs/",
+          "published_at": "2026-09-05T14:02:07.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "AI 素材搭配 Figma 靜態平面排版教學，非 CG 特效作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc_Zdk2jSuT",
+        "Dc6IRjRjRPs"
+      ],
+      "latest_two_selection_evidence": "Three pinned posts have visible dates Aug 6, Aug 5 and Feb 15 2026, older than unpinned Sept 7 and Sept 5 posts; original timestamps verified."
     },
     {
       "handle": "kidmograph",
       "url": "https://www.instagram.com/kidmograph/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DMGRYs1yPeF",
+          "url": "https://www.instagram.com/fitzandthetantrums/reel/DMGRYs1yPeF/",
+          "published_at": "2025-07-14T18:21:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMGRYs1yPeF-1"
+          ]
+        },
+        {
+          "shortcode": "DJcLPvSp5-3",
+          "url": "https://www.instagram.com/fitzandthetantrums/reel/DJcLPvSp5-3/",
+          "published_at": "2025-05-09T16:57:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJcLPvSp5-3-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DMGRYs1yPeF",
+        "DJcLPvSp5-3"
+      ],
+      "latest_two_selection_evidence": "Two pins individually dated 2024-05-04T14:48:07.000Z, 2024-06-05T21:28:25.000Z; latest unpinned Jul 14 and May 9 2025. Official musician collaborative publication retained."
     },
     {
       "handle": "kollektiiv",
       "url": "https://www.instagram.com/kollektiiv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DV6sVqWDHxs",
+          "url": "https://www.instagram.com/kollektiiv/reel/DV6sVqWDHxs/",
+          "published_at": "2026-03-15T19:46:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DV6sVqWDHxs-1"
+          ]
+        },
+        {
+          "shortcode": "DTtFakUDFe-",
+          "url": "https://www.instagram.com/kollektiiv/reel/DTtFakUDFe-/",
+          "published_at": "2026-01-19T20:10:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DTtFakUDFe--1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DV6sVqWDHxs",
+        "DTtFakUDFe-"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six profile posts; first two original timestamps individually verified."
     },
     {
       "handle": "korb.tv",
@@ -6147,9 +6281,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 227,
-  "imported_media": 228,
-  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 233,
+  "imported_media": 234,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
