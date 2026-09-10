@@ -82,6 +82,7 @@ body:has(#modal[open]){overflow:hidden}
  .filter-content .sourcefilters select{min-height:44px;font-size:13px}
  .filter-content .account-clear{min-height:44px}
 }
+.searchbox input::placeholder{color:#878983;opacity:1}
 </style></head><body>
 <header><a href="#" class="brand" id="home">FX <b>Atlas</b><span>✳</span></a><nav id="mediafilters" class="mediafilters" aria-label="媒體類型"></nav><label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜尋特效、效果名稱、顏色、品牌、型號、發布人、製作公司…" aria-label="搜尋素材、特效、效果名稱、顏色、品牌、型號、發布人或製作公司"><button id="clear" aria-label="清除搜尋">×</button></label><span class="headnote">A LIBRARY OF MOTION</span></header>
 <main><details class="discovery-panel" id="discovery-panel" open><summary aria-controls="filter-content"><span>特效與動態設計參考集</span><span class="panel-toggle"><span class="panel-collapse">收合篩選</span><span class="panel-expand">展開篩選</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 15 6-6 6 6"/></svg></span></summary><div class="filter-content" id="filter-content"><div class="inspiration-actions"><button type="button" id="inspire" class="inspiration-button" title="隨機搜尋顏色、質感，或兩者組合">找靈感</button><div class="account-browser"><nav id="account-strip" class="account-strip" aria-label="已收錄的 Instagram 帳號"></nav></div></div><div id="account-active" class="account-active" hidden></div><div class="filters"><nav class="chips" aria-label="素材內容分類" id="filters"></nav><div class="sourcefilters"><select id="group" aria-label="素材來源"><option value="all">全部來源</option><option value="history156">指定帳號 · 近三年補收</option><option value="accounts16">16 個指定帳號 · 本次新增</option><option value="brand2026">品牌 CG · 2026</option><option value="brand2025">品牌 CG · 2025</option><option value="pendingyear">指定帳號 · 近一年補收</option><option value="ashyear">Ash Thorp · 近一年</option><option value="cnc">CNC CG · 10 篇貼文</option><option value="hublot">Hublot CG · 3 支影片</option><option value="bulk500">工作室與藝術家 IG · 新增500支</option><option value="studioig">工作室 IG · 50 支影片</option><option value="year">2026 年 CG 精選 · 112 個素材</option><option value="recent">2026/08–09 精選 · 29 個素材</option><option value="discovered">新加入 CG · 53 個素材</option><option value="saved">我的收藏 · 48 個素材</option><option value="seed">原始輪播 · 6 支影片</option><option value="ref">延伸參考 · 5 則貼文</option></select><select id="collection" aria-label="珍藏分類"><option value="all">所有珍藏分類</option><option value="指定帳號 · 近三年">指定帳號 · 近三年</option><option value="16 個指定帳號">16 個指定帳號</option><option value="品牌 CG · 2026">品牌 CG · 2026</option><option value="品牌 CG · 2025">品牌 CG · 2025</option><option value="指定帳號 · 近一年補收">指定帳號 · 近一年補收</option><option value="Ash Thorp · 近一年">Ash Thorp · 近一年</option><option value="CNC CG">CNC CG</option><option value="Hublot CG">Hublot CG</option><option value="工作室與藝術家 IG · 新增500支">工作室與藝術家 IG · 新增500支</option><option value="工作室 IG · 50 支精選">工作室 IG · 50 支精選</option><option value="2026 年 CG 精選">2026 年 CG 精選</option><option value="2026/08–09 精選">2026/08–09 精選</option><option value="相關 CG">相關 CG · 本次新增</option><option value="metal liquid">metal liquid · 金屬流體</option><option value="liquid">liquid · 流體</option><option value="particle">particle · 粒子</option><option value="Shoes">Shoes · 鞋履</option></select></div></div></div></details><div class="resultline"><span id="count" role="status"></span><span class="expansion" id="expanded"></span></div><div class="grid" id="grid"></div><div id="empty">沒有符合的素材。試試「布料」、「鞋底」或「雪花」。<br><button id="reset">顯示全部素材</button></div></main><footer>FX ATLAS · 共 1968 項 Instagram 參考素材 · 圖片與影片使用遠端連結</footer>
@@ -200,6 +201,7 @@ function inFilterScope(i){
  return (!selectedAccount||accountItemIds.get(selectedAccount)?.has(i.id))&&(mediaType==='all'||i.type===mediaType)&&(!selected||(i.styles||[]).some(s=>s.id===selected))&&(source==='all'||(source==='saved'?i.saved:i.group===source))&&(collection==='all'||i.collection===collection);
 }
 const inspirationMaterials=new Set(['metal','metallic','glass','cloth','fabric','silk','wood','stone','plastic','rubber','leather','ceramic','liquid','transparent','translucent','reflective','glossy','matte','rough surface','polished metal','brushed metal','iridescent']);
+let initialQuery='橘色';
 function inspirationQueries(pool){
  const queries={color:new Set(),material:new Set(),both:new Set()};
  const phrase=t=>{const w=String(t.zh||t.en).trim();return /[\s",，、]/.test(w)?'"'+w.replace(/"/g,'')+'"':w};
@@ -220,9 +222,10 @@ function shuffleInspiration(){
   if(!queries.length)return;
   selectedAccount='';mediaType='all';selected='';$('#group').value='all';$('#collection').value='all';
  }
- const different=queries.map(group=>group.filter(q=>q!==$('#search').value.trim())).filter(group=>group.length);
+ const different=queries.map(group=>group.filter(q=>q!==($('#search').value.trim()||initialQuery))).filter(group=>group.length);
  const groups=different.length?different:queries;
  const choices=groups[Math.floor(Math.random()*groups.length)];
+ initialQuery='';
  $('#search').value=choices[Math.floor(Math.random()*choices.length)];
  render();
 }
@@ -240,7 +243,7 @@ function render(){
  renderAccounts();
  $('#mediafilters').innerHTML=[['all','全部'],['image','圖片'],['video','影片']].map(([value,label])=>`<button type="button" class="mediafilter ${mediaType===value?'active':''}" data-media="${value}" aria-pressed="${mediaType===value}">${label}</button>`).join('');
  releaseMedia($('#grid'));
- const q=$('#search').value.trim(),source=$('#group').value,collection=$('#collection').value;
+ const q=$('#search').value.trim()||initialQuery,source=$('#group').value,collection=$('#collection').value;
  const shown=displayOrder.filter(i=>inFilterScope(i)&&matches(i,q));
  $('#filters').innerHTML=groups.map(([name,value])=>`<button class="chip ${selected===value?'active':''}" data-filter="${value}" aria-pressed="${selected===value}">${name}</button>`).join('');
  $('#count').textContent=`${shown.length} 個參考素材${q?' · 搜尋「'+q+'」':''}`;
@@ -280,14 +283,14 @@ function openItem(id){
  $('#detail').innerHTML=`<div class="detail"><div class="preview">${video(i,true)||image(i)}<a class="source" href="${esc(i.url)}" target="_blank" rel="noopener noreferrer">${i.group==='expansion'?'作品報導與署名':i.type==='video'?'觀看原影片':'開啟原貼文'} ↗</a></div><div class="detailbody"><div class="eyebrow">${esc(scope(i))}${i.collection?' / '+esc(i.collection):''}</div><h2>${esc(i.title)}</h2><p>${i.group==='expansion'?'':'@'}${esc(i.creator)}${i.reported_at?' · 報導於 '+esc(i.reported_at):''}${i.published_at?' · 發布於 '+esc(i.published_at.slice(0,10)):''}</p><p>${esc(i.description)}</p>${productIdentity(i)}${styleTags(i)}${itemTags(i)}${vocabularyTags(i)}${i.related.length?'<h3>延伸搜尋詞 · 非已確認技術</h3><div class="tags">'+i.related.map(t=>tag(t,'relatedtag')).join('')+'</div>':''}${i.caption.length?'<h3>貼文 Hashtags</h3><div class="tags">'+i.caption.map(t=>`<button class="tag" data-query="${esc(t)}">#${esc(t)}</button>`).join('')+'</div>':''}${i.caption_text?'<details class="caption"><summary>查看原貼文文字</summary><p>'+esc(i.caption_text)+'</p></details>':''}${i.film_links?.length?'<h3>影片連結</h3><div class="tags">'+i.film_links.map((url,n)=>`<a class="tag" href="${esc(url)}" target="_blank" rel="noopener noreferrer">${n===0?'觀看原影片':'延伸影片 '+(n+1)} ↗</a>`).join('')+'</div>':''}<p class="note">${esc(i.note)}</p>${similar.length?'<h3>繼續探索相關素材</h3><div class="relatedgrid">'+similar.map(({j})=>`<button class="smallcard" data-open="${j.id}">${image(j)}${esc(j.title)}</button>`).join('')+'</div>':''}</div></div>`;
  if(!$('#modal').open)$('#modal').showModal();$('#modal').scrollTop=0;$('#detail').scrollTop=0;observeMedia($('#detail'));
 }
-function reset(){selectedAccount='';mediaType='all';selected='';$('#search').value='';$('#group').value='all';$('#collection').value='all';render()}
-document.addEventListener('click',e=>{const style=e.target.closest('[data-style]');if(style){selected=style.dataset.style;$('#modal').close();render()}const account=e.target.closest('[data-account]');if(account)chooseAccount(account.dataset.account);if(e.target.closest('[data-clear-account]')){selectedAccount='';render()}const media=e.target.closest('[data-media]');if(media){mediaType=media.dataset.media;render()}const o=e.target.closest('[data-open]'),q=e.target.closest('[data-query]'),f=e.target.closest('[data-filter]');if(o)openItem(o.dataset.open);if(q){selectedAccount='';$('#search').value=q.dataset.query;selected='';$('#group').value='all';$('#collection').value='all';$('#modal').close();render();window.scrollTo({top:0,behavior:'smooth'})}if(f){selected=f.dataset.filter;render()}});
+function reset(){initialQuery='';selectedAccount='';mediaType='all';selected='';$('#search').value='';$('#group').value='all';$('#collection').value='all';render()}
+document.addEventListener('click',e=>{const style=e.target.closest('[data-style]');if(style){selected=style.dataset.style;$('#modal').close();render()}const account=e.target.closest('[data-account]');if(account)chooseAccount(account.dataset.account);if(e.target.closest('[data-clear-account]')){selectedAccount='';render()}const media=e.target.closest('[data-media]');if(media){mediaType=media.dataset.media;render()}const o=e.target.closest('[data-open]'),q=e.target.closest('[data-query]'),f=e.target.closest('[data-filter]');if(o)openItem(o.dataset.open);if(q){initialQuery='';selectedAccount='';$('#search').value=q.dataset.query;selected='';$('#group').value='all';$('#collection').value='all';$('#modal').close();render();window.scrollTo({top:0,behavior:'smooth'})}if(f){selected=f.dataset.filter;render()}});
 $('#inspire').addEventListener('click',shuffleInspiration);
-$('#search').addEventListener('input',render);$('#group').addEventListener('change',render);$('#collection').addEventListener('change',render);
-$('#clear').onclick=()=>{$('#search').value='';render();$('#search').focus()};$('#reset').onclick=reset;$('#home').onclick=e=>{e.preventDefault();reset();window.scrollTo({top:0,behavior:'smooth'})};$('#close').onclick=$('#close-bottom').onclick=()=>$('#modal').close();$('#modal').addEventListener('click',e=>{if(e.target===$('#modal')){const r=$('#modal').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#modal').close()}});
+$('#search').addEventListener('input',()=>{initialQuery='';render()});$('#group').addEventListener('change',render);$('#collection').addEventListener('change',render);
+$('#clear').onclick=()=>{initialQuery='';$('#search').value='';render();$('#search').focus()};$('#reset').onclick=reset;$('#home').onclick=e=>{e.preventDefault();reset();window.scrollTo({top:0,behavior:'smooth'})};$('#close').onclick=$('#close-bottom').onclick=()=>$('#modal').close();$('#modal').addEventListener('click',e=>{if(e.target===$('#modal')){const r=$('#modal').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('#modal').close()}});
 $('#modal').addEventListener('close',()=>{releaseMedia($('#detail'));syncPlayback()});
 initAccountStrip();
-$('#search').value='橘色';
+$('#search').value='';
 render();
 
 </script></body></html>
