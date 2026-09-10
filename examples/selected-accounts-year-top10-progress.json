@@ -6729,7 +6729,7 @@
           "shortcode": "DcBAiiyo2cg",
           "url": "https://www.instagram.com/opticalarts.studio/reel/DcBAiiyo2cg/",
           "published_at": "2026-08-14T09:40:43.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcBAiiyo2cg-1"
           ]
@@ -6738,7 +6738,7 @@
           "shortcode": "DbVgUQVoN_p",
           "url": "https://www.instagram.com/opticalarts.studio/reel/DbVgUQVoN_p/",
           "published_at": "2026-07-28T12:09:31.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbVgUQVoN_p-1"
           ]
@@ -6760,7 +6760,7 @@
           "shortcode": "Dc4OQ0WjOWj",
           "url": "https://www.instagram.com/orlov.it/p/Dc4OQ0WjOWj/",
           "published_at": "2026-09-04T20:15:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc4OQ0WjOWj-1"
           ]
@@ -6769,7 +6769,7 @@
           "shortcode": "DclPdK4Iftp",
           "url": "https://www.instagram.com/orlov.it/reel/DclPdK4Iftp/",
           "published_at": "2026-08-28T11:23:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DclPdK4Iftp-1"
           ]
@@ -6791,7 +6791,7 @@
           "shortcode": "DbFF003zAFB",
           "url": "https://www.instagram.com/owow.point/reel/DbFF003zAFB/",
           "published_at": "2026-07-22T03:11:43.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbFF003zAFB-1"
           ]
@@ -6800,7 +6800,7 @@
           "shortcode": "DbCC9fLT7kE",
           "url": "https://www.instagram.com/owow.point/reel/DbCC9fLT7kE/",
           "published_at": "2026-07-20T22:51:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbCC9fLT7kE-1"
           ]
@@ -6816,26 +6816,98 @@
     {
       "handle": "panoplycreative",
       "url": "https://www.instagram.com/panoplycreative/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcdDmM6j5Cq",
+          "url": "https://www.instagram.com/panoplycreative/p/DcdDmM6j5Cq/",
+          "published_at": "2026-08-25T07:03:32.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "year-DcdDmM6j5Cq-1",
+            "year-DcdDmM6j5Cq-2",
+            "year-DcdDmM6j5Cq-3",
+            "year-DcdDmM6j5Cq-4"
+          ]
+        },
+        {
+          "shortcode": "DcLCDYukQpp",
+          "url": "https://www.instagram.com/panoplycreative/p/DcLCDYukQpp/",
+          "published_at": "2026-08-18T07:03:42.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcLCDYukQpp-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcdDmM6j5Cq",
+        "DcLCDYukQpp"
+      ],
+      "latest_two_selection_evidence": "First two entries have no pinned icons; original publication dates read individually. Graphite film excerpts, carousel expansion and detailed motion review pending."
     },
     {
       "handle": "passionanimation",
       "url": "https://www.instagram.com/passionanimation/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEw7ExOgft",
+          "url": "https://www.instagram.com/passionanimation/reel/DdEw7ExOgft/",
+          "published_at": "2026-09-09T17:11:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEw7ExOgft-1"
+          ]
+        },
+        {
+          "shortcode": "DdBvsJRBr7F",
+          "url": "https://www.instagram.com/passionanimation/reel/DdBvsJRBr7F/",
+          "published_at": "2026-09-08T13:01:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBvsJRBr7F-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEw7ExOgft",
+        "DdBvsJRBr7F"
+      ],
+      "latest_two_selection_evidence": "First unpinned entries dated September 9 and September 8 2026; pinned Love Death Robots Volume 4 promotional excerpt predates these. Caption lists McDonald’s, Toho and Sanrio as clients plus 2D/3D production credits."
     },
     {
       "handle": "paulesteves28",
       "url": "https://www.instagram.com/paulesteves28/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYZs1PBivP0",
+          "url": "https://www.instagram.com/paulesteves28/p/DYZs1PBivP0/",
+          "published_at": "2026-05-16T13:40:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYZs1PBivP0-1"
+          ]
+        },
+        {
+          "shortcode": "DUqVjNiCkdF",
+          "url": "https://www.instagram.com/paulesteves28/reel/DUqVjNiCkdF/",
+          "published_at": "2026-02-12T14:39:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUqVjNiCkdF-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYZs1PBivP0",
+        "DUqVjNiCkdF"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts, dates read individually. Older tennis-art pin skipped. Generic simulation R&D, no unsupported brand-client claim."
     },
     {
       "handle": "peelanimation",
@@ -7518,9 +7590,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 308,
-  "imported_media": 309,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 313,
+  "imported_media": 314,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
