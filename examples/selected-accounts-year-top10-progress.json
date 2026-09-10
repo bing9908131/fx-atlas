@@ -8912,7 +8912,7 @@
           "shortcode": "DYJooqkDyox",
           "url": "https://www.instagram.com/visual_tense/p/DYJooqkDyox/",
           "published_at": "2026-05-10T07:56:24.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYJooqkDyox-1"
           ]
@@ -8934,7 +8934,7 @@
           "shortcode": "Da2sBZDjG8M",
           "url": "https://www.instagram.com/visualoperator/p/Da2sBZDjG8M/",
           "published_at": "2026-07-16T12:54:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da2sBZDjG8M-1"
           ]
@@ -8943,7 +8943,7 @@
           "shortcode": "DTyenpRDLcW",
           "url": "https://www.instagram.com/visualoperator/p/DTyenpRDLcW/",
           "published_at": "2026-01-21T22:00:46.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTyenpRDLcW-1"
           ]
@@ -8994,7 +8994,7 @@
           "shortcode": "DcZipVqjnCU",
           "url": "https://www.instagram.com/vladislav.solovjov/p/DcZipVqjnCU/",
           "published_at": "2026-08-23T22:17:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcZipVqjnCU-1"
           ]
@@ -9003,7 +9003,7 @@
           "shortcode": "Db6jMbAOR-p",
           "url": "https://www.instagram.com/vladislav.solovjov/reel/Db6jMbAOR-p/",
           "published_at": "2026-08-11T21:26:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db6jMbAOR-p-1"
           ]
@@ -9025,7 +9025,7 @@
           "shortcode": "DKjx-AZtaea",
           "url": "https://www.instagram.com/vzhemotion/p/DKjx-AZtaea/",
           "published_at": "2025-06-06T12:18:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DKjx-AZtaea-1"
           ]
@@ -9034,7 +9034,7 @@
           "shortcode": "C_S-mWZtb53",
           "url": "https://www.instagram.com/vzhemotion/p/C_S-mWZtb53/",
           "published_at": "2024-08-30T13:56:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C_S-mWZtb53-1"
           ]
@@ -9050,66 +9050,244 @@
     {
       "handle": "warrickwong",
       "url": "https://www.instagram.com/warrickwong/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdG3QoJJ4Od",
+          "url": "https://www.instagram.com/warrickwong/reel/DdG3QoJJ4Od/",
+          "published_at": "2026-09-10T12:50:16.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "最新兩則是漫畫手繪／插畫展示，非 CG 製作或特效動畫參考。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdEOVgDGps6",
+          "url": "https://www.instagram.com/warrickwong/p/DdEOVgDGps6/",
+          "published_at": "2026-09-09T12:07:21.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "最新兩則是漫畫手繪／插畫展示，非 CG 製作或特效動畫參考。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdG3QoJJ4Od",
+        "DdEOVgDGps6"
+      ],
+      "latest_two_selection_evidence": "Latest two September2026 unpinned. First explicitly brush pen and inks, second Zelda illustration recap. Earlier animation pin not substituted."
     },
     {
       "handle": "water.prouf",
       "url": "https://www.instagram.com/water.prouf/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C4L-vPQrCMM",
+          "url": "https://www.instagram.com/water.prouf/reel/C4L-vPQrCMM/",
+          "published_at": "2024-03-06T21:07:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C4L-vPQrCMM-1"
+          ]
+        },
+        {
+          "shortcode": "CqArIwfIKQs",
+          "url": "https://www.instagram.com/water.prouf/p/CqArIwfIKQs/",
+          "published_at": "2023-03-20T12:20:58.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CqArIwfIKQs-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C4L-vPQrCMM",
+        "CqArIwfIKQs"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned originals March2024/March2023. Explicit3D client works. Latest-two policy without currentyear restriction."
     },
     {
       "handle": "wearefakery",
       "url": "https://www.instagram.com/wearefakery/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbGNvdNzhfz",
+          "url": "https://www.instagram.com/wearefakery/reel/DbGNvdNzhfz/",
+          "published_at": "2026-07-22T13:38:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbGNvdNzhfz-1"
+          ]
+        },
+        {
+          "shortcode": "DaSeCiGzdi6",
+          "url": "https://www.instagram.com/wearefakery/reel/DaSeCiGzdi6/",
+          "published_at": "2026-07-02T11:20:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaSeCiGzdi6-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbGNvdNzhfz",
+        "DaSeCiGzdi6"
+      ],
+      "latest_two_selection_evidence": "Latest two July2026 unpinned works, older pins2024/2025. Captions explicitly CGI assets for named studio/product launches."
     },
     {
       "handle": "whitelightmotion",
       "url": "https://www.instagram.com/whitelightmotion/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DRKIGK5jx1g",
+          "url": "https://www.instagram.com/whitelightmotion/p/DRKIGK5jx1g/",
+          "published_at": "2025-11-17T12:51:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DRKIGK5jx1g-1"
+          ]
+        },
+        {
+          "shortcode": "DFKuNb4z_a6",
+          "url": "https://www.instagram.com/whitelightmotion/p/DFKuNb4z_a6/",
+          "published_at": "2025-01-23T12:07:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DFKuNb4z_a6-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DRKIGK5jx1g",
+        "DFKuNb4z_a6"
+      ],
+      "latest_two_selection_evidence": "Latest originals November2025/January2025; pins2023/2024. Edited caption time ignored. Publication showcase mixed book/CG images pending per-slide review; DAWAY explicitly official card refresh."
     },
     {
       "handle": "why.cgi",
       "url": "https://www.instagram.com/why.cgi/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdHBd9WDeR9",
+          "url": "https://www.instagram.com/why.cgi/p/DdHBd9WDeR9/",
+          "published_at": "2026-09-10T14:12:38.000Z",
+          "status": "excluded_non_reference",
+          "cg_review": "主要內容為社群課程與會員方案宣傳，非獨立 CG 作品／製作片段。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdGs7_6NNvx",
+          "url": "https://www.instagram.com/why.cgi/reel/DdGs7_6NNvx/",
+          "published_at": "2026-09-10T11:14:43.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "作者明確稱 Prada 為 mixed media concept，沒有品牌實際採用證據。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdHBd9WDeR9",
+        "DdGs7_6NNvx"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned September2026. Community carousel advertises tutorials/project files; Prada expressly mixed media concept without client adoption."
     },
     {
       "handle": "willsweeney_uk",
       "url": "https://www.instagram.com/willsweeney_uk/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcuSbmaojpS",
+          "url": "https://www.instagram.com/willsweeney_uk/p/DcuSbmaojpS/",
+          "published_at": "2026-08-31T23:39:56.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "單張平面插畫／活動海報，非 CG 或動態特效內容。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcMmAM9IQ-R",
+          "url": "https://www.instagram.com/willsweeney_uk/p/DcMmAM9IQ-R/",
+          "published_at": "2026-08-18T21:37:49.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "單張平面插畫／活動海報，非 CG 或動態特效內容。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcuSbmaojpS",
+        "DcMmAM9IQ-R"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned lateAugust2026, newer than June2026 pin. Single illustrations/posters, second explicitly flyer design."
     },
     {
       "handle": "willtschafer",
       "url": "https://www.instagram.com/willtschafer/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEtQNqAWTj",
+          "url": "https://www.instagram.com/willtschafer/reel/DdEtQNqAWTj/",
+          "published_at": "2026-09-09T16:41:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEtQNqAWTj-1"
+          ]
+        },
+        {
+          "shortcode": "Dc3Xl5zgG3i",
+          "url": "https://www.instagram.com/willtschafer/reel/Dc3Xl5zgG3i/",
+          "published_at": "2026-09-04T12:20:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3Xl5zgG3i-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEtQNqAWTj",
+        "Dc3Xl5zgG3i"
+      ],
+      "latest_two_selection_evidence": "Latest two September2026 unpinned, older2024/2025pins. First paid partner label with composited floating UI on filmed background. Second AfterEffects process with footage; pending full effects review, not asserted fullyCG."
     },
     {
       "handle": "wonderfall",
       "url": "https://www.instagram.com/wonderfall/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DUQ2WzqD-S1",
+          "url": "https://www.instagram.com/wonderfall/reel/DUQ2WzqD-S1/",
+          "published_at": "2026-02-02T17:09:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUQ2WzqD-S1-1"
+          ]
+        },
+        {
+          "shortcode": "DT3IZArD49X",
+          "url": "https://www.instagram.com/wonderfall/p/DT3IZArD49X/",
+          "published_at": "2026-01-23T17:22:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DT3IZArD49X-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DUQ2WzqD-S1",
+        "DT3IZArD49X"
+      ],
+      "latest_two_selection_evidence": "Latest January/February2026 unpinned; old2022/2024pins. First is2D character animation credited tymo_, retained as motion reference, not3D. Second carousel pending per-media medium review."
     },
     {
       "handle": "worship.studio",
@@ -9168,9 +9346,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 417,
-  "imported_media": 418,
-  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 427,
+  "imported_media": 428,
+  "last_check_note": "Latest-two intake: 10 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
