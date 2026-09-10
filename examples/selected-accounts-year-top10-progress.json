@@ -6172,7 +6172,7 @@
           "shortcode": "DdGscH0TUhF",
           "url": "https://www.instagram.com/mojapoly/reel/DdGscH0TUhF/",
           "published_at": "2026-09-10T11:09:15.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdGscH0TUhF-1"
           ]
@@ -6181,7 +6181,7 @@
           "shortcode": "DdF0KWzTUGF",
           "url": "https://www.instagram.com/mojapoly/reel/DdF0KWzTUGF/",
           "published_at": "2026-09-10T02:58:18.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdF0KWzTUGF-1"
           ]
@@ -6232,7 +6232,7 @@
           "shortcode": "DRxzxLJDJ6T",
           "url": "https://www.instagram.com/motiongraphics_collective/reel/DRxzxLJDJ6T/",
           "published_at": "2025-12-02T22:43:46.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DRxzxLJDJ6T-1"
           ]
@@ -6262,7 +6262,7 @@
           "shortcode": "DTDcONXDU7I",
           "url": "https://www.instagram.com/motionmate/reel/DTDcONXDU7I/",
           "published_at": "2026-01-03T15:39:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTDcONXDU7I-1"
           ]
@@ -6271,7 +6271,7 @@
           "shortcode": "DShIbvJDWlI",
           "url": "https://www.instagram.com/motionmate/reel/DShIbvJDWlI/",
           "published_at": "2025-12-21T07:49:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DShIbvJDWlI-1"
           ]
@@ -6287,26 +6287,95 @@
     {
       "handle": "motionographerpro",
       "url": "https://www.instagram.com/motionographerpro/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcyup6ZINlW",
+          "url": "https://www.instagram.com/motionplusdesign/reel/Dcyup6ZINlW/",
+          "published_at": "2026-09-02T17:04:54.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcyup6ZINlW-1"
+          ]
+        },
+        {
+          "shortcode": "DcjTPT8I9N_",
+          "url": "https://www.instagram.com/motionplusdesign/reel/DcjTPT8I9N_/",
+          "published_at": "2026-08-27T17:16:53.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcjTPT8I9N_-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcyup6ZINlW",
+        "DcjTPT8I9N_"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two collaborative original dates verified. Promotional footage mix remains pending visual review and duplicate-content review."
     },
     {
       "handle": "muartive",
       "url": "https://www.instagram.com/muartive/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZcwctWINc-",
+          "url": "https://www.instagram.com/muartive/reel/DZcwctWINc-/",
+          "published_at": "2026-06-11T14:43:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZcwctWINc--1"
+          ]
+        },
+        {
+          "shortcode": "DRkDx27j6ik",
+          "url": "https://www.instagram.com/oneplus_india/reel/DRkDx27j6ik/",
+          "published_at": "2025-11-27T14:35:19.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DRkDx27j6ik-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZcwctWINc-",
+        "DRkDx27j6ik"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; first two dates individually verified. OnePlus official collaborator publication credits Muartive; Mavi mentioned by artist, full commercial context pending."
     },
     {
       "handle": "murilomrtarello",
       "url": "https://www.instagram.com/murilomrtarello/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZ78RCEFj-H",
+          "url": "https://www.instagram.com/murilomrtarello/p/DZ78RCEFj-H/",
+          "published_at": "2026-06-23T17:21:21.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZ78RCEFj-H-1"
+          ]
+        },
+        {
+          "shortcode": "DZ46bECxE4q",
+          "url": "https://www.instagram.com/murilomrtarello/reel/DZ46bECxE4q/",
+          "published_at": "2026-06-22T13:07:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZ46bECxE4q-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZ78RCEFj-H",
+        "DZ46bECxE4q"
+      ],
+      "latest_two_selection_evidence": "Two pinned original dates 2024-10-28T19:50:54.000Z, 2026-01-27T13:26:22.000Z; latest unpinned June 23 and June 22 2026 checked. Generic non-brand design explorations retained pending analysis."
     },
     {
       "handle": "nakobaev",
@@ -7133,9 +7202,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 285,
-  "imported_media": 286,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 291,
+  "imported_media": 292,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
