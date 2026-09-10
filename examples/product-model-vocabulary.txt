@@ -156,3 +156,4 @@ Xiaomi|Watch S4 41mm|Watch S4 41mm,Xiaomi Watch S4 41mm
 Nike|Tiempo|Nike Tiempo,Tiempo
 Volvo|EX60|Volvo EX60,EX60
 Formlabs|Fuse X1|Formlabs Fuse X1,Fuse X1
+SinoPac|DAWAY|DAWAY,永豐DAWAY

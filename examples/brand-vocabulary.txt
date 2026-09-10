@@ -208,3 +208,4 @@ VALORANT|特戰英豪|valorant,特戰英豪,無畏契約,无畏契约
 Plnty|Plnty|plnty,plnty.app,plntyapp
 Formlabs|Formlabs|formlabs
 Sensitive|Sensitive|sensitive.work
+SinoPac|永豐銀行|sinopac,永豐銀行,永豐

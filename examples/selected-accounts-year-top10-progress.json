@@ -9563,10 +9563,18 @@
           "shortcode": "DFKuNb4z_a6",
           "url": "https://www.instagram.com/whitelightmotion/p/DFKuNb4z_a6/",
           "published_at": "2025-01-23T12:07:52.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DFKuNb4z_a6-1"
-          ]
+            "selectedyear-DFKuNb4z_a6-1",
+            "selectedyear-DFKuNb4z_a6-2",
+            "selectedyear-DFKuNb4z_a6-3",
+            "selectedyear-DFKuNb4z_a6-4",
+            "selectedyear-DFKuNb4z_a6-5",
+            "selectedyear-DFKuNb4z_a6-6",
+            "selectedyear-DFKuNb4z_a6-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

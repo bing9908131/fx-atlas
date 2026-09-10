@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2051,
+  "total": 2058,
   "unclassified": 0,
   "counts": {
-    "graphic": 399,
-    "product": 748,
+    "graphic": 404,
+    "product": 753,
     "organic": 426,
     "geometric": 823,
     "scifi": 291,
@@ -712,6 +712,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "6.30秒機身Formlabs字樣；10.41、11.04秒灰色粉末床及橘色發光部件；17.04秒整機，19.14秒外殼升起分離，22.01秒透明外框內的多層零件展示；24.41秒細光束穿過光學機構，27.16秒粉末床可見亮點軌跡與重複深色圖案；29.04秒容量刻度。確認外殼拆解與雷射掃描呈現，不將加熱光誤標為火焰、不將列印誤標為CNC切削。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第1張觀察：銀白信用卡斜置於淡紫空間，背景及卡面有彩虹色光帶；可讀永豐銀行、DAWAY、VISA Signature。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
           ],
           "matched_tags": []
         }
@@ -2054,6 +2071,144 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第6張為多頁作品拼貼，能辨識多層圓弧、放射扇形、球形與平滑金屬曲面；與第5張攤開書本不同，畫面大部分直接展示CG作品。作者指明兩組為Taipei Design Award 2023與第34屆金曲獎。靜態圖僅標記液滴造型，不標液體流動、擴散、堆疊動作或布料模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第2張觀察：信用卡以另一斜角呈現，地面可見放射白色光芒和細小亮點。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第3張觀察：紫銀色筆電中顯示DAWAY信用卡網站主視覺，背景為柔和光譜場景。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第3張觀察：紫銀色筆電中顯示DAWAY信用卡網站主視覺，背景為柔和光譜場景。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第4張觀察：正面筆電展示人物持購物袋的品牌網站頁面，外部有淡紫反射場景。人物是頁面中的攝影素材，不判為CG角色。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第4張觀察：正面筆電展示人物持購物袋的品牌網站頁面，外部有淡紫反射場景。人物是頁面中的攝影素材，不判為CG角色。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第5張觀察：六格CG圖示包含飲料杯、串燒、定位點、P字代幣、放大鏡及手提包，均為透明折射外觀。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第5張觀察：六格CG圖示包含飲料杯、串燒、定位點、P字代幣、放大鏡及手提包，均為透明折射外觀。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第6張觀察：中央手機比例的透明社群介面與周圍圖卡展示相同玻璃感生活圖示。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFKuNb4z_a6-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張開啟七張轮播；第7張觀察：右側為帶虹彩金屬光澤的DAWAY立體字標及放射光，左側是灰紫及青藍品牌色票。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
           ],
           "matched_tags": []
         }
