@@ -3485,7 +3485,7 @@
           "shortcode": "DdEcLt1iELE",
           "url": "https://www.instagram.com/found_studio/p/DdEcLt1iELE/",
           "published_at": "2026-09-09T14:08:21.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEcLt1iELE-1"
           ]
@@ -3494,7 +3494,7 @@
           "shortcode": "Dc_U2HZCPlU",
           "url": "https://www.instagram.com/found_studio/p/Dc_U2HZCPlU/",
           "published_at": "2026-09-07T14:28:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_U2HZCPlU-1"
           ]
@@ -3516,7 +3516,7 @@
           "shortcode": "DdBWecYuE8Y",
           "url": "https://www.instagram.com/fra_motion_design/reel/DdBWecYuE8Y/",
           "published_at": "2026-09-08T09:24:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdBWecYuE8Y-1"
           ]
@@ -3525,7 +3525,7 @@
           "shortcode": "Dcx9dibBgE4",
           "url": "https://www.instagram.com/fra_motion_design/reel/Dcx9dibBgE4/",
           "published_at": "2026-09-02T10:01:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcx9dibBgE4-1"
           ]
@@ -3547,7 +3547,7 @@
           "shortcode": "DdCPrI0sVlm",
           "url": "https://www.instagram.com/frame.48/reel/DdCPrI0sVlm/",
           "published_at": "2026-09-08T17:41:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdCPrI0sVlm-1"
           ]
@@ -3556,7 +3556,7 @@
           "shortcode": "Dc38zqBhcfW",
           "url": "https://www.instagram.com/frame.48/reel/Dc38zqBhcfW/",
           "published_at": "2026-09-04T17:43:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc38zqBhcfW-1"
           ]
@@ -3578,7 +3578,7 @@
           "shortcode": "DaSvO2hITdz",
           "url": "https://www.instagram.com/francesco.m.lucini/reel/DaSvO2hITdz/",
           "published_at": "2026-07-02T13:50:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaSvO2hITdz-1"
           ]
@@ -3587,7 +3587,7 @@
           "shortcode": "DTh7axPCEjy",
           "url": "https://www.instagram.com/francesco.m.lucini/reel/DTh7axPCEjy/",
           "published_at": "2026-01-15T11:54:09.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTh7axPCEjy-1"
           ]
@@ -3603,50 +3603,165 @@
     {
       "handle": "frankbell.co",
       "url": "https://www.instagram.com/frankbell.co/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcv6fRZET08",
+          "url": "https://www.instagram.com/frankbell.co/p/Dcv6fRZET08/",
+          "published_at": "2026-09-01T14:49:07.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions identify real Chicago street/architecture photography; no CG reference.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcTaysfEVlj",
+          "url": "https://www.instagram.com/frankbell.co/p/DcTaysfEVlj/",
+          "published_at": "2026-08-21T13:13:25.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions identify real Chicago street/architecture photography; no CG reference.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcv6fRZET08",
+        "DcTaysfEVlj"
+      ],
+      "latest_two_selection_evidence": "Newest pinned September 1 2026 and first unpinned August 21 2026 selected; other pinned July 1 2020 older."
     },
     {
       "handle": "friedrich.neumann",
       "url": "https://www.instagram.com/friedrich.neumann/",
-      "status": "pending_latest_two_selection",
+      "status": "manual_grid_order_review_required",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Grid without pin markers out of chronology: first DVjLA-6CAN7 March 6 2026 profile alt; second CPD3NPFomJ1 May 19 2021 exact time; third DUnwYw0CIOe February 11 2026 exact time; requires broader review."
     },
     {
       "handle": "futuredeluxe",
       "url": "https://www.instagram.com/futuredeluxe/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcQ9bFfjKyQ",
+          "url": "https://www.instagram.com/futuredeluxe/p/DcQ9bFfjKyQ/",
+          "published_at": "2026-08-20T14:18:18.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcQ9bFfjKyQ-1"
+          ]
+        },
+        {
+          "shortcode": "Db-9tP6CBTW",
+          "url": "https://www.instagram.com/futuredeluxe/p/Db-9tP6CBTW/",
+          "published_at": "2026-08-13T14:34:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db-9tP6CBTW-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcQ9bFfjKyQ",
+        "Db-9tP6CBTW"
+      ],
+      "latest_two_selection_evidence": "No pinned markers; latest original dates August 20 and August 13 2026 checked. Red Study mixed techniques requires full media analysis; Sonos actual client credited."
     },
     {
       "handle": "fvckrender",
       "url": "https://www.instagram.com/fvckrender/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEgtLAuoOB",
+          "url": "https://www.instagram.com/fvckrender/reel/DdEgtLAuoOB/",
+          "published_at": "2026-09-09T14:48:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEgtLAuoOB-1"
+          ]
+        },
+        {
+          "shortcode": "Dc_4Ywvj1pH",
+          "url": "https://www.instagram.com/fvckrender/p/Dc_4Ywvj1pH/",
+          "published_at": "2026-09-07T19:38:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_4Ywvj1pH-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEgtLAuoOB",
+        "Dc_4Ywvj1pH"
+      ],
+      "latest_two_selection_evidence": "Latest observed non-pinned September 9 and September 7 2026; five pins June 5 2026, June 25 2026, July 10 2024, May 19 2024, July 22 2023 checked via profile dates or post times. Inner Echo render/physical distinction still pending."
     },
     {
       "handle": "fwiedel",
       "url": "https://www.instagram.com/fwiedel/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaAoqJ_i8NV",
+          "url": "https://www.instagram.com/fwiedel/reel/DaAoqJ_i8NV/",
+          "published_at": "2026-06-25T13:07:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaAoqJ_i8NV-1"
+          ]
+        },
+        {
+          "shortcode": "DZuQPu9Ajo3",
+          "url": "https://www.instagram.com/fwiedel/p/DZuQPu9Ajo3/",
+          "published_at": "2026-06-18T09:46:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZuQPu9Ajo3-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaAoqJ_i8NV",
+        "DZuQPu9Ajo3"
+      ],
+      "latest_two_selection_evidence": "Pinned December 30 2025 checked; latest two June 25 and June 18 2026 checked."
     },
     {
       "handle": "ge.iiid",
       "url": "https://www.instagram.com/ge.iiid/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "CgIURwqhGAq",
+          "url": "https://www.instagram.com/ge.iiid/reel/CgIURwqhGAq/",
+          "published_at": "2022-07-17T22:21:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CgIURwqhGAq-1"
+          ]
+        },
+        {
+          "shortcode": "CfkCBilBtV7",
+          "url": "https://www.instagram.com/ge.iiid/reel/CfkCBilBtV7/",
+          "published_at": "2022-07-03T20:09:16.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CfkCBilBtV7-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "CgIURwqhGAq",
+        "CfkCBilBtV7"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six grid entries; first two original dates July 17 and July 3 2022 checked. Current latest-two policy has no year cutoff."
     },
     {
       "handle": "gene_jiang",
@@ -5177,8 +5292,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 167,
-  "imported_media": 168,
+  "imported_posts": 175,
+  "imported_media": 176,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
