@@ -8905,19 +8905,23 @@
           "shortcode": "DMqNtoioCNA",
           "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMqNtoioCNA/",
           "published_at": "2025-07-28T17:20:12.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DMqNtoioCNA-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DMIub1Sodxy",
           "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMIub1Sodxy/",
           "published_at": "2025-07-15T17:11:52.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DMIub1Sodxy-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8937,10 +8941,20 @@
           "shortcode": "Dcgv0BziFqr",
           "url": "https://www.instagram.com/thomas_dubois_art/p/Dcgv0BziFqr/",
           "published_at": "2026-08-26T17:27:13.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dcgv0BziFqr-1"
-          ]
+            "selectedyear-Dcgv0BziFqr-1",
+            "selectedyear-Dcgv0BziFqr-2",
+            "selectedyear-Dcgv0BziFqr-3",
+            "selectedyear-Dcgv0BziFqr-4",
+            "selectedyear-Dcgv0BziFqr-5",
+            "selectedyear-Dcgv0BziFqr-6",
+            "selectedyear-Dcgv0BziFqr-7",
+            "selectedyear-Dcgv0BziFqr-8",
+            "selectedyear-Dcgv0BziFqr-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Db_AtvTCMiO",

@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2128,
+  "total": 2139,
   "unclassified": 0,
   "counts": {
-    "graphic": 430,
-    "product": 767,
+    "graphic": 431,
+    "product": 768,
     "organic": 455,
     "geometric": 833,
-    "scifi": 296,
+    "scifi": 306,
     "effects": 136
   },
   "fallback_count": 194,
@@ -1157,6 +1157,69 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "仰角穿過彎曲排列的綠色植栽柱與培育燈，2.119和2.272前景葉片及燈具構圖略移。只確認運鏡，不把彎曲的靜態造型標生長或扭轉。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DMqNtoioCNA-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.673成片綠色機器人與人物腿部；16.653實拍訪談；25.448橘貓毛髮近景；33.159毛髮工具介面，46.333貓與機器人成片。保留獨立CG成片參考，訪談人物不列入物件標籤。觀察到不同鏡頭但不足確認特定角色動作，沒有套用毛髮飄動、成長等動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.673成片綠色機器人與人物腿部；16.653實拍訪談；25.448橘貓毛髮近景；33.159毛髮工具介面，46.333貓與機器人成片。保留獨立CG成片參考，訪談人物不列入物件標籤。觀察到不同鏡頭但不足確認特定角色動作，沒有套用毛髮飄動、成長等動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DMIub1Sodxy-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "7.351車輛駛過住宅車庫前，9.226住宅背景掠過；16.368街道跟拍中輪圈旋轉模糊；25.535車尾X2字標清楚；34.817片尾明確標出THE X1及THE X2。實際觀察行駛與輪轉；車庫揭幕和Houdini葉片模擬僅依作者說明放caption來源，未當作已看清的葉片動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "全景包含多層外掛梯、平台人物、右侧旅館招牌及黃窗光，濃青綠霧景。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
           ],
           "matched_tags": []
         }
@@ -3903,6 +3966,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.010與2.130為高聳平行栽培架與培育燈的仰視，鏡頭沿中軸前進，幾何透視略改變。第十項沒有下一步，十個媒體均為影片且逐項看過。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-2",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "裁切近景聚焦右上平台人物與豎梯，左側大面積青綠霧景；沒有完整旅館招牌，不繼承其標籤。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-3",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "近景突出斜向梯架、窗框與AMOUR文字燈牌，深綠色調；平台人物不在這張。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-4",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "同張四格依序顯示灰棕底稿、青色版本、加入招牌、綠色完成稿；屬靜態比較，不將階段差別當成動態。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-5",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "灰棕背景、深色建築及白色走廊燈，沒有完成稿的霓虹招牌與青綠主色。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-6",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "灰青背景與平台人物，白走廊燈和小黃窗，尚未加入直式霓虹招牌。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-7",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "深青色霧景加入AMOUR HOTEL霓虹招牌、人物剪影與多色窗光。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-8",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "較亮青綠色霧景與完整招牌窗光，沒有最後版本底部字幕。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgv0BziFqr-9",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "最終圖含底部英文字幕及較強青綠色背景，與首項相同構圖；仍按媒體索引保留。末項沒有下一步，共九張。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
           ],
           "matched_tags": []
         }
