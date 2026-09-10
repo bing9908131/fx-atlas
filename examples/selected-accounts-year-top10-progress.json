@@ -5659,7 +5659,7 @@
           "shortcode": "DPCUKodka2K",
           "url": "https://www.instagram.com/markfancherfx/reel/DPCUKodka2K/",
           "published_at": "2025-09-25T19:00:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DPCUKodka2K-1"
           ]
@@ -5668,7 +5668,7 @@
           "shortcode": "DO6YIEqjTES",
           "url": "https://www.instagram.com/markfancherfx/reel/DO6YIEqjTES/",
           "published_at": "2025-09-22T17:00:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DO6YIEqjTES-1"
           ]
@@ -5690,7 +5690,7 @@
           "shortcode": "DZF16pKyBet",
           "url": "https://www.instagram.com/remotiondesign/reel/DZF16pKyBet/",
           "published_at": "2026-06-02T17:07:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZF16pKyBet-1"
           ]
@@ -5699,7 +5699,7 @@
           "shortcode": "DYzWevYIvAr",
           "url": "https://www.instagram.com/markusgonser3d/reel/DYzWevYIvAr/",
           "published_at": "2026-05-26T12:54:54.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYzWevYIvAr-1"
           ]
@@ -5721,7 +5721,7 @@
           "shortcode": "DbI14N4jT4S",
           "url": "https://www.instagram.com/masd.lab/p/DbI14N4jT4S/",
           "published_at": "2026-07-23T14:07:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbI14N4jT4S-1"
           ]
@@ -5730,7 +5730,7 @@
           "shortcode": "DadNLJNjU3y",
           "url": "https://www.instagram.com/masd.lab/p/DadNLJNjU3y/",
           "published_at": "2026-07-06T15:24:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DadNLJNjU3y-1"
           ]
@@ -5746,34 +5746,123 @@
     {
       "handle": "mathias_lynge",
       "url": "https://www.instagram.com/mathias_lynge/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEQ6H0oWzS",
+          "url": "https://www.instagram.com/mathias_lynge/reel/DdEQ6H0oWzS/",
+          "published_at": "2026-09-09T12:33:14.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEQ6H0oWzS-1"
+          ]
+        },
+        {
+          "shortcode": "DcLPYd6otEx",
+          "url": "https://www.instagram.com/mathias_lynge/reel/DcLPYd6otEx/",
+          "published_at": "2026-08-18T09:00:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcLPYd6otEx-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEQ6H0oWzS",
+        "DcLPYd6otEx"
+      ],
+      "latest_two_selection_evidence": "Three pins dated 2026-07-27T09:38:02.000Z, 2025-05-08T07:00:00.000Z, 2025-02-05T14:46:13.000Z; latest unpinned Sept 9 and Aug 18 2026 verified. Latest visibly demonstrates digitally animated parrot, not a text-only course announcement."
     },
     {
       "handle": "matthewcustar",
       "url": "https://www.instagram.com/matthewcustar/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DIUMPL4SnpL",
+          "url": "https://www.instagram.com/matthewcustar/p/DIUMPL4SnpL/",
+          "published_at": "2025-04-11T17:57:35.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "印刷雜誌實拍，非 CG 媒體。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DINBj4_y5KR",
+          "url": "https://www.instagram.com/matthewcustar/p/DINBj4_y5KR/",
+          "published_at": "2025-04-08T23:09:37.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "靜態編輯插畫，未展示 CG 動態或模擬。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DIUMPL4SnpL",
+        "DINBj4_y5KR"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; first two publication timestamps read. Magazine photograph and static editorial illustration excluded."
     },
     {
       "handle": "maximeroz",
       "url": "https://www.instagram.com/maximeroz/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DVOX92tDBNM",
+          "url": "https://www.instagram.com/kulianu/reel/DVOX92tDBNM/",
+          "published_at": "2026-02-26T14:39:12.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVOX92tDBNM-1"
+          ]
+        },
+        {
+          "shortcode": "C5QV-34NnhL",
+          "url": "https://www.instagram.com/maximeroz/p/C5QV-34NnhL/",
+          "published_at": "2024-04-02T10:14:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C5QV-34NnhL-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DVOX92tDBNM",
+        "C5QV-34NnhL"
+      ],
+      "latest_two_selection_evidence": "Pin dated 2022-12-21T13:44:47.000Z; latest unpinned dates Feb 26 2026 and Apr 2 2024 verified. S1 mixed product film requires visual CG validation; Mugler credited XK Studio commercial work."
     },
     {
       "handle": "maximkroft",
       "url": "https://www.instagram.com/maximkroft/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db5_KhxRV5m",
+          "url": "https://www.instagram.com/maximkroft/reel/Db5_KhxRV5m/",
+          "published_at": "2026-08-11T16:15:15.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "網格工具開發測試，帶 Prada 標籤但未見品牌委託或採用證據。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DbWG77zxvFJ",
+          "url": "https://www.instagram.com/maximkroft/reel/DbWG77zxvFJ/",
+          "published_at": "2026-07-28T22:30:48.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbWG77zxvFJ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db5_KhxRV5m",
+        "DbWG77zxvFJ"
+      ],
+      "latest_two_selection_evidence": "Three pinned original dates 2025-04-25T15:52:19.000Z, 2026-07-21T12:17:35.000Z, 2025-11-20T22:07:36.000Z; latest posts Aug 11 and Jul 28 2026. Excluded branded tool test, retained generic typography generation tool pending motion review."
     },
     {
       "handle": "maxonredshift",
@@ -6736,9 +6825,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 266,
-  "imported_media": 267,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 271,
+  "imported_media": 272,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
