@@ -1168,50 +1168,184 @@
     {
       "handle": "amr_render",
       "url": "https://www.instagram.com/amr_render/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYhjUCiJeg2",
+          "url": "https://www.instagram.com/amr_render/reel/DYhjUCiJeg2/",
+          "published_at": "2026-05-19T14:53:01.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYhjUCiJeg2-1"
+          ]
+        },
+        {
+          "shortcode": "Crs45T-B323",
+          "url": "https://www.instagram.com/amr_render/reel/Crs45T-B323/",
+          "published_at": "2023-05-01T12:59:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Crs45T-B323-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYhjUCiJeg2",
+        "Crs45T-B323"
+      ],
+      "latest_two_selection_evidence": "Pinned posts dated February 11 2023 and June 6 2021; unpinned latest dates May 19 2026 and May 1 2023."
     },
     {
       "handle": "andreiwarren",
       "url": "https://www.instagram.com/andreiwarren/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DU8bEKxjdxS",
+          "url": "https://www.instagram.com/andreiwarren/p/DU8bEKxjdxS/",
+          "published_at": "2026-02-19",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DU8bEKxjdxS-1"
+          ]
+        },
+        {
+          "shortcode": "DT5UuiljZl8",
+          "url": "https://www.instagram.com/andreiwarren/p/DT5UuiljZl8/",
+          "published_at": "2026-01-24",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DT5UuiljZl8-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DU8bEKxjdxS",
+        "DT5UuiljZl8"
+      ],
+      "latest_two_selection_evidence": "Profile image accessibility text provides dates February 19 and January 24 2026. Pinned first post dated July 22 2020."
     },
     {
       "handle": "andrewkramer",
       "url": "https://www.instagram.com/andrewkramer/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DSqbgeMCYNX",
+          "url": "https://www.instagram.com/andrewkramer/p/DSqbgeMCYNX/",
+          "published_at": "2025-12-24",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DSqbgeMCYNX-1"
+          ]
+        },
+        {
+          "shortcode": "CmkmTPgJ9rm",
+          "url": "https://www.instagram.com/andrewkramer/p/CmkmTPgJ9rm/",
+          "published_at": "2022-12-24",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CmkmTPgJ9rm-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DSqbgeMCYNX",
+        "CmkmTPgJ9rm"
+      ],
+      "latest_two_selection_evidence": "No pinned icon. Dates from visible profile image accessibility descriptions: December 24 2025 and December 24 2022."
     },
     {
       "handle": "antar.gd",
       "url": "https://www.instagram.com/antar.gd/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "DdETMSkip2E",
+          "url": "https://www.instagram.com/antar.gd/p/DdETMSkip2E/",
+          "published_at": "2026-09-09",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile screenshot: static illustrated monster poster with large typography; no CG render or motion effect.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdBukEvCs1s",
+          "url": "https://www.instagram.com/antar.gd/p/DdBukEvCs1s/",
+          "published_at": "2026-09-08",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed individual post screenshot: static green engraved bird illustration and typography poster, no CG render or motion effect.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdETMSkip2E",
+        "DdBukEvCs1s"
+      ],
+      "latest_two_selection_evidence": "Two pinned posts dated April 18 and July 22 2026. Latest two unpinned dated September 9 and September 8 2026 in profile accessibility text."
     },
     {
       "handle": "archillect",
       "url": "https://www.instagram.com/archillect/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "Cu2TD1jKTOm",
+          "url": "https://www.instagram.com/archillect/p/Cu2TD1jKTOm/",
+          "published_at": "2023-07-18",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile screenshot: natural mountain and water landscape photograph; no visible CG effect.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Cu13lmbqrLd",
+          "url": "https://www.instagram.com/archillect/p/Cu13lmbqrLd/",
+          "published_at": "2023-07-18",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile screenshot: street restaurant storefront photograph, no visible CG effect.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Cu2TD1jKTOm",
+        "Cu13lmbqrLd"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest two profile entries dated July 18 2023."
     },
     {
       "handle": "art.gadzhiev",
       "url": "https://www.instagram.com/art.gadzhiev/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc3wB2RiLSA",
+          "url": "https://www.instagram.com/w1curates/p/Dc3wB2RiLSA/",
+          "published_at": "2026-09-04",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3wB2RiLSA-1"
+          ]
+        },
+        {
+          "shortcode": "DXt3dK5jHIb",
+          "url": "https://www.instagram.com/art.gadzhiev/reel/DXt3dK5jHIb/",
+          "published_at": "2026-04-29T13:12:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXt3dK5jHIb-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc3wB2RiLSA",
+        "DXt3dK5jHIb"
+      ],
+      "latest_two_selection_evidence": "Pinned Soul reflections dated December 1 2022. Latest unpinned September 4 2026 from profile dated alt; second April 29 2026 read on post."
     },
     {
       "handle": "art.of.styleframe",
@@ -3390,8 +3524,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 34,
-  "imported_media": 35,
+  "imported_posts": 42,
+  "imported_media": 43,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
