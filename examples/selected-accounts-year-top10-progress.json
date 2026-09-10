@@ -3361,7 +3361,7 @@
           "shortcode": "DbX_1-dDZgF",
           "url": "https://www.instagram.com/firstovalexey/p/DbX_1-dDZgF/",
           "published_at": "2026-07-29T11:22:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbX_1-dDZgF-1"
           ]
@@ -3370,7 +3370,7 @@
           "shortcode": "DagDd0jjZcB",
           "url": "https://www.instagram.com/firstovalexey/p/DagDd0jjZcB/",
           "published_at": "2026-07-07T17:56:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DagDd0jjZcB-1"
           ]
@@ -3392,7 +3392,7 @@
           "shortcode": "DP1dgxMDA4u",
           "url": "https://www.instagram.com/abra_network/reel/DP1dgxMDA4u/",
           "published_at": "2025-10-15T15:51:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DP1dgxMDA4u-1"
           ]
@@ -3401,7 +3401,7 @@
           "shortcode": "DOHIkxMiNfu",
           "url": "https://www.instagram.com/abloalbo/reel/DOHIkxMiNfu/",
           "published_at": "2025-09-02T19:39:42.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DOHIkxMiNfu-1"
           ]
@@ -3423,7 +3423,7 @@
           "shortcode": "C2ednr2gvQo",
           "url": "https://www.instagram.com/flojuri/reel/C2ednr2gvQo/",
           "published_at": "2024-01-24T08:49:01.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C2ednr2gvQo-1"
           ]
@@ -3432,7 +3432,7 @@
           "shortcode": "C2P9O5XReOb",
           "url": "https://www.instagram.com/zachdarren/p/C2P9O5XReOb/",
           "published_at": "2024-01-18T17:04:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C2P9O5XReOb-1"
           ]
@@ -3454,7 +3454,7 @@
           "shortcode": "DYVRjv5jfxs",
           "url": "https://www.instagram.com/fluentstudio/p/DYVRjv5jfxs/",
           "published_at": "2026-05-14T20:25:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYVRjv5jfxs-1"
           ]
@@ -3463,7 +3463,7 @@
           "shortcode": "DXeRW6UjX9n",
           "url": "https://www.instagram.com/fluentstudio/p/DXeRW6UjX9n/",
           "published_at": "2026-04-23T11:45:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DXeRW6UjX9n-1"
           ]
@@ -3479,34 +3479,126 @@
     {
       "handle": "found_studio",
       "url": "https://www.instagram.com/found_studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEcLt1iELE",
+          "url": "https://www.instagram.com/found_studio/p/DdEcLt1iELE/",
+          "published_at": "2026-09-09T14:08:21.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEcLt1iELE-1"
+          ]
+        },
+        {
+          "shortcode": "Dc_U2HZCPlU",
+          "url": "https://www.instagram.com/found_studio/p/Dc_U2HZCPlU/",
+          "published_at": "2026-09-07T14:28:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_U2HZCPlU-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEcLt1iELE",
+        "Dc_U2HZCPlU"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six entries; latest original dates September 9 and September 7 2026 checked. Mixed photography/3D material experiment; media-level separation pending."
     },
     {
       "handle": "fra_motion_design",
       "url": "https://www.instagram.com/fra_motion_design/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdBWecYuE8Y",
+          "url": "https://www.instagram.com/fra_motion_design/reel/DdBWecYuE8Y/",
+          "published_at": "2026-09-08T09:24:10.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBWecYuE8Y-1"
+          ]
+        },
+        {
+          "shortcode": "Dcx9dibBgE4",
+          "url": "https://www.instagram.com/fra_motion_design/reel/Dcx9dibBgE4/",
+          "published_at": "2026-09-02T10:01:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcx9dibBgE4-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdBWecYuE8Y",
+        "Dcx9dibBgE4"
+      ],
+      "latest_two_selection_evidence": "Pinned May 28 2026 checked; latest original dates September 8 and September 2 2026 checked."
     },
     {
       "handle": "frame.48",
       "url": "https://www.instagram.com/frame.48/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCPrI0sVlm",
+          "url": "https://www.instagram.com/frame.48/reel/DdCPrI0sVlm/",
+          "published_at": "2026-09-08T17:41:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdCPrI0sVlm-1"
+          ]
+        },
+        {
+          "shortcode": "Dc38zqBhcfW",
+          "url": "https://www.instagram.com/frame.48/reel/Dc38zqBhcfW/",
+          "published_at": "2026-09-04T17:43:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc38zqBhcfW-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCPrI0sVlm",
+        "Dc38zqBhcfW"
+      ],
+      "latest_two_selection_evidence": "Pinned May 5 2026 checked; latest dates September 8 and September 4 2026 checked."
     },
     {
       "handle": "francesco.m.lucini",
       "url": "https://www.instagram.com/francesco.m.lucini/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaSvO2hITdz",
+          "url": "https://www.instagram.com/francesco.m.lucini/reel/DaSvO2hITdz/",
+          "published_at": "2026-07-02T13:50:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaSvO2hITdz-1"
+          ]
+        },
+        {
+          "shortcode": "DTh7axPCEjy",
+          "url": "https://www.instagram.com/francesco.m.lucini/reel/DTh7axPCEjy/",
+          "published_at": "2026-01-15T11:54:09.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DTh7axPCEjy-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaSvO2hITdz",
+        "DTh7axPCEjy"
+      ],
+      "latest_two_selection_evidence": "Latest unpinned July 2 and January 15 2026 checked. All three pinned April 15 2024 (two exact post times, third profile alt)."
     },
     {
       "handle": "frankbell.co",
@@ -5085,8 +5177,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 159,
-  "imported_media": 160,
+  "imported_posts": 167,
+  "imported_media": 168,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
