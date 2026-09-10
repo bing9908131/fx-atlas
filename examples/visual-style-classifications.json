@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2148,
+  "total": 2149,
   "unclassified": 0,
   "counts": {
-    "graphic": 440,
-    "product": 768,
+    "graphic": 441,
+    "product": 769,
     "organic": 455,
     "geometric": 833,
     "scifi": 306,
@@ -1237,6 +1237,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張查看輪播第1/9張：紅黑衣女性武士手持刀劍站在工業室內，綠灰牆面與金屬橫樑，白色日光燈，樑上紅色血跡。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ61O9oIGtn-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片11.624999秒。1.539712嵌套方框呈現斜視透明四圓錶盤；4.17408正面近景橘色數字只有下方清楚發亮；5.011618四組數字全部發亮且產品輪廓略縮小，確認亮度變化與鏡頭拉遠。5.677895切換手持展示，9.343495置於木桌書本旁。畫面中央四葉圖形及畫框構成平面設計疊加。沒有觀察到足以判斷流體、爆破或組裝的動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片11.624999秒。1.539712嵌套方框呈現斜視透明四圓錶盤；4.17408正面近景橘色數字只有下方清楚發亮；5.011618四組數字全部發亮且產品輪廓略縮小，確認亮度變化與鏡頭拉遠。5.677895切換手持展示，9.343495置於木桌書本旁。畫面中央四葉圖形及畫框構成平面設計疊加。沒有觀察到足以判斷流體、爆破或組裝的動態。"
           ],
           "matched_tags": []
         }
