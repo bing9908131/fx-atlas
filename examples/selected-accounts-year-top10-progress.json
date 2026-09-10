@@ -5414,7 +5414,7 @@
           "shortcode": "Cvh4XaiNUkh",
           "url": "https://www.instagram.com/loudsqueak/reel/Cvh4XaiNUkh/",
           "published_at": "2023-08-04T16:37:42.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Cvh4XaiNUkh-1"
           ]
@@ -5423,7 +5423,7 @@
           "shortcode": "CuuUlSWso2m",
           "url": "https://www.instagram.com/loudsqueak/reel/CuuUlSWso2m/",
           "published_at": "2023-07-15T16:00:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CuuUlSWso2m-1"
           ]
@@ -5445,7 +5445,7 @@
           "shortcode": "DQvxI1Kkwok",
           "url": "https://www.instagram.com/lucas_piazzini/reel/DQvxI1Kkwok/",
           "published_at": "2025-11-07T07:10:59.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DQvxI1Kkwok-1"
           ]
@@ -5475,7 +5475,7 @@
           "shortcode": "DcyZsh4Rf-c",
           "url": "https://www.instagram.com/lucas_zanotto/reel/DcyZsh4Rf-c/",
           "published_at": "2026-09-02T14:00:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcyZsh4Rf-c-1"
           ]
@@ -5484,7 +5484,7 @@
           "shortcode": "DcQ7Yu5xdOb",
           "url": "https://www.instagram.com/lucas_zanotto/reel/DcQ7Yu5xdOb/",
           "published_at": "2026-08-20T14:00:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcQ7Yu5xdOb-1"
           ]
@@ -5506,7 +5506,7 @@
           "shortcode": "Dcfu_ecBICc",
           "url": "https://www.instagram.com/sp1ll/reel/Dcfu_ecBICc/",
           "published_at": "2026-08-26T08:00:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcfu_ecBICc-1"
           ]
@@ -5515,7 +5515,7 @@
           "shortcode": "DcX9J5CB5t5",
           "url": "https://www.instagram.com/sp1ll/reel/DcX9J5CB5t5/",
           "published_at": "2026-08-23T07:30:07.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcX9J5CB5t5-1"
           ]
@@ -5531,34 +5531,124 @@
     {
       "handle": "mad.dog.jones",
       "url": "https://www.instagram.com/mad.dog.jones/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZkkdE7xdqS",
+          "url": "https://www.instagram.com/mad.dog.jones/reel/DZkkdE7xdqS/",
+          "published_at": "2026-06-14T15:36:38.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Ferrari／Lewis Hamilton 慶祝插畫，未見品牌採用或委託證據。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DZkkEEARiXf",
+          "url": "https://www.instagram.com/mad.dog.jones/p/DZkkEEARiXf/",
+          "published_at": "2026-06-14T15:28:42.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Ferrari／Lewis Hamilton 慶祝插畫，未見品牌採用或委託證據。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZkkdE7xdqS",
+        "DZkkEEARiXf"
+      ],
+      "latest_two_selection_evidence": "Pinned dates March 25 2026, Oct 24 2025, 2025-08-01T16:44:39.000Z; latest two June 14 2026 original timestamps read. Excluded unverified branded tribute work."
     },
     {
       "handle": "man.vs.machine",
       "url": "https://www.instagram.com/man.vs.machine/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc3iQ76I9kY",
+          "url": "https://www.instagram.com/man.vs.machine/reel/Dc3iQ76I9kY/",
+          "published_at": "2026-09-04T13:52:26.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "bulk500-Dc3iQ76I9kY"
+          ]
+        },
+        {
+          "shortcode": "Dcgp4beIfpd",
+          "url": "https://www.instagram.com/man.vs.machine/reel/Dcgp4beIfpd/",
+          "published_at": "2026-08-26T16:36:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcgp4beIfpd-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc3iQ76I9kY",
+        "Dcgp4beIfpd"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; first two original publication dates verified. Studio explicitly identifies Microsoft and Canva commissioned work."
     },
     {
       "handle": "manonlouart",
       "url": "https://www.instagram.com/manonlouart/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc8uuOaIIJv",
+          "url": "https://www.instagram.com/manonlouart/reel/Dc8uuOaIIJv/",
+          "published_at": "2026-09-06T14:18:21.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc8uuOaIIJv-1"
+          ]
+        },
+        {
+          "shortcode": "DcGpKLbIvVX",
+          "url": "https://www.instagram.com/manonlouart/reel/DcGpKLbIvVX/",
+          "published_at": "2026-08-16T14:12:10.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcGpKLbIvVX-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc8uuOaIIJv",
+        "DcGpKLbIvVX"
+      ],
+      "latest_two_selection_evidence": "Three pins individually dated 2025-11-23T15:28:23.000Z, 2024-11-17T17:15:50.000Z, 2024-06-02T15:36:31.000Z; latest unpinned Sept 6 and Aug 16 2026 individually verified. Graphic motion review pending."
     },
     {
       "handle": "mariannesanche",
       "url": "https://www.instagram.com/mariannesanche/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DczCCtHms82",
+          "url": "https://www.instagram.com/mariannesanche/p/DczCCtHms82/",
+          "published_at": "2026-09-02T19:52:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DczCCtHms82-1"
+          ]
+        },
+        {
+          "shortcode": "Dcgsyyoim0H",
+          "url": "https://www.instagram.com/mariannesanche/reel/Dcgsyyoim0H/",
+          "published_at": "2026-08-29T13:50:15.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcgsyyoim0H-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DczCCtHms82",
+        "Dcgsyyoim0H"
+      ],
+      "latest_two_selection_evidence": "First six profile posts have no pins; first two original timestamps verified. Describes Fuser assets in Unreal Engine, tool-assisted workflow preserved without pretending traditional simulation."
     },
     {
       "handle": "markfancherfx",
@@ -6577,9 +6667,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 255,
-  "imported_media": 256,
-  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 260,
+  "imported_media": 261,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
