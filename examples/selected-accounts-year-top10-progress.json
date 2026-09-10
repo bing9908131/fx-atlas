@@ -7466,7 +7466,7 @@
           "shortcode": "DXJRE7lDM0j",
           "url": "https://www.instagram.com/sartakov_cg/reel/DXJRE7lDM0j/",
           "published_at": "2026-04-15T08:01:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DXJRE7lDM0j-1"
           ]
@@ -7475,7 +7475,7 @@
           "shortcode": "DBYJQEINPc6",
           "url": "https://www.instagram.com/sartakov_cg/reel/DBYJQEINPc6/",
           "published_at": "2024-10-21T07:12:17.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DBYJQEINPc6-1"
           ]
@@ -7491,18 +7491,64 @@
     {
       "handle": "sava.zivkovic",
       "url": "https://www.instagram.com/sava.zivkovic/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYXP7YeiAKw",
+          "url": "https://www.instagram.com/sava.zivkovic/p/DYXP7YeiAKw/",
+          "published_at": "2026-05-15T14:50:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYXP7YeiAKw-1"
+          ]
+        },
+        {
+          "shortcode": "DYSGXbeiEIG",
+          "url": "https://www.instagram.com/sava.zivkovic/p/DYSGXbeiEIG/",
+          "published_at": "2026-05-13T14:54:50.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYSGXbeiEIG-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYXP7YeiAKw",
+        "DYSGXbeiEIG"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts dated May 15 and May 13 2026; original dates read. Author identifies Metro 2039 CGI stills; game studio 4agames publicly comments on work."
     },
     {
       "handle": "seb_scribbles",
       "url": "https://www.instagram.com/seb_scribbles/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C2z0vj-NTDk",
+          "url": "https://www.instagram.com/diss_embargo/reel/C2z0vj-NTDk/",
+          "published_at": "2024-02-01T15:25:23.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C2z0vj-NTDk-1"
+          ]
+        },
+        {
+          "shortcode": "CzmDcxnNl1p",
+          "url": "https://www.instagram.com/seb_scribbles/p/CzmDcxnNl1p/",
+          "published_at": "2023-11-13T17:27:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CzmDcxnNl1p-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C2z0vj-NTDk",
+        "CzmDcxnNl1p"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts, original dates read. First visibly CG montage, second states work with agency Zag for EE; commissioned exploration distinguished from uncommissioned spec. Brand-use confirmation still pending."
     },
     {
       "handle": "sebastian_jelic",
@@ -8017,9 +8063,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 341,
-  "imported_media": 342,
-  "last_check_note": "Latest-two intake: 2 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 345,
+  "imported_media": 346,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
