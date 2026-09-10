@@ -1,0 +1,157 @@
+Hublot|Big Bang Original Unico|big bang original unico
+Hublot|Big Bang Unico|big bang unico,bigbangunico
+Hublot|Unico Essential Grey|unico essential grey,essentialgrey
+Hublot|Spirit of Big Bang|spirit of big bang
+Hublot|MP-10|mp-10,mp10
+Hublot|HUB1280|hub1280
+Nike|Air Max Dn8|air max dn8
+Nike|Air Max 95000|airmax95000
+Nike|Air Max 1000|airmax1000,am1000
+Nike|Air Zoom Mercurial|air zoom mercurial
+Nike|Mercurial Vapor|mercurial vapor
+Nike|ISPA Road Warrior|road warrior
+Reebok|3D OP. Lite|3d op. lite
+On|Cloud 5|cloud 5
+Arc'teryx|Norvan LD4|norvan ld4
+Arc'teryx|Vertex Speed|vertex speed
+G/FORE|G/18|g/18
+Red Wing|Truguard Lite|truguard lite
+Timberland|TrueCloud|truecloud
+Louis Vuitton|VIA Varsity Blouson|via varsity blouson
+Burberry|Olympia|olympia
+Everlane|Uniform|uniform
+Chanel|Gabrielle Chanel|gabrielle chanel
+Givenchy|Le Soin Noir|le soin noir
+Shiseido|Ultimune|ultimune
+Pantene|Pro-V|pro-v
+Pantene|Genesis|genesis
+Fenty Beauty|Set It Down|set it down
+Fenty Skin|Dew n' Plump|dew n’ plump,dew n' plump
+Uniskin|Retinoid Skin Renewal Treatment|retinoid skin renewal treatment
+ZitSticka|Skin Discipline|skin discipline
+Xerjoff|Sketchbook p.13|p.13
+Xerjoff|Sketchbook p.18|p.18
+Xerjoff|Sketchbook p.70|p.70
+Xerjoff|TORINO25|torino25
+Bvlgari|Le Gemme|le gemme
+Bvlgari|Onekh|onekh
+Bvlgari|Orom|orom
+Bvlgari|Gyan|gyan
+Bvlgari|Falkar|falkar
+Bvlgari|Tygar|tygar
+Bvlgari|Ambero|ambero
+Issey Miyake|Le Sel d'Issey|le sel d’issey,le sel d'issey
+Panerai|Radiomir|radiomir
+Master & Dynamic|MW08|mw08
+Beats|Studio Buds +|studio buds +
+Beats|Studio Buds|studio buds
+Beats|Solo 4|solo 4
+Sonos|Roam|roam
+Logitech G|Aurora Collection|aurora collection
+Logitech G|PRO X 2|pro x 2
+Microsoft|Surface Pro 8|surface pro 8
+Microsoft|Surface Ultra|surface ultra
+Microsoft|Microsoft 365|microsoft 365,microsoft365
+Microsoft|Your Phone|your phone
+Microsoft|Teams|microsoft teams
+Google|Chromebook Plus|chromebook plus
+Samsung|Galaxy S23|galaxy s23
+Xiaomi|Mi 11|mi 11
+Xiaomi|MIX Flip|mix flip
+OPPO|Ace2|ace2
+OPPO|Reno Ace|renoace
+Apple|Apple TV|apple tv
+Alienware|X16|alienware x16
+reMarkable|Paper Pro|paper pro,paperpro
+Oura|Oura Ring 5|oura ring 5
+Figure|F.02|f.02,figure 02
+Figure|F.03|f.03,figure 03
+Tonal|T2|tonal t2
+Philips Hue|Hue Bridge|hue bridge
+ZEISS|ClearMind|clearmind
+IBM|Nighthawk|nighthawk
+Markforged|FX10|fx10
+Square|Handheld|square handheld
+Waterford|Stellar Collection|stellar collection
+SFSO|H-3|h-3
+Ford|Mustang GTD|mustang gtd
+Porsche|911|porsche 911
+Lexus|LFFC|lffc
+Nissan|MICRA|micra
+Renault|Renault 5|renault 5
+Opel|ASTRA|astra,opelastra
+Ferrari|Hypersail|hypersail,ferrarihypersail
+Lucid|Air Sapphire|air sapphire
+Lucid|Gravity|lucid gravity
+Lucid|DreamDrive|dreamdrive
+Volvo|EX90|ex90
+Volvo|XC90|xc90
+Yamaha|3CT Prototype|3ct
+Cannondale|SuperSix EVO|supersix evo
+GM Energy|Ultium Home|ultium home
+Stella Artois|Unfiltered Lager|unfiltered lager
+Dom Pérignon|Plénitude 2|plenitude ii,plénitude 2
+Ricola|Throat Balm|throat balm
+Squarespace|Fluid Engine|fluid engine
+Apple|Watch Ultra|watch ultra
+Beats|Powerbeats Pro 2|powerbeatspro2,powerbeats pro 2
+Bang & Olufsen|Beosound Theatre|beosound theatre
+Sonos|Sub Mini|sub mini
+Philips|Sonicare|sonicare
+Alani Nu|Lime Slush|lime slush
+KitKat|Thins|thins
+The Singleton|40 Year Old|thesingleton40yearold,40 year old
+Nike|Air Max|airmax,air max
+On|The Cloud|the cloud
+Reese's|Pieces with Cookie Biscuit|pieces with cookie biscuit
+Hyperice|Hyperboot|hyperboot
+Nike|Hyperboot|hyperboot
+Nike|Air Zoom Hyperslide|air zoom hyperslide,hyperslide
+Hyperice|Air Zoom Hyperslide|air zoom hyperslide,hyperslide
+Nike|TN Pink Foam|tn pink foam
+Nike|Air Max 90|air max 90
+Hyundai|IONIQ 9|ioniq 9
+SOUNDBOKS|LIGHTBOKS|lightboks
+Kvadrat|Soft Cells|soft cells
+Kvadrat|Waves|waves
+Montblanc|Meisterstück 149|meisterstück 149,meisterstuck 149
+Acer|Nitro V16 AI|Nitro V16 AI
+Acer|Nitro V16S AI|Nitro V16S AI
+ASUS|ProArt GoPro Edition|ProArt GoPro Edition
+ASUS|Zenbook DUO|Zenbook DUO
+Acer|Predator Helios 18P AI|Predator Helios 18P AI
+Acer|Predator Aethon 550KB|Predator Aethon 550KB
+Razer|Huntsman V3 Pro|Huntsman V3 Pro
+Razer|Blackshark V2 Pro|Blackshark V2 Pro
+Razer|Viper V3 Pro|Viper V3 Pro
+Razer|Blade 14|Blade 14
+Huawei|Watch GT 6 Pro|Watch GT 6 Pro
+Huawei|MatePad Pro Max|MatePad Pro Max
+Huawei|M Pencil Pro|M Pencil Pro
+Huawei|Watch Fit 5|Watch Fit 5
+Huawei|Watch Fit 5 Pro|Watch Fit 5 Pro
+Huawei|Watch GT 6|Watch GT 6
+ASUS|ROG PG27UCWM|ROG PG27UCWM
+ASUS|ROG Kithara|ROG Kithara
+ASUS|ROG PG34|ROG PG34
+ASUS|ROG Zephyrus G Series|ROG Zephyrus G Series
+ASUS|Zenbook|Zenbook
+ASUS|ROG|ROG
+Acer|Headset 500 Wireless|Headset 500 Wireless
+Acer|Nitro V Series|Nitro V Series
+Acer|Predator Helios 16 & 18|Predator Helios 16 & 18
+Acer|Predator 6th Gen AeroBlade 3D Fan|Predator 6th Gen AeroBlade 3D Fan
+Acer|Nitro Blaze 7|Nitro Blaze 7
+MSI|VANGUARD|VANGUARD
+MSI|GeForce RTX 50 VANGUARD|GeForce RTX 50 VANGUARD
+Razer|Nommo V2 Pro|Nommo V2 Pro
+Huawei|Mate 70|Mate 70
+Huawei|Watch Fit 4 Pro|Watch Fit 4 Pro
+Huawei|Watch Fit 4|Watch Fit 4
+Huawei|Mate Xs|Mate Xs
+Huawei|Watch 5|Watch 5
+Huawei|Watch Ultimate|Watch Ultimate
+Huawei|Mate XT Ultimate Design|Mate XT Ultimate Design
+Xiaomi|Watch S4 41mm|Watch S4 41mm,Xiaomi Watch S4 41mm
+Nike|Tiempo|Nike Tiempo,Tiempo
+Volvo|EX60|Volvo EX60,EX60

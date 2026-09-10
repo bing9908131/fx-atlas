@@ -1,0 +1,26 @@
+[
+  {
+    "post_id": "DYRvk0WDAbp",
+    "media_index": 1,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "live_event_documentation",
+    "evidence": "5.43秒暗場、20.88秒可見實車與圓形舞台接縫，背後是發表會環境屏幕；已另收錄同篇獨立CG素材，現場紀錄不另加入。"
+  },
+  {
+    "post_id": "DYRvk0WDAbp",
+    "media_index": 3,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "live_event_documentation",
+    "evidence": "靜態圖片可見觀眾座椅、舞台、實車與大型環境屏幕，為現場照片。"
+  },
+  {
+    "post_id": "DYRvk0WDAbp",
+    "media_index": 4,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "live_event_documentation",
+    "evidence": "1.78秒可見實車、舞台地面接縫與後方環境屏幕；為發表會實車呈現錄影，保留獨立CG版本即可。"
+  }
+]

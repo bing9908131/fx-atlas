@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 1988,
+  "total": 2003,
   "unclassified": 0,
   "counts": {
     "graphic": 383,
-    "product": 729,
-    "organic": 412,
-    "geometric": 807,
+    "product": 730,
+    "organic": 414,
+    "geometric": 819,
     "scifi": 269,
     "effects": 106
   },
@@ -291,6 +291,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbQePJfDqtd-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
           ],
           "matched_tags": []
         }
@@ -671,6 +705,227 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYRvk0WDAbp-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYRvk0WDAbp-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYRvk0WDAbp-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbQePJfDqtd-2",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbQePJfDqtd-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-2",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-4",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-5",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-6",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-7",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-8",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbEMPTaCfvJ-9",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
           ],
           "matched_tags": []
         }

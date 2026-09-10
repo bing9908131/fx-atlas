@@ -2571,19 +2571,33 @@
           "shortcode": "DbQePJfDqtd",
           "url": "https://www.instagram.com/dddidaci/p/DbQePJfDqtd/",
           "published_at": "2026-07-26T13:14:24.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbQePJfDqtd-1"
-          ]
+            "selectedyear-DbQePJfDqtd-1",
+            "selectedyear-DbQePJfDqtd-2",
+            "selectedyear-DbQePJfDqtd-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbEMPTaCfvJ",
           "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
           "published_at": "2026-07-21T18:46:15.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbEMPTaCfvJ-1"
-          ]
+            "selectedyear-DbEMPTaCfvJ-1",
+            "selectedyear-DbEMPTaCfvJ-2",
+            "selectedyear-DbEMPTaCfvJ-3",
+            "selectedyear-DbEMPTaCfvJ-4",
+            "selectedyear-DbEMPTaCfvJ-5",
+            "selectedyear-DbEMPTaCfvJ-6",
+            "selectedyear-DbEMPTaCfvJ-7",
+            "selectedyear-DbEMPTaCfvJ-8",
+            "selectedyear-DbEMPTaCfvJ-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -4322,7 +4336,8 @@
           "media_ids": [
             "selectedyear-DbQrqIfKbJh-1"
           ],
-          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media.",
+          "excluded_media_indices": []
         },
         {
           "shortcode": "DbBFi5mKbVH",
@@ -9839,7 +9854,8 @@
             "selectedyear-DC4VFp0NL2T-2",
             "selectedyear-DC4VFp0NL2T-3"
           ],
-          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media.",
+          "excluded_media_indices": []
         }
       ],
       "previous_status": "pending",
@@ -9867,16 +9883,25 @@
             "selectedyear-DZXoO6wjJwG-4",
             "selectedyear-DZXoO6wjJwG-5"
           ],
-          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media.",
+          "excluded_media_indices": []
         },
         {
           "shortcode": "DYRvk0WDAbp",
           "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
           "published_at": "2026-05-13T11:30:58.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DYRvk0WDAbp-1"
-          ]
+            "selectedyear-DYRvk0WDAbp-2",
+            "selectedyear-DYRvk0WDAbp-5",
+            "selectedyear-DYRvk0WDAbp-6"
+          ],
+          "excluded_media_indices": [
+            1,
+            3,
+            4
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

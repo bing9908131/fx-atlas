@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -524,50 +524,12 @@
     }
   },
   {
-    "id": "selectedyear-DYRvk0WDAbp-1",
-    "post_id": "DYRvk0WDAbp",
-    "index": 1,
-    "media_index": 1,
-    "total": null,
-    "title": "Volvo EX60 · digital biomes",
-    "creator": "ziyad.abah",
-    "publisher": "ziyad.abah",
-    "source_accounts": [
-      "ziyad.abah"
-    ],
-    "credit_aliases": [],
-    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/696698520_18095884097165395_761718401681369102_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NjA5OTc1MzkwNTk0NTQ3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=IV4DMl97PVkQ7kNvwGg2eGa&_nc_oc=Adr9mMp-y9w2h9rtLMTQgnm0_1iI-Y-l7GtOSNrQdftFQavLB33f4Qy7tZv60lfKduc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=rwRj9lIywuojpZ9tPUNMVQ&_nc_ss=7a22e&oh=00_AQKO4O9EpwxO6xVpR3msG3rl6tXByniiwQFdzjqSqh5qag&oe=6AA8E681",
-    "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
-    "type": "video",
-    "ratio": "9 / 16",
-    "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
-    "styles": [],
-    "related": [],
-    "caption": [],
-    "caption_text": "🌳🇸🇪\n\nCruising around and building digital biomes for our @volvocars friends for the live launch of EX60 🧡 - big effort from everyone involved to push through thousands of frames and massive resolutions, kept the machines busy for a long time 🚜\n\nEnormous credit to the legend @_florianbaumann for the amazing forest scenes’ assembly and lookdev 🤌 - I only took over at later stage for final lookdev/detailing and FX + transitions between environments 🍃\n\n✨💪\n@felixchilvers @svetxd @dennistiege @marco.fontan @karmo.jarv @matte.motion @re.anksha @uglystupidhonest & Neal Bryant \n\nDesign, Directed & Produced by @futuredeluxe \nAgency: AKQA\n\n#houdinifx #sidefx #animation #3d #volvo",
-    "published_at": "2026-05-13T11:30:58.000Z",
-    "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
-    "saved": false,
-    "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
-    },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
-  },
-  {
     "id": "selectedyear-DbQePJfDqtd-1",
     "post_id": "DbQePJfDqtd",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Playground_117",
+    "total": 3,
+    "title": "Playground 117 · 虹彩玻璃曲管 1",
     "creator": "dddidaci",
     "publisher": "dddidaci",
     "source_accounts": [
@@ -576,36 +538,172 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/754553717_18608679655014176_3610726276236142104_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk0OTc4OTczNDE5NTcwNTQ4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DEc0KX3_KKIQ7kNvwGajJOh&_nc_oc=AdqT8uJxOM4MbeKT_8YUpj6b2gr5BGggdwqqrMBHrXIm_Nmy6okp0RHEWT-0KzRxHds&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=ns_qipzHbyU6nWXPP02VUw&_nc_ss=7a22e&oh=00_AQJmqPJ0tEFSoO6kqNzmqHFLMYjOq-WQwtddyS_3aiqUeQ&oe=6AA8E713",
     "url": "https://www.instagram.com/dddidaci/p/DbQePJfDqtd/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "image",
-    "ratio": "1 / 1",
+    "ratio": "3 / 4",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。",
+    "tags": [
+      {
+        "en": "tube",
+        "zh": "管狀",
+        "category": "subject",
+        "search_aliases": [
+          "tubular",
+          "管子"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "curve",
+        "zh": "曲線",
+        "category": "subject",
+        "search_aliases": [
+          "curved",
+          "彎曲造型"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "grid pattern",
+        "zh": "格紋",
+        "category": "subject",
+        "search_aliases": [
+          "grid",
+          "網格圖案"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glass-like",
+        "zh": "玻璃感",
+        "category": "material",
+        "search_aliases": [
+          "glass",
+          "玻璃"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "transparent",
+        "zh": "透明",
+        "category": "material",
+        "search_aliases": [
+          "transparency",
+          "透光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "iridescence",
+        "zh": "虹彩",
+        "category": "material",
+        "search_aliases": [
+          "iridescent",
+          "幻彩",
+          "彩虹反光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "refraction",
+        "zh": "折射",
+        "category": "material",
+        "search_aliases": [
+          "refractive",
+          "光線折射"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光滑亮面",
+        "category": "material",
+        "search_aliases": [
+          "光澤"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Playground_117",
     "published_at": "2026-07-26T13:14:24.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者僅標 Playground_117，未見品牌或型號，不推定商業委託。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+    }
   },
   {
     "id": "selectedyear-DbEMPTaCfvJ-1",
     "post_id": "DbEMPTaCfvJ",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Playground_116",
+    "total": 9,
+    "title": "Playground 116 · 球體幾何靜物",
     "creator": "dddidaci",
     "publisher": "dddidaci",
     "source_accounts": [
@@ -614,28 +712,153 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/753206053_18607218298014176_3318116085234989097_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk0NjMzMjk1Mjk0MjE2OTY0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=et57GxoDI9gQ7kNvwHdD2rT&_nc_oc=AdqxqCkRroxoTzXk-NUt3LHuWTJh4SaZ10C0HViIKG-9FYvSNeyLxg1yUlcaglMaiwM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=ns_qipzHbyU6nWXPP02VUw&_nc_ss=7a22e&oh=00_AQKYief9OprccQP6tx4ak6WFFp1YZnuUjFjcYzVixE5y7Q&oe=6AA8DD10",
     "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "4 / 5",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "sphere",
+        "zh": "球體",
+        "category": "subject",
+        "search_aliases": [
+          "球形底座"
+        ],
+        "source": "visual",
+        "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Playground_116",
     "published_at": "2026-07-21T18:46:15.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [
+        0.014,
+        0.194,
+        0.874
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": 0.999999,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
   },
   {
     "id": "selectedyear-DVjLA-6CAN7-1",
@@ -18517,7 +18740,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -18704,7 +18927,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -18858,7 +19081,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -19023,7 +19246,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -19189,7 +19412,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -19333,7 +19556,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:31:14",
+      "reviewed_at": "2026-09-11T03:52:15",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -19352,6 +19575,2150 @@
         "geometric"
       ],
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+    }
+  },
+  {
+    "id": "selectedyear-DYRvk0WDAbp-2",
+    "post_id": "DYRvk0WDAbp",
+    "index": 2,
+    "media_index": 2,
+    "total": 6,
+    "title": "Volvo EX60 · 森林公路環境",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/694272613_18095884076165395_2000416354050552650_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NjA5OTg2MTYyMzk5NzYwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=jRlPonPxEMoQ7kNvwH_qqJJ&_nc_oc=AdpdAVqUdw-PNRl1ZfzjYGGOetHaemVnMnBb42UlNrBoiYW3UULc6iaU2CRahy0RfQ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=eo5ouQhotJoScVY8ovRFjg&_nc_ss=7a22e&oh=00_AQJ_dsS-G6V5u11EhfFvJZyGax0VkyAqtXB9-0EDFgBqlw&oe=6AA8CC75",
+    "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "CG 針葉林與公路，暖色低角度光線照亮樹木；鏡頭沿道路移動產生前後景視差。",
+    "tags": [
+      {
+        "en": "forest",
+        "zh": "森林",
+        "category": "subject",
+        "search_aliases": [
+          "woods",
+          "樹林"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "conifer",
+        "zh": "針葉樹",
+        "category": "subject",
+        "search_aliases": [
+          "pine tree",
+          "松樹"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "road",
+        "zh": "道路",
+        "category": "subject",
+        "search_aliases": [
+          "公路"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "camera tracking",
+        "zh": "鏡頭追蹤",
+        "category": "motion",
+        "search_aliases": [
+          "tracking shot",
+          "攝影機移動"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "rough bark",
+        "zh": "粗糙樹皮",
+        "category": "material",
+        "search_aliases": [
+          "bark",
+          "樹皮"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "warm light",
+        "zh": "暖光",
+        "category": "subject",
+        "search_aliases": [
+          "sunlight",
+          "陽光"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      },
+      {
+        "en": "gold",
+        "zh": "金色",
+        "category": "color",
+        "search_aliases": [
+          "golden",
+          "金黃"
+        ],
+        "source": "visual",
+        "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🌳🇸🇪\n\nCruising around and building digital biomes for our @volvocars friends for the live launch of EX60 🧡 - big effort from everyone involved to push through thousands of frames and massive resolutions, kept the machines busy for a long time 🚜\n\nEnormous credit to the legend @_florianbaumann for the amazing forest scenes’ assembly and lookdev 🤌 - I only took over at later stage for final lookdev/detailing and FX + transitions between environments 🍃\n\n✨💪\n@felixchilvers @svetxd @dennistiege @marco.fontan @karmo.jarv @matte.motion @re.anksha @uglystupidhonest & Neal Bryant \n\nDesign, Directed & Produced by @futuredeluxe \nAgency: AKQA\n\n#houdinifx #sidefx #animation #3d #volvo",
+    "published_at": "2026-05-13T11:30:58.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
+      "observed_times": [
+        13.69,
+        23.19
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為 Volvo EX60 正式發表會的數位環境，由 FutureDeluxe 團隊製作。環境影片的品牌／型號屬專案資訊，並非每段都有車輛。",
+    "carousel_pending": false,
+    "duration_seconds": 26.32,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic"
+      ],
+      "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。"
+    }
+  },
+  {
+    "id": "selectedyear-DYRvk0WDAbp-5",
+    "post_id": "DYRvk0WDAbp",
+    "index": 5,
+    "media_index": 5,
+    "total": 6,
+    "title": "Volvo EX60 · 山景與夜間森林分屏",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/694579358_18095884019165395_5786234451942395933_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzg5NjA5OTkyOTUxMzA2MTEyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=cDUg2nXJszQQ7kNvwEm5579&_nc_oc=Adod2Z5mYE2fRyxQzeZgAHozJD0Mj-SWngyuUMUiQxfQw4qqcBKV_9ye_NZa8NbeSUM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=eo5ouQhotJoScVY8ovRFjg&_nc_ss=7a22e&oh=00_AQIHKxUwN5jvhCrB9tBEqI1eiSGC4f27BmMeVfOQ7DoUlg&oe=6AA8CD29",
+    "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "上下分屏展示夕陽山景及車燈照明下的森林公路，作為發表會數位環境製作參考。",
+    "tags": [
+      {
+        "en": "forest",
+        "zh": "森林",
+        "category": "subject",
+        "search_aliases": [
+          "woods",
+          "樹林"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "conifer",
+        "zh": "針葉樹",
+        "category": "subject",
+        "search_aliases": [
+          "pine tree",
+          "松樹"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "road",
+        "zh": "道路",
+        "category": "subject",
+        "search_aliases": [
+          "公路"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "camera tracking",
+        "zh": "鏡頭追蹤",
+        "category": "motion",
+        "search_aliases": [
+          "tracking shot",
+          "攝影機移動"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "rough bark",
+        "zh": "粗糙樹皮",
+        "category": "material",
+        "search_aliases": [
+          "bark",
+          "樹皮"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "mountain",
+        "zh": "山丘",
+        "category": "subject",
+        "search_aliases": [
+          "山脈",
+          "hills"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "split screen",
+        "zh": "分屏",
+        "category": "subject",
+        "search_aliases": [
+          "上下分割"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "night",
+        "zh": "夜景",
+        "category": "subject",
+        "search_aliases": [
+          "夜晚"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🌳🇸🇪\n\nCruising around and building digital biomes for our @volvocars friends for the live launch of EX60 🧡 - big effort from everyone involved to push through thousands of frames and massive resolutions, kept the machines busy for a long time 🚜\n\nEnormous credit to the legend @_florianbaumann for the amazing forest scenes’ assembly and lookdev 🤌 - I only took over at later stage for final lookdev/detailing and FX + transitions between environments 🍃\n\n✨💪\n@felixchilvers @svetxd @dennistiege @marco.fontan @karmo.jarv @matte.motion @re.anksha @uglystupidhonest & Neal Bryant \n\nDesign, Directed & Produced by @futuredeluxe \nAgency: AKQA\n\n#houdinifx #sidefx #animation #3d #volvo",
+    "published_at": "2026-05-13T11:30:58.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
+      "observed_times": [
+        3.26,
+        7.25
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為 Volvo EX60 正式發表會的數位環境，由 FutureDeluxe 團隊製作。環境影片的品牌／型號屬專案資訊，並非每段都有車輛。",
+    "carousel_pending": false,
+    "duration_seconds": 14.64,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic"
+      ],
+      "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。"
+    }
+  },
+  {
+    "id": "selectedyear-DYRvk0WDAbp-6",
+    "post_id": "DYRvk0WDAbp",
+    "index": 6,
+    "media_index": 6,
+    "total": 6,
+    "title": "Volvo EX60 · 灰模與森林分解",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/699940247_18095883944165395_5335750175185825766_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzg5NjA5OTk1MTA0NjU2MjEwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=sxEVCuiF6KAQ7kNvwEhvQG_&_nc_oc=AdogkyN4-ZCSh64nDT1BIOw-zXHFFX-__QQfnfSs92NFHuwLMXMQdIyOcp8Idp5lgTI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=eo5ouQhotJoScVY8ovRFjg&_nc_ss=7a22e&oh=00_AQK2ktMzvTFbNdDlBOuLZ0tkwQl-whPDRyOotlJqEbhGjw&oe=6AA8CDAC",
+    "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "上半部為汽車及地形灰模，下半部為森林渲染；展示車體視角與環境鏡頭的製作分解。",
+    "tags": [
+      {
+        "en": "forest",
+        "zh": "森林",
+        "category": "subject",
+        "search_aliases": [
+          "woods",
+          "樹林"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "conifer",
+        "zh": "針葉樹",
+        "category": "subject",
+        "search_aliases": [
+          "pine tree",
+          "松樹"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "road",
+        "zh": "道路",
+        "category": "subject",
+        "search_aliases": [
+          "公路"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "camera tracking",
+        "zh": "鏡頭追蹤",
+        "category": "motion",
+        "search_aliases": [
+          "tracking shot",
+          "攝影機移動"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "rough bark",
+        "zh": "粗糙樹皮",
+        "category": "material",
+        "search_aliases": [
+          "bark",
+          "樹皮"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "SUV",
+        "zh": "休旅車",
+        "category": "subject",
+        "search_aliases": [
+          "car",
+          "汽車"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "clay render",
+        "zh": "灰模渲染",
+        "category": "material",
+        "search_aliases": [
+          "clay shading",
+          "白模"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "breakdown",
+        "zh": "製作分解",
+        "category": "subject",
+        "search_aliases": [
+          "幕後製作"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "grey"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🌳🇸🇪\n\nCruising around and building digital biomes for our @volvocars friends for the live launch of EX60 🧡 - big effort from everyone involved to push through thousands of frames and massive resolutions, kept the machines busy for a long time 🚜\n\nEnormous credit to the legend @_florianbaumann for the amazing forest scenes’ assembly and lookdev 🤌 - I only took over at later stage for final lookdev/detailing and FX + transitions between environments 🍃\n\n✨💪\n@felixchilvers @svetxd @dennistiege @marco.fontan @karmo.jarv @matte.motion @re.anksha @uglystupidhonest & Neal Bryant \n\nDesign, Directed & Produced by @futuredeluxe \nAgency: AKQA\n\n#houdinifx #sidefx #animation #3d #volvo",
+    "published_at": "2026-05-13T11:30:58.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
+      "observed_times": [
+        0.26,
+        2.35
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為 Volvo EX60 正式發表會的數位環境，由 FutureDeluxe 團隊製作。環境影片的品牌／型號屬專案資訊，並非每段都有車輛。",
+    "carousel_pending": false,
+    "duration_seconds": 3.64,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。"
+    }
+  },
+  {
+    "id": "selectedyear-DbQePJfDqtd-2",
+    "post_id": "DbQePJfDqtd",
+    "index": 2,
+    "media_index": 2,
+    "total": 3,
+    "title": "Playground 117 · 虹彩玻璃曲管 2",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/757563694_18608679646014176_3174677265118078023_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0OTc4OTczNTIxOTExNjQxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=vRQyGv48MwcQ7kNvwEPoYC0&_nc_oc=AdpjFGODwGqC8CBmT7_xxLarFLDCVLzknLgM0XXC5PMRW_gUyiN2_AL93IAZ7sTVnSY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=N_ihNeA8Lvw0yrvQQu6OoA&_nc_ss=7a22e&oh=00_AQLIVY6X9cWtXf5Q5ElgNGwdkAAtJt5pIJ_IZnjNSgYLnQ&oe=6AA8F00E",
+    "url": "https://www.instagram.com/dddidaci/p/DbQePJfDqtd/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "3 / 4",
+    "duration": "",
+    "description": "斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。",
+    "tags": [
+      {
+        "en": "tube",
+        "zh": "管狀",
+        "category": "subject",
+        "search_aliases": [
+          "tubular",
+          "管子"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "curve",
+        "zh": "曲線",
+        "category": "subject",
+        "search_aliases": [
+          "curved",
+          "彎曲造型"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "grid pattern",
+        "zh": "格紋",
+        "category": "subject",
+        "search_aliases": [
+          "grid",
+          "網格圖案"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glass-like",
+        "zh": "玻璃感",
+        "category": "material",
+        "search_aliases": [
+          "glass",
+          "玻璃"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "transparent",
+        "zh": "透明",
+        "category": "material",
+        "search_aliases": [
+          "transparency",
+          "透光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "iridescence",
+        "zh": "虹彩",
+        "category": "material",
+        "search_aliases": [
+          "iridescent",
+          "幻彩",
+          "彩虹反光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "refraction",
+        "zh": "折射",
+        "category": "material",
+        "search_aliases": [
+          "refractive",
+          "光線折射"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光滑亮面",
+        "category": "material",
+        "search_aliases": [
+          "光澤"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_117",
+    "published_at": "2026-07-26T13:14:24.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者僅標 Playground_117，未見品牌或型號，不推定商業委託。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+    }
+  },
+  {
+    "id": "selectedyear-DbQePJfDqtd-3",
+    "post_id": "DbQePJfDqtd",
+    "index": 3,
+    "media_index": 3,
+    "total": 3,
+    "title": "Playground 117 · 虹彩玻璃曲管 3",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/754143719_18608679664014176_6555874158054357407_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0OTc4OTczNjA4MzIwNDExOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Yd1xbhgazxwQ7kNvwEJufMr&_nc_oc=AdqM9q2Y5YwHjjUUCVYlPaHte36tkTE-6N4sNbt1XVb8sa8yGcEWcy5H0j9X9EVJgjU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=N_ihNeA8Lvw0yrvQQu6OoA&_nc_ss=7a22e&oh=00_AQLU2tcLztQkZGrysbdfKk4tIKG_mqHuQxEeOz6H8ARw_A&oe=6AA8E448",
+    "url": "https://www.instagram.com/dddidaci/p/DbQePJfDqtd/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "3 / 4",
+    "duration": "",
+    "description": "近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。",
+    "tags": [
+      {
+        "en": "tube",
+        "zh": "管狀",
+        "category": "subject",
+        "search_aliases": [
+          "tubular",
+          "管子"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "curve",
+        "zh": "曲線",
+        "category": "subject",
+        "search_aliases": [
+          "curved",
+          "彎曲造型"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "grid pattern",
+        "zh": "格紋",
+        "category": "subject",
+        "search_aliases": [
+          "grid",
+          "網格圖案"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glass-like",
+        "zh": "玻璃感",
+        "category": "material",
+        "search_aliases": [
+          "glass",
+          "玻璃"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "transparent",
+        "zh": "透明",
+        "category": "material",
+        "search_aliases": [
+          "transparency",
+          "透光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "iridescence",
+        "zh": "虹彩",
+        "category": "material",
+        "search_aliases": [
+          "iridescent",
+          "幻彩",
+          "彩虹反光"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "refraction",
+        "zh": "折射",
+        "category": "material",
+        "search_aliases": [
+          "refractive",
+          "光線折射"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光滑亮面",
+        "category": "material",
+        "search_aliases": [
+          "光澤"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_117",
+    "published_at": "2026-07-26T13:14:24.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者僅標 Playground_117，未見品牌或型號，不推定商業委託。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-2",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 2,
+    "media_index": 2,
+    "total": 9,
+    "title": "Playground 116 · 球體幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/752638531_18607218259014176_8196088744852834227_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk0NjMzMjk1MTc3Nzk1OTI3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R-M-8VLFKfwQ7kNvwH2UyN_&_nc_oc=AdqgatRROTvSwc3PGrTgFbmhy9BPjf5tVukF3BKVZQfghF8FapLW-RkxYdtUbDj_26s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQLJB0JJFjNmAtc5pYDvn4-dQAW3_GBleHNBXWd2r9hF0g&oe=6AA8C47E",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "sphere",
+        "zh": "球體",
+        "category": "subject",
+        "search_aliases": [
+          "球形底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-3",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 3,
+    "media_index": 3,
+    "total": 9,
+    "title": "Playground 116 · 截錐體幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/753206036_18607218268014176_308292436649959100_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NjMzMjk1MzM4MDE0MzYxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=FinQBVZBwMoQ7kNvwH8F9ic&_nc_oc=AdoHE_ttCCteed1JVKDYNYNDBCof7-fT_QiO3HzCMaf6rzCm61Vf2DPc-toQ0kmrCyI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQLlwua2D8XzTlCU4crW3LtgjQt8rqUjfBCBKFMuz6ZbZw&oe=6AA8D84B",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "frustum",
+        "zh": "截錐體",
+        "category": "subject",
+        "search_aliases": [
+          "上窄下寬截錐底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-4",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 4,
+    "media_index": 4,
+    "total": 9,
+    "title": "Playground 116 · 直立圓柱幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/753429069_18607218247014176_409958036497043162_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk0NjMzMjk1MzY0ODc0NTI5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=BR0rZzoGcaoQ7kNvwFIzUBc&_nc_oc=Adr-zY9P7Mxg7zdT0kM2O5HMBNYp9kmu6DyAToHVM34kYbSTjCJnrh5aFqJC8zcgGiY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQL4CKTadjUwlJ3_FVh80bqm1XIAInbKytcx12CZvo4bxw&oe=6AA8DD9B",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "vertical cylinder",
+        "zh": "直立圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "直立圓柱底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-5",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 5,
+    "media_index": 5,
+    "total": 9,
+    "title": "Playground 116 · 倒圓錐幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/753035099_18607218250014176_3303618925525856563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk0NjMzMjk1Mzc0MDk0NDEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=fJqCS-KM5Y0Q7kNvwHdVRht&_nc_oc=AdrR_JpUdKsEYumHQkH6O1om4aH9Q3lTPETp7NbxnmzF_0IXEQxf7uajRg65S2AhJP0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQJV4hKMyOh40bylculNSGgbKCu7ERv8E7yp7SWzRj9GPQ&oe=6AA8DDB8",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "inverted cone",
+        "zh": "倒圓錐",
+        "category": "subject",
+        "search_aliases": [
+          "尖端朝下的圓錐底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-6",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 6,
+    "media_index": 6,
+    "total": 9,
+    "title": "Playground 116 · 水滴造型幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/753224975_18607218229014176_8460989203702088834_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NjMzMjk1Mzc4Mjg3ODM4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=XZ9i-UxT6A4Q7kNvwEZkaAP&_nc_oc=Adpb3eCvcODkqz6b4rDf1UuyAZVMmyC0KbbDyk2CYXVy7ZCQHSeqRbHQaYlnRy2spy4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQJQzDWpdH6UTo1IVSxgHp3xQS8FPke_yhfwe3eKs3O7oQ&oe=6AA8DBAD",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "teardrop shape",
+        "zh": "水滴造型",
+        "category": "subject",
+        "search_aliases": [
+          "上窄下圓的水滴形底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-7",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 7,
+    "media_index": 7,
+    "total": 9,
+    "title": "Playground 116 · 膠囊形幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/751872656_18607218232014176_9222064667724621061_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk0NjMzMjk1Mzc4MzAxMTc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=rR4tW45LNzwQ7kNvwFd8Zdz&_nc_oc=AdpSNNoc24-AUdYD5aBnUbpUplix5Dcy4woXK19t4s03VWWYhhq-m70-RS_FR284lE8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQIv3TeZeiMn6T28LI9l-b4vC7s2G93LRcG6Y8vRoJYcxw&oe=6AA8F29B",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "capsule",
+        "zh": "膠囊形",
+        "category": "subject",
+        "search_aliases": [
+          "直立圓角膠囊底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-8",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 8,
+    "media_index": 8,
+    "total": 9,
+    "title": "Playground 116 · 半球幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/752325768_18607218277014176_8943645745462383888_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk0NjMzMjk1NDA3NjQ3ODYxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=30bUCGWoy5AQ7kNvwHHLOCB&_nc_oc=AdqUOyLu_ZR8-I2Z4aHIcfyWA7EIpfETdG2h4LvgyzSwG_6r1zaKtSQc-JfHPrUi-e4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQJio75V3WD6MzgoQ2tsCSexvbocdxb62lmeVz3giLr0ew&oe=6AA8E15B",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "hemisphere",
+        "zh": "半球",
+        "category": "subject",
+        "search_aliases": [
+          "碗狀半球底座"
+        ],
+        "source": "visual",
+        "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DbEMPTaCfvJ-9",
+    "post_id": "DbEMPTaCfvJ",
+    "index": 9,
+    "media_index": 9,
+    "total": 9,
+    "title": "Playground 116 · 球體幾何靜物",
+    "creator": "dddidaci",
+    "publisher": "dddidaci",
+    "source_accounts": [
+      "dddidaci"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/752509106_18607218214014176_6841982960465530092_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk0NjMzMjk1MzkxNzI1OTU3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNDg2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=hIwwm3jPMUQQ7kNvwGev1an&_nc_oc=AdqT1r2EIqPd8kr0Rzs8F4oYxrLmbngpuQk4V1Kk6-gcyjb6f0m492xf7GqtQ3vVev8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=kUo3dqJijOOGg1AGIsyH1A&_nc_ss=7a22e&oh=00_AQLGfiDXU_3ZIjA-yXoB_AjBISBv87_Z7u12ikAW4b482A&oe=6AA8E048",
+    "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。",
+    "tags": [
+      {
+        "en": "cylinder",
+        "zh": "圓柱",
+        "category": "subject",
+        "search_aliases": [
+          "圓柱體"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "cord",
+        "zh": "吊繩",
+        "category": "subject",
+        "search_aliases": [
+          "懸掛線"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "geometric composition",
+        "zh": "幾何構圖",
+        "category": "subject",
+        "search_aliases": [
+          "geometric shapes",
+          "幾何造型"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rock",
+        "zh": "石塊",
+        "category": "subject",
+        "search_aliases": [
+          "岩石"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "rough surface",
+        "zh": "粗糙表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面",
+          "textured surface"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "olive green",
+          "黃綠色"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      },
+      {
+        "en": "sphere",
+        "zh": "球體",
+        "category": "subject",
+        "search_aliases": [
+          "懸空球體，與下方石塊有間隙"
+        ],
+        "source": "visual",
+        "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Playground_116",
+    "published_at": "2026-07-21T18:46:15.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:52:15",
+      "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者只標 Playground_116，未見品牌型號；水滴造型不代表液體模擬。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
     }
   }
 ]
