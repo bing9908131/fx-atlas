@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2086,
+  "total": 2095,
   "unclassified": 0,
   "counts": {
-    "graphic": 414,
+    "graphic": 423,
     "product": 759,
     "organic": 428,
     "geometric": 830,
     "scifi": 296,
-    "effects": 117
+    "effects": 126
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -873,6 +873,35 @@
       ]
     },
     {
+      "id": "selectedyear-C_S-mWZtb53-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.632白天劇院廣場、左側防護罩；6.579另一夜間圓頂建築場景。屬不同鏡頭，不能由兩張畫面推定罩體擴散或液體流動。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.632白天劇院廣場、左側防護罩；6.579另一夜間圓頂建築場景。屬不同鏡頭，不能由兩張畫面推定罩體擴散或液體流動。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DdEgxumplq--1",
       "styles": [
         {
@@ -925,6 +954,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcOPxOah_c9-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。"
           ],
           "matched_tags": []
         }
@@ -2817,6 +2875,209 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.413軟體中的紫色模型與曲線，9.759成片的船艦、速度光線與碎片。沒看到碰撞因果，不標撞擊或爆炸。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.203至1.397上方路旁人物周圍新出現小氣泡。沒有確認氣泡融合過程，不標合併或液體。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.203至1.397上方路旁人物周圍新出現小氣泡。沒有確認氣泡融合過程，不標合併或液體。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.072雙手持手機低頭；0.698/0.751一手抬拳、頭部轉向、通知框顯示。透明罩的尺寸變化未確認。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.072雙手持手機低頭；0.698/0.751一手抬拳、頭部轉向、通知框顯示。透明罩的尺寸變化未確認。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.287近景士兵持槍在青色罩內；6.453與7.747同一俯視戰壕構圖中的無人機位置改變、紅色光暈位置改變。沒有觀察到完整撞擊因果，不標碰撞或爆炸模擬。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.287近景士兵持槍在青色罩內；6.453與7.747同一俯視戰壕構圖中的無人機位置改變、紅色光暈位置改變。沒有觀察到完整撞擊因果，不標碰撞或爆炸模擬。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.368左侧獨立圓形與右側多瓣氣泡；16.190同組圓形已連成單一外輪廓；19.824為廣場成片。畫面清楚顯示氣泡幾何融合，非流體解算證據。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.368左侧獨立圓形與右側多瓣氣泡；16.190同組圓形已連成單一外輪廓；19.824為廣場成片。畫面清楚顯示氣泡幾何融合，非流體解算證據。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "10.551黑底青色罩體，建築雕像輪廓被扣出；22.957疊入城市背景、高光与透明罩。是分層合成對照，未確認罩體本身連續移動，不以切換圖層當物件動態。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "10.551黑底青色罩體，建築雕像輪廓被扣出；22.957疊入城市背景、高光与透明罩。是分層合成對照，未確認罩體本身連續移動，不以切換圖層當物件動態。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.627軟體內人物側頭、一手高舉手機；8.227成片人物面向前方、手機移至胸前且通知框顯示。確有角色姿勢變化，不標氣泡流動。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.627軟體內人物側頭、一手高舉手機；8.227成片人物面向前方、手機移至胸前且通知框顯示。確有角色姿勢變化，不標氣泡流動。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C_S-mWZtb53-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "8.979男子持手機；12.341街道人群與透明罩；19.666手機人物與通知；26.595城市建築罩體；39.004戰壕前景罩體；46.634士兵持槍；57.856空中飛行器與紅光、散開碎片。僅標看見的飛行與碎片，不推定碰撞原因、火焰或物理解算。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "8.979男子持手機；12.341街道人群與透明罩；19.666手機人物與通知；26.595城市建築罩體；39.004戰壕前景罩體；46.634士兵持槍；57.856空中飛行器與紅光、散開碎片。僅標看見的飛行與碎片，不推定碰撞原因、火焰或物理解算。 共8段，逐一檢視，末段沒有下一步。"
           ],
           "matched_tags": []
         }

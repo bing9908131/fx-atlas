@@ -9163,10 +9163,12 @@
           "shortcode": "DcOPxOah_c9",
           "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
           "published_at": "2026-08-19T13:00:05.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcOPxOah_c9-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbsVnpkoB4C",
@@ -9447,10 +9449,19 @@
           "shortcode": "C_S-mWZtb53",
           "url": "https://www.instagram.com/vzhemotion/p/C_S-mWZtb53/",
           "published_at": "2024-08-30T13:56:38.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-C_S-mWZtb53-1"
-          ]
+            "selectedyear-C_S-mWZtb53-1",
+            "selectedyear-C_S-mWZtb53-2",
+            "selectedyear-C_S-mWZtb53-3",
+            "selectedyear-C_S-mWZtb53-4",
+            "selectedyear-C_S-mWZtb53-5",
+            "selectedyear-C_S-mWZtb53-6",
+            "selectedyear-C_S-mWZtb53-7",
+            "selectedyear-C_S-mWZtb53-8"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
