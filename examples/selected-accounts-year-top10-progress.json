@@ -7254,7 +7254,7 @@
           "shortcode": "DZmrAlUjGtd",
           "url": "https://www.instagram.com/robenrobin.nl/p/DZmrAlUjGtd/",
           "published_at": "2026-06-15T11:06:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZmrAlUjGtd-1"
           ]
@@ -7263,7 +7263,7 @@
           "shortcode": "DYO1vSWjKYE",
           "url": "https://www.instagram.com/robenrobin.nl/p/DYO1vSWjKYE/",
           "published_at": "2026-05-12T08:27:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYO1vSWjKYE-1"
           ]
@@ -7285,7 +7285,7 @@
           "shortcode": "DcchZO_Jy97",
           "url": "https://www.instagram.com/rohitbhon.tv/reel/DcchZO_Jy97/",
           "published_at": "2026-08-25T02:05:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcchZO_Jy97-1"
           ]
@@ -7315,7 +7315,7 @@
           "shortcode": "DGn_YwONgFx",
           "url": "https://www.instagram.com/roma_kuzminykh/p/DGn_YwONgFx/",
           "published_at": "2025-02-28T17:27:19.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DGn_YwONgFx-1"
           ]
@@ -7324,7 +7324,7 @@
           "shortcode": "DGdkAGYNoeD",
           "url": "https://www.instagram.com/roma_kuzminykh/reel/DGdkAGYNoeD/",
           "published_at": "2025-02-24T14:44:34.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DGdkAGYNoeD-1"
           ]
@@ -7340,26 +7340,93 @@
     {
       "handle": "romain.rosi",
       "url": "https://www.instagram.com/romain.rosi/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcvEqI8iD0f",
+          "url": "https://www.instagram.com/romain.rosi/p/DcvEqI8iD0f/",
+          "published_at": "2026-09-01T06:58:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcvEqI8iD0f-1"
+          ]
+        },
+        {
+          "shortcode": "DcdCnhfzBU6",
+          "url": "https://www.instagram.com/romain.rosi/reel/DcdCnhfzBU6/",
+          "published_at": "2026-08-25T06:56:30.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcdCnhfzBU6-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcvEqI8iD0f",
+        "DcdCnhfzBU6"
+      ],
+      "latest_two_selection_evidence": "Three pinned posts dated 2022/March 2025/October 2025 are older. Latest two unpinned dates read. WINT commissioned research at Proto; R&D not in final film retained as documented production-process reference."
     },
     {
       "handle": "rourke",
       "url": "https://www.instagram.com/rourke/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdHEjhYIx2P",
+          "url": "https://www.instagram.com/rourke/reel/DdHEjhYIx2P/",
+          "published_at": "2026-09-10T14:40:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdHEjhYIx2P-1"
+          ]
+        },
+        {
+          "shortcode": "DdB-EzVqJZ4",
+          "url": "https://www.instagram.com/rourke/reel/DdB-EzVqJZ4/",
+          "published_at": "2026-09-08T15:07:56.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "純生成式 video-to-video 換景工具宣傳，未呈現可確認的 CG 製作作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdHEjhYIx2P",
+        "DdB-EzVqJZ4"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts, dates read. First visibly shows layered AE UI-card animation; second explicitly video-to-video environment replacement tool promotion."
     },
     {
       "handle": "runwiththegoldenwolf",
       "url": "https://www.instagram.com/runwiththegoldenwolf/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEqBteCVJU",
+          "url": "https://www.instagram.com/runwiththegoldenwolf/reel/DdEqBteCVJU/",
+          "published_at": "2026-09-09T16:15:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEqBteCVJU-1"
+          ]
+        },
+        {
+          "shortcode": "DcyhfcQCgIx",
+          "url": "https://www.instagram.com/runwiththegoldenwolf/p/DcyhfcQCgIx/",
+          "published_at": "2026-09-02T16:00:06.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Adobe 學徒計畫合作公告，單張文字資訊海報，非 CG 作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEqBteCVJU",
+        "DcyhfcQCgIx"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned dates read; pinned projects older. Watch Dogs retrospective is official Ubisoft project. Second is a single apprenticeship announcement graphic."
     },
     {
       "handle": "samplikprost",
@@ -7906,9 +7973,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 335,
-  "imported_media": 336,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 339,
+  "imported_media": 340,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
