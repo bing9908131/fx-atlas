@@ -4490,7 +4490,7 @@
           "shortcode": "DdAXjxIkhq1",
           "url": "https://www.instagram.com/janurschel/p/DdAXjxIkhq1/",
           "published_at": "2026-09-08T00:10:59.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdAXjxIkhq1-1"
           ]
@@ -4520,7 +4520,7 @@
           "shortcode": "DcweGmAHQ4K",
           "url": "https://www.instagram.com/jdashscott/p/DcweGmAHQ4K/",
           "published_at": "2026-09-01T20:00:19.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcweGmAHQ4K-1"
           ]
@@ -4529,7 +4529,7 @@
           "shortcode": "DZLwz7TN1Vq",
           "url": "https://www.instagram.com/jdashscott/reel/DZLwz7TN1Vq/",
           "published_at": "2026-06-05T00:39:01.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZLwz7TN1Vq-1"
           ]
@@ -4551,7 +4551,7 @@
           "shortcode": "DTaWPR9DR26",
           "url": "https://www.instagram.com/jeffmantv/reel/DTaWPR9DR26/",
           "published_at": "2026-01-12T13:05:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTaWPR9DR26-1"
           ]
@@ -4581,7 +4581,7 @@
           "shortcode": "DdE6NNYGU5z",
           "url": "https://www.instagram.com/jesslwiseman/p/DdE6NNYGU5z/",
           "published_at": "2026-09-09T18:30:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdE6NNYGU5z-1"
           ]
@@ -4640,7 +4640,7 @@
           "shortcode": "DcELa6blEE1",
           "url": "https://www.instagram.com/jieliouart/p/DcELa6blEE1/",
           "published_at": "2026-08-15T15:10:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcELa6blEE1-1"
           ]
@@ -4649,7 +4649,7 @@
           "shortcode": "DWH2ojJEyLY",
           "url": "https://www.instagram.com/pingsheng_wu/reel/DWH2ojJEyLY/",
           "published_at": "2026-03-20T22:20:22.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWH2ojJEyLY-1"
           ]
@@ -4665,42 +4665,155 @@
     {
       "handle": "jit_effect",
       "url": "https://www.instagram.com/jit_effect/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc0W2pOC2Iz",
+          "url": "https://www.instagram.com/jit_effect/reel/Dc0W2pOC2Iz/",
+          "published_at": "2026-09-03T08:15:10.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc0W2pOC2Iz-1"
+          ]
+        },
+        {
+          "shortcode": "DcEuU6aSY5Q",
+          "url": "https://www.instagram.com/jit_effect/reel/DcEuU6aSY5Q/",
+          "published_at": "2026-08-15T20:15:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcEuU6aSY5Q-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc0W2pOC2Iz",
+        "DcEuU6aSY5Q"
+      ],
+      "latest_two_selection_evidence": "Latest September 3 2026 and pinned August 15 2026 selected. Other pins April 23 2026 and December 31 2025; next unpinned March 2 2026 all checked."
     },
     {
       "handle": "joangarciapons",
       "url": "https://www.instagram.com/joangarciapons/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DVJwP-QDLoK",
+          "url": "https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/",
+          "published_at": "2026-02-24T19:28:45.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVJwP-QDLoK-1"
+          ]
+        },
+        {
+          "shortcode": "DUnYTlGjLjK",
+          "url": "https://www.instagram.com/joangarciapons/p/DUnYTlGjLjK/",
+          "published_at": "2026-02-11T11:05:21.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUnYTlGjLjK-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DVJwP-QDLoK",
+        "DUnYTlGjLjK"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; latest original dates February 24 and February 11 2026 checked. Personal environment cover pending; any branded practice in carousel must be excluded during media-level review."
     },
     {
       "handle": "jonashempel_",
       "url": "https://www.instagram.com/jonashempel_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcjoKQGoOFs",
+          "url": "https://www.instagram.com/jonashempel_/reel/DcjoKQGoOFs/",
+          "published_at": "2026-08-27T20:19:26.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Creator explicitly labels ad concept; no actual brand usage evidence.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DaNqs73syYE",
+          "url": "https://www.instagram.com/jonashempel_/reel/DaNqs73syYE/",
+          "published_at": "2026-06-30T14:35:13.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Creator labels the brand ad trial; actual brand usage not evidenced.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcjoKQGoOFs",
+        "DaNqs73syYE"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in five-post profile; latest original dates August 27 and June 30 2026 checked. Excluded under user brand-use rule."
     },
     {
       "handle": "jonathanplesel",
       "url": "https://www.instagram.com/jonathanplesel/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dak_vaWDRK0",
+          "url": "https://www.instagram.com/jonathanplesel/p/Dak_vaWDRK0/",
+          "published_at": "2026-07-09T16:00:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dak_vaWDRK0-1"
+          ]
+        },
+        {
+          "shortcode": "DaGLYD8tqzK",
+          "url": "https://www.instagram.com/jonathanplesel/reel/DaGLYD8tqzK/",
+          "published_at": "2026-06-27T16:54:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaGLYD8tqzK-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dak_vaWDRK0",
+        "DaGLYD8tqzK"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest original dates July 9 and June 27 2026 checked. Artwork and actual festival announcement credited by creator."
     },
     {
       "handle": "joonathanlindgren",
       "url": "https://www.instagram.com/joonathanlindgren/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcfugwsAruF",
+          "url": "https://www.instagram.com/joonathanlindgren/reel/DcfugwsAruF/",
+          "published_at": "2026-08-26T08:02:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcfugwsAruF-1"
+          ]
+        },
+        {
+          "shortcode": "DcQK7pCAUKc",
+          "url": "https://www.instagram.com/joonathanlindgren/reel/DcQK7pCAUKc/",
+          "published_at": "2026-08-20T06:59:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcQK7pCAUKc-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcfugwsAruF",
+        "DcQK7pCAUKc"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest dates August 26 and August 20 2026 checked. First combines renders/generated assets per creator; no false simulation tags."
     },
     {
       "handle": "jordipagespons",
@@ -5943,9 +6056,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 212,
-  "imported_media": 213,
-  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 220,
+  "imported_media": 221,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
