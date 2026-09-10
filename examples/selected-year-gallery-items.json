@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -676,7 +676,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -835,7 +835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [
         0.014,
@@ -987,7 +987,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -1177,7 +1177,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。",
       "observed_times": [
         0.77,
@@ -1302,7 +1302,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -1482,7 +1482,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -1703,7 +1703,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。",
       "observed_times": [
         3.43,
@@ -1886,7 +1886,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.68與2.35秒碎塊位置、細粒流束輪廓不同；3.77秒金球較高，5.76秒較低且表面紋路朝向改變，8.46秒接近地面。可確認粒子移動、球體下移與旋轉，不推定流體、剛體碰撞求解器。作者及片中文字明示Houdini課程；是具體CG效果示範，非講者操作錄屏。",
       "observed_times": [
         1.68,
@@ -2091,7 +2091,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.72秒為角色背面，14.82秒為正面；角色與岩石底座整體朝向改變，切割墊和旁邊測試球位置固定。姿勢保持一致，標記模型轉台，不標記走路、布料飄動或人物表演。作者明示Turntable並列Houdini/ZBrush。",
       "observed_times": [
         1.72,
@@ -2282,7 +2282,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。女性角色半身，黑色上衣、手部遮住部分臉孔，棕白雙色長髮向側面展開，背景為夜間城市散景。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -2489,7 +2489,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。紅髮角色黑色衣裝、粉紅羽翼和銀黑尖刺框架的完整構圖。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -2649,7 +2649,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.04、2.16、2.82秒瓶底輪廓與氣泡的可見位置改變，氣泡表面保持光滑反射。能確認畫面中的氣泡／瓶身視角變化，尚不能區分所有氣泡位移與視差，不標記氣泡上升、融合、破裂或液體流動。作者明示bubbles/simulation/Houdini/Redshift，但沒有指定求解器。",
       "observed_times": [
         2.04,
@@ -2781,7 +2781,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。車鼻與多層前翼俯視特寫，紅色燈光照亮纖維編織紋理。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -2972,7 +2972,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.78至1.51秒可見外殼打開露出内部層次；3.62秒矩形面板分離並改變角度，旁有活動字樣；6.07秒為傾斜數字手錶展示，8.58秒只留下活動字標。可確認拆分、面板翻轉和畫面轉場，未看到碰撞、破碎或流體。",
       "observed_times": [
         0.78,
@@ -3199,7 +3199,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "實際開啟輪播第1張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -3435,7 +3435,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.16秒為琥珀色透光質地中的螳螂；7.49秒黑白點狀影像；8.58、11.97、14.09秒分別展示模型框架內前肢、翅脈和腹部；19.80秒粗糙塊體配掃描方框；21.39秒頭部近景；24.88與27.48秒S字標視角不同。能確認鏡頭細節巡覽、剪輯切換及字標視角變化。未取得足夠連續肢體證據，不加入行走、捕食、碰撞或生長；粗糙缺口不等於破碎動畫。",
       "observed_times": [
         2.16,
@@ -3669,7 +3669,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "6.30秒機身Formlabs字樣；10.41、11.04秒灰色粉末床及橘色發光部件；17.04秒整機，19.14秒外殼升起分離，22.01秒透明外框內的多層零件展示；24.41秒細光束穿過光學機構，27.16秒粉末床可見亮點軌跡與重複深色圖案；29.04秒容量刻度。確認外殼拆解與雷射掃描呈現，不將加熱光誤標為火焰、不將列印誤標為CNC切削。",
       "observed_times": [
         6.3,
@@ -3810,7 +3810,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第1張觀察：銀白信用卡斜置於淡紫空間，背景及卡面有彩虹色光帶；可讀永豐銀行、DAWAY、VISA Signature。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -4042,7 +4042,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.57秒角色持網、旁有蝴蝶；6.68秒綠色毛蟲在樹枝上呈直立形態，8.40秒彎成拱形且角色嘴型改變；11.58秒手指接近花旁昆蟲；16.29秒多個角色在畫面邊緣。可確認毛蟲彎曲及嘴型表情變化。沒有依留言推定側手翻或任何3D求解器，畫面明確為2D插畫動畫。",
       "observed_times": [
         2.57,
@@ -4266,7 +4266,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "5.94秒角色與毛蟲近景；19.08秒角色位於森林左邊，20.91秒移至中央並持網，蝴蝶在固定樹木間改變位置。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         5.94,
@@ -4481,7 +4481,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第1/8個媒體。黃黑越野鞋置於灰色碎石山坡，周圍有白灰霧塵及懸空碎石。靜態畫面不證明撞擊、落石或煙霧流動。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -4726,7 +4726,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第1/7張：不同大小的桃紅紫色玻璃圓盤散置於淺灰背景，中心帶環狀紋理及綠紅反光。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -4953,7 +4953,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "IG影片12.04秒：0.055黑底；1.365水環已破開，2.252/2.983水滴高度降低並分離；3.261/3.557再次出現起伏的連續環；5.373/6.599為粗糙水面近景，7.770可見分離小水滴及狹長水流。無可識別固體撞擊物，不標碰撞或爆炸；未由評論推定FLIP、Houdini或特定solver。",
       "observed_times": [
         0.055,
@@ -5187,7 +5187,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.199基地雙船；2.250艙內HUD；7.141至7.496角色船艦位置與角度微變。僅依實際畫面標飛行/位移，不標水模擬。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.199,
@@ -5419,7 +5419,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.632白天劇院廣場、左側防護罩；6.579另一夜間圓頂建築場景。屬不同鏡頭，不能由兩張畫面推定罩體擴散或液體流動。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.632,
@@ -5618,7 +5618,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.907可见綠色DNA雙螺旋與粒點；9.710虹膜微距，11.504完整眼睛，確認鏡頭拉遠；13.347卡面Hulk, Strongest There Is與氣泡狀粒點；18.773正式Magic The Gathering/Marvel Super Heroes片尾及Wizards/Marvel版權。未由單幀推定DNA生長、粒子擴散或液體流動。",
       "observed_times": [
         2.907,
@@ -5835,7 +5835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。",
       "observed_times": [
         3.336,
@@ -6067,7 +6067,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。",
       "observed_times": [
         2.128,
@@ -6339,7 +6339,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "4.783/6.225/25.501同一植被字標的斜俯视角度改變，兩套配色同步展示。沒有觀察到字母生成或植物生長，不標生長解算。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         4.783,
@@ -6639,7 +6639,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "6.714近景繩索連到人物手部；17.903俯視走廊；26.290輪椅人物；35.781與47.142蟻群腿部姿態、前後位置及髮束方向不同。上下為同一動畫的成片及灰模。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         6.714,
@@ -6710,8 +6710,8 @@
     "post_id": "DaVW5N0iJ6e",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Input Club Barcelona · deep sea visuals",
+    "total": 4,
+    "title": "Input Club · 深海生物浮游",
     "creator": "vincentschwenk",
     "publisher": "vincentschwenk",
     "source_accounts": [
@@ -6720,66 +6720,228 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/731072434_18596800630003453_3062826655726558203_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzkzMjQ5NjExNTkyODY5NTY0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=xlpbTCV54HcQ7kNvwF5N2Sd&_nc_oc=AdrFJ4xCvQl2pc6V83330Yq-TS7ZTNtpJdnndCFdDEEJ16NccXw2k8LH22ZZdu20fhQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=Ue-W-b404Iss6bTszCQcZw&_nc_ss=7a22e&oh=00_AQINS2ApGN75BEePtIrHx9r4KCeZENLUnbtv2REQ9pEeRA&oe=6AA8CAE2",
     "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "4 / 5",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "兩隻幻想海洋生物在暗色背景中彎曲、轉向，白色魚鰭與球狀突起形成濕潤有機輪廓。",
+    "tags": [
+      {
+        "en": "fantasy sea creature",
+        "zh": "幻想海洋生物",
+        "category": "subject",
+        "search_aliases": [
+          "深海生物",
+          "怪魚",
+          "underwater creature"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "fish",
+        "zh": "魚",
+        "category": "subject",
+        "search_aliases": [
+          "魚類"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "fin",
+        "zh": "魚鰭",
+        "category": "subject",
+        "search_aliases": [
+          "鰭片"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "tube",
+        "zh": "管狀身體",
+        "category": "subject",
+        "search_aliases": [
+          "管狀生物"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "globule",
+        "zh": "球狀突起",
+        "category": "subject",
+        "search_aliases": [
+          "顆粒突起"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "glossy",
+        "zh": "亮面",
+        "category": "material",
+        "search_aliases": [
+          "濕潤光澤",
+          "wet look"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "bumpy",
+        "zh": "凹凸表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "灰"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "cream",
+        "zh": "奶油色",
+        "category": "color",
+        "search_aliases": [
+          "米黃"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "search_aliases": [
+          "紅"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "float",
+        "zh": "漂浮",
+        "category": "motion",
+        "search_aliases": [
+          "浮游",
+          "漂移",
+          "drift"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "bend",
+        "zh": "彎曲",
+        "category": "motion",
+        "search_aliases": [
+          "彎折",
+          "flex"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      },
+      {
+        "en": "turn",
+        "zh": "轉向",
+        "category": "motion",
+        "search_aliases": [
+          "身體旋轉",
+          "rotate"
+        ],
+        "source": "visual",
+        "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "New visuals for Input Club Barcelona.\nSome nights call for strange, beautiful things swimming out of the dark. This one’s for the dancefloor, a deep-sea world built to move with the music.\n🐙🌊\nThanks @ovktr \n@inputdanceclub",
     "published_at": "2026-07-03T14:15:02.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commissioned_brand_visual",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。",
+      "observed_times": [
+        4.315194,
+        4.978509,
+        7.732448
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
-  },
-  {
-    "id": "selectedyear-DaQWS4YiAi--1",
-    "post_id": "DaQWS4YiAi-",
-    "index": 1,
-    "media_index": 1,
-    "total": null,
-    "title": "Kawaii cat · Munich installation",
-    "creator": "vincentschwenk",
-    "publisher": "vincentschwenk",
-    "source_accounts": [
-      "vincentschwenk"
-    ],
-    "credit_aliases": [],
-    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/731111397_18596465242003453_8004397603913863143_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzkzMTc0MDMwMzM3MTI4MTM0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Pi0aD0iRsI0Q7kNvwEfsJe8&_nc_oc=Adr2QeJniXnfxdU6QvRiHu2NblOMVr-_Y72c7B2-EBdidPQTIxdAc3KACb7ruxgle2s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=Ue-W-b404Iss6bTszCQcZw&_nc_ss=7a22e&oh=00_AQLQK8rE3Y_O2ti-U25RJ1gGfA5fGysPJ9eJ81v5zUeisA&oe=6AA8B890",
-    "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
-    "type": "video",
-    "ratio": "9 / 16",
-    "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
-    "styles": [],
-    "related": [],
-    "caption": [],
-    "caption_text": "In an attention economy, art becomes motif, becomes shareable content. Made for the passers-by on site – or for the smartphone, already considered at the moment of creation? Our kawaii-style cat wears that openly - an object that wants to be seen, on screen and on site. \nOn view from 30.06.-18.07.26\nRindermarkt 10 (next to marienplatz), Munich \nwith @kreativmuenchen @ruffinicreativehub \n\nSpecial thanks to @zirka.space for being so cool and cat-friendly and letting us shoot in your beautiful space",
-    "published_at": "2026-07-01T15:33:36.000Z",
-    "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
-    "saved": false,
-    "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
-    },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者 caption 明示為 Input Club Barcelona 製作的新視覺，並標註 @inputdanceclub 與 @ovktr。",
+    "carousel_pending": false,
+    "duration_seconds": 7.846892,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+    }
   },
   {
     "id": "selectedyear-DY7Lmn7CBO9-1",
@@ -23253,7 +23415,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -23440,7 +23602,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -23594,7 +23756,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -23759,7 +23921,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -23925,7 +24087,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -24069,7 +24231,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -24221,7 +24383,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
       "observed_times": [
         13.69,
@@ -24405,7 +24567,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
       "observed_times": [
         3.26,
@@ -24590,7 +24752,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
       "observed_times": [
         0.26,
@@ -24767,7 +24929,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -24941,7 +25103,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -25100,7 +25262,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -25259,7 +25421,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -25418,7 +25580,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -25577,7 +25739,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -25736,7 +25898,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -25895,7 +26057,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -26054,7 +26216,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -26213,7 +26375,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -26360,7 +26522,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -26546,7 +26708,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -26702,7 +26864,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -26859,7 +27021,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -26995,7 +27157,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -27131,7 +27293,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -27287,7 +27449,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -27443,7 +27605,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -27600,7 +27762,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [
         0.053,
@@ -27732,7 +27894,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -27859,7 +28021,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -27988,7 +28150,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -28136,7 +28298,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -28276,7 +28438,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -28426,7 +28588,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -28576,7 +28738,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -28747,7 +28909,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。",
       "observed_times": [
         0.22,
@@ -28919,7 +29081,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。臉部與長髮近景，眼睛、鼻環、皮膚細紋及髮絲高光清楚可見，四周有粉色邊框。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -29106,7 +29268,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。上下分屏特寫，上半為眼睛、瀏海，下半為鼻環、臉頰與髮絲；暗紅色分隔線。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -29294,7 +29456,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。同一姿勢的製作圖，臉部、手部及衣服顯示密集四邊形線框；皮膚是灰白基底，頭髮仍有深淺髮絲。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -29501,7 +29663,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色半張臉、紅黑髮絲、黑色尖刺及粉紅羽翼特寫，背景有手繪臉形符號。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -29689,7 +29851,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。裁切至軀幹，黑色亮面衣裝、銀色尖刺弧形框架與粉紅羽片。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -29856,7 +30018,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。無前景尖刺框架的角色與雙側粉紅羽翼，黑色衣服、紅黑髮絲。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -30023,7 +30185,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。粉紅羽翼與半張角色臉部的近景，羽片分層、紅黑髮絲清楚。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -30170,7 +30332,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色及羽翼的灰模版本，衣服與毛髮灰白，皮膚保留粉色基底；沒有彩色羽翼材質。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -30294,7 +30456,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。紅色背景下的座艙上方視角，弧形防護架包圍駕駛頭盔。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -30419,7 +30581,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼及支撐结构近景，紅橘色高光沿黑色曲面延展。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -30546,7 +30708,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。小型後視鏡、支架及車身曲面特寫，可見細密纖維紋理。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -30691,7 +30853,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼端板與車尾近景，可見編織紋理、輪胎局部和紅色點陣燈。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -30818,7 +30980,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。座艙上方進氣口、頂部結構與紅光車身曲面。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -30941,7 +31103,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。賽車座艙側面，防護架、頭盔及上方結構形成深色輪廓與紅色邊光。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -31131,7 +31293,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "實際開啟輪播第2張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -31340,7 +31502,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "第6張為多頁作品拼貼，能辨識多層圓弧、放射扇形、球形與平滑金屬曲面；與第5張攤開書本不同，畫面大部分直接展示CG作品。作者指明兩組為Taipei Design Award 2023與第34屆金曲獎。靜態圖僅標記液滴造型，不標液體流動、擴散、堆疊動作或布料模擬。",
       "observed_times": [],
       "dimension_status": {
@@ -31481,7 +31643,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第2張觀察：信用卡以另一斜角呈現，地面可見放射白色光芒和細小亮點。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -31643,7 +31805,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第3張觀察：紫銀色筆電中顯示DAWAY信用卡網站主視覺，背景為柔和光譜場景。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -31785,7 +31947,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第4張觀察：正面筆電展示人物持購物袋的品牌網站頁面，外部有淡紫反射場景。人物是頁面中的攝影素材，不判為CG角色。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -31976,7 +32138,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第5張觀察：六格CG圖示包含飲料杯、串燒、定位點、P字代幣、放大鏡及手提包，均為透明折射外觀。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -32189,7 +32351,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第6張觀察：中央手機比例的透明社群介面與周圍圖卡展示相同玻璃感生活圖示。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -32358,7 +32520,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張開啟七張轮播；第7張觀察：右側為帶虹彩金屬光澤的DAWAY立體字標及放射光，左側是灰紫及青藍品牌色票。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -32555,7 +32717,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.41秒角色閉眼張嘴且頭部向另一側；1.89秒睜眼、嘴型與頭朝向改變；蝴蝶翅膀方向亦不同。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         0.41,
@@ -32726,7 +32888,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "第3張為靜態六個小熊表情／姿態設定，包含張嘴露齒及閉眼，舞台簾幕邊框；姿勢差異不是動畫證據。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [],
       "dimension_status": {
@@ -32904,7 +33066,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "蜘蛛停在花邊，1.79、4.56、6.04秒花瓣輪廓及細線略微改變；沒有看到蜘蛛爬行、手指或咬合，僅確認手繪線條循環。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         1.79,
@@ -33115,7 +33277,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.96秒葉片頂端小昆蟲呈直立捲曲姿態，3.05秒變為水平，角落蝴蝶翅形亦改變；背景手寫文字及波形邊框。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         2.96,
@@ -33293,7 +33455,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第2/8個媒體。由密集黑白粒點描繪樹幹、樹冠和滿地石塊，為森林掃描視覺。靜態圖片不標粒子擴散。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -33483,7 +33645,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第3/8個媒體。黃黑網布越野鞋以側面斜立姿態置於淺灰山岩與白色粒點霧狀環境。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -33661,7 +33823,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第4/8個媒體。兩秒影片中，鞋款的正面與斜側面隨視角變換，周圍點雲呈水平拖抹外觀。可確認鏡頭視差；未見鞋体碎裂或液體流動。 第8個無下一步。",
       "observed_times": [
         0.636,
@@ -33809,7 +33971,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第5/8個媒體。灰色背景中懸置黄黑越野鞋，細看網眼織物、鞋帶、粗糙中底和黑色鞋底齒紋。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -33998,7 +34160,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第6/8個媒體。黃色網布鞋懸置草地與碎石前方，背景有淡綠灰色薄霧及纖細草莖。靜態懸置不標飛行或生長。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -34198,7 +34360,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第7/8個媒體。黃黑鞋款橫置深色岩壁旁，低視角可見凸起鞋底齒纹，背景為灰白霧狀點雲。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -34351,7 +34513,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐一打開輪播第8/8個媒體。五秒森林點雲影片呈綠褐樹冠、灰藍天空與模糊粒點邊緣。不同時刻樹幹與前景相對位置略變，記錄鏡頭視差；無法確認獨立風擺、樹木生長或粒子生成。 第8個無下一步。",
       "observed_times": [
         0,
@@ -34561,7 +34723,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第2/7張：黑色背景中單一圓盘，外緣白色高光、透明厚邊與粉紫同心紋理；中心有綠紅光譜。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -34757,7 +34919,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第3/7張：多個透明圓盤以不同角度分布，呈紫粉邊緣及綠色高光，前景與後景大小差異明顯。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -34941,7 +35103,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第4/7張：多個凸面球狀玻璃體以不同大小分布，表面紫色反射和綠色光帶；形體較圓盤飽滿。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -35158,7 +35320,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第5/7張：單一圓盤的大幅裁切微距，能見細密同心刻紋、桃紅高光與綠紅反射。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -35342,7 +35504,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第6/7張：大量不同大小的球狀玻璃體散布於畫面，紫粉外緣與斜向綠色反光；沒有接觸碰撞的可用動態證據。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -35549,7 +35711,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "逐張檢視第7/7張：斜角近景的透明圓盤带桃紅紫色表面與青綠邊緣反光，後方圓盤因景深而模糊。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -35782,7 +35944,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.388角色眼睛睜開、船艦偏左；5.113眼皮半閉且船艦位置/角度改變；9.713艙內PORTFOLIO DOWN 70%畫面。非投資推薦內容。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.388,
@@ -35968,7 +36130,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "3.007/3.240藍綠線框船艦；4.450紫船在畫面右緣，6.619回到中央，顯示路徑位移。是大型模型展示，不把曲線圖本身当特效，也不推定物理解算。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         3.007,
@@ -36218,7 +36380,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.413軟體中的紫色模型與曲線，9.759成片的船艦、速度光線與碎片。沒看到碰撞因果，不標撞擊或爆炸。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.413,
@@ -36448,7 +36610,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.203至1.397上方路旁人物周圍新出現小氣泡。沒有確認氣泡融合過程，不標合併或液體。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.203,
@@ -36679,7 +36841,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.072雙手持手機低頭；0.698/0.751一手抬拳、頭部轉向、通知框顯示。透明罩的尺寸變化未確認。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.072,
@@ -36907,7 +37069,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "2.287近景士兵持槍在青色罩內；6.453與7.747同一俯視戰壕構圖中的無人機位置改變、紅色光暈位置改變。沒有觀察到完整撞擊因果，不標碰撞或爆炸模擬。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         2.287,
@@ -37118,7 +37280,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "12.368左侧獨立圓形與右側多瓣氣泡；16.190同組圓形已連成單一外輪廓；19.824為廣場成片。畫面清楚顯示氣泡幾何融合，非流體解算證據。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         12.368,
@@ -37350,7 +37512,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "10.551黑底青色罩體，建築雕像輪廓被扣出；22.957疊入城市背景、高光与透明罩。是分層合成對照，未確認罩體本身連續移動，不以切換圖層當物件動態。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         10.551,
@@ -37572,7 +37734,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "1.627軟體內人物側頭、一手高舉手機；8.227成片人物面向前方、手機移至胸前且通知框顯示。確有角色姿勢變化，不標氣泡流動。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.627,
@@ -37926,7 +38088,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "8.979男子持手機；12.341街道人群與透明罩；19.666手機人物與通知；26.595城市建築罩體；39.004戰壕前景罩體；46.634士兵持槍；57.856空中飛行器與紅光、散開碎片。僅標看見的飛行與碎片，不推定碰撞原因、火焰或物理解算。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         8.979,
@@ -38171,7 +38333,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "11.634字標斜橫向，19.627字標近縱向，山體與樹林相對構圖一起改變，確認鏡頭環繞。鳥群存在，但不由兩個不同視角推定群集模擬演算法。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         11.634,
@@ -38414,7 +38576,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "4.312與5.644背景與排列不動，根部朝向和樹冠輪廓改變，符合單株旋轉展示；不把整株視角改變標為風力彎曲或生長。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         4.312,
@@ -38625,7 +38787,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "0.432與3.174同一枝葉近景構圖有細微輪廓差異，無足夠證據區分視角移動與枝葉擺動，因此不加風流、生長等特定動態。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         0.432,
@@ -38864,7 +39026,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "15.397至24.500字標與山體視角改變，霧團輪廓也不同。能確認鏡頭運動；沒有看到生成過程，不標植物生長、爆炸或煙霧解算器。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         15.397,
@@ -39098,7 +39260,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "12.057螞蟻側面、20.108螞蟻肢體姿態改變；28.734髮丝束；36.862輪椅角色灰模；46.858Unreal室內與材質選單。只把骨架姿勢改變視作動態，不由單張髮絲畫面推定生長。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         12.057,
@@ -39263,7 +39425,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "單張CG近照，清楚顯示外殼、束帶、扣環和牽引繩；沒有時間序列，不標牽引動態。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -39558,7 +39720,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "16.134白色髮束近照；24.531近地面螞蟻前景；33.008角色與蟻群位於另一段窗格旁、髮束輪廓改變。灰模不標棕色外殼，髮絲不是煙霧。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         16.134,
@@ -39690,7 +39852,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "靜態細節圖，能看見密集髮絲及波形外輪廓；不把靜態波形標成波浪動態、流動或煙。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -39985,7 +40147,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "14.173髮束近照；25.360輪椅人物髮束偏向右上；34.565髮束更垂直且外輪廓變化，螞蟻群與人物在走廊中的構圖位置改變。角色、螞蟻與繩索有程序化關係，由caption確認，不推定Vellum。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         14.173,
@@ -40210,7 +40372,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T06:15:09",
+      "reviewed_at": "2026-09-11T06:31:20",
       "evidence": "單張CG場景圖，窗框、人物、輪椅、螞蟻、繩索與地面光影清楚可辨，不套用影片動態。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -40229,6 +40391,925 @@
         "organic"
       ],
       "evidence": "單張CG場景圖，窗框、人物、輪椅、螞蟻、繩索與地面光影清楚可辨，不套用影片動態。 七項逐一檢視，末項沒有下一步。"
+    }
+  },
+  {
+    "id": "selectedyear-DaVW5N0iJ6e-2",
+    "post_id": "DaVW5N0iJ6e",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "title": "Input Club · 觸手纏繞",
+    "creator": "vincentschwenk",
+    "publisher": "vincentschwenk",
+    "source_accounts": [
+      "vincentschwenk"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/731059068_18596800657003453_4680472566434014521_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzkzMjQ5NjExNjc0MjM2ODQ4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=NLzXAE_2JBoQ7kNvwGXQGE3&_nc_oc=AdqVMEkKwSjEdXHwrj9GR4QGW5PSpNc785LX_1agMo3O82pwTaFt6j2qLaWuhf88-Vo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=fYc03qnm-wchveNhJbEmHg&_nc_ss=7a22e&oh=00_AQIjb-oWl1MvWs4yPVbSeybZc5FAAQW8MTGGQVtM81-vmQ&oe=6AA91575",
+    "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "粉白與橄欖黃色的吸盤觸手在岩石間彎折、交錯捲曲。",
+    "tags": [
+      {
+        "en": "tentacle",
+        "zh": "觸手",
+        "category": "subject",
+        "search_aliases": [
+          "腕足"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "suction cup",
+        "zh": "吸盤",
+        "category": "subject",
+        "search_aliases": [
+          "吸盤結構"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "search_aliases": [
+          "石塊"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "glossy",
+        "zh": "濕潤亮面",
+        "category": "material",
+        "search_aliases": [
+          "反光",
+          "wet look"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "rough",
+        "zh": "粗糙",
+        "category": "material",
+        "search_aliases": [
+          "粗糙岩石"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "cream",
+        "zh": "奶油色",
+        "category": "color",
+        "search_aliases": [
+          "米白"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖色",
+        "category": "color",
+        "search_aliases": [
+          "黃綠"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "dark gray",
+        "zh": "深灰色",
+        "category": "color",
+        "search_aliases": [
+          "灰"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "curl",
+        "zh": "捲曲",
+        "category": "motion",
+        "search_aliases": [
+          "彎曲",
+          "bend"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "twist",
+        "zh": "扭轉",
+        "category": "motion",
+        "search_aliases": [
+          "扭動"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      },
+      {
+        "en": "entwine",
+        "zh": "纏繞",
+        "category": "motion",
+        "search_aliases": [
+          "交纏",
+          "交錯"
+        ],
+        "source": "visual",
+        "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New visuals for Input Club Barcelona.\nSome nights call for strange, beautiful things swimming out of the dark. This one’s for the dancefloor, a deep-sea world built to move with the music.\n🐙🌊\nThanks @ovktr \n@inputdanceclub",
+    "published_at": "2026-07-03T14:15:02.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commissioned_brand_visual",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。",
+      "observed_times": [
+        1.263247,
+        4.460225
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者 caption 明示為 Input Club Barcelona 製作的新視覺，並標註 @inputdanceclub 與 @ovktr。",
+    "carousel_pending": false,
+    "duration_seconds": 6.685894,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+    }
+  },
+  {
+    "id": "selectedyear-DaVW5N0iJ6e-3",
+    "post_id": "DaVW5N0iJ6e",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "title": "Input Club · 深海角色造型",
+    "creator": "vincentschwenk",
+    "publisher": "vincentschwenk",
+    "source_accounts": [
+      "vincentschwenk"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/731791671_18596800483003453_6489568728003676411_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkzMjQ5NjExNTkzNzA4MDEzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTc5Ny5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=TlFfLSHl7qEQ7kNvwF6GdYj&_nc_oc=AdoE1rPXqIAHbnxBDnZDHnyqqQvpN6UAJX1fX22QXwlWvcSGcHs6fRYbU4_geZLe2OE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=fYc03qnm-wchveNhJbEmHg&_nc_ss=7a22e&oh=00_AQJYWA5hxK95kkwgeI9_PbFSw06LJ8_PJeaPe9W925NWBQ&oe=6AA908F4",
+    "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "灰白背景上的兩隻幻想生物：尖鰭、粉色嘴部、球狀突起和奶油色附肢。",
+    "tags": [
+      {
+        "en": "fantasy sea creature",
+        "zh": "幻想海洋生物",
+        "category": "subject",
+        "search_aliases": [
+          "深海生物",
+          "怪魚",
+          "underwater creature"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "fish",
+        "zh": "魚",
+        "category": "subject",
+        "search_aliases": [
+          "魚類"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "fin",
+        "zh": "魚鰭",
+        "category": "subject",
+        "search_aliases": [
+          "鰭片"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "tube",
+        "zh": "管狀身體",
+        "category": "subject",
+        "search_aliases": [
+          "管狀生物"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "globule",
+        "zh": "球狀突起",
+        "category": "subject",
+        "search_aliases": [
+          "顆粒突起"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "glossy",
+        "zh": "亮面",
+        "category": "material",
+        "search_aliases": [
+          "濕潤光澤",
+          "wet look"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "bumpy",
+        "zh": "凹凸表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "灰"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "cream",
+        "zh": "奶油色",
+        "category": "color",
+        "search_aliases": [
+          "米黃"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New visuals for Input Club Barcelona.\nSome nights call for strange, beautiful things swimming out of the dark. This one’s for the dancefloor, a deep-sea world built to move with the music.\n🐙🌊\nThanks @ovktr \n@inputdanceclub",
+    "published_at": "2026-07-03T14:15:02.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commissioned_brand_visual",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者 caption 明示為 Input Club Barcelona 製作的新視覺，並標註 @inputdanceclub 與 @ovktr。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic"
+      ],
+      "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+    }
+  },
+  {
+    "id": "selectedyear-DaVW5N0iJ6e-4",
+    "post_id": "DaVW5N0iJ6e",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "title": "Input Club · 粉色魚擺鰭",
+    "creator": "vincentschwenk",
+    "publisher": "vincentschwenk",
+    "source_accounts": [
+      "vincentschwenk"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/735543638_18596800684003453_6083336813246621473_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzkzMjQ5NjExNTkzNzA4MjYxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=lPZ2zJf97A4Q7kNvwFOy-Tv&_nc_oc=Ado8Rll9rNdLymifeGTqz3gYkiYvOL-mczYPgt2mPhqPVPM4BF8u4hrRp4hN8eQH-bE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=fYc03qnm-wchveNhJbEmHg&_nc_ss=7a22e&oh=00_AQJ1zQ03wqEva33WQhe1Znnuh8BQ-iRTAKDCx6Utk6BE4A&oe=6AA8F148",
+    "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "粉白色幻想魚在岩石前搖擺轉身，半透明魚鰭展開。",
+    "tags": [
+      {
+        "en": "fantasy fish",
+        "zh": "幻想魚",
+        "category": "subject",
+        "search_aliases": [
+          "魚",
+          "海洋生物"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "fin",
+        "zh": "魚鰭",
+        "category": "subject",
+        "search_aliases": [
+          "鰭片"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "mouth",
+        "zh": "嘴部",
+        "category": "subject",
+        "search_aliases": [
+          "魚嘴"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "rock",
+        "zh": "岩石",
+        "category": "subject",
+        "search_aliases": [
+          "石塊"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "glossy",
+        "zh": "濕潤亮面",
+        "category": "material",
+        "search_aliases": [
+          "高光",
+          "wet look"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "translucent",
+        "zh": "半透明",
+        "category": "material",
+        "search_aliases": [
+          "透光魚鰭"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色",
+          "洋紅"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "dark gray",
+        "zh": "深灰色",
+        "category": "color",
+        "search_aliases": [
+          "黑灰"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "swim",
+        "zh": "游動",
+        "category": "motion",
+        "search_aliases": [
+          "游泳",
+          "swimming"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "fin flap",
+        "zh": "擺鰭",
+        "category": "motion",
+        "search_aliases": [
+          "魚鰭開合",
+          "flapping"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      },
+      {
+        "en": "sway",
+        "zh": "搖擺",
+        "category": "motion",
+        "search_aliases": [
+          "身體擺動"
+        ],
+        "source": "visual",
+        "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New visuals for Input Club Barcelona.\nSome nights call for strange, beautiful things swimming out of the dark. This one’s for the dancefloor, a deep-sea world built to move with the music.\n🐙🌊\nThanks @ovktr \n@inputdanceclub",
+    "published_at": "2026-07-03T14:15:02.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commissioned_brand_visual",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。",
+      "observed_times": [
+        0.687961,
+        1.771516
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者 caption 明示為 Input Club Barcelona 製作的新視覺，並標註 @inputdanceclub 與 @ovktr。",
+    "carousel_pending": false,
+    "duration_seconds": 10.052788,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+    }
+  },
+  {
+    "id": "selectedyear-DaQWS4YiAi--6",
+    "post_id": "DaQWS4YiAi-",
+    "index": 6,
+    "media_index": 6,
+    "total": 10,
+    "title": "Kawaii Cat · 螢幕中的壓縮變形",
+    "creator": "vincentschwenk",
+    "publisher": "vincentschwenk",
+    "source_accounts": [
+      "vincentschwenk"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/729616290_18596465191003453_2770702905454142252_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=MzkzMTc0MDMxMzY0NzMyMDMwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=WFZj_Z9du9AQ7kNvwHyQ2ze&_nc_oc=Adq-L0jMfzE9ntry9K-poWAX_sHKEn4QpbXmoNaq8qMkBZL4k3vuy0au7oet3FAoKfc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=Ek-r-ixqsWIpbBwFK86BVQ&_nc_ss=7a22e&oh=00_AQLHDog8VqOOmfn2ArHHRaBvg9xhjE6FI-BsaPok0Fmp-w&oe=6AA8FACB",
+    "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "裝置螢幕中的紫色貓咪由壓扁褶皺姿態回復較飽滿形狀；保留數位動畫部分作為參考。",
+    "tags": [
+      {
+        "en": "cat",
+        "zh": "貓咪",
+        "category": "subject",
+        "search_aliases": [
+          "貓",
+          "kitten"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "kawaii character",
+        "zh": "可愛角色",
+        "category": "subject",
+        "search_aliases": [
+          "卡通角色",
+          "吉祥物"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "fabric-like",
+        "zh": "布料感",
+        "category": "material",
+        "search_aliases": [
+          "柔軟表面",
+          "soft surface"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫",
+          "lavender",
+          "淡紫"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "screen",
+        "zh": "螢幕",
+        "category": "subject",
+        "search_aliases": [
+          "平板顯示器"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "art installation",
+        "zh": "藝術裝置",
+        "category": "subject",
+        "search_aliases": [
+          "展覽"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "wrinkle",
+        "zh": "褶皺",
+        "category": "material",
+        "search_aliases": [
+          "皺褶"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "squash",
+        "zh": "壓扁",
+        "category": "motion",
+        "search_aliases": [
+          "擠壓",
+          "squish"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "inflate",
+        "zh": "膨脹",
+        "category": "motion",
+        "search_aliases": [
+          "鼓起",
+          "充氣"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "recover",
+        "zh": "回復形狀",
+        "category": "motion",
+        "search_aliases": [
+          "恢復",
+          "還原"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      },
+      {
+        "en": "deform",
+        "zh": "變形",
+        "category": "motion",
+        "search_aliases": [
+          "形變"
+        ],
+        "source": "visual",
+        "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "In an attention economy, art becomes motif, becomes shareable content. Made for the passers-by on site – or for the smartphone, already considered at the moment of creation? Our kawaii-style cat wears that openly - an object that wants to be seen, on screen and on site. \nOn view from 30.06.-18.07.26\nRindermarkt 10 (next to marienplatz), Munich \nwith @kreativmuenchen @ruffinicreativehub \n\nSpecial thanks to @zirka.space for being so cool and cat-friendly and letting us shoot in your beautiful space",
+    "published_at": "2026-07-01T15:33:36.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。",
+      "observed_times": [
+        0.536947,
+        2.880927,
+        3.04489
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者展示自己的 Kawaii Cat 公共藝術及螢幕動畫，caption 明示展出地點與合作單位。",
+    "carousel_pending": false,
+    "duration_seconds": 3.899999,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "organic"
+      ],
+      "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+    }
+  },
+  {
+    "id": "selectedyear-DaQWS4YiAi--9",
+    "post_id": "DaQWS4YiAi-",
+    "index": 9,
+    "media_index": 9,
+    "total": 10,
+    "title": "Kawaii Cat · 角色字體海報",
+    "creator": "vincentschwenk",
+    "publisher": "vincentschwenk",
+    "source_accounts": [
+      "vincentschwenk"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/733938591_18596465074003453_545326414442440110_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=MzkzMTc0MDMwMTQ2MDMwMDE3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTUzNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hSprp7ZYrUcQ7kNvwErbL7i&_nc_oc=AdrfmvoZbyy5OPaPBkXkcj0kyRNZzHVM0wJHTR7D_FB9Eexr1NjcYKQJQFt-BhAOwTc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=sM_Wzv1Q5sOujV33yY_xkw&_nc_ss=7a22e&oh=00_AQKWow3bItt6hecJkUtwrzTA3ZpUAmXshWWpevbv6gFTPQ&oe=6AA8FBC6",
+    "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "淡紫背景的立體貓咪與粉色 CURIOSITY KILLED THE CAT 文字排版。",
+    "tags": [
+      {
+        "en": "cat",
+        "zh": "貓咪",
+        "category": "subject",
+        "search_aliases": [
+          "貓",
+          "kitten"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "kawaii character",
+        "zh": "可愛角色",
+        "category": "subject",
+        "search_aliases": [
+          "卡通角色",
+          "吉祥物"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "fabric-like",
+        "zh": "布料感",
+        "category": "material",
+        "search_aliases": [
+          "柔軟表面",
+          "soft surface"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫",
+          "lavender",
+          "淡紫"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "typography",
+        "zh": "文字排版",
+        "category": "subject",
+        "search_aliases": [
+          "字體",
+          "字標"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "poster",
+        "zh": "海報",
+        "category": "subject",
+        "search_aliases": [
+          "平面設計"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      },
+      {
+        "en": "matte",
+        "zh": "霧面",
+        "category": "material",
+        "search_aliases": [
+          "柔和表面"
+        ],
+        "source": "visual",
+        "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "In an attention economy, art becomes motif, becomes shareable content. Made for the passers-by on site – or for the smartphone, already considered at the moment of creation? Our kawaii-style cat wears that openly - an object that wants to be seen, on screen and on site. \nOn view from 30.06.-18.07.26\nRindermarkt 10 (next to marienplatz), Munich \nwith @kreativmuenchen @ruffinicreativehub \n\nSpecial thanks to @zirka.space for being so cool and cat-friendly and letting us shoot in your beautiful space",
+    "published_at": "2026-07-01T15:33:36.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T06:31:20",
+      "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者原創角色與展覽海報。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "organic"
+      ],
+      "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
     }
   }
 ]

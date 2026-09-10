@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2107,
+  "total": 2113,
   "unclassified": 0,
   "counts": {
-    "graphic": 426,
+    "graphic": 428,
     "product": 759,
-    "organic": 440,
+    "organic": 446,
     "geometric": 830,
     "scifi": 296,
-    "effects": 130
+    "effects": 133
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1041,6 +1041,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "6.714近景繩索連到人物手部；17.903俯視走廊；26.290輪椅人物；35.781與47.142蟻群腿部姿態、前後位置及髮束方向不同。上下為同一動畫的成片及灰模。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVW5N0iJ6e-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
           ],
           "matched_tags": []
         }
@@ -3366,6 +3395,139 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單張CG場景圖，窗框、人物、輪椅、螞蟻、繩索與地面光影清楚可辨，不套用影片動態。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVW5N0iJ6e-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVW5N0iJ6e-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVW5N0iJ6e-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQWS4YiAi--6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQWS4YiAi--9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
           ],
           "matched_tags": []
         }

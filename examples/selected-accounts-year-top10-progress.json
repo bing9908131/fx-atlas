@@ -9282,19 +9282,36 @@
           "shortcode": "DaVW5N0iJ6e",
           "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
           "published_at": "2026-07-03T14:15:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DaVW5N0iJ6e-1"
-          ]
+            "selectedyear-DaVW5N0iJ6e-1",
+            "selectedyear-DaVW5N0iJ6e-2",
+            "selectedyear-DaVW5N0iJ6e-3",
+            "selectedyear-DaVW5N0iJ6e-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DaQWS4YiAi-",
           "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
           "published_at": "2026-07-01T15:33:36.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DaQWS4YiAi--1"
-          ]
+            "selectedyear-DaQWS4YiAi--6",
+            "selectedyear-DaQWS4YiAi--9"
+          ],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            8,
+            10
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

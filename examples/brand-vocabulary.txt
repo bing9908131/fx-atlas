@@ -213,3 +213,4 @@ CoinGecko|CoinGecko|coingecko
 Magic: The Gathering|魔法風雲會|magic the gathering,magicthegathering,魔法風雲會
 Marvel|漫威|marvel,漫威
 VMGROUPE|VMGROUPE|vmgroupe,vm groupe
+Input Club|Input Club|Input Club Barcelona,inputdanceclub
