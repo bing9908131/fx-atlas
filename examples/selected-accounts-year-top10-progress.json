@@ -8260,7 +8260,7 @@
           "shortcode": "DNgNZA2Nxf5",
           "url": "https://www.instagram.com/sy_gaussens/p/DNgNZA2Nxf5/",
           "published_at": "2025-08-18T16:35:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DNgNZA2Nxf5-1"
           ]
@@ -8269,7 +8269,7 @@
           "shortcode": "DJ9-gYUtu7B",
           "url": "https://www.instagram.com/sy_gaussens/p/DJ9-gYUtu7B/",
           "published_at": "2025-05-22T19:57:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DJ9-gYUtu7B-1"
           ]
@@ -8320,7 +8320,7 @@
           "shortcode": "DPQMafsEkQZ",
           "url": "https://www.instagram.com/nulls_design/p/DPQMafsEkQZ/",
           "published_at": "2025-10-01T04:21:56.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DPQMafsEkQZ-1"
           ]
@@ -8329,7 +8329,7 @@
           "shortcode": "DPQL0q_Epzi",
           "url": "https://www.instagram.com/nulls_design/p/DPQL0q_Epzi/",
           "published_at": "2025-10-01T04:16:46.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DPQL0q_Epzi-1"
           ]
@@ -8345,26 +8345,95 @@
     {
       "handle": "szoraidez",
       "url": "https://www.instagram.com/szoraidez/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYzRTEYjCZT",
+          "url": "https://www.instagram.com/szoraidez/p/DYzRTEYjCZT/",
+          "published_at": "2026-05-26T12:00:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYzRTEYjCZT-1"
+          ]
+        },
+        {
+          "shortcode": "DYnLw26u-OR",
+          "url": "https://www.instagram.com/szoraidez/reel/DYnLw26u-OR/",
+          "published_at": "2026-05-21T19:21:46.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYnLw26u-OR-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYzRTEYjCZT",
+        "DYnLw26u-OR"
+      ],
+      "latest_two_selection_evidence": "First two profile entries without pins; exact dates read. Ring caption states with Jordan; green visual study medium/motion pending detailed review."
     },
     {
       "handle": "tavo_studio",
       "url": "https://www.instagram.com/tavo_studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dclo7W_DMRp",
+          "url": "https://www.instagram.com/tavo_studio/p/Dclo7W_DMRp/",
+          "published_at": "2026-08-28T15:03:30.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dclo7W_DMRp-1"
+          ]
+        },
+        {
+          "shortcode": "Dcd6mHUjmqV",
+          "url": "https://www.instagram.com/tavo_studio/p/Dcd6mHUjmqV/",
+          "published_at": "2026-08-25T15:03:58.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcd6mHUjmqV-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dclo7W_DMRp",
+        "Dcd6mHUjmqV"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; original dates read. Explicit final-campaign production scraps and homepage logo commission with material R&D."
     },
     {
       "handle": "teaaalexis",
       "url": "https://www.instagram.com/teaaalexis/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXhIS4uDPmu",
+          "url": "https://www.instagram.com/teaaalexis/reel/DXhIS4uDPmu/",
+          "published_at": "2026-04-24T14:32:11.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXhIS4uDPmu-1"
+          ]
+        },
+        {
+          "shortcode": "DWESHqLDE7A",
+          "url": "https://www.instagram.com/teaaalexis/p/DWESHqLDE7A/",
+          "published_at": "2026-03-19T13:00:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWESHqLDE7A-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXhIS4uDPmu",
+        "DWESHqLDE7A"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts newer than 2025/2024/2023 pins; dates read. First explicit 3D prerendered interactive world; website carousel needs per-slide review of CG portfolio versus site UI."
     },
     {
       "handle": "thanu_lee",
@@ -8647,9 +8716,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 379,
-  "imported_media": 380,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 385,
+  "imported_media": 386,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
