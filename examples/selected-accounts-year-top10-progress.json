@@ -6834,7 +6834,7 @@
           "shortcode": "DcLCDYukQpp",
           "url": "https://www.instagram.com/panoplycreative/p/DcLCDYukQpp/",
           "published_at": "2026-08-18T07:03:42.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcLCDYukQpp-1"
           ]
@@ -6856,7 +6856,7 @@
           "shortcode": "DdEw7ExOgft",
           "url": "https://www.instagram.com/passionanimation/reel/DdEw7ExOgft/",
           "published_at": "2026-09-09T17:11:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEw7ExOgft-1"
           ]
@@ -6865,7 +6865,7 @@
           "shortcode": "DdBvsJRBr7F",
           "url": "https://www.instagram.com/passionanimation/reel/DdBvsJRBr7F/",
           "published_at": "2026-09-08T13:01:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdBvsJRBr7F-1"
           ]
@@ -6887,7 +6887,7 @@
           "shortcode": "DYZs1PBivP0",
           "url": "https://www.instagram.com/paulesteves28/p/DYZs1PBivP0/",
           "published_at": "2026-05-16T13:40:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYZs1PBivP0-1"
           ]
@@ -6896,7 +6896,7 @@
           "shortcode": "DUqVjNiCkdF",
           "url": "https://www.instagram.com/paulesteves28/reel/DUqVjNiCkdF/",
           "published_at": "2026-02-12T14:39:33.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DUqVjNiCkdF-1"
           ]
@@ -6912,26 +6912,93 @@
     {
       "handle": "peelanimation",
       "url": "https://www.instagram.com/peelanimation/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc3lY88I1Ku",
+          "url": "https://www.instagram.com/peelanimation/reel/Dc3lY88I1Ku/",
+          "published_at": "2026-09-04T14:20:12.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3lY88I1Ku-1"
+          ]
+        },
+        {
+          "shortcode": "DcJgZpgIpXy",
+          "url": "https://www.instagram.com/peelanimation/reel/DcJgZpgIpXy/",
+          "published_at": "2026-08-17T16:53:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcJgZpgIpXy-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc3lY88I1Ku",
+        "DcJgZpgIpXy"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts; original dates read. Watched beyond talking-head openings: first includes line-character animation, second includes kinetic type/letter deformation demonstration. Retained for detailed animation review."
     },
     {
       "handle": "peter.pongoo",
       "url": "https://www.instagram.com/peter.pongoo/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYmuMBGDKAx",
+          "url": "https://www.instagram.com/peter.pongoo/p/DYmuMBGDKAx/",
+          "published_at": "2026-05-21T15:02:53.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "作者明確標示 Apple conceptual ad；沒有品牌實際委託或使用證據，依要求排除品牌練習。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DYFXO3iMDaK",
+          "url": "https://www.instagram.com/peter.pongoo/reel/DYFXO3iMDaK/",
+          "published_at": "2026-05-08T16:09:25.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "作者明確標示 Apple conceptual ad；沒有品牌實際委託或使用證據，依要求排除品牌練習。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYmuMBGDKAx",
+        "DYFXO3iMDaK"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts, original dates read. Pinned main Pebble Runner film explicitly says conceptual ad for Apple; both selected posts are same project."
     },
     {
       "handle": "petertarka",
       "url": "https://www.instagram.com/petertarka/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcoYhgFMNAT",
+          "url": "https://www.instagram.com/petertarka/reel/DcoYhgFMNAT/",
+          "published_at": "2026-08-29T16:46:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcoYhgFMNAT-1"
+          ]
+        },
+        {
+          "shortcode": "DcdgQ46stHv",
+          "url": "https://www.instagram.com/petertarka/reel/DcdgQ46stHv/",
+          "published_at": "2026-08-25T11:17:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcdgQ46stHv-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcoYhgFMNAT",
+        "DcdgQ46stHv"
+      ],
+      "latest_two_selection_evidence": "Reordered grid: inspected first 12 posts; May 13 first grid image is older. Selected August 29 and August 25 reels by original date. Product concept/brand-use check remains pending; author states one project realized."
     },
     {
       "handle": "ping.motiondesign",
@@ -7590,9 +7657,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 313,
-  "imported_media": 314,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 317,
+  "imported_media": 318,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
