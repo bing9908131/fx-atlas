@@ -9772,19 +9772,23 @@
           "shortcode": "DcfG3e7tNyD",
           "url": "https://www.instagram.com/yeseong_k/reel/DcfG3e7tNyD/",
           "published_at": "2026-08-26T02:12:50.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcfG3e7tNyD-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZB2nhjNZCX",
           "url": "https://www.instagram.com/yeseong_k/reel/DZB2nhjNZCX/",
           "published_at": "2026-06-01T03:57:28.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZB2nhjNZCX-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9804,10 +9808,15 @@
           "shortcode": "DX-LI31iOrV",
           "url": "https://www.instagram.com/yugxl/p/DX-LI31iOrV/",
           "published_at": "2026-05-05T21:07:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DX-LI31iOrV-1"
-          ]
+            "selectedyear-DX-LI31iOrV-1",
+            "selectedyear-DX-LI31iOrV-2",
+            "selectedyear-DX-LI31iOrV-3",
+            "selectedyear-DX-LI31iOrV-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DU57zpRiKuA",

@@ -1,0 +1,208 @@
+Hublot|宇舶錶|hublot,宇舶,宇舶錶
+Ray-Ban|雷朋|rayban,ray-ban
+ALO|ALO|alo
+Gentle Monster|Gentle Monster|gentle monster
+Vuse|Vuse|vuse
+Durex|杜蕾斯|durex
+Fedrigoni|Fedrigoni|fedrigoni,fedrigoni365,fedrigoni_uk
+The Clove Club|The Clove Club|the clove club,thecloveclub
+Nike|耐吉|nike,nikefootball
+adidas|愛迪達|adidas,adidasoriginals
+Reebok|銳步|reebok
+New Balance|New Balance|newbalance,new balance
+On|On 昂跑|on running,onrunning
+Arc'teryx|始祖鳥|arc’teryx,arc'teryx,arcteryx
+Lululemon|Lululemon|lululemon
+Timberland|添柏嵐|timberland,timberland_eu
+G/FORE|G/FORE|g/fore,gfore
+Red Wing|Red Wing|red wing,red wings
+Diadora|Diadora|diadora
+Converse|匡威|converse
+Bitis Hunter|Bitis Hunter|bitis hunter
+Ralph Lauren|Ralph Lauren|ralphlauren,ralph lauren
+Moncler|Moncler|moncler
+Louis Vuitton|路易威登|louis vuitton
+Balenciaga|巴黎世家|balenciaga
+Burberry|Burberry|burberry
+Everlane|Everlane|everlane
+Del Core|Del Core|del core,delcoreofficial
+The Fabricant|The Fabricant|the_fab_ric_ant,the fabricant
+Chanel|香奈兒|chanel
+Dior|迪奧|dior
+La Mer|海洋拉娜|la mer,lamer
+Givenchy|紀梵希|givenchy
+Shiseido|資生堂|shiseido
+The Ginza|The Ginza|the ginza
+L'Oréal Paris|巴黎萊雅|lorealparis,l’oréal paris,l'oreal paris,l'oréal paris
+L'Oréal Professionnel|萊雅專業沙龍|l'oréal professionnel,l’oréal professionnel,lorealpro
+Pantene|潘婷|pantene
+Fenty Beauty|Fenty Beauty|fentybeauty,fenty beauty
+Fenty Skin|Fenty Skin|fentyskin,fenty skin
+SkinCeuticals|修麗可|skinceuticals
+Uniskin|Uniskin|uniskin
+ZitSticka|ZitSticka|zitsticka
+Hydraink|Hydraink|hydraink
+Xerjoff|Xerjoff|xerjoff
+Bvlgari|寶格麗|bulgari,bvlgari
+Issey Miyake|三宅一生|issey miyake
+Escentric Molecules|Escentric Molecules|escentric molecules
+Tweezerman|Tweezerman|tweezerman
+Renuage|Renuage|renuage
+GRACE|GRACE|grace
+Panerai|沛納海|panerai
+Master & Dynamic|Master & Dynamic|master&dynamic,master & dynamic,masteranddynamic
+Beats|Beats|beats,beatsbydre
+Bang & Olufsen|B&O|bang & olufsen,bang and olufsen,bangolufsen
+Sonos|Sonos|sonos
+Logitech G|羅技 G|logitech g,logitechg
+Turtle Beach|Turtle Beach|turtlebeach,turtle beach
+Sony|索尼|sony
+PlayStation|PlayStation|playstation
+Microsoft|微軟|microsoft,microsoft365,microsoft.design
+Google|Google|google
+Samsung|三星|samsung
+Xiaomi|小米|xiaomi,xiaomi.global
+Huawei|華為|huawei
+OPPO|OPPO|oppo
+Apple|蘋果|apple
+Alienware|外星人|alienware
+Dell|戴爾|dell
+reMarkable|reMarkable|remarkable
+Oura|Oura|oura
+Meta|Meta|meta
+Figure|Figure|figure
+Tonal|Tonal|tonal
+Philips Hue|飛利浦 Hue|philips hue
+Hive|Hive|hive,hivehomeuk
+VIZIO|VIZIO|vizio
+ZEISS|蔡司|zeiss
+IBM|IBM|ibm
+Markforged|Markforged|markforged
+Tensordyne|Tensordyne|tensordyne
+Square|Square|square
+Rimowa|日默瓦|rimowa
+IKEA|宜家家居|ikea
+Waterford|Waterford|waterford,waterfordcrystal
+SFSO|SFSO|studio.sfso,sfso
+Orluna|Orluna|orluna,orlunaled
+McLaren|麥拉倫|mclaren,mclarenf1
+Ford|福特|ford
+BMW|寶馬|bmw
+Porsche|保時捷|porsche
+Mercedes-Benz|賓士|mercedesbenz,mercedes-benz,mercedes benz
+Audi|奧迪|audi
+Lexus|凌志|lexus
+Toyota|豐田|toyota
+Mazda|馬自達|mazda
+Honda|本田|honda
+Nissan|日產|nissan
+Renault|雷諾|renault
+Opel|歐寶|opel,opelastra
+Ferrari|法拉利|ferrari,ferrarihypersail
+Lamborghini|藍寶堅尼|lamborghini
+Lucid|Lucid|lucid
+Volvo|富豪|volvo
+Rimac|Rimac|rimac
+Yamaha|山葉|yamaha
+Cannondale|Cannondale|cannondale
+Supra Boats|Supra Boats|supraboats,supra
+GM Energy|GM Energy|gm energy
+Castrol|嘉實多|castrol
+Valvoline|勝牌|valvoline
+Glenfiddich|格蘭菲迪|glenfiddich
+Dewar's|帝王威士忌|dewars,dewar's,dewar’s
+Rémy Martin|人頭馬|rémy martin,remy martin
+Kronenbourg|可倫堡|kronenbourg
+Heineken|海尼根|heineken
+Stella Artois|時代啤酒|stellaartois,stella artois
+Guinness|健力士|guinness
+Luc Belaire|Luc Belaire|luc belaire
+Ballantine's|百齡罈|ballantine’s,ballantine's
+Dom Pérignon|唐培里儂|dom pérignon,dom perignon
+Martell|馬爹利|martell
+Malaki|Malaki|malaki,wearemalaki
+Alani Nu|Alani Nu|alani,alaninu,alaninutrition
+CELSIUS|CELSIUS|celsius
+Reese's|Reese's|reese’s,reeses,reesesuk,reese's
+Oreo|奧利奧|oreo,oreo_deutschland
+BelVita|BelVita|belvita
+Crunch|Crunch|crunch
+Ricola|利口樂|ricola
+Castello|Castello|castello
+Lavita|Lavita|lavita
+Unisom|Unisom|unisom
+G-Form|G-Form|gform,g-form
+LEGO|樂高|lego
+Revolut|Revolut|revolut
+Questrade|Questrade|questrade
+Robinhood|Robinhood|robinhood
+J.P. Morgan Payments|摩根大通支付|j.p. morgan payments
+Commerzbank|德國商業銀行|commerzbank
+PTSB|PTSB|ptsb
+Uswitch|Uswitch|uswitch
+EY|安永|ey_global
+ServiceNow|ServiceNow|servicenow
+RingCentral|RingCentral|ringcentral
+NetApp|NetApp|netapp
+Squarespace|Squarespace|squarespace
+Legora|Legora|legora
+Lition|Lition|lition,lition_energie
+Verizon|威訊|verizon
+Telstra|Telstra|telstra
+eBay|eBay|ebay
+OpenAI|OpenAI|openai
+WPP|WPP|wpp
+Epocrates|Epocrates|epocrates
+ho. Mobile|ho. Mobile|ho.mobile
+Treedom|Treedom|treedom_trees,treedom
+ESPN|ESPN|espn
+NBA|NBA|nba
+NBC|NBC|nbc
+NFL|NFL|nfl
+FIFA|FIFA|fifa
+Formula 1|一級方程式|formula 1,formula1,f1
+MTV|MTV|mtv
+BBC|BBC|bbc
+ARD|ARD|ard
+ZDF|ZDF|zdf,zdfmediathek
+Channel 4|Channel 4|channel4,channel 4
+Cancer Research UK|英國癌症研究中心|cr_uk,cancer research uk
+Viasat World|Viasat World|viasat world,viasat history
+DAZN|DAZN|dazn
+FIBA|FIBA|fiba
+Baltimore Ravens|巴爾的摩烏鴉|baltimoreravens,ravens
+Boston Celtics|波士頓塞爾提克|boston celtics,celtics
+Tennessee Titans|田納西泰坦|tennesseetitans
+Atlanta Hawks|亞特蘭大老鷹|hawks
+Utah Mammoth|Utah Mammoth|utah mammoth
+Riot Games|拳頭遊戲|riotgames,riot games
+The Woolmark Company|國際羊毛局|thewoolmarkcompany,woolmark
+Lancôme|蘭蔻|lancome,lancôme
+Hazeline|Hazeline|hazeline
+KitKat|奇巧|kitkat
+Philips|飛利浦|philips
+The Singleton|蘇格登|thesingleton,thesingletonwhisky,the singleton
+EnBW|EnBW|enbw,enbw_ag
+New York Mets|紐約大都會|nymets
+MLB|美國職棒大聯盟|mlb
+Rowa|Rowa|rowa
+ActionAid|ActionAid|actionaid,actionaiditalia
+London Symphony Orchestra|倫敦交響樂團|london symphony orchestra,londonsymphonyorchestra
+National Theatre|英國國家劇院|nationaltheatre,national theatre
+Bundesliga|德國足球甲級聯賽|bundesliga_en,bundesliga
+Hyperice|Hyperice|hyperice
+SOUNDBOKS|SOUNDBOKS|soundboks
+Hong Kong International Airport|香港國際機場|hongkongairport,hkia
+Hyundai|現代汽車|hyundai
+Don Julio|唐胡立歐|don julio
+HAY|HAY|hay
+Kvadrat|Kvadrat|kvadrat,kvadrattextiles
+Montblanc|萬寶龍|montblanc
+Cornetto|可愛多|cornetto
+ASUS|華碩|asus,華碩
+Acer|宏碁|acer,宏碁
+Razer|雷蛇|razer,雷蛇
+ROG|玩家共和國|rog,玩家共和國
+VALORANT|特戰英豪|valorant,特戰英豪,無畏契約,无畏契约
+Plnty|Plnty|plnty,plnty.app,plntyapp
+

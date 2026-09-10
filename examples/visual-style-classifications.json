@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2025,
+  "total": 2031,
   "unclassified": 0,
   "counts": {
     "graphic": 394,
-    "product": 738,
-    "organic": 414,
-    "geometric": 820,
-    "scifi": 282,
-    "effects": 106
+    "product": 739,
+    "organic": 418,
+    "geometric": 821,
+    "scifi": 283,
+    "effects": 107
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -446,6 +446,81 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcfG3e7tNyD-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.68與2.35秒碎塊位置、細粒流束輪廓不同；3.77秒金球較高，5.76秒較低且表面紋路朝向改變，8.46秒接近地面。可確認粒子移動、球體下移與旋轉，不推定流體、剛體碰撞求解器。作者及片中文字明示Houdini課程；是具體CG效果示範，非講者操作錄屏。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.68與2.35秒碎塊位置、細粒流束輪廓不同；3.77秒金球較高，5.76秒較低且表面紋路朝向改變，8.46秒接近地面。可確認粒子移動、球體下移與旋轉，不推定流體、剛體碰撞求解器。作者及片中文字明示Houdini課程；是具體CG效果示範，非講者操作錄屏。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZB2nhjNZCX-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.72秒為角色背面，14.82秒為正面；角色與岩石底座整體朝向改變，切割墊和旁邊測試球位置固定。姿勢保持一致，標記模型轉台，不標記走路、布料飄動或人物表演。作者明示Turntable並列Houdini/ZBrush。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.72秒為角色背面，14.82秒為正面；角色與岩石底座整體朝向改變，切割墊和旁邊測試球位置固定。姿勢保持一致，標記模型轉台，不標記走路、布料飄動或人物表演。作者明示Turntable並列Houdini/ZBrush。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DX-LI31iOrV-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態圖片，第四項無下一步且無影片。女性角色半身，黑色上衣、手部遮住部分臉孔，棕白雙色長髮向側面展開，背景為夜間城市散景。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
           ],
           "matched_tags": []
         }
@@ -1432,6 +1507,57 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DX-LI31iOrV-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態圖片，第四項無下一步且無影片。臉部與長髮近景，眼睛、鼻環、皮膚細紋及髮絲高光清楚可見，四周有粉色邊框。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DX-LI31iOrV-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態圖片，第四項無下一步且無影片。上下分屏特寫，上半為眼睛、瀏海，下半為鼻環、臉頰與髮絲；暗紅色分隔線。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DX-LI31iOrV-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態圖片，第四項無下一步且無影片。同一姿勢的製作圖，臉部、手部及衣服顯示密集四邊形線框；皮膚是灰白基底，頭髮仍有深淺髮絲。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
           ],
           "matched_tags": []
         }
