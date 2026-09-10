@@ -78,5 +78,21 @@
     "decision": "exclude",
     "reason": "publication_documentation_without_standalone_cg",
     "evidence": "17.2秒出版章節文字宣傳，觀察到Visual Identities/Poster及13.21秒Project (01–33)文字版面，不作CG效果參考。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DdEtQNqAWTj",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "live_action_tool_demo_without_standalone_cg",
+    "evidence": "95.97秒品牌合作工具示範。6.13秒實拍書架與文字、61.15秒程式螢幕、69.19秒平板像素繪圖操作、79.68秒桌上實體電路和螢幕裝置。0.89秒有短暫紅色線狀手部特效，但主體是實拍操作與產品講解，未形成獨立CG參考段落。依排除純實拍／工具教學導向內容的要求移出，不把品牌合作或螢幕文字當成CG證據。"
+  },
+  {
+    "post_id": "Dc3Xl5zgG3i",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "live_action_software_tutorial",
+    "evidence": "89.67秒After Effects教學。7.88秒Relearning After Effects標題特寫；41.07秒AE時間軸中的手機鍵盤螢幕角點貼合示範，83.33秒真人對鏡頭講解並提示開啟通知。主體為螢幕置換教學和實拍A-roll，非獨立CG作品；不因aftereffects標籤保留。"
   }
 ]

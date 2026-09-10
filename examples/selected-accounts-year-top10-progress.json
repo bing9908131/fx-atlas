@@ -9654,19 +9654,23 @@
           "shortcode": "DdEtQNqAWTj",
           "url": "https://www.instagram.com/willtschafer/reel/DdEtQNqAWTj/",
           "published_at": "2026-09-09T16:41:25.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DdEtQNqAWTj-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dc3Xl5zgG3i",
           "url": "https://www.instagram.com/willtschafer/reel/Dc3Xl5zgG3i/",
           "published_at": "2026-09-04T12:20:00.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Dc3Xl5zgG3i-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
