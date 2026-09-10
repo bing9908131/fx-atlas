@@ -94,5 +94,13 @@
     "decision": "exclude",
     "reason": "live_action_software_tutorial",
     "evidence": "89.67秒After Effects教學。7.88秒Relearning After Effects標題特寫；41.07秒AE時間軸中的手機鍵盤螢幕角點貼合示範，83.33秒真人對鏡頭講解並提示開啟通知。主體為螢幕置換教學和實拍A-roll，非獨立CG作品；不因aftereffects標籤保留。"
+  },
+  {
+    "post_id": "DT3IZArD49X",
+    "media_index": 5,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "personal_photo_collage",
+    "evidence": "第五張把真實孩童照片頭部貼入相同插畫角色與森林背景，屬個人照片拼貼；原創插畫及動態已分別保留在其他媒體，不將照片頭部當成CG角色。"
   }
 ]

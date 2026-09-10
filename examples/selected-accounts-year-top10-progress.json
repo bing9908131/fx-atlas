@@ -9701,10 +9701,18 @@
           "shortcode": "DT3IZArD49X",
           "url": "https://www.instagram.com/wonderfall/p/DT3IZArD49X/",
           "published_at": "2026-01-23T17:22:44.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DT3IZArD49X-1"
-          ]
+            "selectedyear-DT3IZArD49X-1",
+            "selectedyear-DT3IZArD49X-2",
+            "selectedyear-DT3IZArD49X-3",
+            "selectedyear-DT3IZArD49X-4",
+            "selectedyear-DT3IZArD49X-6"
+          ],
+          "excluded_media_indices": [
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

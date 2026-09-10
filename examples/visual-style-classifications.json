@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2059,
+  "total": 2064,
   "unclassified": 0,
   "counts": {
-    "graphic": 405,
+    "graphic": 410,
     "product": 753,
     "organic": 426,
     "geometric": 823,
@@ -746,6 +746,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.57秒角色持網、旁有蝴蝶；6.68秒綠色毛蟲在樹枝上呈直立形態，8.40秒彎成拱形且角色嘴型改變；11.58秒手指接近花旁昆蟲；16.29秒多個角色在畫面邊緣。可確認毛蟲彎曲及嘴型表情變化。沒有依留言推定側手翻或任何3D求解器，畫面明確為2D插畫動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DT3IZArD49X-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "5.94秒角色與毛蟲近景；19.08秒角色位於森林左邊，20.91秒移至中央並持網，蝴蝶在固定樹木間改變位置。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
           ],
           "matched_tags": []
         }
@@ -2226,6 +2243,74 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張開啟七張轮播；第7張觀察：右側為帶虹彩金屬光澤的DAWAY立體字標及放射光，左側是灰紫及青藍品牌色票。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DT3IZArD49X-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.41秒角色閉眼張嘴且頭部向另一側；1.89秒睜眼、嘴型與頭朝向改變；蝴蝶翅膀方向亦不同。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DT3IZArD49X-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第3張為靜態六個小熊表情／姿態設定，包含張嘴露齒及閉眼，舞台簾幕邊框；姿勢差異不是動畫證據。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DT3IZArD49X-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "蜘蛛停在花邊，1.79、4.56、6.04秒花瓣輪廓及細線略微改變；沒有看到蜘蛛爬行、手指或咬合，僅確認手繪線條循環。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DT3IZArD49X-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.96秒葉片頂端小昆蟲呈直立捲曲姿態，3.05秒變為水平，角落蝴蝶翅形亦改變；背景手寫文字及波形邊框。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
           ],
           "matched_tags": []
         }
