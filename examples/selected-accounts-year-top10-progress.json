@@ -391,10 +391,9 @@
           "likes": 347,
           "likes_evidence": "347 button; named account plus 346 others",
           "caption": "SUMMER SALE! 30 %.",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DaTQfhuN5Sy-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "exclusion_reason": "User removed Summer masterclass"
         }
       ],
       "profile_post_count": 287,
@@ -3138,9 +3137,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 13,
-  "imported_media": 14,
-  "last_check_note": "Published-first intake: three newly added pending posts; one latest post already present. Remaining 289 accounts not yet selected.",
+  "imported_posts": 12,
+  "imported_media": 13,
+  "last_check_note": "Summer masterclass removed by user; excluded from future ingestion. Two pending posts remain.",
   "policy_history": [
     {
       "policy": {
