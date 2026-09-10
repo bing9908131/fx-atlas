@@ -1,0 +1,480 @@
+{
+  "status": "incomplete_instagram_rate_limited",
+  "checked_at": "2026-09-10",
+  "discovered_posts": 55,
+  "profile_post_counts": {
+    "vst_productions": 23,
+    "au_au_is": 32
+  },
+  "existing_posts": 9,
+  "added_posts": 1,
+  "added_media": 7,
+  "pending_new_posts": 45,
+  "partial_carousel": {
+    "post_id": "Dc_Nm8Hmz4a",
+    "total": 8,
+    "imported_indices": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "pending_indices": [
+      8
+    ]
+  },
+  "blocker": "Original Instagram page returned HTTP ERROR 429 while opening Dc3Gd0fmybW; no further Instagram requests made.",
+  "posts": [
+    {
+      "account": "vst_productions",
+      "post_id": "DbLVtSxqLM5",
+      "url": "https://www.instagram.com/vst_productions/reel/DbLVtSxqLM5/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DbxYWK2qHyO",
+      "url": "https://www.instagram.com/vst_productions/reel/DbxYWK2qHyO/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DdEKxydRKeX",
+      "url": "https://www.instagram.com/vst_productions/reel/DdEKxydRKeX/",
+      "status": "partial_visual_review_pending_brand_match",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Dc_Nm8Hmz4a",
+      "url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/",
+      "status": "partially_imported",
+      "added_media_ids": [
+        "twoaccounts-Dc_Nm8Hmz4a-1",
+        "twoaccounts-Dc_Nm8Hmz4a-2",
+        "twoaccounts-Dc_Nm8Hmz4a-3",
+        "twoaccounts-Dc_Nm8Hmz4a-4",
+        "twoaccounts-Dc_Nm8Hmz4a-5",
+        "twoaccounts-Dc_Nm8Hmz4a-6",
+        "twoaccounts-Dc_Nm8Hmz4a-7"
+      ],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Dc3Gd0fmybW",
+      "url": "https://www.instagram.com/vst_productions/p/Dc3Gd0fmybW/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Dc01lxxI0kL",
+      "url": "https://www.instagram.com/vst_productions/reel/Dc01lxxI0kL/",
+      "status": "partial_visual_review_pending_brand_match",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcykFurFORP",
+      "url": "https://www.instagram.com/vst_productions/p/DcykFurFORP/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DctSHiCxNUc",
+      "url": "https://www.instagram.com/vst_productions/reel/DctSHiCxNUc/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DclCCAOG1x8",
+      "url": "https://www.instagram.com/vst_productions/p/DclCCAOG1x8/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcdKCDzqar1",
+      "url": "https://www.instagram.com/vst_productions/reel/DcdKCDzqar1/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcaoZmelhbg",
+      "url": "https://www.instagram.com/vst_productions/p/DcaoZmelhbg/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Dcag7XJKS42",
+      "url": "https://www.instagram.com/vst_productions/reel/Dcag7XJKS42/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcQY0haG5p8",
+      "url": "https://www.instagram.com/vst_productions/p/DcQY0haG5p8/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcQKLoRKzHX",
+      "url": "https://www.instagram.com/vst_productions/reel/DcQKLoRKzHX/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcNnWEblOlX",
+      "url": "https://www.instagram.com/vst_productions/p/DcNnWEblOlX/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcIyAwBmxN_",
+      "url": "https://www.instagram.com/vst_productions/p/DcIyAwBmxN_/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DcA-dtjEdhV",
+      "url": "https://www.instagram.com/vst_productions/p/DcA-dtjEdhV/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Db-79_2m1Vu",
+      "url": "https://www.instagram.com/vst_productions/p/Db-79_2m1Vu/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Db5RXtvq3p_",
+      "url": "https://www.instagram.com/vst_productions/reel/Db5RXtvq3p_/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "Dbu8N2kKni_",
+      "url": "https://www.instagram.com/vst_productions/reel/Dbu8N2kKni_/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DbsPyd2qdyi",
+      "url": "https://www.instagram.com/vst_productions/reel/DbsPyd2qdyi/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DVW1BXmE4Zx",
+      "url": "https://www.instagram.com/vst_productions/reel/DVW1BXmE4Zx/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "vst_productions",
+      "post_id": "DPwb7ymitlE",
+      "url": "https://www.instagram.com/vst_productions/reel/DPwb7ymitlE/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Da2g85HTXHm",
+      "url": "https://www.instagram.com/au_au_is/reel/Da2g85HTXHm/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DZFETjRTvMn",
+      "url": "https://www.instagram.com/au_au_is/reel/DZFETjRTvMn/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DV0jkSOk5ib",
+      "url": "https://www.instagram.com/au_au_is/reel/DV0jkSOk5ib/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DTPiuSLkwz7",
+      "url": "https://www.instagram.com/au_au_is/reel/DTPiuSLkwz7/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DTM-g7wE0xR",
+      "url": "https://www.instagram.com/au_au_is/reel/DTM-g7wE0xR/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DTKWteVk2YC",
+      "url": "https://www.instagram.com/au_au_is/reel/DTKWteVk2YC/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DSHrgYbkx0W",
+      "url": "https://www.instagram.com/au_au_is/reel/DSHrgYbkx0W/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DNkvssOPeHg",
+      "url": "https://www.instagram.com/au_au_is/reel/DNkvssOPeHg/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DKPfcIkAqTu",
+      "url": "https://www.instagram.com/behance/reel/DKPfcIkAqTu/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DJ3458VTStD",
+      "url": "https://www.instagram.com/au_au_is/reel/DJ3458VTStD/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DIlc7bizixh",
+      "url": "https://www.instagram.com/au_au_is/reel/DIlc7bizixh/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DFIJL_qydtp",
+      "url": "https://www.instagram.com/au_au_is/reel/DFIJL_qydtp/",
+      "status": "existing_not_reimported",
+      "added_media_ids": [],
+      "reason": "既有資料不重複匯入；此次尚未重新逐項檢查。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DDO_phZSpWv",
+      "url": "https://www.instagram.com/au_au_is/reel/DDO_phZSpWv/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "DCT6H9Ay-1E",
+      "url": "https://www.instagram.com/au_au_is/p/DCT6H9Ay-1E/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "C6f0FE4y6xD",
+      "url": "https://www.instagram.com/au_au_is/p/C6f0FE4y6xD/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Cz3UcAfSvil",
+      "url": "https://www.instagram.com/au_au_is/reel/Cz3UcAfSvil/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CwQEKKNuuig",
+      "url": "https://www.instagram.com/au_au_is/reel/CwQEKKNuuig/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CqIQpQyv3jX",
+      "url": "https://www.instagram.com/au_au_is/p/CqIQpQyv3jX/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Cmdt56nP895",
+      "url": "https://www.instagram.com/au_au_is/p/Cmdt56nP895/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Cl8_qWqS9iQ",
+      "url": "https://www.instagram.com/au_au_is/p/Cl8_qWqS9iQ/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "ChuMfVLPkK7",
+      "url": "https://www.instagram.com/au_au_is/p/ChuMfVLPkK7/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "ChoD5cWjGvW",
+      "url": "https://www.instagram.com/au_au_is/reel/ChoD5cWjGvW/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Cggq-KfpSEP",
+      "url": "https://www.instagram.com/au_au_is/reel/Cggq-KfpSEP/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CennlATvo4D",
+      "url": "https://www.instagram.com/au_au_is/p/CennlATvo4D/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "Ccw9hpaPsAQ",
+      "url": "https://www.instagram.com/au_au_is/p/Ccw9hpaPsAQ/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CciBqCDtAjM",
+      "url": "https://www.instagram.com/au_au_is/reel/CciBqCDtAjM/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CbFHbBdsFMb",
+      "url": "https://www.instagram.com/au_au_is/reel/CbFHbBdsFMb/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CVX7t2tPmdc",
+      "url": "https://www.instagram.com/au_au_is/p/CVX7t2tPmdc/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CSqMNaslfHd",
+      "url": "https://www.instagram.com/au_au_is/p/CSqMNaslfHd/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CPYhNCXHVof",
+      "url": "https://www.instagram.com/au_au_is/reel/CPYhNCXHVof/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "CF8_qClHgzQ",
+      "url": "https://www.instagram.com/au_au_is/reel/CF8_qClHgzQ/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    },
+    {
+      "account": "au_au_is",
+      "post_id": "B2tjy4YnRng",
+      "url": "https://www.instagram.com/au_au_is/reel/B2tjy4YnRng/",
+      "status": "pending_original_review",
+      "added_media_ids": [],
+      "reason": "Instagram HTTP 429 限流；未完成逐項與動態核對。"
+    }
+  ]
+}

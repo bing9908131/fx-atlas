@@ -1,9 +1,9 @@
 {
   "method": "每项强制一个主分类，最多一个次分类。优先使用保守双特征规则；否则依个别素材标签及描述推定。不使用整篇文案、品牌或帐号。零线索暂归抽象几何并标明待复核；不是逐项视觉确认。",
-  "total": 1961,
+  "total": 1968,
   "unclassified": 0,
   "counts": {
-    "realistic": 575,
+    "realistic": 582,
     "geometric": 693,
     "organic": 305,
     "futuristic": 155,
@@ -11,6 +11,172 @@
     "graphic": 211
   },
   "items": [
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-1",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch case",
+            "watch strap",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-2",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch crown",
+            "watch strap",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-3",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch strap",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-4",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch case",
+            "watch face",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-5",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch strap",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-6",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch crown",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "twoaccounts-Dc_Nm8Hmz4a-7",
+      "styles": [
+        {
+          "id": "realistic",
+          "zh": "產品寫實",
+          "en": "Photoreal Product",
+          "role": "primary",
+          "source": "existing_media_tags",
+          "review_status": "suggested",
+          "evidence": [
+            "產品主體與明確寫實標籤同時存在。"
+          ],
+          "matched_tags": [
+            "photorealistic",
+            "watch",
+            "watch face",
+            "watch hands",
+            "watch strap",
+            "寫實",
+            "手錶"
+          ]
+        }
+      ]
+    },
     {
       "id": "brand2025-DGlJykvzVa4-1",
       "styles": [

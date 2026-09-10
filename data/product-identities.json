@@ -1,5 +1,285 @@
 [
   {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-1",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=1",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=1",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-2",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=2",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=2",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-3",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=3",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=3",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-4",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=4",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=4",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-5",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=5",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=5",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-6",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=6",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=6",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
+    "id": "twoaccounts-Dc_Nm8Hmz4a-7",
+    "post_id": "Dc_Nm8Hmz4a",
+    "brands": [
+      {
+        "en": "Xiaomi",
+        "zh": "小米",
+        "aliases": [
+          "Xiaomi",
+          "小米",
+          "xiaomi",
+          "xiaomi.global"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=7",
+        "scope": "project"
+      }
+    ],
+    "product_models": [
+      {
+        "brand": "Xiaomi",
+        "name": "Watch S4 41mm",
+        "aliases": [
+          "Watch S4 41mm",
+          "Xiaomi Watch S4 41mm"
+        ],
+        "source": "project",
+        "evidence": "Xiaomi Watch S4 41mm",
+        "source_url": "https://www.instagram.com/vst_productions/p/Dc_Nm8Hmz4a/?img_index=7",
+        "scope": "project"
+      }
+    ],
+    "review": {
+      "status": "source_text_reviewed",
+      "visual_identity_reviewed": false,
+      "reviewed_at": "2026-09-09",
+      "note": "依已保存的貼文文字、Hashtags 與作品名稱整理；不代表輪播每一畫面皆出現產品。未列出型號表示來源未能確認。"
+    }
+  },
+  {
     "id": "brand2025-DGlJykvzVa4-1",
     "post_id": "DGlJykvzVa4",
     "brands": [
