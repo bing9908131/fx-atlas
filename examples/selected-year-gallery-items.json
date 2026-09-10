@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -676,7 +676,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -835,7 +835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [
         0.014,
@@ -865,8 +865,8 @@
     "post_id": "DVjLA-6CAN7",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Film process · Yambo collaboration",
+    "total": 10,
+    "title": "Friedrich × Yambo · 餐廳俯視場景",
     "creator": "friedrich.neumann",
     "publisher": "friedrich.neumann",
     "source_accounts": [
@@ -875,28 +875,138 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/648616828_18571830076065001_2861127170704597392_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0Njk2MzM1MDY3NjcxNzE3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VCNGk1Y-_HoQ7kNvwFee3QB&_nc_oc=AdpeN0IIj2Ro9SBFBxrZyXbVOzR2MEDfX6lwo7YKjX_dvehKQjBacwfVbmtPV6BpF6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=aITZv1fzn9rdkAPBe14EKw&_nc_ss=7a22e&oh=00_AQKownvzu_5ldcZ0v8zEZc-lOGZfXkVFvDDAJ0UsHTAcyA&oe=6AA8DAF2",
     "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "image",
-    "ratio": "1 / 1",
+    "ratio": "4 / 5",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。",
+    "tags": [
+      {
+        "en": "dining table",
+        "zh": "餐桌",
+        "category": "subject",
+        "search_aliases": [
+          "table"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "chair",
+        "zh": "椅子",
+        "category": "subject",
+        "search_aliases": [
+          "木椅"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "tablecloth",
+        "zh": "桌布",
+        "category": "subject",
+        "search_aliases": [
+          "cloth",
+          "布料"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "plant",
+        "zh": "植栽",
+        "category": "subject",
+        "search_aliases": [
+          "植物"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "search_aliases": [
+          "木頭"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "fabric",
+        "zh": "布料",
+        "category": "material",
+        "search_aliases": [
+          "textile",
+          "織物"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "search_aliases": [
+          "米白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
     "published_at": "2026-03-06T16:23:39.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+    }
   },
   {
     "id": "selectedyear-DUnwYw0CIOe-1",
@@ -18740,7 +18850,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -18927,7 +19037,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -19081,7 +19191,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -19246,7 +19356,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -19412,7 +19522,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -19556,7 +19666,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -19708,7 +19818,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
       "observed_times": [
         13.69,
@@ -19892,7 +20002,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
       "observed_times": [
         3.26,
@@ -20077,7 +20187,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
       "observed_times": [
         0.26,
@@ -20254,7 +20364,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -20428,7 +20538,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -20587,7 +20697,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -20746,7 +20856,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -20905,7 +21015,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21064,7 +21174,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21223,7 +21333,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21382,7 +21492,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21541,7 +21651,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21700,7 +21810,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:52:15",
+      "reviewed_at": "2026-09-11T03:57:35",
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21719,6 +21829,1396 @@
         "geometric"
       ],
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-2",
+    "post_id": "DVjLA-6CAN7",
+    "index": 2,
+    "media_index": 2,
+    "total": 10,
+    "title": "Friedrich × Yambo · 床鋪與紙張製作圖",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/642503346_18571830088065001_1582900919060352346_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzg0Njk2MzM1MjQxMzE0NTc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hcKndcwfyogQ7kNvwGNs-Kh&_nc_oc=AdrTYXzgGdBgCIafSUZMdvp728LdJ-8UDZnCVP5bxc5FcFP93mr70R9dXVnUxWnC0Gs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQI4_ZqxqGVNZqlvqOF2a8B4eSdx1QcuSwOErhp2u15U5w&oe=6AA8C6BD",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。",
+    "tags": [
+      {
+        "en": "bed",
+        "zh": "床鋪",
+        "category": "subject",
+        "search_aliases": [
+          "床"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "suitcase",
+        "zh": "行李箱",
+        "category": "subject",
+        "search_aliases": [
+          "旅行箱"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "paper",
+        "zh": "紙張",
+        "category": "subject",
+        "search_aliases": [
+          "紙片"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "bed linen",
+        "zh": "床單",
+        "category": "subject",
+        "search_aliases": [
+          "寢具"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "fabric",
+        "zh": "布料",
+        "category": "material",
+        "search_aliases": [
+          "cloth",
+          "織物"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "paper",
+        "zh": "紙質",
+        "category": "material",
+        "search_aliases": [
+          "紙"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "search_aliases": [
+          "奶油色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青綠"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-3",
+    "post_id": "DVjLA-6CAN7",
+    "index": 3,
+    "media_index": 3,
+    "total": 10,
+    "title": "Friedrich × Yambo · 早餐推車",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/649103573_18571830079065001_5106711318755582684_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg0Njk2MzM1NTIwNjU2NjI4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UZlTEVCHzM4Q7kNvwHZx9yK&_nc_oc=AdrXCqxUE0LfAmLFcsWfYhN_OPXHNOvfgSLr1_zPDF-mIpYaXFUcVA7zPXpZpb_tcJs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQJbPC1nOkfHiXY-z-aeaF1dnjnw_nb2SrZMdP4-LHN11g&oe=6AA8C26A",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。",
+    "tags": [
+      {
+        "en": "serving trolley",
+        "zh": "餐車",
+        "category": "subject",
+        "search_aliases": [
+          "推車"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "tray",
+        "zh": "托盤",
+        "category": "subject",
+        "search_aliases": [
+          "餐盤"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "bowl",
+        "zh": "碗",
+        "category": "subject",
+        "search_aliases": [
+          "餐碗"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "berries",
+        "zh": "莓果",
+        "category": "subject",
+        "search_aliases": [
+          "水果"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "juice",
+        "zh": "果汁",
+        "category": "subject",
+        "search_aliases": [
+          "飲料"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "search_aliases": [
+          "metallic"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "透明杯"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "liquid",
+        "zh": "液體",
+        "category": "material",
+        "search_aliases": [
+          "液態"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "ceramic",
+        "zh": "陶瓷",
+        "category": "material",
+        "search_aliases": [
+          "瓷器"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "search_aliases": [
+          "銀"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "search_aliases": [
+          "紅"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-4",
+    "post_id": "DVjLA-6CAN7",
+    "index": 4,
+    "media_index": 4,
+    "total": 10,
+    "title": "Friedrich × Yambo · 餐桌玻璃杯近景",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/647523135_18571830109065001_8515972708644163461_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0Njk2MzM1ODQ3ODEyNDM5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PJWjxi-o1WMQ7kNvwG6yp1b&_nc_oc=Adpdmr53IjFvpwx4JHqtn544hhBdeQZhUjoIihfhJjNx2swViTxb_xEXmkDE71uqnSg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQIfvMCamJ9YlqMCh4rFYqCqWryLrCY3fAgazXAUXXaUNQ&oe=6AA8D74B",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。",
+    "tags": [
+      {
+        "en": "wine glass",
+        "zh": "酒杯",
+        "category": "subject",
+        "search_aliases": [
+          "高腳杯"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "tableware",
+        "zh": "餐具",
+        "category": "subject",
+        "search_aliases": [
+          "刀叉"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "plate",
+        "zh": "餐盤",
+        "category": "subject",
+        "search_aliases": [
+          "盤子"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "pendant light",
+        "zh": "吊燈",
+        "category": "subject",
+        "search_aliases": [
+          "燈具"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "透明"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "search_aliases": [
+          "不鏽鋼外觀"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "fabric",
+        "zh": "布料",
+        "category": "material",
+        "search_aliases": [
+          "桌布"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "beige",
+        "zh": "米色",
+        "category": "color",
+        "search_aliases": [
+          "米白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "gold",
+        "zh": "金色",
+        "category": "color",
+        "search_aliases": [
+          "暖金"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-5",
+    "post_id": "DVjLA-6CAN7",
+    "index": 5,
+    "media_index": 5,
+    "total": 10,
+    "title": "Friedrich × Yambo · 控制面板燈光版本",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/642406718_18571830112065001_6279076816024718733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzg0Njk2MzM2MDcwMTEwNjAzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6eR93u0chfAQ7kNvwGEMomd&_nc_oc=Ado3bg7_v1FFfXXiGlweWnYGUqvHztSjWitxPdA6F4Vek4XRqA0daXInBu3s-OJTMxc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQIge5G-9-qd8xOqq0yvlV4G-M1tFcyaPEAtA9Jz2QmMyg&oe=6AA8F679",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。",
+    "tags": [
+      {
+        "en": "control panel",
+        "zh": "控制面板",
+        "category": "subject",
+        "search_aliases": [
+          "控制台"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "button",
+        "zh": "按鍵",
+        "category": "subject",
+        "search_aliases": [
+          "按鈕"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "clock",
+        "zh": "時鐘",
+        "category": "subject",
+        "search_aliases": [
+          "鐘面"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "indicator light",
+        "zh": "指示燈",
+        "category": "subject",
+        "search_aliases": [
+          "燈號"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metal panel",
+        "zh": "金屬面板",
+        "category": "material",
+        "search_aliases": [
+          "metal",
+          "金屬"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glossy",
+        "zh": "光澤",
+        "category": "material",
+        "search_aliases": [
+          "亮面"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "grey"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "scifi"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-6",
+    "post_id": "DVjLA-6CAN7",
+    "index": 6,
+    "media_index": 6,
+    "total": 10,
+    "title": "Friedrich × Yambo · 走廊冷暖燈光",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/642530527_18571830127065001_4726938856014152556_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzg0Njk2MzM2MzUwMjkzOTE0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tdC7lIrTm7UQ7kNvwEkKd9o&_nc_oc=AdoYOENSY6jH33bq5aCE5a2WCJXqJw-vPmGryYQBIYEcvDu0wjUQORemBanpQVdGTIg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQLZVmzDKOvOoAwNefzcryH5bL5qExolzXE963RxdjYzFg&oe=6AA8D633",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。",
+    "tags": [
+      {
+        "en": "hallway",
+        "zh": "走廊",
+        "category": "subject",
+        "search_aliases": [
+          "corridor"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "doorway",
+        "zh": "門框",
+        "category": "subject",
+        "search_aliases": [
+          "door"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "interior",
+        "zh": "室內",
+        "category": "subject",
+        "search_aliases": [
+          "空間"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "painted wall",
+        "zh": "漆面牆壁",
+        "category": "material",
+        "search_aliases": [
+          "牆面"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "search_aliases": [
+          "木作"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-7",
+    "post_id": "DVjLA-6CAN7",
+    "index": 7,
+    "media_index": 7,
+    "total": 10,
+    "title": "Friedrich × Yambo · 藍色玻璃走廊",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/642515459_18571830151065001_6585599834182039094_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0Njk2MzM2MzY3OTA4OTI0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P5VRzJJdhUgQ7kNvwGo3_1l&_nc_oc=AdpWY-JRYe0OnM8ShXmQDs0yQFPXhl-debgBZS_FiSDg0rnitSkZZEjTy9lfpE4FuCw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQJSlWl2FPhOY1pzFuCRyO9K9tJ_RJCpUfwCrYGmqbl5GA&oe=6AA8E91C",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。",
+    "tags": [
+      {
+        "en": "corridor",
+        "zh": "走廊",
+        "category": "subject",
+        "search_aliases": [
+          "通道"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "window frame",
+        "zh": "窗框",
+        "category": "subject",
+        "search_aliases": [
+          "玻璃窗"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "perspective",
+        "zh": "透視",
+        "category": "subject",
+        "search_aliases": [
+          "廣角"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "反射"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "search_aliases": [
+          "metallic"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "search_aliases": [
+          "銀"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "scifi"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-8",
+    "post_id": "DVjLA-6CAN7",
+    "index": 8,
+    "media_index": 8,
+    "total": 10,
+    "title": "Friedrich × Yambo · 街景汽車與手機畫面",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/648352238_18571830154065001_7143249271529948576_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0Njk2MzM2NTM5MDM0MjMwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Y1eSKTfEaz0Q7kNvwFE6JmY&_nc_oc=AdrDFoupBDz3BEX13oGA_40tWYsjLDBQP_1FxoNPFxTSjvmsML_FqhPHatRUJNzqoYs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQKgYqG3loC7UFy5lE9AKdLKdpSfucluJDZQ4UAGCbK8yQ&oe=6AA8D1FE",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。",
+    "tags": [
+      {
+        "en": "car",
+        "zh": "汽車",
+        "category": "subject",
+        "search_aliases": [
+          "轎車"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "smartphone",
+        "zh": "手機",
+        "category": "subject",
+        "search_aliases": [
+          "phone"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "hand",
+        "zh": "手部",
+        "category": "subject",
+        "search_aliases": [
+          "手"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "building",
+        "zh": "建築",
+        "category": "subject",
+        "search_aliases": [
+          "飯店"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metallic paint",
+        "zh": "金屬漆",
+        "category": "material",
+        "search_aliases": [
+          "車漆"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "玻璃窗"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "search_aliases": [
+          "銀灰"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-9",
+    "post_id": "DVjLA-6CAN7",
+    "index": 9,
+    "media_index": 9,
+    "total": 10,
+    "title": "Friedrich × Yambo · 手持雞尾酒杯",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/648563925_18571830130065001_7773179134626907676_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzg0Njk2MzM2NzQ4NzUzMjU0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Vh0boCMnrtgQ7kNvwHnXhS_&_nc_oc=AdqxPSvwVLPO8uBNPoN5YElzXmbtq3EI46IXegEwjDPS57Je_tp1jof82h8ZUYU4w9Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQLWeae4tB19DopIMPNHI0lrkDSnLPAMA6PbrVI1NwA4Mw&oe=6AA8F2FF",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。",
+    "tags": [
+      {
+        "en": "cocktail",
+        "zh": "雞尾酒",
+        "category": "subject",
+        "search_aliases": [
+          "飲料"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "stemmed glass",
+        "zh": "高腳杯",
+        "category": "subject",
+        "search_aliases": [
+          "酒杯"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "olive",
+        "zh": "橄欖",
+        "category": "subject",
+        "search_aliases": [
+          "橄欖果"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "hand",
+        "zh": "手部",
+        "category": "subject",
+        "search_aliases": [
+          "手"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "透明"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "liquid",
+        "zh": "液體",
+        "category": "material",
+        "search_aliases": [
+          "液態"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "skin",
+        "zh": "皮膚",
+        "category": "material",
+        "search_aliases": [
+          "肌膚"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "橄欖綠"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "grey"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "gold",
+        "zh": "金色",
+        "category": "color",
+        "search_aliases": [
+          "淡金"
+        ],
+        "source": "visual",
+        "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product"
+      ],
+      "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-DVjLA-6CAN7-10",
+    "post_id": "DVjLA-6CAN7",
+    "index": 10,
+    "media_index": 10,
+    "total": 10,
+    "title": "Friedrich × Yambo · 走廊穿越短片",
+    "creator": "friedrich.neumann",
+    "publisher": "friedrich.neumann",
+    "source_accounts": [
+      "friedrich.neumann"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/642490884_18571830169065001_4957958171763840828_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzg0Njk2MzM0OTkwNDk4MDYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=P7ttQassIpIQ7kNvwEf8Muo&_nc_oc=Ado2TxfIM6MsgKreUe3HxRhMR4PcL7B6VjKO7Oa0-CR_LuR8jM4GOySkgn1DDc2Zsxs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=zfiwHjuCkwgRLb9V9FhFCQ&_nc_ss=7a22e&oh=00_AQKpjlJNgUIeUhdE_66GFf4fW6imoKp-Rw_-fn2sV81YZQ&oe=6AA8E016",
+    "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。",
+    "tags": [
+      {
+        "en": "corridor",
+        "zh": "走廊",
+        "category": "subject",
+        "search_aliases": [
+          "通道"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "window frame",
+        "zh": "窗框",
+        "category": "subject",
+        "search_aliases": [
+          "玻璃窗"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "glass",
+        "zh": "玻璃",
+        "category": "material",
+        "search_aliases": [
+          "反射"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "search_aliases": [
+          "metallic"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "silver",
+        "zh": "銀色",
+        "category": "color",
+        "search_aliases": [
+          "銀"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "camera dolly",
+        "zh": "鏡頭推進",
+        "category": "motion",
+        "search_aliases": [
+          "dolly in",
+          "穿越鏡頭"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "camera roll",
+        "zh": "鏡頭傾轉",
+        "category": "motion",
+        "search_aliases": [
+          "攝影機旋轉"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      },
+      {
+        "en": "motion blur",
+        "zh": "動態模糊",
+        "category": "motion",
+        "search_aliases": [
+          "運動模糊"
+        ],
+        "source": "visual",
+        "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Finally able to share some bits and process from a new film I contributed to with @yamb0x.eth #styleframe #design #render #cinema4d #redshift",
+    "published_at": "2026-03-06T16:23:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "cg_film_process",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:57:35",
+      "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。",
+      "observed_times": [
+        0.053,
+        1.068
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為與 Yambo 團隊合作的影片製作片段，未明示客戶品牌與型號，不依模糊外型推定品牌。",
+    "carousel_pending": false,
+    "duration_seconds": 1.76,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "scifi"
+      ],
+      "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
     }
   }
 ]

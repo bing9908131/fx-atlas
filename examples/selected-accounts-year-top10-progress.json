@@ -3788,10 +3788,21 @@
           "shortcode": "DVjLA-6CAN7",
           "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
           "published_at": "2026-03-06T16:23:39.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DVjLA-6CAN7-1"
-          ]
+            "selectedyear-DVjLA-6CAN7-1",
+            "selectedyear-DVjLA-6CAN7-2",
+            "selectedyear-DVjLA-6CAN7-3",
+            "selectedyear-DVjLA-6CAN7-4",
+            "selectedyear-DVjLA-6CAN7-5",
+            "selectedyear-DVjLA-6CAN7-6",
+            "selectedyear-DVjLA-6CAN7-7",
+            "selectedyear-DVjLA-6CAN7-8",
+            "selectedyear-DVjLA-6CAN7-9",
+            "selectedyear-DVjLA-6CAN7-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DUnwYw0CIOe",
