@@ -5575,7 +5575,7 @@
           "shortcode": "Dcgp4beIfpd",
           "url": "https://www.instagram.com/man.vs.machine/reel/Dcgp4beIfpd/",
           "published_at": "2026-08-26T16:36:27.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcgp4beIfpd-1"
           ]
@@ -5597,7 +5597,7 @@
           "shortcode": "Dc8uuOaIIJv",
           "url": "https://www.instagram.com/manonlouart/reel/Dc8uuOaIIJv/",
           "published_at": "2026-09-06T14:18:21.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc8uuOaIIJv-1"
           ]
@@ -5606,7 +5606,7 @@
           "shortcode": "DcGpKLbIvVX",
           "url": "https://www.instagram.com/manonlouart/reel/DcGpKLbIvVX/",
           "published_at": "2026-08-16T14:12:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcGpKLbIvVX-1"
           ]
@@ -5628,7 +5628,7 @@
           "shortcode": "DczCCtHms82",
           "url": "https://www.instagram.com/mariannesanche/p/DczCCtHms82/",
           "published_at": "2026-09-02T19:52:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DczCCtHms82-1"
           ]
@@ -5637,7 +5637,7 @@
           "shortcode": "Dcgsyyoim0H",
           "url": "https://www.instagram.com/mariannesanche/reel/Dcgsyyoim0H/",
           "published_at": "2026-08-29T13:50:15.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcgsyyoim0H-1"
           ]
@@ -5653,26 +5653,95 @@
     {
       "handle": "markfancherfx",
       "url": "https://www.instagram.com/markfancherfx/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DPCUKodka2K",
+          "url": "https://www.instagram.com/markfancherfx/reel/DPCUKodka2K/",
+          "published_at": "2025-09-25T19:00:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DPCUKodka2K-1"
+          ]
+        },
+        {
+          "shortcode": "DO6YIEqjTES",
+          "url": "https://www.instagram.com/markfancherfx/reel/DO6YIEqjTES/",
+          "published_at": "2025-09-22T17:00:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DO6YIEqjTES-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DPCUKodka2K",
+        "DO6YIEqjTES"
+      ],
+      "latest_two_selection_evidence": "Three pins individually dated 2024-03-28T02:14:52.000Z, 2023-06-07T02:45:43.000Z, 2023-05-21T04:07:24.000Z; latest unpinned Sept 25 and Sept 22 2025 verified. Commercial work with Already Been Chewed credited."
     },
     {
       "handle": "markusgonser3d",
       "url": "https://www.instagram.com/markusgonser3d/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZF16pKyBet",
+          "url": "https://www.instagram.com/remotiondesign/reel/DZF16pKyBet/",
+          "published_at": "2026-06-02T17:07:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZF16pKyBet-1"
+          ]
+        },
+        {
+          "shortcode": "DYzWevYIvAr",
+          "url": "https://www.instagram.com/markusgonser3d/reel/DYzWevYIvAr/",
+          "published_at": "2026-05-26T12:54:54.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYzWevYIvAr-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZF16pKyBet",
+        "DYzWevYIvAr"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; first two exact dates checked. Captions explicitly describe AI workflows; pending references must not be labeled physically simulated or conventional CG without review."
     },
     {
       "handle": "masd.lab",
       "url": "https://www.instagram.com/masd.lab/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbI14N4jT4S",
+          "url": "https://www.instagram.com/masd.lab/p/DbI14N4jT4S/",
+          "published_at": "2026-07-23T14:07:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbI14N4jT4S-1"
+          ]
+        },
+        {
+          "shortcode": "DadNLJNjU3y",
+          "url": "https://www.instagram.com/masd.lab/p/DadNLJNjU3y/",
+          "published_at": "2026-07-06T15:24:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DadNLJNjU3y-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbI14N4jT4S",
+        "DadNLJNjU3y"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two original dates checked. Second visibly animated typography. First carousel media split required before deciding CG/motion qualification."
     },
     {
       "handle": "mathias_lynge",
@@ -6667,9 +6736,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 260,
-  "imported_media": 261,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 266,
+  "imported_media": 267,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
