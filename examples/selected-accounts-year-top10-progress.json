@@ -2453,7 +2453,7 @@
           "shortcode": "Db_UXlJEerX",
           "url": "https://www.instagram.com/abelokugawa/p/Db_UXlJEerX/",
           "published_at": "2026-08-13T17:52:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db_UXlJEerX-1"
           ]
@@ -2462,7 +2462,7 @@
           "shortcode": "DZxhx2qt0CK",
           "url": "https://www.instagram.com/artpoint.fr/reel/DZxhx2qt0CK/",
           "published_at": "2026-06-19T16:18:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZxhx2qt0CK-1"
           ]
@@ -2484,7 +2484,7 @@
           "shortcode": "DP1LKylCM8h",
           "url": "https://www.instagram.com/daytogu/reel/DP1LKylCM8h/",
           "published_at": "2025-10-15T13:05:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DP1LKylCM8h-1"
           ]
@@ -2493,7 +2493,7 @@
           "shortcode": "DPjvHASCO_5",
           "url": "https://www.instagram.com/daytogu/reel/DPjvHASCO_5/",
           "published_at": "2025-10-08T18:33:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DPjvHASCO_5-1"
           ]
@@ -2525,7 +2525,7 @@
           "shortcode": "DcTnI3mvP9v",
           "url": "https://www.instagram.com/death_render/reel/DcTnI3mvP9v/",
           "published_at": "2026-08-21T15:03:20.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcTnI3mvP9v-1"
           ]
@@ -2534,7 +2534,7 @@
           "shortcode": "Da26cTOvLl5",
           "url": "https://www.instagram.com/death_render/reel/Da26cTOvLl5/",
           "published_at": "2026-07-16T15:01:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da26cTOvLl5-1"
           ]
@@ -2556,7 +2556,7 @@
           "shortcode": "DcbLfnnjXOq",
           "url": "https://www.instagram.com/thatwrapperguy/p/DcbLfnnjXOq/",
           "published_at": "2026-08-24T13:33:40.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcbLfnnjXOq-1"
           ]
@@ -2565,7 +2565,7 @@
           "shortcode": "Da0HsXcsWRc",
           "url": "https://www.instagram.com/debx.design/reel/Da0HsXcsWRc/",
           "published_at": "2026-07-15T12:59:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da0HsXcsWRc-1"
           ]
@@ -2581,66 +2581,242 @@
     {
       "handle": "dennistiege",
       "url": "https://www.instagram.com/dennistiege/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DJbh9w8NRMo",
+          "url": "https://www.instagram.com/dennistiege/p/DJbh9w8NRMo/",
+          "published_at": "2025-05-09",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJbh9w8NRMo-1"
+          ]
+        },
+        {
+          "shortcode": "DJUpmIKNRL1",
+          "url": "https://www.instagram.com/dennistiege/reel/DJUpmIKNRL1/",
+          "published_at": "2025-05-06T18:46:09.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJUpmIKNRL1-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DJbh9w8NRMo",
+        "DJUpmIKNRL1"
+      ],
+      "latest_two_selection_evidence": "Pinned Noture dated August 7 2021. Latest photo date from accessibility text; latest video date read individually."
     },
     {
       "handle": "designarf",
       "url": "https://www.instagram.com/designarf/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "B0QqxddlXxP",
+          "url": "https://www.instagram.com/designarf/p/B0QqxddlXxP/",
+          "published_at": "2019-07-23",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image: drawn astronaut lunar illustration, static 2D artwork; no CG effect.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Bz5znD1FvUo",
+          "url": "https://www.instagram.com/designarf/p/Bz5znD1FvUo/",
+          "published_at": "2019-07-14",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image: hand-drawn anime characters and scenery, static 2D illustration; no CG effect.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "B0QqxddlXxP",
+        "Bz5znD1FvUo"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; latest two profile dates July 23 and July 14 2019."
     },
     {
       "handle": "devastudios",
       "url": "https://www.instagram.com/devastudios/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DajQsf6v3yf",
+          "url": "https://www.instagram.com/devastudios/reel/DajQsf6v3yf/",
+          "published_at": "2026-07-08T23:55:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DajQsf6v3yf-1"
+          ]
+        },
+        {
+          "shortcode": "DZ70wVDhwQQ",
+          "url": "https://www.instagram.com/devastudios/reel/DZ70wVDhwQQ/",
+          "published_at": "2026-06-23T16:15:12.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZ70wVDhwQQ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DajQsf6v3yf",
+        "DZ70wVDhwQQ"
+      ],
+      "latest_two_selection_evidence": "Pinned dates January 7 2025, January 3 2025, December 17 2024. Latest two original dates verified individually."
     },
     {
       "handle": "dia_mitch",
       "url": "https://www.instagram.com/dia_mitch/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZvfdexnPPO",
+          "url": "https://www.instagram.com/dia_mitch/p/DZvfdexnPPO/",
+          "published_at": "2026-06-18T21:18:46.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZvfdexnPPO-1"
+          ]
+        },
+        {
+          "shortcode": "DZaxZRZnB3q",
+          "url": "https://www.instagram.com/dia_mitch/p/DZaxZRZnB3q/",
+          "published_at": "2026-06-10T20:11:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZaxZRZnB3q-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZvfdexnPPO",
+        "DZaxZRZnB3q"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Both latest dates read individually."
     },
     {
       "handle": "dibujantenocturno",
       "url": "https://www.instagram.com/dibujantenocturno/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "Dcg10LOofLs",
+          "url": "https://www.instagram.com/dibujantenocturno/reel/Dcg10LOofLs/",
+          "published_at": "2026-08-26T18:20:15.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed post screenshot and caption: filmed graphite artist-proof drawing of Fenrir; not CG animation.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DceO-l3DlkB",
+          "url": "https://www.instagram.com/dibujantenocturno/p/DceO-l3DlkB/",
+          "published_at": "2026-08-25",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile screenshot: three stages of a flat drawn dragon illustration; not CG render or simulation.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcg10LOofLs",
+        "DceO-l3DlkB"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest video date read individually; second photo date August 25 2026 from profile alt."
     },
     {
       "handle": "digital_archive",
       "url": "https://www.instagram.com/digital_archive/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "DdG0wTeDe5U",
+          "url": "https://www.instagram.com/digital_archive/p/DdG0wTeDe5U/",
+          "published_at": "2026-09-10T12:21:33.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image and author caption: photographed printed BALAY book and editorial design, not CG animation or effect.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdEX-77DYOb",
+          "url": "https://www.instagram.com/digital_archive/p/DdEX-77DYOb/",
+          "published_at": "2026-09-09",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image: static World Cup poster typography and graphics, not CG effect.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdG0wTeDe5U",
+        "DdEX-77DYOb"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest post date September 10 2026 read individually; second September 9 2026 from profile alt."
     },
     {
       "handle": "diss_embargo",
       "url": "https://www.instagram.com/diss_embargo/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaLBuX1jYPc",
+          "url": "https://www.instagram.com/diss_embargo/p/DaLBuX1jYPc/",
+          "published_at": "2026-06-29",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaLBuX1jYPc-1"
+          ]
+        },
+        {
+          "shortcode": "DaAunBQja8d",
+          "url": "https://www.instagram.com/diss_embargo/p/DaAunBQja8d/",
+          "published_at": "2026-06-25",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaAunBQja8d-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaLBuX1jYPc",
+        "DaAunBQja8d"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest two dates from profile accessibility text."
     },
     {
       "handle": "dkngstudios",
       "url": "https://www.instagram.com/dkngstudios/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "Dbzdi1NlMOq",
+          "url": "https://www.instagram.com/dkngstudios/p/Dbzdi1NlMOq/",
+          "published_at": "2026-08-09T03:21:46.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed individual post screenshot: real-life poster signing event, artist holding printed poster; no CG effect.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dbyo5vWyqD2",
+          "url": "https://www.instagram.com/dkngstudios/p/Dbyo5vWyqD2/",
+          "published_at": "2026-08-08T19:45:11.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile screenshot: static Universal Monsters zodiac print design; no CG effect.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dbzdi1NlMOq",
+        "Dbyo5vWyqD2"
+      ],
+      "latest_two_selection_evidence": "Compared exact times: unpinned August 9 03:21 UTC, pinned August 8 19:45 UTC, next unpinned August 8 18:57 UTC; other pins March 2026."
     },
     {
       "handle": "dorian_gourg",
@@ -4427,8 +4603,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 112,
-  "imported_media": 113,
+  "imported_posts": 120,
+  "imported_media": 121,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
