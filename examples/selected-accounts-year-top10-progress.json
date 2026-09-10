@@ -827,26 +827,95 @@
     {
       "handle": "_dofstudio_",
       "url": "https://www.instagram.com/_dofstudio_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbnvMMhAC7M",
+          "url": "https://www.instagram.com/_dofstudio_/reel/DbnvMMhAC7M/",
+          "published_at": "2026-08-04T14:05:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbnvMMhAC7M-1"
+          ]
+        },
+        {
+          "shortcode": "Dah8wgFAoyI",
+          "url": "https://www.instagram.com/_pool.studio/p/Dah8wgFAoyI/",
+          "published_at": "2026-07-08T11:36:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dah8wgFAoyI-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbnvMMhAC7M",
+        "Dah8wgFAoyI"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "_florianbaumann",
       "url": "https://www.instagram.com/_florianbaumann/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZu0VkIsgsL",
+          "url": "https://www.instagram.com/romenkaelin/reel/DZu0VkIsgsL/",
+          "published_at": "2026-06-18T15:03:04.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZu0VkIsgsL-1"
+          ]
+        },
+        {
+          "shortcode": "DZaE579jQIV",
+          "url": "https://www.instagram.com/_florianbaumann/p/DZaE579jQIV/",
+          "published_at": "2026-06-10T13:42:40.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZaE579jQIV-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZu0VkIsgsL",
+        "DZaE579jQIV"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "a_iwaac",
       "url": "https://www.instagram.com/a_iwaac/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdBxyU4IEwG",
+          "url": "https://www.instagram.com/knorr.art/reel/DdBxyU4IEwG/",
+          "published_at": "2026-09-08T13:21:04.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBxyU4IEwG-1"
+          ]
+        },
+        {
+          "shortcode": "DdBHe9DtfbT",
+          "url": "https://www.instagram.com/a_iwaac/reel/DdBHe9DtfbT/",
+          "published_at": "2026-09-08T07:11:45.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBHe9DtfbT-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdBxyU4IEwG",
+        "DdBHe9DtfbT"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "aaroncovrett",
@@ -3137,9 +3206,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 12,
-  "imported_media": 13,
-  "last_check_note": "Summer masterclass removed by user; excluded from future ingestion. Two pending posts remain.",
+  "imported_posts": 18,
+  "imported_media": 19,
+  "last_check_note": "Latest-two intake: 2 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
