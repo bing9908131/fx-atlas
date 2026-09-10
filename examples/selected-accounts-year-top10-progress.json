@@ -7009,7 +7009,7 @@
           "shortcode": "Dcx69_suk5_",
           "url": "https://www.instagram.com/ping.motiondesign/reel/Dcx69_suk5_/",
           "published_at": "2026-09-02T09:33:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcx69_suk5_-1"
           ]
@@ -7018,7 +7018,7 @@
           "shortcode": "Dcf1dh5sipC",
           "url": "https://www.instagram.com/alex_romanenko/reel/Dcf1dh5sipC/",
           "published_at": "2026-08-26T08:59:04.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcf1dh5sipC-1"
           ]
@@ -7040,7 +7040,7 @@
           "shortcode": "Da1wcBvlOnz",
           "url": "https://www.instagram.com/pleasecallmechamp/p/Da1wcBvlOnz/",
           "published_at": "2026-07-16T04:13:57.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da1wcBvlOnz-1"
           ]
@@ -7049,7 +7049,7 @@
           "shortcode": "Davk1B1PihD",
           "url": "https://www.instagram.com/pleasecallmechamp/reel/Davk1B1PihD/",
           "published_at": "2026-07-13T18:54:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Davk1B1PihD-1"
           ]
@@ -7065,26 +7065,92 @@
     {
       "handle": "porto.motion",
       "url": "https://www.instagram.com/porto.motion/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCYlvlgqE8",
+          "url": "https://www.instagram.com/porto.motion/p/DdCYlvlgqE8/",
+          "published_at": "2026-09-08T18:58:29.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "講座日期、票務與講者公告資訊卡，並非 CG 作品貼文。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcJTx3Ogr3h",
+          "url": "https://www.instagram.com/porto.motion/p/DcJTx3Ogr3h/",
+          "published_at": "2026-08-17T14:59:44.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "講座日期、票務與講者公告資訊卡，並非 CG 作品貼文。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCYlvlgqE8",
+        "DcJTx3Ogr3h"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; original dates read. Event schedule and speaker announcement rather than CG project showcase."
     },
     {
       "handle": "rawandrendered",
       "url": "https://www.instagram.com/rawandrendered/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdGMTu1FLnq",
+          "url": "https://www.instagram.com/rawandrendered/p/DdGMTu1FLnq/",
+          "published_at": "2026-09-10T06:28:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdGMTu1FLnq-1"
+          ]
+        },
+        {
+          "shortcode": "DdDxochG5z_",
+          "url": "https://www.instagram.com/rawandrendered/p/DdDxochG5z_/",
+          "published_at": "2026-09-09T07:56:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdDxochG5z_-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdGMTu1FLnq",
+        "DdDxochG5z_"
+      ],
+      "latest_two_selection_evidence": "First two unpinned daily artworks; original dates read. Caption identifies Cinema 4D, generic abstract forms with no brand project claim."
     },
     {
       "handle": "render_gal",
       "url": "https://www.instagram.com/render_gal/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DafHJKkk1d2",
+          "url": "https://www.instagram.com/render_gal/p/DafHJKkk1d2/",
+          "published_at": "2026-07-07T09:09:49.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "作者明寫自發 3D challenge，以 Pokémon、Godzilla 角色製作，非品牌正式使用專案。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DaJLgwaTcOc",
+          "url": "https://www.instagram.com/render_gal/p/DaJLgwaTcOc/",
+          "published_at": "2026-06-28T20:44:48.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaJLgwaTcOc-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DafHJKkk1d2",
+        "DaJLgwaTcOc"
+      ],
+      "latest_two_selection_evidence": "Latest two posts without pins; original dates read. First explicitly personal 2023 fan-art challenge repost; second generic unbranded styleframe. No older MSI works substituted."
     },
     {
       "handle": "rettlesnake",
@@ -7703,9 +7769,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 321,
-  "imported_media": 322,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 324,
+  "imported_media": 325,
+  "last_check_note": "Latest-two intake: 3 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
