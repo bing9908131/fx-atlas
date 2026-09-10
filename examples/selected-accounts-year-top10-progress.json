@@ -5752,7 +5752,7 @@
           "shortcode": "DdEQ6H0oWzS",
           "url": "https://www.instagram.com/mathias_lynge/reel/DdEQ6H0oWzS/",
           "published_at": "2026-09-09T12:33:14.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEQ6H0oWzS-1"
           ]
@@ -5761,7 +5761,7 @@
           "shortcode": "DcLPYd6otEx",
           "url": "https://www.instagram.com/mathias_lynge/reel/DcLPYd6otEx/",
           "published_at": "2026-08-18T09:00:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcLPYd6otEx-1"
           ]
@@ -5812,7 +5812,7 @@
           "shortcode": "DVOX92tDBNM",
           "url": "https://www.instagram.com/kulianu/reel/DVOX92tDBNM/",
           "published_at": "2026-02-26T14:39:12.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DVOX92tDBNM-1"
           ]
@@ -5821,7 +5821,7 @@
           "shortcode": "C5QV-34NnhL",
           "url": "https://www.instagram.com/maximeroz/p/C5QV-34NnhL/",
           "published_at": "2024-04-02T10:14:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C5QV-34NnhL-1"
           ]
@@ -5851,7 +5851,7 @@
           "shortcode": "DbWG77zxvFJ",
           "url": "https://www.instagram.com/maximkroft/reel/DbWG77zxvFJ/",
           "published_at": "2026-07-28T22:30:48.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbWG77zxvFJ-1"
           ]
@@ -5867,34 +5867,123 @@
     {
       "handle": "maxonredshift",
       "url": "https://www.instagram.com/maxonredshift/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdE2A4PD5uF",
+          "url": "https://www.instagram.com/maxonredshift/reel/DdE2A4PD5uF/",
+          "published_at": "2026-09-09T17:54:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdE2A4PD5uF-1"
+          ]
+        },
+        {
+          "shortcode": "Dc_ZyZ2DtRs",
+          "url": "https://www.instagram.com/maxonredshift/p/Dc_ZyZ2DtRs/",
+          "published_at": "2026-09-07T15:11:20.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_ZyZ2DtRs-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdE2A4PD5uF",
+        "Dc_ZyZ2DtRs"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; original dates verified. Latest video credits RenderBurger; second visibly compares clay model and finished render, identity/brand validation pending."
     },
     {
       "handle": "maxsalzborn",
       "url": "https://www.instagram.com/maxsalzborn/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DboRVjdDHLw",
+          "url": "https://www.instagram.com/feelingsinfeeds/p/DboRVjdDHLw/",
+          "published_at": "2026-08-04T19:03:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DboRVjdDHLw-1"
+          ]
+        },
+        {
+          "shortcode": "DbQuAC6tHGB",
+          "url": "https://www.instagram.com/maxsalzborn/reel/DbQuAC6tHGB/",
+          "published_at": "2026-07-26T15:32:40.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "虛構 Coastal Run Club 鞋款概念與工具測試，非真實產品品牌採用。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DboRVjdDHLw",
+        "DbQuAC6tHGB"
+      ],
+      "latest_two_selection_evidence": "Pin dated 2023-09-29T15:51:56.000Z; latest two original dates checked. Branding collaboration pending carousel media review; explicitly fictional shoe concept excluded."
     },
     {
       "handle": "maxschwugier",
       "url": "https://www.instagram.com/maxschwugier/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbpnCVFuyC4",
+          "url": "https://www.instagram.com/maxschwugier/reel/DbpnCVFuyC4/",
+          "published_at": "2026-08-05T07:34:04.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbpnCVFuyC4-1"
+          ]
+        },
+        {
+          "shortcode": "Da5cdn8IwJq",
+          "url": "https://www.instagram.com/maxschwugier/reel/Da5cdn8IwJq/",
+          "published_at": "2026-07-17T14:37:15.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Da5cdn8IwJq-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbpnCVFuyC4",
+        "Da5cdn8IwJq"
+      ],
+      "latest_two_selection_evidence": "Pins individually dated 2026-03-19T12:37:04.000Z, 2026-02-28T23:36:20.000Z, 2024-04-13T07:51:48.000Z; latest unpinned Aug 5 and Jul 17 2026 verified. Captions identify Houdini and Redshift."
     },
     {
       "handle": "megfenske",
       "url": "https://www.instagram.com/megfenske/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DTMtkx1kVxE",
+          "url": "https://www.instagram.com/normrockwell/p/DTMtkx1kVxE/",
+          "published_at": "2026-01-07T06:00:18.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "私人旅行與生活實拍，非 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DRBtulQlguP",
+          "url": "https://www.instagram.com/megfenske/p/DRBtulQlguP/",
+          "published_at": "2025-11-14T06:27:13.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "私人旅行與生活實拍，非 CG 作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DTMtkx1kVxE",
+        "DRBtulQlguP"
+      ],
+      "latest_two_selection_evidence": "Pinned reel dated 2023-10-04T21:38:53.000Z; first two unpinned original timestamps checked. Both personal photography posts excluded without backfilling."
     },
     {
       "handle": "mhad.inc",
@@ -6825,8 +6914,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 271,
-  "imported_media": 272,
+  "imported_posts": 276,
+  "imported_media": 277,
   "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
