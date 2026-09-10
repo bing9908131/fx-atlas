@@ -9509,19 +9509,23 @@
           "shortcode": "DbGNvdNzhfz",
           "url": "https://www.instagram.com/wearefakery/reel/DbGNvdNzhfz/",
           "published_at": "2026-07-22T13:38:28.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DbGNvdNzhfz-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DaSeCiGzdi6",
           "url": "https://www.instagram.com/wearefakery/reel/DaSeCiGzdi6/",
           "published_at": "2026-07-02T11:20:35.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DaSeCiGzdi6-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

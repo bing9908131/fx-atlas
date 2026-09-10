@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2048,
+  "total": 2050,
   "unclassified": 0,
   "counts": {
-    "graphic": 397,
-    "product": 747,
-    "organic": 425,
-    "geometric": 821,
+    "graphic": 398,
+    "product": 748,
+    "organic": 426,
+    "geometric": 822,
     "scifi": 291,
     "effects": 108
   },
@@ -654,6 +654,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際開啟輪播第1張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGNvdNzhfz-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.16秒為琥珀色透光質地中的螳螂；7.49秒黑白點狀影像；8.58、11.97、14.09秒分別展示模型框架內前肢、翅脈和腹部；19.80秒粗糙塊體配掃描方框；21.39秒頭部近景；24.88與27.48秒S字標視角不同。能確認鏡頭細節巡覽、剪輯切換及字標視角變化。未取得足夠連續肢體證據，不加入行走、捕食、碰撞或生長；粗糙缺口不等於破碎動畫。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.16秒為琥珀色透光質地中的螳螂；7.49秒黑白點狀影像；8.58、11.97、14.09秒分別展示模型框架內前肢、翅脈和腹部；19.80秒粗糙塊體配掃描方框；21.39秒頭部近景；24.88與27.48秒S字標視角不同。能確認鏡頭細節巡覽、剪輯切換及字標視角變化。未取得足夠連續肢體證據，不加入行走、捕食、碰撞或生長；粗糙缺口不等於破碎動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaSeCiGzdi6-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.30秒機身Formlabs字樣；10.41、11.04秒灰色粉末床及橘色發光部件；17.04秒整機，19.14秒外殼升起分離，22.01秒透明外框內的多層零件展示；24.41秒細光束穿過光學機構，27.16秒粉末床可見亮點軌跡與重複深色圖案；29.04秒容量刻度。確認外殼拆解與雷射掃描呈現，不將加熱光誤標為火焰、不將列印誤標為CNC切削。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.30秒機身Formlabs字樣；10.41、11.04秒灰色粉末床及橘色發光部件；17.04秒整機，19.14秒外殼升起分離，22.01秒透明外框內的多層零件展示；24.41秒細光束穿過光學機構，27.16秒粉末床可見亮點軌跡與重複深色圖案；29.04秒容量刻度。確認外殼拆解與雷射掃描呈現，不將加熱光誤標為火焰、不將列印誤標為CNC切削。"
           ],
           "matched_tags": []
         }
