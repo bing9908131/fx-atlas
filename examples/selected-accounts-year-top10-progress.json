@@ -1691,7 +1691,7 @@
           "shortcode": "Dcs2PsdDVR2",
           "url": "https://www.instagram.com/bus.group/p/Dcs2PsdDVR2/",
           "published_at": "2026-08-31",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcs2PsdDVR2-1"
           ]
@@ -1700,7 +1700,7 @@
           "shortcode": "DcdENRpDYHc",
           "url": "https://www.instagram.com/bus.group/p/DcdENRpDYHc/",
           "published_at": "2026-08-25T07:08:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcdENRpDYHc-1"
           ]
@@ -1722,7 +1722,7 @@
           "shortcode": "DcupoxkhTdb",
           "url": "https://www.instagram.com/by.grais/reel/DcupoxkhTdb/",
           "published_at": "2026-09-01T03:04:14.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcupoxkhTdb-1"
           ]
@@ -1731,7 +1731,7 @@
           "shortcode": "DWqEW_OlqXT",
           "url": "https://www.instagram.com/by.grais/p/DWqEW_OlqXT/",
           "published_at": "2026-04-03T05:11:34.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWqEW_OlqXT-1"
           ]
@@ -1764,7 +1764,7 @@
           "shortcode": "DdB905rtc34",
           "url": "https://www.instagram.com/cameron.galley/reel/DdB905rtc34/",
           "published_at": "2026-09-08T15:09:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdB905rtc34-1"
           ]
@@ -1773,7 +1773,7 @@
           "shortcode": "Dc35riVmt1i",
           "url": "https://www.instagram.com/cameron.galley/p/Dc35riVmt1i/",
           "published_at": "2026-09-04",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc35riVmt1i-1"
           ]
@@ -1795,7 +1795,7 @@
           "shortcode": "DXeTxSCF64s",
           "url": "https://www.instagram.com/ccstudio.studio/p/DXeTxSCF64s/",
           "published_at": "2026-04-23T12:06:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DXeTxSCF64s-1"
           ]
@@ -1804,7 +1804,7 @@
           "shortcode": "DWrbUqDD6QF",
           "url": "https://www.instagram.com/ccstudio.studio/reel/DWrbUqDD6QF/",
           "published_at": "2026-04-03T17:58:24.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWrbUqDD6QF-1"
           ]
@@ -1820,34 +1820,126 @@
     {
       "handle": "cgeye",
       "url": "https://www.instagram.com/cgeye/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "CqicsSMOGCB",
+          "url": "https://www.instagram.com/cgeye/p/CqicsSMOGCB/",
+          "published_at": "2023-04-02T15:08:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CqicsSMOGCB-1"
+          ]
+        },
+        {
+          "shortcode": "CZC2YRjFOUB",
+          "url": "https://www.instagram.com/cgeye/p/CZC2YRjFOUB/",
+          "published_at": "2022-01-22T19:43:59.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CZC2YRjFOUB-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "CqicsSMOGCB",
+        "CZC2YRjFOUB"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; both latest dates read on individual posts."
     },
     {
       "handle": "chingyeh005",
       "url": "https://www.instagram.com/chingyeh005/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZrIbr1iYiz",
+          "url": "https://www.instagram.com/chingyeh005/p/DZrIbr1iYiz/",
+          "published_at": "2026-06-16",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZrIbr1iYiz-1"
+          ]
+        },
+        {
+          "shortcode": "DZZba54k3dR",
+          "url": "https://www.instagram.com/chingyeh005/p/DZZba54k3dR/",
+          "published_at": "2026-06-10",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZZba54k3dR-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZrIbr1iYiz",
+        "DZZba54k3dR"
+      ],
+      "latest_two_selection_evidence": "All dates from profile accessibility text: three pins August 17 2025, April 21 2025, November 30 2023; latest two June 16 and June 10 2026."
     },
     {
       "handle": "christoph_strohfeld",
       "url": "https://www.instagram.com/christoph_strohfeld/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db8aoyYDUCV",
+          "url": "https://www.instagram.com/christoph_strohfeld/p/Db8aoyYDUCV/",
+          "published_at": "2026-08-12T14:49:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db8aoyYDUCV-1"
+          ]
+        },
+        {
+          "shortcode": "Db5zqmgNaHC",
+          "url": "https://www.instagram.com/christoph_strohfeld/reel/Db5zqmgNaHC/",
+          "published_at": "2026-08-11T14:31:16.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db5zqmgNaHC-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db8aoyYDUCV",
+        "Db5zqmgNaHC"
+      ],
+      "latest_two_selection_evidence": "Pinned posts dated February 17 2022, May 4 2023, April 13 2023. Latest two dates verified on post pages."
     },
     {
       "handle": "chrometype",
       "url": "https://www.instagram.com/chrometype/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dak_6x2FM1h",
+          "url": "https://www.instagram.com/chrometype/p/Dak_6x2FM1h/",
+          "published_at": "2026-07-09T16:02:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dak_6x2FM1h-1"
+          ]
+        },
+        {
+          "shortcode": "Daan4kpFNFK",
+          "url": "https://www.instagram.com/chrometype/p/Daan4kpFNFK/",
+          "published_at": "2026-07-05",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Daan4kpFNFK-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dak_6x2FM1h",
+        "Daan4kpFNFK"
+      ],
+      "latest_two_selection_evidence": "Pinned dates July 8 2025, August 9 2024, October 20 2023. Latest dates from individual post and profile accessibility text; source credits retained in caption."
     },
     {
       "handle": "cjwidd",
@@ -3866,8 +3958,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 66,
-  "imported_media": 67,
+  "imported_posts": 74,
+  "imported_media": 75,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
