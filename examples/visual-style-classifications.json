@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2172,
+  "total": 2184,
   "unclassified": 0,
   "counts": {
-    "graphic": 445,
+    "graphic": 446,
     "product": 788,
-    "organic": 457,
-    "geometric": 834,
+    "organic": 467,
+    "geometric": 836,
     "scifi": 306,
     "effects": 139
   },
@@ -1433,6 +1433,69 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第1/9項實際畫面：金色厚戒身側面23浮雕和Jumpman標誌，星形飾物，斑駁金屬底板，上緣透明寶石列。 靜態不推定運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYnLw26u-OR-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "5.246秒直式CG。0.018892球體在右側曲面後；0.99916淺綠顆粒球體及亮綠光滑斑塊位於曲面頂；1.567501球體已移出近景；3.224724切至雙波形實體軌道；4.232449上方一球、左下低處球有移動模糊，4.46036下方球移出且上方球改變位置與斑塊朝向。支持沿曲面滾動與旋轉，不將靜態波形軌道標成液體或ripple模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.778666秒動畫；4.710756/4.968173彎曲液態薄膜與孔洞，5.931401/6.084609另一液態曲面特寫；8.979622拉遠出現B&輪廓、內部尚有液滴；11.959125成為乾淨空心B&字形。實際觀察形變、輪廓成形與鏡頭拉遠，不推定特定流體求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.778666秒動畫；4.710756/4.968173彎曲液態薄膜與孔洞，5.931401/6.084609另一液態曲面特寫；8.979622拉遠出現B&輪廓、內部尚有液滴；11.959125成為乾淨空心B&字形。實際觀察形變、輪廓成形與鏡頭拉遠，不推定特定流體求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXhIS4uDPmu-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "39.70467秒單影片；7.013362建築平面圖與箭頭導航說明；16.547898室內紅棕沙發、混凝土立柱、木椅與花園；22.933377切換廚房金屬櫃檯、窗外綠籬雕塑；29.445245視角推近並向下看到抽屜把手與地磚；36.243132轉為書房桌椅、垂直簾、紙燈和窗外雕塑。動態為視角導航／鏡頭移動，未確認抽屜開啟或植物動態，不加此類標籤。"
           ],
           "matched_tags": []
         }
@@ -4747,6 +4810,159 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第9/9項實際畫面：1.480965側面勾形與斜戒圈較明顯，2.391522正面Wings和戒圈內部轉向觀眾。屬整體轉向，沒有裂解、融化或生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第2/10為靜態圖片：銀黑鏡面有機曲線與孔洞微距，背景灰紫色。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第3/10為靜態圖片：玻璃般透明曲面與反光邊緣，粉銅高光，米色背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第4/10為靜態圖片：與前圖相似的透明彎曲輪廓，改為灰紫背景與淡粉反射。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第5/10為靜態圖片：不規則透明薄膜與鏡面圓潤邊緣，灰白背景、粉色反光。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第6/10為靜態圖片：玻璃和亮銀曲面上出現金黃色格紋反射，灰白背景和藍色邊光。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第7/10為靜態圖片：不透明銅色光滑曲面與柔和寬高光，米白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-8",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第8/10為靜態圖片：高對比黑銀拋光曲面及大片白色環境反射，淡灰紫背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第9/10為靜態圖片：金色鏡面不規則孔洞與彎曲邊緣，灰白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcd6mHUjmqV-10",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "輪播第10/10為靜態圖片：銅橘色柔和金屬曲面，不規則孔洞、淺景深、米白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
           ],
           "matched_tags": []
         }

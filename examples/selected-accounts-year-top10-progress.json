@@ -8733,10 +8733,12 @@
           "shortcode": "DYnLw26u-OR",
           "url": "https://www.instagram.com/szoraidez/reel/DYnLw26u-OR/",
           "published_at": "2026-05-21T19:21:46.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DYnLw26u-OR-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8765,10 +8767,21 @@
           "shortcode": "Dcd6mHUjmqV",
           "url": "https://www.instagram.com/tavo_studio/p/Dcd6mHUjmqV/",
           "published_at": "2026-08-25T15:03:58.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dcd6mHUjmqV-1"
-          ]
+            "selectedyear-Dcd6mHUjmqV-1",
+            "selectedyear-Dcd6mHUjmqV-2",
+            "selectedyear-Dcd6mHUjmqV-3",
+            "selectedyear-Dcd6mHUjmqV-4",
+            "selectedyear-Dcd6mHUjmqV-5",
+            "selectedyear-Dcd6mHUjmqV-6",
+            "selectedyear-Dcd6mHUjmqV-7",
+            "selectedyear-Dcd6mHUjmqV-8",
+            "selectedyear-Dcd6mHUjmqV-9",
+            "selectedyear-Dcd6mHUjmqV-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8788,10 +8801,12 @@
           "shortcode": "DXhIS4uDPmu",
           "url": "https://www.instagram.com/teaaalexis/reel/DXhIS4uDPmu/",
           "published_at": "2026-04-24T14:32:11.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DXhIS4uDPmu-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DWESHqLDE7A",
