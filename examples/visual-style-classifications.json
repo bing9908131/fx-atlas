@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2064,
+  "total": 2079,
   "unclassified": 0,
   "counts": {
     "graphic": 410,
-    "product": 753,
+    "product": 759,
     "organic": 426,
-    "geometric": 823,
+    "geometric": 830,
     "scifi": 291,
-    "effects": 108
+    "effects": 114
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -763,6 +763,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "5.94秒角色與毛蟲近景；19.08秒角色位於森林左邊，20.91秒移至中央並持網，蝴蝶在固定樹木間改變位置。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第1/8個媒體。黃黑越野鞋置於灰色碎石山坡，周圍有白灰霧塵及懸空碎石。靜態畫面不證明撞擊、落石或煙霧流動。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第1/8個媒體。黃黑越野鞋置於灰色碎石山坡，周圍有白灰霧塵及懸空碎石。靜態畫面不證明撞擊、落石或煙霧流動。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第1/7張：不同大小的桃紅紫色玻璃圓盤散置於淺灰背景，中心帶環狀紋理及綠紅反光。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
           ],
           "matched_tags": []
         }
@@ -2311,6 +2357,263 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.96秒葉片頂端小昆蟲呈直立捲曲姿態，3.05秒變為水平，角落蝴蝶翅形亦改變；背景手寫文字及波形邊框。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-2",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第2/8個媒體。由密集黑白粒點描繪樹幹、樹冠和滿地石塊，為森林掃描視覺。靜態圖片不標粒子擴散。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第3/8個媒體。黃黑網布越野鞋以側面斜立姿態置於淺灰山岩與白色粒點霧狀環境。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第3/8個媒體。黃黑網布越野鞋以側面斜立姿態置於淺灰山岩與白色粒點霧狀環境。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第4/8個媒體。兩秒影片中，鞋款的正面與斜側面隨視角變換，周圍點雲呈水平拖抹外觀。可確認鏡頭視差；未見鞋体碎裂或液體流動。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第4/8個媒體。兩秒影片中，鞋款的正面與斜側面隨視角變換，周圍點雲呈水平拖抹外觀。可確認鏡頭視差；未見鞋体碎裂或液體流動。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第5/8個媒體。灰色背景中懸置黄黑越野鞋，細看網眼織物、鞋帶、粗糙中底和黑色鞋底齒紋。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第6/8個媒體。黃色網布鞋懸置草地與碎石前方，背景有淡綠灰色薄霧及纖細草莖。靜態懸置不標飛行或生長。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第7/8個媒體。黃黑鞋款橫置深色岩壁旁，低視角可見凸起鞋底齒纹，背景為灰白霧狀點雲。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第7/8個媒體。黃黑鞋款橫置深色岩壁旁，低視角可見凸起鞋底齒纹，背景為灰白霧狀點雲。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da2sBZDjG8M-8",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一打開輪播第8/8個媒體。五秒森林點雲影片呈綠褐樹冠、灰藍天空與模糊粒點邊緣。不同時刻樹幹與前景相對位置略變，記錄鏡頭視差；無法確認獨立風擺、樹木生長或粒子生成。 第8個無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-2",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第2/7張：黑色背景中單一圓盘，外緣白色高光、透明厚邊與粉紫同心紋理；中心有綠紅光譜。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第3/7張：多個透明圓盤以不同角度分布，呈紫粉邊緣及綠色高光，前景與後景大小差異明顯。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-4",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第4/7張：多個凸面球狀玻璃體以不同大小分布，表面紫色反射和綠色光帶；形體較圓盤飽滿。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-5",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第5/7張：單一圓盤的大幅裁切微距，能見細密同心刻紋、桃紅高光與綠紅反射。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-6",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第6/7張：大量不同大小的球狀玻璃體散布於畫面，紫粉外緣與斜向綠色反光；沒有接觸碰撞的可用動態證據。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcZipVqjnCU-7",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視第7/7張：斜角近景的透明圓盤带桃紅紫色表面與青綠邊緣反光，後方圓盤因景深而模糊。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
           ],
           "matched_tags": []
         }

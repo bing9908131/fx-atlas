@@ -9316,10 +9316,19 @@
           "shortcode": "Da2sBZDjG8M",
           "url": "https://www.instagram.com/visualoperator/p/Da2sBZDjG8M/",
           "published_at": "2026-07-16T12:54:36.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Da2sBZDjG8M-1"
-          ]
+            "selectedyear-Da2sBZDjG8M-1",
+            "selectedyear-Da2sBZDjG8M-2",
+            "selectedyear-Da2sBZDjG8M-3",
+            "selectedyear-Da2sBZDjG8M-4",
+            "selectedyear-Da2sBZDjG8M-5",
+            "selectedyear-Da2sBZDjG8M-6",
+            "selectedyear-Da2sBZDjG8M-7",
+            "selectedyear-Da2sBZDjG8M-8"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DTyenpRDLcW",
@@ -9378,10 +9387,18 @@
           "shortcode": "DcZipVqjnCU",
           "url": "https://www.instagram.com/vladislav.solovjov/p/DcZipVqjnCU/",
           "published_at": "2026-08-23T22:17:29.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DcZipVqjnCU-1"
-          ]
+            "selectedyear-DcZipVqjnCU-1",
+            "selectedyear-DcZipVqjnCU-2",
+            "selectedyear-DcZipVqjnCU-3",
+            "selectedyear-DcZipVqjnCU-4",
+            "selectedyear-DcZipVqjnCU-5",
+            "selectedyear-DcZipVqjnCU-6",
+            "selectedyear-DcZipVqjnCU-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Db6jMbAOR-p",
