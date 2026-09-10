@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2159,
+  "total": 2172,
   "unclassified": 0,
   "counts": {
-    "graphic": 443,
-    "product": 778,
-    "organic": 455,
+    "graphic": 445,
+    "product": 788,
+    "organic": 457,
     "geometric": 834,
     "scifi": 306,
-    "effects": 137
+    "effects": 139
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1312,6 +1312,127 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "影片56.541677秒，1080方形。9.701727多層手機殼分離排列；11.395049及12.045023標誌周圍凹凸環紋位置改變，表面有波紋變形。24.388294三個藍色殼及繩帶，29.223963黑岩碎塊在手機殼周圍；31.545652與32.193021米色纖維曲面近景，不能僅憑兩個視角推定生長或風吹。38.084852手機殼邊緣碰到地面岩塊，碎屑向周圍飛散；40.590171橘色表面透明及橘色球粒成列，41.654666同類球粒層沿殼面分離起伏。49.894341橘色殼內部，52.846289三種灰色殼並列。只標可見表面波紋、撞擊碎屑與粒子層分離，不猜特定模擬求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZchzsTMA6f-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "網站操作錄影71秒，0.545633藍底白色立體MOTIONPUNK字樣与纖維粒子；14.678889橘棕色樹木場景，標CampMograph title sequence/Elastic；22.418576黑底石塊上的耳機盒與耳機，專案頁標GooglePixel7 TVC/TheMillUS（耳機實際型號不從專案標題推測）；30.401479手指、鍵盤及青藍線條粒子，頁標DellAlienwareTVC/Framestore；38.107767AppleStudio電腦螢幕及彩色圖形；48.944103SillyJuice透明瓶粉紅飲料黃標與彎曲線材；58.208642MA(D)CHINES個人探索黑白字樣。這是網頁捲動錄影，不能將所有位置變化当成CG物件運動；未添加流動/風吹/生長等具體模擬動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "網站操作錄影71秒，0.545633藍底白色立體MOTIONPUNK字樣与纖維粒子；14.678889橘棕色樹木場景，標CampMograph title sequence/Elastic；22.418576黑底石塊上的耳機盒與耳機，專案頁標GooglePixel7 TVC/TheMillUS（耳機實際型號不從專案標題推測）；30.401479手指、鍵盤及青藍線條粒子，頁標DellAlienwareTVC/Framestore；38.107767AppleStudio電腦螢幕及彩色圖形；48.944103SillyJuice透明瓶粉紅飲料黃標與彎曲線材；58.208642MA(D)CHINES個人探索黑白字樣。這是網頁捲動錄影，不能將所有位置變化当成CG物件運動；未添加流動/風吹/生長等具體模擬動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CLe1kSglPQf-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態成品：穿深青綠長外套的金棕髮男性背影，手持拐杖立在深色粗糙岩石山頂；遠處淡灰藍山脈、大片白灰雲霧。作者明說man and rocks are3D/Redshift，clouds/fog painted inProcreate，最後Nuke/psd合成。無輪播、無影片，不加入風吹/霧流動等動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdHI4h_K_Vv-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.317949密集藍邊白布皺摺；3.640962同結構展平為多邊形網格；5.560997邊緣再次捲曲皺摺，中心聚集；7.789958課程結尾。明確布片形變，不是相機造成的整體平移。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.317949密集藍邊白布皺摺；3.640962同結構展平為多邊形網格；5.560997邊緣再次捲曲皺摺，中心聚集；7.789958課程結尾。明確布片形變，不是相機造成的整體平移。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcWJI26qrEa-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "開頁可見木製蜂蜜棒；5.172305上方液流接觸凹槽，底部形成厚液滴；6.317273底部已延長成向下液柱。兩時刻都有中間條帶展示不規則氣泡。10.728257及11.395061結尾明示Adding deforming bubbles to your viscous FLIP sim。確認澆注包覆及向下拉絲，不標火焰或煙霧。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "開頁可見木製蜂蜜棒；5.172305上方液流接觸凹槽，底部形成厚液滴；6.317273底部已延長成向下液柱。兩時刻都有中間條帶展示不規則氣泡。10.728257及11.395061結尾明示Adding deforming bubbles to your viscous FLIP sim。確認澆注包覆及向下拉絲，不標火焰或煙霧。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第1/9項實際畫面：金色厚戒身側面23浮雕和Jumpman標誌，星形飾物，斑駁金屬底板，上緣透明寶石列。 靜態不推定運動。"
           ],
           "matched_tags": []
         }
@@ -4490,6 +4611,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項查看第9/9項。淡黃綠細粉末表面有矩形刮痕、圓形凹印與環狀Clarifie字母；邊缘粉末薄片及碎屑。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第2/9項實際畫面：放大23與Jumpman浮雕、旁邊五角星切面，顆粒金屬底板與拋光金屬邊框。 靜態不推定運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第3/9項實際畫面：0.690861 JORDAN側面朝前，1.202383旋轉至23側面與上方Wings徽章更清楚；整個戒指朝向改變、形狀未變。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第4/9項實際畫面：戒面籃球徽章的密集透明鑲石、金色分隔線與翅膀分層，黑色AIRJORDAN字樣，淺景深。 靜態不推定運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第5/9項實際畫面：金色寬戒面正視，上有AIRJORDAN刻字、籃球鑲石與對称分層翅膀，外圍細密粗紋金屬。 靜態不推定運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第6/9項實際畫面：0.414162金屬翅膀與徽章整體較亮，2.289531高光帶與陰影位置明顯變化。未見戒指拆解或寶石移動，僅標光影變化。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第7/9項實際畫面：0.215622戒指窄側面朝鏡頭、上方徽章斜向；2.038258另一角度較寬的戒圈與側面標誌朝前，平台保持固定。確認傾斜轉動，不推定碰撞求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第8/9項實際畫面：簡潔寬戒身的三分之四角度，金色鏡面反射、上方Wings籃球鑲石與AIRJORDAN，側面勾形裝飾。 靜態不推定運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzRTEYjCZT-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第9/9項實際畫面：1.480965側面勾形與斜戒圈較明顯，2.391522正面Wings和戒圈內部轉向觀眾。屬整體轉向，沒有裂解、融化或生長。"
           ],
           "matched_tags": []
         }
