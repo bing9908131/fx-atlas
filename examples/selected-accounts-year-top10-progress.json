@@ -7709,7 +7709,7 @@
           "shortcode": "DMsGn8VJ9f1",
           "url": "https://www.instagram.com/shanren.3d/reel/DMsGn8VJ9f1/",
           "published_at": "2025-07-29T10:56:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DMsGn8VJ9f1-1"
           ]
@@ -7718,7 +7718,7 @@
           "shortcode": "DMkt82qJ0Bb",
           "url": "https://www.instagram.com/shanren.3d/reel/DMkt82qJ0Bb/",
           "published_at": "2025-07-26T14:05:56.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DMkt82qJ0Bb-1"
           ]
@@ -7740,7 +7740,7 @@
           "shortcode": "DZaX4d1kcIl",
           "url": "https://www.instagram.com/shittyrenders/p/DZaX4d1kcIl/",
           "published_at": "2026-06-10T16:28:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZaX4d1kcIl-1"
           ]
@@ -7749,7 +7749,7 @@
           "shortcode": "DWRiI_Ql3yN",
           "url": "https://www.instagram.com/shittyrenders/p/DWRiI_Ql3yN/",
           "published_at": "2026-03-24T16:30:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWRiI_Ql3yN-1"
           ]
@@ -7765,26 +7765,93 @@
     {
       "handle": "simon_stalenhag",
       "url": "https://www.instagram.com/simon_stalenhag/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db0KY-zM3m8",
+          "url": "https://www.instagram.com/simon_stalenhag/p/Db0KY-zM3m8/",
+          "published_at": "2026-08-09T10:03:58.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實拍旅行筆電照片，並非 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DZCFIfJNls8",
+          "url": "https://www.instagram.com/simon_stalenhag/reel/DZCFIfJNls8/",
+          "published_at": "2026-06-01T06:03:59.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "音樂 tracker 混音錄影，並非 CG 視覺作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db0KY-zM3m8",
+        "DZCFIfJNls8"
+      ],
+      "latest_two_selection_evidence": "Latest two nonpinned posts, original dates read. First actual sticker-covered laptop photo; second music tracker remix screen recording."
     },
     {
       "handle": "simonbrauud",
       "url": "https://www.instagram.com/simonbrauud/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DUSnE55Dn4t",
+          "url": "https://www.instagram.com/simonbrauud/reel/DUSnE55Dn4t/",
+          "published_at": "2026-02-03T09:30:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUSnE55Dn4t-1"
+          ]
+        },
+        {
+          "shortcode": "DOYNF3rDBBG",
+          "url": "https://www.instagram.com/simonbrauud/reel/DOYNF3rDBBG/",
+          "published_at": "2025-09-09T10:30:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DOYNF3rDBBG-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DUSnE55Dn4t",
+        "DOYNF3rDBBG"
+      ],
+      "latest_two_selection_evidence": "Two newest works are pinned; original dates read rather than discarding pins. VANTA explicitly combines dancer footage with credited CGI; showreel C4D/Redshift. Full mixed-media review pending."
     },
     {
       "handle": "simonholmedal",
       "url": "https://www.instagram.com/simonholmedal/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DIykgQuN9EB",
+          "url": "https://www.instagram.com/offfest/p/DIykgQuN9EB/",
+          "published_at": "2025-04-23T13:06:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DIykgQuN9EB-1"
+          ]
+        },
+        {
+          "shortcode": "DBzIMvStuHI",
+          "url": "https://www.instagram.com/simonholmedal/p/DBzIMvStuHI/",
+          "published_at": "2024-10-31T18:39:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DBzIMvStuHI-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DIykgQuN9EB",
+        "DBzIMvStuHI"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned dates read. OFFF cover includes rendered flower/procedural breakdown; mixed carousel needs individual-slide review. AHS explicitly credited project R&D dissolving skull into sand."
     },
     {
       "handle": "simonsjoo",
@@ -8219,8 +8286,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 354,
-  "imported_media": 355,
+  "imported_posts": 358,
+  "imported_media": 359,
   "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
