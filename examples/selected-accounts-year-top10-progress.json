@@ -2074,7 +2074,7 @@
           "shortcode": "Db8jsJZDQbm",
           "url": "https://www.instagram.com/md_munich/p/Db8jsJZDQbm/",
           "published_at": "2026-08-12T16:08:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db8jsJZDQbm-1"
           ]
@@ -2083,7 +2083,7 @@
           "shortcode": "DZuziZWjCkb",
           "url": "https://www.instagram.com/colorsandthekids/p/DZuziZWjCkb/",
           "published_at": "2026-06-18",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZuziZWjCkb-1"
           ]
@@ -2143,7 +2143,7 @@
           "shortcode": "Daz7IxsGYZp",
           "url": "https://www.instagram.com/feversensejoe/p/Daz7IxsGYZp/",
           "published_at": "2026-07-15",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Daz7IxsGYZp-1"
           ]
@@ -2152,7 +2152,7 @@
           "shortcode": "DZMDcwFAWYe",
           "url": "https://www.instagram.com/computerface_tw/reel/DZMDcwFAWYe/",
           "published_at": "2026-06-05T03:00:57.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZMDcwFAWYe-1"
           ]
@@ -2174,7 +2174,7 @@
           "shortcode": "DcyGgKsDU2I",
           "url": "https://www.instagram.com/caviar.tv/p/DcyGgKsDU2I/",
           "published_at": "2026-09-02T11:12:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcyGgKsDU2I-1"
           ]
@@ -2183,7 +2183,7 @@
           "shortcode": "DbayLnuEVR_",
           "url": "https://www.instagram.com/frame.set/p/DbayLnuEVR_/",
           "published_at": "2026-07-30T13:21:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbayLnuEVR_-1"
           ]
@@ -2199,34 +2199,126 @@
     {
       "handle": "cxingyou",
       "url": "https://www.instagram.com/cxingyou/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaVVtErD603",
+          "url": "https://www.instagram.com/cxingyou/p/DaVVtErD603/",
+          "published_at": "2026-07-03T14:04:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaVVtErD603-1"
+          ]
+        },
+        {
+          "shortcode": "DaQHbKyD-du",
+          "url": "https://www.instagram.com/cxingyou/p/DaQHbKyD-du/",
+          "published_at": "2026-07-01T13:23:40.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaQHbKyD-du-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaVVtErD603",
+        "DaQHbKyD-du"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Original Instagram publication dates read individually; caption project year is retained separately in text."
     },
     {
       "handle": "dada.projects",
       "url": "https://www.instagram.com/dada.projects/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdElAgfDJcm",
+          "url": "https://www.instagram.com/dada.projects/p/DdElAgfDJcm/",
+          "published_at": "2026-09-09T15:25:01.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdElAgfDJcm-1"
+          ]
+        },
+        {
+          "shortcode": "DZ-JdJ8DDai",
+          "url": "https://www.instagram.com/dada.projects/p/DZ-JdJ8DDai/",
+          "published_at": "2026-06-24T13:55:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZ-JdJ8DDai-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdElAgfDJcm",
+        "DZ-JdJ8DDai"
+      ],
+      "latest_two_selection_evidence": "Pinned date June 11 2024 verified; latest two dates read individually."
     },
     {
       "handle": "daisy_chain_studio",
       "url": "https://www.instagram.com/daisy_chain_studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbdjPhSDfWz",
+          "url": "https://www.instagram.com/crackmagazine/p/DbdjPhSDfWz/",
+          "published_at": "2026-07-31",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbdjPhSDfWz-1"
+          ]
+        },
+        {
+          "shortcode": "DbLJjIjAPS0",
+          "url": "https://www.instagram.com/crackmagazine/p/DbLJjIjAPS0/",
+          "published_at": "2026-07-24",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbLJjIjAPS0-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbdjPhSDfWz",
+        "DbLJjIjAPS0"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Both latest dates from profile accessibility text."
     },
     {
       "handle": "daitomanabe",
       "url": "https://www.instagram.com/daitomanabe/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdGgELhTfRA",
+          "url": "https://www.instagram.com/fil.tokyo/p/DdGgELhTfRA/",
+          "published_at": "2026-09-10",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdGgELhTfRA-1"
+          ]
+        },
+        {
+          "shortcode": "Dc3QXKiGWvM",
+          "url": "https://www.instagram.com/kotaro_nukaga/p/Dc3QXKiGWvM/",
+          "published_at": "2026-09-04",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3QXKiGWvM-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdGgELhTfRA",
+        "Dc3QXKiGWvM"
+      ],
+      "latest_two_selection_evidence": "Pinned dates August 8 2026, July 17 2026 from profile alt and July 12 2026 from post time. Latest two dates from profile accessibility text."
     },
     {
       "handle": "damien_visual",
@@ -4149,9 +4241,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 88,
-  "imported_media": 89,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 96,
+  "imported_media": 97,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
