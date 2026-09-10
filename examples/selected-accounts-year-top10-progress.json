@@ -4947,7 +4947,7 @@
           "shortcode": "DdEvDWHNnd2",
           "url": "https://www.instagram.com/julian_hespenheide/reel/DdEvDWHNnd2/",
           "published_at": "2026-09-09T16:55:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEvDWHNnd2-1"
           ]
@@ -5024,7 +5024,7 @@
           "shortcode": "DO56ij7gcnW",
           "url": "https://www.instagram.com/keikanamori_/reel/DO56ij7gcnW/",
           "published_at": "2025-09-22T12:56:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DO56ij7gcnW-1"
           ]
@@ -5075,7 +5075,7 @@
           "shortcode": "DMGRYs1yPeF",
           "url": "https://www.instagram.com/fitzandthetantrums/reel/DMGRYs1yPeF/",
           "published_at": "2025-07-14T18:21:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DMGRYs1yPeF-1"
           ]
@@ -5084,7 +5084,7 @@
           "shortcode": "DJcLPvSp5-3",
           "url": "https://www.instagram.com/fitzandthetantrums/reel/DJcLPvSp5-3/",
           "published_at": "2025-05-09T16:57:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DJcLPvSp5-3-1"
           ]
@@ -5106,7 +5106,7 @@
           "shortcode": "DV6sVqWDHxs",
           "url": "https://www.instagram.com/kollektiiv/reel/DV6sVqWDHxs/",
           "published_at": "2026-03-15T19:46:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DV6sVqWDHxs-1"
           ]
@@ -5115,7 +5115,7 @@
           "shortcode": "DTtFakUDFe-",
           "url": "https://www.instagram.com/kollektiiv/reel/DTtFakUDFe-/",
           "published_at": "2026-01-19T20:10:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTtFakUDFe--1"
           ]
@@ -5131,42 +5131,155 @@
     {
       "handle": "korb.tv",
       "url": "https://www.instagram.com/korb.tv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db-_4yFAVZ0",
+          "url": "https://www.instagram.com/korb.tv/reel/Db-_4yFAVZ0/",
+          "published_at": "2026-08-13T15:00:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db-_4yFAVZ0-1"
+          ]
+        },
+        {
+          "shortcode": "DbGbVkOCK9j",
+          "url": "https://www.instagram.com/korb.tv/p/DbGbVkOCK9j/",
+          "published_at": "2026-07-22T15:36:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbGbVkOCK9j-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db-_4yFAVZ0",
+        "DbGbVkOCK9j"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; exact dates read on first two original posts. Studio identifies ECCO CGI commissions."
     },
     {
       "handle": "kskee_sketches",
       "url": "https://www.instagram.com/kskee_sketches/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZXZAvrP8cf",
+          "url": "https://www.instagram.com/kskee_sketches/reel/DZXZAvrP8cf/",
+          "published_at": "2026-06-09T12:41:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZXZAvrP8cf-1"
+          ]
+        },
+        {
+          "shortcode": "DZII6uGyoqK",
+          "url": "https://www.instagram.com/kskee_sketches/reel/DZII6uGyoqK/",
+          "published_at": "2026-06-03T14:32:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZII6uGyoqK-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZXZAvrP8cf",
+        "DZII6uGyoqK"
+      ],
+      "latest_two_selection_evidence": "Pins dated 2025-11-27T14:26:53.000Z, 2025-05-12T14:18:39.000Z; latest unpinned June 9 and June 3 2026 individually verified."
     },
     {
       "handle": "landgrenwilliam",
       "url": "https://www.instagram.com/landgrenwilliam/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DOVPm9GE56k",
+          "url": "https://www.instagram.com/landgrenwilliam/p/DOVPm9GE56k/",
+          "published_at": "2025-09-08T06:54:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DOVPm9GE56k-1"
+          ]
+        },
+        {
+          "shortcode": "DODySyEgEL_",
+          "url": "https://www.instagram.com/landgrenwilliam/reel/DODySyEgEL_/",
+          "published_at": "2025-09-01T12:13:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DODySyEgEL_-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DOVPm9GE56k",
+        "DODySyEgEL_"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two dates verified individually. Caption confirms Blender CGI architectural film and stills."
     },
     {
       "handle": "leeinhyuk",
       "url": "https://www.instagram.com/leeinhyuk/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc_BpfUyfBK",
+          "url": "https://www.instagram.com/inhyuklee_daily/reel/Dc_BpfUyfBK/",
+          "published_at": "2026-09-07T11:42:13.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "漫畫展簽名活動實拍，非 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dc3Pki-CQrG",
+          "url": "https://www.instagram.com/leeinhyuk/p/Dc3Pki-CQrG/",
+          "published_at": "2026-09-04T11:08:01.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "靜態漫畫數位繪畫，無 CG 動態或模擬內容。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc_BpfUyfBK",
+        "Dc3Pki-CQrG"
+      ],
+      "latest_two_selection_evidence": "Pins visibly dated 2023, 2025, 2020; first two unpinned original dates checked. Both excluded, no backfill."
     },
     {
       "handle": "lewisorton",
       "url": "https://www.instagram.com/lewisorton/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbvIx6JBY-v",
+          "url": "https://www.instagram.com/lewisorton/reel/DbvIx6JBY-v/",
+          "published_at": "2026-08-07T11:04:17.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbvIx6JBY-v-1"
+          ]
+        },
+        {
+          "shortcode": "DIO2EsaS8Ht",
+          "url": "https://www.instagram.com/lewisorton/reel/DIO2EsaS8Ht/",
+          "published_at": "2025-04-09T16:08:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DIO2EsaS8Ht-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbvIx6JBY-v",
+        "DIO2EsaS8Ht"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; first two exact original publication dates verified. Captions identify Three.js procedural flower and Houdini type animation."
     },
     {
       "handle": "linusschneider",
@@ -6281,9 +6394,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 233,
-  "imported_media": 234,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 241,
+  "imported_media": 242,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
