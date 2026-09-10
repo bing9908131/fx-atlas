@@ -8810,10 +8810,12 @@
           "shortcode": "DZpti-dsS6Q",
           "url": "https://www.instagram.com/thanu_lee/reel/DZpti-dsS6Q/",
           "published_at": "2026-06-16T15:27:40.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZpti-dsS6Q-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZchzsTMA6f",
@@ -9004,10 +9006,20 @@
           "shortcode": "DW4KBTfjZGJ",
           "url": "https://www.instagram.com/thomas_pomarelle/p/DW4KBTfjZGJ/",
           "published_at": "2026-04-08T16:30:09.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DW4KBTfjZGJ-1"
-          ]
+            "selectedyear-DW4KBTfjZGJ-1",
+            "selectedyear-DW4KBTfjZGJ-2",
+            "selectedyear-DW4KBTfjZGJ-3",
+            "selectedyear-DW4KBTfjZGJ-4",
+            "selectedyear-DW4KBTfjZGJ-5",
+            "selectedyear-DW4KBTfjZGJ-6",
+            "selectedyear-DW4KBTfjZGJ-7",
+            "selectedyear-DW4KBTfjZGJ-8",
+            "selectedyear-DW4KBTfjZGJ-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

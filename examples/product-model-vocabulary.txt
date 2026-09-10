@@ -161,3 +161,6 @@ Magic: The Gathering|Hulk, Strongest There Is|Hulk Strongest There Is,Hulk,浩�
 Magic: The Gathering|Thor, God of Thunder|Thor God of Thunder,Thor,索爾,雷神
 BMW|X1|BMW X1,X1
 BMW|X2|BMW X2,X2
+Clarifie|CoreDigest|CoreDigest,N°00 CoreDigest
+Clarifie|Répare + Consolide|Répare + Consolide,Répare et Consolide
+Beats|iPhone 17 Cases|iPhone 17 Cases,iPhone 17 保護殼

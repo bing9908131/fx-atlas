@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2149,
+  "total": 2159,
   "unclassified": 0,
   "counts": {
-    "graphic": 441,
-    "product": 769,
+    "graphic": 443,
+    "product": 778,
     "organic": 455,
-    "geometric": 833,
+    "geometric": 834,
     "scifi": 306,
-    "effects": 136
+    "effects": 137
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1266,6 +1266,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "影片11.624999秒。1.539712嵌套方框呈現斜視透明四圓錶盤；4.17408正面近景橘色數字只有下方清楚發亮；5.011618四組數字全部發亮且產品輪廓略縮小，確認亮度變化與鏡頭拉遠。5.677895切換手持展示，9.343495置於木桌書本旁。畫面中央四葉圖形及畫框構成平面設計疊加。沒有觀察到足以判斷流體、爆破或組裝的動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第1/9項。黑暗背景與硬邊光影中的銀綠長方包裝，綠色紙標寫N°00 CoreDigest，金屬折角與細顆粒反光。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZpti-dsS6Q-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片56.541677秒，1080方形。9.701727多層手機殼分離排列；11.395049及12.045023標誌周圍凹凸環紋位置改變，表面有波紋變形。24.388294三個藍色殼及繩帶，29.223963黑岩碎塊在手機殼周圍；31.545652與32.193021米色纖維曲面近景，不能僅憑兩個視角推定生長或風吹。38.084852手機殼邊緣碰到地面岩塊，碎屑向周圍飛散；40.590171橘色表面透明及橘色球粒成列，41.654666同類球粒層沿殼面分離起伏。49.894341橘色殼內部，52.846289三種灰色殼並列。只標可見表面波紋、撞擊碎屑與粒子層分離，不猜特定模擬求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片56.541677秒，1080方形。9.701727多層手機殼分離排列；11.395049及12.045023標誌周圍凹凸環紋位置改變，表面有波紋變形。24.388294三個藍色殼及繩帶，29.223963黑岩碎塊在手機殼周圍；31.545652與32.193021米色纖維曲面近景，不能僅憑兩個視角推定生長或風吹。38.084852手機殼邊緣碰到地面岩塊，碎屑向周圍飛散；40.590171橘色表面透明及橘色球粒成列，41.654666同類球粒層沿殼面分離起伏。49.894341橘色殼內部，52.846289三種灰色殼並列。只標可見表面波紋、撞擊碎屑與粒子層分離，不猜特定模擬求解器。"
           ],
           "matched_tags": []
         }
@@ -4284,6 +4330,166 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張查看輪播第9/9張：女性武士紅黑衣、黑髮髮簪，手持橫斜武士刀，刀刃及面部有紅色血跡，深藍灰背景與白黃圓形散景。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第2/9項。0.845包裝盒陣列，1.075虹彩白盒，1.648瓶盒直立，2.425瓶盒斜向懸浮構圖，9.533圓柱瓶疊在蘆薈背景。觀察的是剪輯更換多組構圖，未確認連續拆解或碰撞，不標組裝、爆破或膠囊流動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第2/9項。0.845包裝盒陣列，1.075虹彩白盒，1.648瓶盒直立，2.425瓶盒斜向懸浮構圖，9.533圓柱瓶疊在蘆薈背景。觀察的是剪輯更換多組構圖，未確認連續拆解或碰撞，不標組裝、爆破或膠囊流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第3/9項。橄欖綠圓形分隔藥盒，盒蓋與盒身錯位呈現，內有三顆米棕膠囊，蓋面白色字母環繞。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第4/9項。6.129753背面的密集說明文字朝向鏡頭；11.660317正面N°00及環狀字母朝向鏡頭。瓶子固定於畫框中央且背景不變，確認瓶身轉台旋轉；內部膠囊未判定有碰撞或下落。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第5/9項。手指握住橄欖綠圓形藥盒，純白背景，蓋面細緻金屬顆粒與環狀白色字母。品牌案的手持產品視覺，手部不推定為CG。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第6/9項。橄欖綠圓形藥盒斜靠銀色與綠色印刷包裝，斜向光線強調蓋緣與包裝折角。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第7/9項。霧面透明瓶內米色膠囊，银色瓶蓋，旁邊蒜頭與薑片，外框是綠色蘆薈葉片。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第8/9項。橄欖綠光線下的圓柱霧面瓶，瓶內膠囊與外側兩顆膠囊，暗綠金屬瓶蓋，底部鏡面倒影。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW4KBTfjZGJ-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第9/9項。淡黃綠細粉末表面有矩形刮痕、圓形凹印與環狀Clarifie字母；邊缘粉末薄片及碎屑。 靜態圖不推測運動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項查看第9/9項。淡黃綠細粉末表面有矩形刮痕、圓形凹印與環狀Clarifie字母；邊缘粉末薄片及碎屑。 靜態圖不推測運動。"
           ],
           "matched_tags": []
         }
