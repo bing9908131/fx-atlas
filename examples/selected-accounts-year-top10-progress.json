@@ -1350,42 +1350,155 @@
     {
       "handle": "art.of.styleframe",
       "url": "https://www.instagram.com/art.of.styleframe/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DavsPAUK0Cj",
+          "url": "https://www.instagram.com/art.of.styleframe/p/DavsPAUK0Cj/",
+          "published_at": "2026-07-13",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DavsPAUK0Cj-1"
+          ]
+        },
+        {
+          "shortcode": "DO-bPGdCoN_",
+          "url": "https://www.instagram.com/art.of.styleframe/p/DO-bPGdCoN_/",
+          "published_at": "2025-09-23",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DO-bPGdCoN_-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DavsPAUK0Cj",
+        "DO-bPGdCoN_"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; publication dates read from profile image accessibility descriptions."
     },
     {
       "handle": "ashthorp",
       "url": "https://www.instagram.com/ashthorp/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcL4pQbhAR8",
+          "url": "https://www.instagram.com/gxace/reel/DcL4pQbhAR8/",
+          "published_at": "2026-08-19T11:17:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcL4pQbhAR8-1"
+          ]
+        },
+        {
+          "shortcode": "DcGacl-B8RM",
+          "url": "https://www.instagram.com/gxace/reel/DcGacl-B8RM/",
+          "published_at": "2026-08-16T12:00:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcGacl-B8RM-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcL4pQbhAR8",
+        "DcGacl-B8RM"
+      ],
+      "latest_two_selection_evidence": "Three pinned posts dated May 23 2023, July 13 2023, March 6 2022. Latest unpinned post dates individually read."
     },
     {
       "handle": "atom63_",
       "url": "https://www.instagram.com/atom63_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZzfBCDz5hN",
+          "url": "https://www.instagram.com/atom63_/reel/DZzfBCDz5hN/",
+          "published_at": "2026-06-20T10:36:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZzfBCDz5hN-1"
+          ]
+        },
+        {
+          "shortcode": "DZV1Cl2TCr8",
+          "url": "https://www.instagram.com/atom63_/reel/DZV1Cl2TCr8/",
+          "published_at": "2026-06-08T22:07:19.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZV1Cl2TCr8-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZzfBCDz5hN",
+        "DZV1Cl2TCr8"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; exact publication dates read on each post."
     },
     {
       "handle": "axis_fx",
       "url": "https://www.instagram.com/axis_fx/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dci5t6josxm",
+          "url": "https://www.instagram.com/axis_fx/reel/Dci5t6josxm/",
+          "published_at": "2026-08-27T13:32:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dci5t6josxm-1"
+          ]
+        },
+        {
+          "shortcode": "DaSu2fLIM9f",
+          "url": "https://www.instagram.com/axis_fx/reel/DaSu2fLIM9f/",
+          "published_at": "2026-07-02T13:49:31.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaSu2fLIM9f-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dci5t6josxm",
+        "DaSu2fLIM9f"
+      ],
+      "latest_two_selection_evidence": "Two pinned posts dated June 19 and June 17 2023. Exact dates read for latest two unpinned posts."
     },
     {
       "handle": "bassetlaurie",
       "url": "https://www.instagram.com/bassetlaurie/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "Dc3Yj58Nsr4",
+          "url": "https://www.instagram.com/bassetlaurie/p/Dc3Yj58Nsr4/",
+          "published_at": "2026-09-04T12:26:53.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Profile screenshot shows photographed torso and clothing; post caption Details. No visible CG.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcyhbEikaTO",
+          "url": "https://www.instagram.com/bassetlaurie/p/DcyhbEikaTO/",
+          "published_at": "2026-09-02T15:07:49.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Profile screenshot shows real cushion and glass still life. Caption explicitly film and contax photography.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc3Yj58Nsr4",
+        "DcyhbEikaTO"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Dates read on individual latest posts."
     },
     {
       "handle": "beeple_crap",
@@ -3524,8 +3637,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 42,
-  "imported_media": 43,
+  "imported_posts": 50,
+  "imported_media": 51,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
