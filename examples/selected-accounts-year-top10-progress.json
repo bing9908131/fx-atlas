@@ -3932,7 +3932,7 @@
           "shortcode": "Dc1A-gkSxDj",
           "url": "https://www.instagram.com/goodboixian/reel/Dc1A-gkSxDj/",
           "published_at": "2026-09-03T14:23:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc1A-gkSxDj-1"
           ]
@@ -3941,7 +3941,7 @@
           "shortcode": "Dc0owwyPM_L",
           "url": "https://www.instagram.com/goodboixian/reel/Dc0owwyPM_L/",
           "published_at": "2026-09-03T10:52:33.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc0owwyPM_L-1"
           ]
@@ -3963,7 +3963,7 @@
           "shortcode": "C_j64ZlS-W0",
           "url": "https://www.instagram.com/goodmovestv/reel/C_j64ZlS-W0/",
           "published_at": "2024-09-06T03:52:17.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C_j64ZlS-W0-1"
           ]
@@ -3972,7 +3972,7 @@
           "shortcode": "C_OojeLBTHR",
           "url": "https://www.instagram.com/goodmovestv/reel/C_OojeLBTHR/",
           "published_at": "2024-08-28T21:27:26.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C_OojeLBTHR-1"
           ]
@@ -4002,7 +4002,7 @@
           "shortcode": "Db54nEkvaTC",
           "url": "https://www.instagram.com/googledesign/reel/Db54nEkvaTC/",
           "published_at": "2026-08-11T15:14:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db54nEkvaTC-1"
           ]
@@ -4061,7 +4061,7 @@
           "shortcode": "Dc_D-mqBqDe",
           "url": "https://www.instagram.com/greyscalegorilla/reel/Dc_D-mqBqDe/",
           "published_at": "2026-09-07T12:00:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_D-mqBqDe-1"
           ]
@@ -4077,50 +4077,163 @@
     {
       "handle": "guido.glid",
       "url": "https://www.instagram.com/guido.glid/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DW3XQkfjDFX",
+          "url": "https://www.instagram.com/guido.glid/reel/DW3XQkfjDFX/",
+          "published_at": "2026-04-08T09:10:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DW3XQkfjDFX-1"
+          ]
+        },
+        {
+          "shortcode": "DUU7dT-jEPo",
+          "url": "https://www.instagram.com/guido.glid/p/DUU7dT-jEPo/",
+          "published_at": "2026-02-04T07:06:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUU7dT-jEPo-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DW3XQkfjDFX",
+        "DUU7dT-jEPo"
+      ],
+      "latest_two_selection_evidence": "Three pins checked March 28 2024, May 2 2025, August 22 2025. Latest two original dates April 8 and February 4 2026 checked."
     },
     {
       "handle": "guyshield",
       "url": "https://www.instagram.com/guyshield/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcPIrAzk0he",
+          "url": "https://www.instagram.com/guyshield/p/DcPIrAzk0he/",
+          "published_at": "2026-08-19T21:18:07.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions confirm static drawn illustrations, not CG/motion reference. Second explicitly hand drawn in Photoshop.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Db3kkoJI3Hu",
+          "url": "https://www.instagram.com/guyshield/p/Db3kkoJI3Hu/",
+          "published_at": "2026-08-10T17:40:02.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions confirm static drawn illustrations, not CG/motion reference. Second explicitly hand drawn in Photoshop.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcPIrAzk0he",
+        "Db3kkoJI3Hu"
+      ],
+      "latest_two_selection_evidence": "Pins March 12, February 11, May 5 2020 checked; latest original dates August 19 and August 10 2026 checked."
     },
     {
       "handle": "hamidebrahimnia",
       "url": "https://www.instagram.com/hamidebrahimnia/",
-      "status": "pending_latest_two_selection",
+      "status": "manual_grid_order_review_required",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Public grid without pinned markers is reordered: second DZnDuo3qVuL June 15 2026, fourth DbBFi5mKbVH July 20 2026 exact post times checked. Needs broader date review."
     },
     {
       "handle": "hanalenofx",
       "url": "https://www.instagram.com/hanalenofx/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DCTmNBCx7xm",
+          "url": "https://www.instagram.com/hanalenofx/reel/DCTmNBCx7xm/",
+          "published_at": "2024-11-13T09:19:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DCTmNBCx7xm-1"
+          ]
+        },
+        {
+          "shortcode": "C4GMxhHxKRT",
+          "url": "https://www.instagram.com/hanalenofx/reel/C4GMxhHxKRT/",
+          "published_at": "2024-03-04T15:21:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C4GMxhHxKRT-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DCTmNBCx7xm",
+        "C4GMxhHxKRT"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; latest dates November 13 and March 4 2024 checked. No year cutoff in active latest-two policy."
     },
     {
       "handle": "here.creative",
       "url": "https://www.instagram.com/here.creative/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdGotUBE-KC",
+          "url": "https://www.instagram.com/here.creative/p/DdGotUBE-KC/",
+          "published_at": "2026-09-10T10:36:17.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdGotUBE-KC-1"
+          ]
+        },
+        {
+          "shortcode": "DdBo4icE5ae",
+          "url": "https://www.instagram.com/here.creative/p/DdBo4icE5ae/",
+          "published_at": "2026-09-08T12:01:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBo4icE5ae-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdGotUBE-KC",
+        "DdBo4icE5ae"
+      ],
+      "latest_two_selection_evidence": "Latest dates September 10 and September 8 2026 checked; pins January 15 2025, April 14 2026, November 28 2024 checked. Original studio credits preserved."
     },
     {
       "handle": "heyfakuno",
       "url": "https://www.instagram.com/heyfakuno/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dbe6qR6t4fa",
+          "url": "https://www.instagram.com/heyfakuno/reel/Dbe6qR6t4fa/",
+          "published_at": "2026-08-01T03:53:14.000Z",
+          "status": "excluded_spec_recreation",
+          "cg_review": "Creator explicitly labels this a Concept Ad; no evidence brand actually used it. Excluded under user rule against uncommissioned brand practice.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DagjR4WpLJu",
+          "url": "https://www.instagram.com/heyfakuno/reel/DagjR4WpLJu/",
+          "published_at": "2026-07-08T13:47:10.000Z",
+          "status": "excluded_spec_recreation",
+          "cg_review": "Creator explicitly labels this a Concept Ad; no evidence brand actually used it. Excluded under user rule against uncommissioned brand practice.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dbe6qR6t4fa",
+        "DagjR4WpLJu"
+      ],
+      "latest_two_selection_evidence": "Pinned May 6 2026 checked; latest original dates August 1 and July 8 2026 checked. Both concept ads excluded with no backfill."
     },
     {
       "handle": "hirokazu_yokohara",
@@ -5515,8 +5628,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 185,
-  "imported_media": 186,
+  "imported_posts": 191,
+  "imported_media": 192,
   "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
