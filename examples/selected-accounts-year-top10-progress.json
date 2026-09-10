@@ -7346,7 +7346,7 @@
           "shortcode": "DcvEqI8iD0f",
           "url": "https://www.instagram.com/romain.rosi/p/DcvEqI8iD0f/",
           "published_at": "2026-09-01T06:58:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcvEqI8iD0f-1"
           ]
@@ -7355,7 +7355,7 @@
           "shortcode": "DcdCnhfzBU6",
           "url": "https://www.instagram.com/romain.rosi/reel/DcdCnhfzBU6/",
           "published_at": "2026-08-25T06:56:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcdCnhfzBU6-1"
           ]
@@ -7377,7 +7377,7 @@
           "shortcode": "DdHEjhYIx2P",
           "url": "https://www.instagram.com/rourke/reel/DdHEjhYIx2P/",
           "published_at": "2026-09-10T14:40:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdHEjhYIx2P-1"
           ]
@@ -7407,7 +7407,7 @@
           "shortcode": "DdEqBteCVJU",
           "url": "https://www.instagram.com/runwiththegoldenwolf/reel/DdEqBteCVJU/",
           "published_at": "2026-09-09T16:15:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEqBteCVJU-1"
           ]
@@ -7431,18 +7431,62 @@
     {
       "handle": "samplikprost",
       "url": "https://www.instagram.com/samplikprost/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdHXYzvIP0Y",
+          "url": "https://www.instagram.com/samplikprost/reel/DdHXYzvIP0Y/",
+          "published_at": "2026-09-10T17:28:27.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實拍手部操作合成器演奏，非 CG 動畫。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdEXgjIoJKs",
+          "url": "https://www.instagram.com/samplikprost/reel/DdEXgjIoJKs/",
+          "published_at": "2026-09-09T13:29:12.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實拍手部操作合成器演奏，非 CG 動畫。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdHXYzvIP0Y",
+        "DdEXgjIoJKs"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts, original dates read. Both viewed: overhead live hands operating physical synthesizer/sampler."
     },
     {
       "handle": "sartakov_cg",
       "url": "https://www.instagram.com/sartakov_cg/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXJRE7lDM0j",
+          "url": "https://www.instagram.com/sartakov_cg/reel/DXJRE7lDM0j/",
+          "published_at": "2026-04-15T08:01:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXJRE7lDM0j-1"
+          ]
+        },
+        {
+          "shortcode": "DBYJQEINPc6",
+          "url": "https://www.instagram.com/sartakov_cg/reel/DBYJQEINPc6/",
+          "published_at": "2024-10-21T07:12:17.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DBYJQEINPc6-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXJRE7lDM0j",
+        "DBYJQEINPc6"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; original dates read. Houdini/Redshift credited. No active year cutoff under latest-two policy."
     },
     {
       "handle": "sava.zivkovic",
@@ -7973,9 +8017,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 339,
-  "imported_media": 340,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 341,
+  "imported_media": 342,
+  "last_check_note": "Latest-two intake: 2 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
