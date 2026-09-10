@@ -8629,7 +8629,7 @@
           "shortcode": "DY7Lmn7CBO9",
           "url": "https://www.instagram.com/tomarena_/p/DY7Lmn7CBO9/",
           "published_at": "2026-05-29T13:44:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DY7Lmn7CBO9-1"
           ]
@@ -8638,7 +8638,7 @@
           "shortcode": "DY2byLhCKsz",
           "url": "https://www.instagram.com/tomarena_/p/DY2byLhCKsz/",
           "published_at": "2026-05-27T17:29:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DY2byLhCKsz-1"
           ]
@@ -8660,7 +8660,7 @@
           "shortcode": "Dc-_ApaiPmX",
           "url": "https://www.instagram.com/casabatllocontemporary/p/Dc-_ApaiPmX/",
           "published_at": "2026-09-07T11:17:14.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc-_ApaiPmX-1"
           ]
@@ -8669,7 +8669,7 @@
           "shortcode": "DckxBDlK5MW",
           "url": "https://www.instagram.com/tomorrowbureau/reel/DckxBDlK5MW/",
           "published_at": "2026-08-28T06:56:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DckxBDlK5MW-1"
           ]
@@ -8691,7 +8691,7 @@
           "shortcode": "DH7Fv36S_98",
           "url": "https://www.instagram.com/tomteller/reel/DH7Fv36S_98/",
           "published_at": "2025-04-02T00:00:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DH7Fv36S_98-1"
           ]
@@ -8700,7 +8700,7 @@
           "shortcode": "C1-SfWnvhDY",
           "url": "https://www.instagram.com/tomteller/p/C1-SfWnvhDY/",
           "published_at": "2024-01-11T20:23:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C1-SfWnvhDY-1"
           ]
@@ -8716,50 +8716,184 @@
     {
       "handle": "unishkov",
       "url": "https://www.instagram.com/unishkov/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Cx8E_EHN-st",
+          "url": "https://www.instagram.com/unishkov/reel/Cx8E_EHN-st/",
+          "published_at": "2023-10-03T13:44:49.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "作者明確標示 imaginary beauty brand／personal research，沒有真實品牌採用，依使用者要求排除。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "CuMt6FMMorF",
+          "url": "https://www.instagram.com/unishkov/reel/CuMt6FMMorF/",
+          "published_at": "2023-07-02T14:44:18.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "作者明確標示 imaginary beauty brand／personal research，沒有真實品牌採用，依使用者要求排除。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Cx8E_EHN-st",
+        "CuMt6FMMorF"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned entries. Captions explicitly call these personal studies of an imaginary beauty brand, not brand-used commissions."
     },
     {
       "handle": "unitmotiondesign",
       "url": "https://www.instagram.com/unitmotiondesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEgxumplq-",
+          "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgxumplq-/",
+          "published_at": "2026-09-09T14:49:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEgxumplq--1"
+          ]
+        },
+        {
+          "shortcode": "DdEgizephDo",
+          "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgizephDo/",
+          "published_at": "2026-09-09T14:47:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEgizephDo-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEgxumplq-",
+        "DdEgizephDo"
+      ],
+      "latest_two_selection_evidence": "Grid manually reordered. Compared original timestamps of six ColorWheel uploads on 2026-09-09: main14:34,white14:36,blue14:39,green14:49,red14:47,black checked. Green and Red newest. Captions credit Magic/Marvel."
     },
     {
       "handle": "vacades",
       "url": "https://www.instagram.com/vacades/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcOPxOah_c9",
+          "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
+          "published_at": "2026-08-19T13:00:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcOPxOah_c9-1"
+          ]
+        },
+        {
+          "shortcode": "DbsVnpkoB4C",
+          "url": "https://www.instagram.com/vacades/reel/DbsVnpkoB4C/",
+          "published_at": "2026-08-06T09:01:09.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "教學明確以 Seedance AI 生成配合淡入及遮罩，未提供 CG 製作內容。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcOPxOah_c9",
+        "DbsVnpkoB4C"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts August 2026; pins dated 2020/2025. First live-action/transition collaboration retained unverified for effects review. Second explicitly Seedance AI generation plus fade and mask."
     },
     {
       "handle": "vaclav.patka",
       "url": "https://www.instagram.com/vaclav.patka/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DVoJy7iCDpZ",
+          "url": "https://www.instagram.com/vaclav.patka/p/DVoJy7iCDpZ/",
+          "published_at": "2026-03-08T14:49:11.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVoJy7iCDpZ-1"
+          ]
+        },
+        {
+          "shortcode": "DS0FDoriNRy",
+          "url": "https://www.instagram.com/vaclav.patka/p/DS0FDoriNRy/",
+          "published_at": "2025-12-28T16:24:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DS0FDoriNRy-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DVoJy7iCDpZ",
+        "DS0FDoriNRy"
+      ],
+      "latest_two_selection_evidence": "Grid reordered: first unpinned reels are 2024, later March 2026 and December 2025 making-of posts are newer. Inspected first12; original dates read for selected pair. Pending detailed media review."
     },
     {
       "handle": "vertex.cgi",
       "url": "https://www.instagram.com/vertex.cgi/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEyl7RkcEM",
+          "url": "https://www.instagram.com/vertex.cgi/p/DdEyl7RkcEM/",
+          "published_at": "2026-09-09T17:24:10.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Apple 天空廣告未提供品牌委託或實際採用證據；作者聲称製作不等於品牌採用，暫不收錄。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DdCRmFGJV0V",
+          "url": "https://www.instagram.com/vertex.cgi/reel/DdCRmFGJV0V/",
+          "published_at": "2026-09-08T17:57:48.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdCRmFGJV0V-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEyl7RkcEM",
+        "DdCRmFGJV0V"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned entries; read original dates and captions. No client commissioning/brand adoption credit. Robot tennis clip has synthetic scene but CGI vs generated video not established."
     },
     {
       "handle": "vincentschwenk",
       "url": "https://www.instagram.com/vincentschwenk/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaVW5N0iJ6e",
+          "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
+          "published_at": "2026-07-03T14:15:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaVW5N0iJ6e-1"
+          ]
+        },
+        {
+          "shortcode": "DaQWS4YiAi-",
+          "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
+          "published_at": "2026-07-01T15:33:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaQWS4YiAi--1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaVW5N0iJ6e",
+        "DaQWS4YiAi-"
+      ],
+      "latest_two_selection_evidence": "Newest two unpinned, July 2026 ahead of older 2024/2025 pins. Cat carousel opening is real installation documentation; retain unverified until all slides checked for CG, do not label all as CG."
     },
     {
       "handle": "visual_tense",
@@ -8922,9 +9056,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 402,
-  "imported_media": 403,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 410,
+  "imported_media": 411,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
