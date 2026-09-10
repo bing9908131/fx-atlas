@@ -1223,5 +1223,12 @@
       "status": "excluded_or_pending",
       "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
     }
-  ]
+  ],
+  "status": "withdrawn_by_user",
+  "active_posts": 0,
+  "active_media": 0,
+  "withdrawn_posts": 78,
+  "withdrawn_media": 149,
+  "remaining_action": "cancelled",
+  "reason": "使用者取消這次500件批次上架，包含已加入但尚未完成標籤的項目。"
 }
