@@ -4671,7 +4671,7 @@
           "shortcode": "Dc0W2pOC2Iz",
           "url": "https://www.instagram.com/jit_effect/reel/Dc0W2pOC2Iz/",
           "published_at": "2026-09-03T08:15:10.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc0W2pOC2Iz-1"
           ]
@@ -4680,7 +4680,7 @@
           "shortcode": "DcEuU6aSY5Q",
           "url": "https://www.instagram.com/jit_effect/reel/DcEuU6aSY5Q/",
           "published_at": "2026-08-15T20:15:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcEuU6aSY5Q-1"
           ]
@@ -4702,7 +4702,7 @@
           "shortcode": "DVJwP-QDLoK",
           "url": "https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/",
           "published_at": "2026-02-24T19:28:45.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DVJwP-QDLoK-1"
           ]
@@ -4711,7 +4711,7 @@
           "shortcode": "DUnYTlGjLjK",
           "url": "https://www.instagram.com/joangarciapons/p/DUnYTlGjLjK/",
           "published_at": "2026-02-11T11:05:21.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DUnYTlGjLjK-1"
           ]
@@ -4762,7 +4762,7 @@
           "shortcode": "Dak_vaWDRK0",
           "url": "https://www.instagram.com/jonathanplesel/p/Dak_vaWDRK0/",
           "published_at": "2026-07-09T16:00:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dak_vaWDRK0-1"
           ]
@@ -4771,7 +4771,7 @@
           "shortcode": "DaGLYD8tqzK",
           "url": "https://www.instagram.com/jonathanplesel/reel/DaGLYD8tqzK/",
           "published_at": "2026-06-27T16:54:07.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaGLYD8tqzK-1"
           ]
@@ -4793,7 +4793,7 @@
           "shortcode": "DcfugwsAruF",
           "url": "https://www.instagram.com/joonathanlindgren/reel/DcfugwsAruF/",
           "published_at": "2026-08-26T08:02:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcfugwsAruF-1"
           ]
@@ -4802,7 +4802,7 @@
           "shortcode": "DcQK7pCAUKc",
           "url": "https://www.instagram.com/joonathanlindgren/reel/DcQK7pCAUKc/",
           "published_at": "2026-08-20T06:59:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcQK7pCAUKc-1"
           ]
@@ -4818,34 +4818,125 @@
     {
       "handle": "jordipagespons",
       "url": "https://www.instagram.com/jordipagespons/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DTfIbZiiCWV",
+          "url": "https://www.instagram.com/jordipagespons/reel/DTfIbZiiCWV/",
+          "published_at": "2026-01-14T09:46:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DTfIbZiiCWV-1"
+          ]
+        },
+        {
+          "shortcode": "DFFVKs_tI5u",
+          "url": "https://www.instagram.com/jordipagespons/p/DFFVKs_tI5u/",
+          "published_at": "2025-01-21T09:52:50.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DFFVKs_tI5u-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DTfIbZiiCWV",
+        "DFFVKs_tI5u"
+      ],
+      "latest_two_selection_evidence": "Profile first six posts have no pinned markers; first two publication dates verified on original posts."
     },
     {
       "handle": "jose_motiondesigner",
       "url": "https://www.instagram.com/jose_motiondesigner/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DAtAIgptKw0",
+          "url": "https://www.instagram.com/bohrium_records/p/DAtAIgptKw0/",
+          "published_at": "2024-10-04T13:01:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DAtAIgptKw0-1"
+          ]
+        },
+        {
+          "shortcode": "C-H2NaGNwGq",
+          "url": "https://www.instagram.com/jose_motiondesigner/reel/C-H2NaGNwGq/",
+          "published_at": "2024-08-01T09:41:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C-H2NaGNwGq-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DAtAIgptKw0",
+        "C-H2NaGNwGq"
+      ],
+      "latest_two_selection_evidence": "First six profile posts have no pinned markers; exact original dates checked for the first two. Bohrium artwork preview visually shows CG hourglass and volumetric clouds."
     },
     {
       "handle": "jrecoskie",
       "url": "https://www.instagram.com/jrecoskie/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYSmmHTPG0F",
+          "url": "https://www.instagram.com/saga___cg/p/DYSmmHTPG0F/",
+          "published_at": "2026-05-13T19:44:57.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實拍兩位創辦人合照與工作室成立公告，caption 有攝影師署名，非 CG 參考。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DYSNyhYR7xO",
+          "url": "https://www.instagram.com/saga___cg/reel/DYSNyhYR7xO/",
+          "published_at": "2026-05-13T16:00:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYSNyhYR7xO-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYSmmHTPG0F",
+        "DYSNyhYR7xO"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; exact publication dates checked on first two. First is photographed founders announcement, excluded without backfilling."
     },
     {
       "handle": "juangsegura",
       "url": "https://www.instagram.com/juangsegura/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DW_LiL0gqJH",
+          "url": "https://www.instagram.com/juangsegura/reel/DW_LiL0gqJH/",
+          "published_at": "2026-04-11T10:00:12.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DW_LiL0gqJH-1"
+          ]
+        },
+        {
+          "shortcode": "DHJfUgzilzi",
+          "url": "https://www.instagram.com/juangsegura/reel/DHJfUgzilzi/",
+          "published_at": "2025-03-13T17:44:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DHJfUgzilzi-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DW_LiL0gqJH",
+        "DHJfUgzilzi"
+      ],
+      "latest_two_selection_evidence": "First six profile posts have no pinned markers; exact original dates read on first two reels."
     },
     {
       "handle": "julian_hespenheide",
@@ -6056,9 +6147,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 220,
-  "imported_media": 221,
-  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 227,
+  "imported_media": 228,
+  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
