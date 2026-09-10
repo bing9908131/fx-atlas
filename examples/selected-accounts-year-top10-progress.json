@@ -2509,11 +2509,33 @@
     {
       "handle": "dddidaci",
       "url": "https://www.instagram.com/dddidaci/",
-      "status": "manual_grid_order_review_required",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbQePJfDqtd",
+          "url": "https://www.instagram.com/dddidaci/p/DbQePJfDqtd/",
+          "published_at": "2026-07-26T13:14:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbQePJfDqtd-1"
+          ]
+        },
+        {
+          "shortcode": "DbEMPTaCfvJ",
+          "url": "https://www.instagram.com/dddidaci/p/DbEMPTaCfvJ/",
+          "published_at": "2026-07-21T18:46:15.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbEMPTaCfvJ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": [],
-      "latest_two_selection_evidence": "Grid is manually reordered without pinned icons. First post DalEymnla8a dated July 9 2026, second DbEMPTaCfvJ dated July 21 2026, third DbQePJfDqtd dated July 26 2026. Do not treat first two grid entries as newest. Need wider chronological verification before selecting.",
+      "latest_two_shortcodes": [
+        "DbQePJfDqtd",
+        "DbEMPTaCfvJ"
+      ],
+      "latest_two_selection_evidence": "Manual order resolved within first12: July26 Playground117 and July21 Playground116 newer than first-grid July9 Playground212; other entries July13/12/10, June,April. Pending medium/process analysis.",
       "last_checked_at": "2026-09-10"
     },
     {
@@ -3161,12 +3183,32 @@
     {
       "handle": "etiennebauquin",
       "url": "https://www.instagram.com/etiennebauquin/",
-      "status": "manual_grid_order_review_required",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Da7qnm9itzP",
+          "url": "https://www.instagram.com/etiennebauquin/p/Da7qnm9itzP/",
+          "published_at": "2026-07-18T11:18:33.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "最新兩則是平面插畫海報，未呈現 CG 或動畫特效內容；不以較舊 CG 影片補位。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DatEj_ckQcX",
+          "url": "https://www.instagram.com/etiennebauquin/p/DatEj_ckQcX/",
+          "published_at": "2026-07-12T19:16:38.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "最新兩則是平面插畫海報，未呈現 CG 或動畫特效內容；不以較舊 CG 影片補位。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": [],
+      "latest_two_shortcodes": [
+        "Da7qnm9itzP",
+        "DatEj_ckQcX"
+      ],
       "selection_blocked": true,
-      "latest_two_selection_evidence": "Public grid first six out of chronological order without pinned markers: DatEj_ckQcX July 12 2026; Da7qnm9itzP July 18 2026; C_km5hmNorV September 6 2024; DanUo-Fiifm July 10 2026; DA8v2P8tQsf October 10 2024. Requires broader date review before selecting latest two."
+      "latest_two_selection_evidence": "Manual grid order resolved within first12. July18 and July12 originals newest, not older2024/2023 films in firstrows. Both captions and visible art are flat illustration posters."
     },
     {
       "handle": "etinjcb",
@@ -3632,12 +3674,34 @@
     {
       "handle": "friedrich.neumann",
       "url": "https://www.instagram.com/friedrich.neumann/",
-      "status": "manual_grid_order_review_required",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DVjLA-6CAN7",
+          "url": "https://www.instagram.com/friedrich.neumann/p/DVjLA-6CAN7/",
+          "published_at": "2026-03-06T16:23:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVjLA-6CAN7-1"
+          ]
+        },
+        {
+          "shortcode": "DUnwYw0CIOe",
+          "url": "https://www.instagram.com/friedrich.neumann/reel/DUnwYw0CIOe/",
+          "published_at": "2026-02-11T14:44:40.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUnwYw0CIOe-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": [],
+      "latest_two_shortcodes": [
+        "DVjLA-6CAN7",
+        "DUnwYw0CIOe"
+      ],
       "selection_blocked": true,
-      "latest_two_selection_evidence": "Grid without pin markers out of chronology: first DVjLA-6CAN7 March 6 2026 profile alt; second CPD3NPFomJ1 May 19 2021 exact time; third DUnwYw0CIOe February 11 2026 exact time; requires broader review."
+      "latest_two_selection_evidence": "Manual first12 comparison: March2026 and February2026 latest, grid second Layerizer is2021. Remaining visible entries2025orolder. Exact originals read."
     },
     {
       "handle": "futuredeluxe",
@@ -9298,7 +9362,7 @@
           "shortcode": "Dc1J4NNEeem",
           "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
           "published_at": "2026-09-03T15:39:48.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc1J4NNEeem-1"
           ]
@@ -9307,7 +9371,7 @@
           "shortcode": "DTjL1VDieod",
           "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
           "published_at": "2026-01-15T23:28:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTjL1VDieod-1"
           ]
@@ -9329,7 +9393,7 @@
           "shortcode": "Dc-ul8cs_If",
           "url": "https://www.instagram.com/yamb0x/reel/Dc-ul8cs_If/",
           "published_at": "2026-09-07T08:56:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc-ul8cs_If-1"
           ]
@@ -9338,7 +9402,7 @@
           "shortcode": "DcvGkIYt_rq",
           "url": "https://www.instagram.com/dor/reel/DcvGkIYt_rq/",
           "published_at": "2026-09-01T07:15:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcvGkIYt_rq-1"
           ]
@@ -9360,7 +9424,7 @@
           "shortcode": "DcfG3e7tNyD",
           "url": "https://www.instagram.com/yeseong_k/reel/DcfG3e7tNyD/",
           "published_at": "2026-08-26T02:12:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcfG3e7tNyD-1"
           ]
@@ -9369,7 +9433,7 @@
           "shortcode": "DZB2nhjNZCX",
           "url": "https://www.instagram.com/yeseong_k/reel/DZB2nhjNZCX/",
           "published_at": "2026-06-01T03:57:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZB2nhjNZCX-1"
           ]
@@ -9391,7 +9455,7 @@
           "shortcode": "DX-LI31iOrV",
           "url": "https://www.instagram.com/yugxl/p/DX-LI31iOrV/",
           "published_at": "2026-05-05T21:07:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DX-LI31iOrV-1"
           ]
@@ -9400,7 +9464,7 @@
           "shortcode": "DU57zpRiKuA",
           "url": "https://www.instagram.com/yugxl/p/DU57zpRiKuA/",
           "published_at": "2026-02-18T16:01:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DU57zpRiKuA-1"
           ]
@@ -9422,7 +9486,7 @@
           "shortcode": "DTvjHWxDbNO",
           "url": "https://www.instagram.com/yuriikhomovskyi/reel/DTvjHWxDbNO/",
           "published_at": "2026-01-20T18:43:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTvjHWxDbNO-1"
           ]
@@ -9431,7 +9495,7 @@
           "shortcode": "DTQPrZrjcPr",
           "url": "https://www.instagram.com/yuriikhomovskyi/p/DTQPrZrjcPr/",
           "published_at": "2026-01-08T14:56:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DTQPrZrjcPr-1"
           ]
@@ -9447,23 +9511,69 @@
     {
       "handle": "zheminwork",
       "url": "https://www.instagram.com/zheminwork/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DJUwP_2tL_X",
+          "url": "https://www.instagram.com/zheminwork/reel/DJUwP_2tL_X/",
+          "published_at": "2025-05-06T19:54:51.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "accounts16-DJUwP_2tL_X-1"
+          ]
+        },
+        {
+          "shortcode": "DC4VFp0NL2T",
+          "url": "https://www.instagram.com/zheminwork/p/DC4VFp0NL2T/",
+          "published_at": "2024-11-27T15:39:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DC4VFp0NL2T-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DJUwP_2tL_X",
+        "DC4VFp0NL2T"
+      ],
+      "latest_two_selection_evidence": "Latest unpinned May2025 and November2024, later than July2024 pins. Dynamics/example project and bubble cloth work. Per-media analysis pending."
     },
     {
       "handle": "ziyad.abah",
       "url": "https://www.instagram.com/ziyad.abah/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZXoO6wjJwG",
+          "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
+          "published_at": "2026-06-09T14:53:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZXoO6wjJwG-1"
+          ]
+        },
+        {
+          "shortcode": "DYRvk0WDAbp",
+          "url": "https://www.instagram.com/ziyad.abah/p/DYRvk0WDAbp/",
+          "published_at": "2026-05-13T11:30:58.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYRvk0WDAbp-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZXoO6wjJwG",
+        "DYRvk0WDAbp"
+      ],
+      "latest_two_selection_evidence": "Latest June/May2026 unpinned entries, olderJune2025pin. Explicit FutureDeluxe production, official NikeFootball and VolvoEX60 launch; per-media review pending."
     }
   ],
-  "imported_posts": 437,
-  "imported_media": 438,
-  "last_check_note": "Latest-two intake: 10 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 444,
+  "imported_media": 445,
+  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
