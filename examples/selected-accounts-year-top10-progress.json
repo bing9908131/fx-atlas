@@ -8351,7 +8351,7 @@
           "shortcode": "DYzRTEYjCZT",
           "url": "https://www.instagram.com/szoraidez/p/DYzRTEYjCZT/",
           "published_at": "2026-05-26T12:00:34.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYzRTEYjCZT-1"
           ]
@@ -8360,7 +8360,7 @@
           "shortcode": "DYnLw26u-OR",
           "url": "https://www.instagram.com/szoraidez/reel/DYnLw26u-OR/",
           "published_at": "2026-05-21T19:21:46.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYnLw26u-OR-1"
           ]
@@ -8382,7 +8382,7 @@
           "shortcode": "Dclo7W_DMRp",
           "url": "https://www.instagram.com/tavo_studio/p/Dclo7W_DMRp/",
           "published_at": "2026-08-28T15:03:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dclo7W_DMRp-1"
           ]
@@ -8391,7 +8391,7 @@
           "shortcode": "Dcd6mHUjmqV",
           "url": "https://www.instagram.com/tavo_studio/p/Dcd6mHUjmqV/",
           "published_at": "2026-08-25T15:03:58.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcd6mHUjmqV-1"
           ]
@@ -8413,7 +8413,7 @@
           "shortcode": "DXhIS4uDPmu",
           "url": "https://www.instagram.com/teaaalexis/reel/DXhIS4uDPmu/",
           "published_at": "2026-04-24T14:32:11.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DXhIS4uDPmu-1"
           ]
@@ -8422,7 +8422,7 @@
           "shortcode": "DWESHqLDE7A",
           "url": "https://www.instagram.com/teaaalexis/p/DWESHqLDE7A/",
           "published_at": "2026-03-19T13:00:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DWESHqLDE7A-1"
           ]
@@ -8438,26 +8438,94 @@
     {
       "handle": "thanu_lee",
       "url": "https://www.instagram.com/thanu_lee/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZpti-dsS6Q",
+          "url": "https://www.instagram.com/thanu_lee/reel/DZpti-dsS6Q/",
+          "published_at": "2026-06-16T15:27:40.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZpti-dsS6Q-1"
+          ]
+        },
+        {
+          "shortcode": "DZchzsTMA6f",
+          "url": "https://www.instagram.com/thanu_lee/reel/DZchzsTMA6f/",
+          "published_at": "2026-06-11T12:35:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZchzsTMA6f-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZpti-dsS6Q",
+        "DZchzsTMA6f"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; dates read. Beats official launch films stated directly; portfolio montage pending per-sequence review."
     },
     {
       "handle": "theberd",
       "url": "https://www.instagram.com/theberd/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "CtZiGnApw7A",
+          "url": "https://www.instagram.com/theberd/p/CtZiGnApw7A/",
+          "published_at": "2023-06-12T17:37:13.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "WWDC 講者實拍與活動紀錄，非 CG 作品貼文。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "CLe1kSglPQf",
+          "url": "https://www.instagram.com/theberd/p/CLe1kSglPQf/",
+          "published_at": "2021-02-19T17:16:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CLe1kSglPQf-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "CtZiGnApw7A",
+        "CLe1kSglPQf"
+      ],
+      "latest_two_selection_evidence": "Latest unpinned entries 2023 and 2021; pin is older. First speaker portrait/announcement; second author explicitly details 3D person/rocks plus painted fog, not photographic scene."
     },
     {
       "handle": "therealentagma",
       "url": "https://www.instagram.com/therealentagma/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdHI4h_K_Vv",
+          "url": "https://www.instagram.com/therealentagma/reel/DdHI4h_K_Vv/",
+          "published_at": "2026-09-10T15:29:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdHI4h_K_Vv-1"
+          ]
+        },
+        {
+          "shortcode": "DcWJI26qrEa",
+          "url": "https://www.instagram.com/therealentagma/reel/DcWJI26qrEa/",
+          "published_at": "2026-08-22T14:46:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcWJI26qrEa-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdHI4h_K_Vv",
+        "DcWJI26qrEa"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; dates read. Explicit Houdini fabric constraints/glue and viscous-liquid bubble deformation demonstrations, not presenter-only ads."
     },
     {
       "handle": "thevirtualcinematographer",
@@ -8716,9 +8784,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 385,
-  "imported_media": 386,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 390,
+  "imported_media": 391,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
