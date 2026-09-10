@@ -4368,7 +4368,7 @@
           "shortcode": "DZ7DOG7Aajo",
           "url": "https://www.instagram.com/iantseng_wysi/p/DZ7DOG7Aajo/",
           "published_at": "2026-06-23T09:02:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ7DOG7Aajo-1"
           ]
@@ -4377,7 +4377,7 @@
           "shortcode": "DZ7B_hSI0km",
           "url": "https://www.instagram.com/iantseng_wysi/reel/DZ7B_hSI0km/",
           "published_at": "2026-06-23T08:53:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ7B_hSI0km-1"
           ]
@@ -4399,7 +4399,7 @@
           "shortcode": "DZ7UfZANhpq",
           "url": "https://www.instagram.com/imnidiadias/reel/DZ7UfZANhpq/",
           "published_at": "2026-06-23T11:34:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ7UfZANhpq-1"
           ]
@@ -4408,7 +4408,7 @@
           "shortcode": "DY4uf6ntOT5",
           "url": "https://www.instagram.com/imnidiadias/reel/DY4uf6ntOT5/",
           "published_at": "2026-05-28T14:53:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DY4uf6ntOT5-1"
           ]
@@ -4459,7 +4459,7 @@
           "shortcode": "Dcaou3ho3s3",
           "url": "https://www.instagram.com/jaevnstroem/reel/Dcaou3ho3s3/",
           "published_at": "2026-08-24T08:44:57.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcaou3ho3s3-1"
           ]
@@ -4468,7 +4468,7 @@
           "shortcode": "Da5KlOoD5XE",
           "url": "https://www.instagram.com/greyscalegorilla/p/Da5KlOoD5XE/",
           "published_at": "2026-07-17T12:00:01.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da5KlOoD5XE-1"
           ]
@@ -4484,50 +4484,183 @@
     {
       "handle": "janurschel",
       "url": "https://www.instagram.com/janurschel/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdAXjxIkhq1",
+          "url": "https://www.instagram.com/janurschel/p/DdAXjxIkhq1/",
+          "published_at": "2026-09-08T00:10:59.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdAXjxIkhq1-1"
+          ]
+        },
+        {
+          "shortcode": "DcaFtdvkrEL",
+          "url": "https://www.instagram.com/janurschel/p/DcaFtdvkrEL/",
+          "published_at": "2026-08-24T03:23:53.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshot shows real Korean street travel photography with Korea 2026 caption; no CG evidence.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdAXjxIkhq1",
+        "DcaFtdvkrEL"
+      ],
+      "latest_two_selection_evidence": "Pinned October 7 2025, July 25 2025 (profile alt) and July 25 2025 post time. Latest original dates September 8 and August 24 2026 checked."
     },
     {
       "handle": "jdashscott",
       "url": "https://www.instagram.com/jdashscott/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcweGmAHQ4K",
+          "url": "https://www.instagram.com/jdashscott/p/DcweGmAHQ4K/",
+          "published_at": "2026-09-01T20:00:19.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcweGmAHQ4K-1"
+          ]
+        },
+        {
+          "shortcode": "DZLwz7TN1Vq",
+          "url": "https://www.instagram.com/jdashscott/reel/DZLwz7TN1Vq/",
+          "published_at": "2026-06-05T00:39:01.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZLwz7TN1Vq-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcweGmAHQ4K",
+        "DZLwz7TN1Vq"
+      ],
+      "latest_two_selection_evidence": "Pinned April 2 2025 checked; latest visible first two September 1 and June 5 2026 checked. Later grid has older reordered entries but first two are newer than observed entries."
     },
     {
       "handle": "jeffmantv",
       "url": "https://www.instagram.com/jeffmantv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DTaWPR9DR26",
+          "url": "https://www.instagram.com/jeffmantv/reel/DTaWPR9DR26/",
+          "published_at": "2026-01-12T13:05:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DTaWPR9DR26-1"
+          ]
+        },
+        {
+          "shortcode": "DM7rZ_NtL_5",
+          "url": "https://www.instagram.com/jeffmantv/reel/DM7rZ_NtL_5/",
+          "published_at": "2025-08-04T12:05:00.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "F1 branded daily render on profile explicitly described as getaway from client work; no evidence official brand usage.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DTaWPR9DR26",
+        "DM7rZ_NtL_5"
+      ],
+      "latest_two_selection_evidence": "No pinned markers; latest dates January 12 2026 and August 4 2025 checked. Generic fluid R&D pending; branded practice excluded."
     },
     {
       "handle": "jesslwiseman",
       "url": "https://www.instagram.com/jesslwiseman/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdE6NNYGU5z",
+          "url": "https://www.instagram.com/jesslwiseman/p/DdE6NNYGU5z/",
+          "published_at": "2026-09-09T18:30:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdE6NNYGU5z-1"
+          ]
+        },
+        {
+          "shortcode": "DdAl5jTKSZM",
+          "url": "https://www.instagram.com/nounish/reel/DdAl5jTKSZM/",
+          "published_at": "2026-09-08T02:18:40.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshot shows live-action dialogue/skit with subtitles and caption points to full episode; not CG reference.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdE6NNYGU5z",
+        "DdAl5jTKSZM"
+      ],
+      "latest_two_selection_evidence": "Latest dates September 9 and September 8 2026 checked; pins October 11 2025, August 3 2025 profile alt, May 10 2024 checked. Gotcha is creator own brand collaboration."
     },
     {
       "handle": "jiabayheh",
       "url": "https://www.instagram.com/jiabayheh/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db0GlClAUbX",
+          "url": "https://www.instagram.com/jiabayheh/p/Db0GlClAUbX/",
+          "published_at": "2026-08-09T09:20:20.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions confirm personal family photographs, no CG reference.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DbBLKyPgeNE",
+          "url": "https://www.instagram.com/jiabayheh/p/DbBLKyPgeNE/",
+          "published_at": "2026-07-20T14:39:10.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots and captions confirm personal family photographs, no CG reference.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db0GlClAUbX",
+        "DbBLKyPgeNE"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; original dates August 9 and July 20 2026 checked. No older backfill."
     },
     {
       "handle": "jieliouart",
       "url": "https://www.instagram.com/jieliouart/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcELa6blEE1",
+          "url": "https://www.instagram.com/jieliouart/p/DcELa6blEE1/",
+          "published_at": "2026-08-15T15:10:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcELa6blEE1-1"
+          ]
+        },
+        {
+          "shortcode": "DWH2ojJEyLY",
+          "url": "https://www.instagram.com/pingsheng_wu/reel/DWH2ojJEyLY/",
+          "published_at": "2026-03-20T22:20:22.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWH2ojJEyLY-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcELa6blEE1",
+        "DWH2ojJEyLY"
+      ],
+      "latest_two_selection_evidence": "Pinned December 12 2022 post time, August 26 2022 and March 31 2021 profile alt. Latest original dates August 15 and March 20 2026 checked. Projection/display versus source media distinction pending."
     },
     {
       "handle": "jit_effect",
@@ -5810,9 +5943,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 205,
-  "imported_media": 206,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 212,
+  "imported_media": 213,
+  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
