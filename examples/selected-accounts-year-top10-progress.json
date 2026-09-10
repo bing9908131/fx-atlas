@@ -8960,10 +8960,20 @@
           "shortcode": "Db_AtvTCMiO",
           "url": "https://www.instagram.com/thomas_dubois_art/p/Db_AtvTCMiO/",
           "published_at": "2026-08-13T15:00:44.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Db_AtvTCMiO-1"
-          ]
+            "selectedyear-Db_AtvTCMiO-1",
+            "selectedyear-Db_AtvTCMiO-2",
+            "selectedyear-Db_AtvTCMiO-3",
+            "selectedyear-Db_AtvTCMiO-4",
+            "selectedyear-Db_AtvTCMiO-5",
+            "selectedyear-Db_AtvTCMiO-6",
+            "selectedyear-Db_AtvTCMiO-7",
+            "selectedyear-Db_AtvTCMiO-8",
+            "selectedyear-Db_AtvTCMiO-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

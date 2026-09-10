@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2139,
+  "total": 2148,
   "unclassified": 0,
   "counts": {
-    "graphic": 431,
+    "graphic": 440,
     "product": 768,
     "organic": 455,
     "geometric": 833,
@@ -1220,6 +1220,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "全景包含多層外掛梯、平台人物、右侧旅館招牌及黃窗光，濃青綠霧景。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第1/9張：紅黑衣女性武士手持刀劍站在工業室內，綠灰牆面與金屬橫樑，白色日光燈，樑上紅色血跡。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
           ],
           "matched_tags": []
         }
@@ -4102,6 +4119,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "最終圖含底部英文字幕及較強青綠色背景，與首項相同構圖；仍按媒體索引保留。末項沒有下一步，共九張。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第2/9張：同一女性武士與刀劍室內構圖的黑白灰階版本，明亮燈管與暗色布衣、斑駁金屬樑。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第3/9張：女性武士黑色剪影、紅色領巾與刀劍，以灰綠大色塊搭建室內橫樑構圖，沒有完稿的血跡細節。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第4/9張：藍黑日本街景，黃色店面櫥窗、紅色燈籠與招牌，廣告女性面孔、行人與雨傘，雨線及濕路面倒影。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第5/9張：藍黑建築大色塊、黄色明亮店面、數名人物剪影與雨傘，少量青色粉色燈光，地面反射，保留繪畫筆觸。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第6/9張：黑白灰階的女性武士背影與髮簪，站在有窗框與半透明簾子的窗前，外側城市建築逆光，室內桌面有反射。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第7/9張：女性武士剪影站在城市高架階梯平台，多層斜向樓梯與密集欄杆，路燈、電線及灰白背景霧氣。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第8/9張：紅衣女性武士半身肖像，黑色長髮與髮簪、臉頰紅圓妝，白色衣領，背後白色豎向窗格與紅色霧狀色塊。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_AtvTCMiO-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播第9/9張：女性武士紅黑衣、黑髮髮簪，手持橫斜武士刀，刀刃及面部有紅色血跡，深藍灰背景與白黃圓形散景。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。"
           ],
           "matched_tags": []
         }
