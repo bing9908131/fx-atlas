@@ -4083,7 +4083,7 @@
           "shortcode": "DW3XQkfjDFX",
           "url": "https://www.instagram.com/guido.glid/reel/DW3XQkfjDFX/",
           "published_at": "2026-04-08T09:10:24.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DW3XQkfjDFX-1"
           ]
@@ -4092,7 +4092,7 @@
           "shortcode": "DUU7dT-jEPo",
           "url": "https://www.instagram.com/guido.glid/p/DUU7dT-jEPo/",
           "published_at": "2026-02-04T07:06:56.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DUU7dT-jEPo-1"
           ]
@@ -4153,7 +4153,7 @@
           "shortcode": "DCTmNBCx7xm",
           "url": "https://www.instagram.com/hanalenofx/reel/DCTmNBCx7xm/",
           "published_at": "2024-11-13T09:19:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DCTmNBCx7xm-1"
           ]
@@ -4162,7 +4162,7 @@
           "shortcode": "C4GMxhHxKRT",
           "url": "https://www.instagram.com/hanalenofx/reel/C4GMxhHxKRT/",
           "published_at": "2024-03-04T15:21:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C4GMxhHxKRT-1"
           ]
@@ -4184,7 +4184,7 @@
           "shortcode": "DdGotUBE-KC",
           "url": "https://www.instagram.com/here.creative/p/DdGotUBE-KC/",
           "published_at": "2026-09-10T10:36:17.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdGotUBE-KC-1"
           ]
@@ -4193,7 +4193,7 @@
           "shortcode": "DdBo4icE5ae",
           "url": "https://www.instagram.com/here.creative/p/DdBo4icE5ae/",
           "published_at": "2026-09-08T12:01:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdBo4icE5ae-1"
           ]
@@ -4238,34 +4238,126 @@
     {
       "handle": "hirokazu_yokohara",
       "url": "https://www.instagram.com/hirokazu_yokohara/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEiK9YTOHK",
+          "url": "https://www.instagram.com/hirokazu_yokohara/reel/DdEiK9YTOHK/",
+          "published_at": "2026-09-09T15:01:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEiK9YTOHK-1"
+          ]
+        },
+        {
+          "shortcode": "Dc9AEMZTs5K",
+          "url": "https://www.instagram.com/hirokazu_yokohara/reel/Dc9AEMZTs5K/",
+          "published_at": "2026-09-06T16:48:54.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc9AEMZTs5K-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEiK9YTOHK",
+        "Dc9AEMZTs5K"
+      ],
+      "latest_two_selection_evidence": "Pinned June 5 2024; latest original dates September 9 and September 6 2026 checked. Tool/model names preserved as creator claims; no motion tags inferred."
     },
     {
       "handle": "holographik.co",
       "url": "https://www.instagram.com/holographik.co/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdBxo2HAtca",
+          "url": "https://www.instagram.com/holographik.co/p/DdBxo2HAtca/",
+          "published_at": "2026-09-08T13:18:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBxo2HAtca-1"
+          ]
+        },
+        {
+          "shortcode": "Dcx5R6djkEB",
+          "url": "https://www.instagram.com/holographik.co/p/Dcx5R6djkEB/",
+          "published_at": "2026-09-02T09:17:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcx5R6djkEB-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdBxo2HAtca",
+        "Dcx5R6djkEB"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest original dates September 8 and September 2 2026 checked. Motion/UI reference with full carousel analysis pending."
     },
     {
       "handle": "hyperthalamuscorp",
       "url": "https://www.instagram.com/hyperthalamuscorp/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdBpMHhNlvg",
+          "url": "https://www.instagram.com/hyperthalamuscorp/reel/DdBpMHhNlvg/",
+          "published_at": "2026-09-08T12:04:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBpMHhNlvg-1"
+          ]
+        },
+        {
+          "shortcode": "DclSc3pDQqT",
+          "url": "https://www.instagram.com/hyperthalamuscorp/p/DclSc3pDQqT/",
+          "published_at": "2026-08-28T11:46:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DclSc3pDQqT-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdBpMHhNlvg",
+        "DclSc3pDQqT"
+      ],
+      "latest_two_selection_evidence": "Pinned profile alt dates August 12 and June 24 2025. Latest original dates September 8 and August 28 2026 checked in posts."
     },
     {
       "handle": "iammoteh",
       "url": "https://www.instagram.com/iammoteh/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdB3JYpijuR",
+          "url": "https://www.instagram.com/iammoteh/reel/DdB3JYpijuR/",
+          "published_at": "2026-09-08T14:07:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdB3JYpijuR-1"
+          ]
+        },
+        {
+          "shortcode": "DcydVvhimzJ",
+          "url": "https://www.instagram.com/iammoteh/p/DcydVvhimzJ/",
+          "published_at": "2026-09-02T15:05:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcydVvhimzJ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdB3JYpijuR",
+        "DcydVvhimzJ"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest original dates September 8 and September 2 2026 checked."
     },
     {
       "handle": "iantseng_wysi",
@@ -5628,9 +5720,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 191,
-  "imported_media": 192,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 199,
+  "imported_media": 200,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
