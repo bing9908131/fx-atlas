@@ -5873,7 +5873,7 @@
           "shortcode": "DdE2A4PD5uF",
           "url": "https://www.instagram.com/maxonredshift/reel/DdE2A4PD5uF/",
           "published_at": "2026-09-09T17:54:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdE2A4PD5uF-1"
           ]
@@ -5882,7 +5882,7 @@
           "shortcode": "Dc_ZyZ2DtRs",
           "url": "https://www.instagram.com/maxonredshift/p/Dc_ZyZ2DtRs/",
           "published_at": "2026-09-07T15:11:20.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_ZyZ2DtRs-1"
           ]
@@ -5904,7 +5904,7 @@
           "shortcode": "DboRVjdDHLw",
           "url": "https://www.instagram.com/feelingsinfeeds/p/DboRVjdDHLw/",
           "published_at": "2026-08-04T19:03:27.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DboRVjdDHLw-1"
           ]
@@ -5934,7 +5934,7 @@
           "shortcode": "DbpnCVFuyC4",
           "url": "https://www.instagram.com/maxschwugier/reel/DbpnCVFuyC4/",
           "published_at": "2026-08-05T07:34:04.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbpnCVFuyC4-1"
           ]
@@ -5943,7 +5943,7 @@
           "shortcode": "Da5cdn8IwJq",
           "url": "https://www.instagram.com/maxschwugier/reel/Da5cdn8IwJq/",
           "published_at": "2026-07-17T14:37:15.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da5cdn8IwJq-1"
           ]
@@ -5988,34 +5988,122 @@
     {
       "handle": "mhad.inc",
       "url": "https://www.instagram.com/mhad.inc/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEv1sKIm-q",
+          "url": "https://www.instagram.com/motionplusdesign/reel/DdEv1sKIm-q/",
+          "published_at": "2026-09-09T17:00:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEv1sKIm-q-1"
+          ]
+        },
+        {
+          "shortcode": "Dcgv2RRpy6f",
+          "url": "https://www.instagram.com/motionplusdesign/reel/Dcgv2RRpy6f/",
+          "published_at": "2026-08-26T17:28:54.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcgv2RRpy6f-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEv1sKIm-q",
+        "Dcgv2RRpy6f"
+      ],
+      "latest_two_selection_evidence": "First six profile posts show no pins; first two collaborative posts timestamps checked. Promotional montage, individual CG footage and title-only portions require subsequent review; not confirmed CG yet."
     },
     {
       "handle": "microsoft.design",
       "url": "https://www.instagram.com/microsoft.design/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcOmFmPmuCU",
+          "url": "https://www.instagram.com/microsoft.design/p/DcOmFmPmuCU/",
+          "published_at": "2026-08-19T16:15:02.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "靜態設計觀點／文字資訊輪播，非 CG 特效作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Db-7bgYG5_7",
+          "url": "https://www.instagram.com/microsoft.design/p/Db-7bgYG5_7/",
+          "published_at": "2026-08-13T14:14:33.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "靜態設計觀點／文字資訊輪播，非 CG 特效作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcOmFmPmuCU",
+        "Db-7bgYG5_7"
+      ],
+      "latest_two_selection_evidence": "Pin original date 2026-06-16T13:21:59.000Z; first two unpinned original dates verified, article-style design commentary excluded."
     },
     {
       "handle": "min_shi_art",
       "url": "https://www.instagram.com/min_shi_art/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCZ3OxAZn7",
+          "url": "https://www.instagram.com/min_shi_art/p/DdCZ3OxAZn7/",
+          "published_at": "2026-09-08T19:09:36.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "艾美獎現場人物紀錄照片，非 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcgvwITGtG8",
+          "url": "https://www.instagram.com/min_shi_art/p/DcgvwITGtG8/",
+          "published_at": "2026-08-26T17:26:41.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "紐約生活人物攝影，非 CG。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCZ3OxAZn7",
+        "DcgvwITGtG8"
+      ],
+      "latest_two_selection_evidence": "Three pins dated 2022-02-16T22:15:26.000Z, 2023-03-08T21:34:52.000Z, 2022-03-01T21:13:26.000Z; latest unpinned Sept 8 and Aug 26 2026 checked, both personal/event photography excluded."
     },
     {
       "handle": "mingrising",
       "url": "https://www.instagram.com/mingrising/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXf3r04k1mG",
+          "url": "https://www.instagram.com/mingrising/reel/DXf3r04k1mG/",
+          "published_at": "2026-04-24T02:40:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXf3r04k1mG-1"
+          ]
+        },
+        {
+          "shortcode": "DMO5BsBTB2V",
+          "url": "https://www.instagram.com/mingrising/reel/DMO5BsBTB2V/",
+          "published_at": "2025-07-18T02:41:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMO5BsBTB2V-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXf3r04k1mG",
+        "DMO5BsBTB2V"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; latest two original timestamps verified. Client and 3D artist credits preserved for logo commission."
     },
     {
       "handle": "miss_nairagishian",
@@ -6914,9 +7002,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 276,
-  "imported_media": 277,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 280,
+  "imported_media": 281,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
