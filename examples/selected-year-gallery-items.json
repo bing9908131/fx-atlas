@@ -5,7 +5,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Hidden Windows feature · visual trick",
+    "title": "檔案視窗拉出螢幕 · UI 彎折合成",
     "creator": "hamidebrahimnia",
     "publisher": "hamidebrahimnia",
     "source_accounts": [
@@ -14,36 +14,199 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/754224243_18603993406038860_7819037946857844957_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk0OTg0ODg4NDUzNDY4NjMwNTE4NjAzOTkzNDAwMDM4ODYw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEzMjAuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=k0d5PaWdi7AQ7kNvwE8JIAc&_nc_oc=Adq1Fz6EFV2KqMK8MZorOrWzJHhFtn7qMilbO5_2ODZjH4gIYSu1gpIdCrFwJzTiEpk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=h-fNEigK2fS9auqAo4I0EQ&_nc_ss=7a22e&oh=00_AQLHb2ZJ4Uf3QrPnh9c7xyejIqMlhNS4T2Ry5yFvGVrG2g&oe=6AA8DA9B",
     "url": "https://www.instagram.com/hamidebrahimnia/reel/DbQrqIfKbJh/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
     "ratio": "9 / 16",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "雙螢幕實拍中，檔案總管視窗離開平面螢幕，沿螢幕間隙向外彎折、延伸，形成可被手部操作的柔性介面幻覺。",
+    "tags": [
+      {
+        "en": "user interface",
+        "zh": "使用者介面",
+        "category": "subject",
+        "search_aliases": [
+          "UI",
+          "GUI",
+          "介面",
+          "視窗介面"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "file explorer",
+        "zh": "檔案總管",
+        "category": "subject",
+        "search_aliases": [
+          "file manager",
+          "檔案視窗",
+          "資料夾"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "monitor",
+        "zh": "螢幕",
+        "category": "subject",
+        "search_aliases": [
+          "display",
+          "screen",
+          "顯示器",
+          "雙螢幕"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "bend",
+        "zh": "彎曲",
+        "category": "motion",
+        "search_aliases": [
+          "bending",
+          "彎折",
+          "折彎"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "stretch",
+        "zh": "拉伸",
+        "category": "motion",
+        "search_aliases": [
+          "stretching",
+          "延伸",
+          "拉長"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "pull",
+        "zh": "拉出",
+        "category": "motion",
+        "search_aliases": [
+          "pulling",
+          "拖曳",
+          "拉動"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "compositing",
+        "zh": "合成",
+        "category": "technique",
+        "search_aliases": [
+          "VFX",
+          "視覺特效",
+          "實拍合成",
+          "mixed media"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "flat panel",
+        "zh": "平面面板",
+        "category": "material",
+        "search_aliases": [
+          "平滑面板",
+          "flat surface"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍",
+          "blue tone"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "A hidden Windows feature!\n\n#windows #technology #tips #withgalaxy",
     "published_at": "2026-07-26T15:13:40.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "mixed_media_vfx",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
+      "observed_times": [
+        1.7,
+        2.89,
+        3.84,
+        6.9
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。Windows 僅為畫面／文案中出現的介面名稱，未證明 Microsoft 委託，不標為品牌廣告。",
+    "carousel_pending": false,
+    "duration_seconds": 9.233333,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "effects"
+      ],
+      "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
+    }
   },
   {
     "id": "selectedyear-DC4VFp0NL2T-1",
     "post_id": "DC4VFp0NL2T",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Random Bubble and Cloth",
+    "total": 3,
+    "title": "密集泡狀柔體 · 擠壓與皺摺",
     "creator": "zheminwork",
     "publisher": "zheminwork",
     "source_accounts": [
@@ -52,36 +215,165 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.75761-15/468561420_17883770847171258_4967241594707376411_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzUxMDY0ODMzMDkxODM4MjkwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=v6g3TIPAzR4Q7kNvwF7zqQ7&_nc_oc=AdqHnPMjYimjqcxZx48fRrQidtnF8klJgFKdzZo_Ed6FuNp3nSVlb9e6C2N7IK2YVXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=qQ8HzX5SuYR5R37_DElQJA&_nc_ss=7a22e&oh=00_AQJKWLT4KSKPRmn9JzYUEx79MG0ZVnRYWC9guPi8chpLJw&oe=6AA8DCD2",
     "url": "https://www.instagram.com/zheminwork/p/DC4VFp0NL2T/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "16 / 9",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "彩色亮面泡狀柔體密集排列，相互擠壓時邊界變形、產生皺摺；影片後段展示低光澤的模擬外觀。",
+    "tags": [
+      {
+        "en": "bubble",
+        "zh": "泡狀物",
+        "category": "subject",
+        "search_aliases": [
+          "bubble shape",
+          "氣泡造型"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "soft body",
+        "zh": "柔體",
+        "category": "subject",
+        "search_aliases": [
+          "柔性物體"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "squeeze",
+        "zh": "擠壓",
+        "category": "motion",
+        "search_aliases": [
+          "compression",
+          "壓縮"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "deform",
+        "zh": "變形",
+        "category": "motion",
+        "search_aliases": [
+          "deformation",
+          "形變"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "wrinkle",
+        "zh": "皺摺",
+        "category": "motion",
+        "search_aliases": [
+          "creasing",
+          "起皺"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "glossy",
+        "zh": "亮面",
+        "category": "material",
+        "search_aliases": [
+          "gloss",
+          "高光澤"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "rubber-like",
+        "zh": "橡膠感",
+        "category": "material",
+        "search_aliases": [
+          "rubbery",
+          "柔軟表面"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      },
+      {
+        "en": "iridescent",
+        "zh": "虹彩",
+        "category": "material",
+        "search_aliases": [
+          "彩色反光",
+          "彩虹光澤"
+        ],
+        "source": "visual",
+        "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Random Bubble and Cloth",
     "published_at": "2024-11-27T15:39:13.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "artist_cg",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
+      "observed_times": [
+        4.31,
+        15.55
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 18.266666,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。"
+    }
   },
   {
     "id": "selectedyear-DZXoO6wjJwG-1",
     "post_id": "DZXoO6wjJwG",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "Nike Tiempo · R&D",
+    "total": 5,
+    "title": "貓爪與布面 · 電弧閃爍",
     "creator": "ziyad.abah",
     "publisher": "ziyad.abah",
     "source_accounts": [
@@ -90,28 +382,146 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/720784669_18098782244165395_7655317052541282614_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=MzkxNTc3MTQzNzU3OTU0MDg3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=x0fegOZwxHgQ7kNvwE5TrjG&_nc_oc=Adr89ExD5BIS0r-1K25JClWE_g8thaZQWsxvd6dqEYlFtL2LU_jNubosJXCeBZ6C9Vo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=rwRj9lIywuojpZ9tPUNMVQ&_nc_ss=7a22e&oh=00_AQKEgdEPokgC4aWWdriFz7Xfe2V_x1NmLLpkKTjQ3pXKpA&oe=6AA8D1CB",
     "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "1 / 1",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "貓爪造型前方有拉成尖角的深色布面，黃色電弧沿接觸區域跳動；背景為高飽和紅色，帶顆粒與色散。",
+    "tags": [
+      {
+        "en": "cat paw",
+        "zh": "貓爪",
+        "category": "subject",
+        "search_aliases": [
+          "paw",
+          "動物爪"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "cloth",
+        "zh": "布料",
+        "category": "subject",
+        "search_aliases": [
+          "fabric",
+          "布面"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "electric arc",
+        "zh": "電弧",
+        "category": "subject",
+        "search_aliases": [
+          "lightning",
+          "電光"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "flicker",
+        "zh": "閃爍",
+        "category": "motion",
+        "search_aliases": [
+          "flashing",
+          "閃光"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "fabric texture",
+        "zh": "布紋",
+        "category": "material",
+        "search_aliases": [
+          "textile",
+          "織物"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "grainy",
+        "zh": "顆粒感",
+        "category": "material",
+        "search_aliases": [
+          "grain",
+          "雜訊"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "search_aliases": [
+          "紅"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "🐈⚡️\n\nCats mentioned in the brief, that’s all I needed to hear 🙇🏻‍♂️ — speedy R&D for a speedy & mad Nike Tiempo, in our latest work for our friends at @nikefootball 🧡 \n\nDone alongside my fellow ailurophiles at @futuredeluxe 🐱✨\n\n#houdinifx #sidefx #animation #3d #nike",
     "published_at": "2026-06-09T14:53:39.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
+      "observed_times": [
+        0.38,
+        2.52
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示 Nike Tiempo／NikeFootball 正式專案，與 FutureDeluxe 製作。鞋款系列為 Tiempo，未推定未見的版本號。",
+    "carousel_pending": false,
+    "duration_seconds": 5,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "effects",
+        "organic"
+      ],
+      "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。"
+    }
   },
   {
     "id": "selectedyear-DYRvk0WDAbp-1",
@@ -17944,5 +18354,1004 @@
       }
     },
     "note": "依可見個人頁一年範圍 19 則貼文核對按讚數，選入前 10 則；包含置頂貼文。動態依已觀察畫面標註，完整影片細節仍可補充。"
+  },
+  {
+    "id": "selectedyear-DC4VFp0NL2T-2",
+    "post_id": "DC4VFp0NL2T",
+    "index": 2,
+    "media_index": 2,
+    "total": 3,
+    "title": "布面與球體 · 扭轉拉伸近景",
+    "creator": "zheminwork",
+    "publisher": "zheminwork",
+    "source_accounts": [
+      "zheminwork"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.75761-15/468656589_17883770877171258_3337985783814616337_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzUxMDY0ODMzMDU1Nzc0MTQ2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=31mrK-BXqj8Q7kNvwGYu0a3&_nc_oc=AdrVp-AwVaAQ7amiI45E4dCXFLNnQpsvFinTbKq_N84831Q20CPZCJjjre3Ad1y9RAs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=m0lYnweKYuvWL6YrGYOARA&_nc_ss=7a22e&oh=00_AQL3XX_TofY5byf6mHpRtFOp7kyuud5f2yU7jv2juyNX6w&oe=6AA8E985",
+    "url": "https://www.instagram.com/zheminwork/p/DC4VFp0NL2T/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "白色帶藍紫與紅粉色區塊的布狀表面，在球體周圍拉伸、包覆與扭轉；褶皺隨形狀變化重新分布。",
+    "tags": [
+      {
+        "en": "cloth",
+        "zh": "布料",
+        "category": "subject",
+        "search_aliases": [
+          "fabric",
+          "布面"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "sphere",
+        "zh": "球體",
+        "category": "subject",
+        "search_aliases": [
+          "ball",
+          "圓球"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "twist",
+        "zh": "扭轉",
+        "category": "motion",
+        "search_aliases": [
+          "twisting",
+          "扭曲"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "stretch",
+        "zh": "拉伸",
+        "category": "motion",
+        "search_aliases": [
+          "stretching",
+          "伸展"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "wrap",
+        "zh": "包覆",
+        "category": "motion",
+        "search_aliases": [
+          "wrapping",
+          "包裹"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "wrinkle",
+        "zh": "皺摺",
+        "category": "motion",
+        "search_aliases": [
+          "creasing",
+          "起皺"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "fabric-like",
+        "zh": "布料感",
+        "category": "material",
+        "search_aliases": [
+          "柔性布面"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "smooth",
+        "zh": "平滑",
+        "category": "material",
+        "search_aliases": [
+          "smooth surface",
+          "光滑"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Random Bubble and Cloth",
+    "published_at": "2024-11-27T15:39:13.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "artist_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
+      "observed_times": [
+        9.42,
+        9.93,
+        28.98
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 31.333333,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。"
+    }
+  },
+  {
+    "id": "selectedyear-DC4VFp0NL2T-3",
+    "post_id": "DC4VFp0NL2T",
+    "index": 3,
+    "media_index": 3,
+    "total": 3,
+    "title": "布料球體群 · 懸浮翻轉與捲曲",
+    "creator": "zheminwork",
+    "publisher": "zheminwork",
+    "source_accounts": [
+      "zheminwork"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.75761-15/468561431_17883770889171258_5623843552981127514_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzUxMDY0ODMzMDk2MDMxNjAwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=nWE5hTNxcioQ7kNvwGV6m6V&_nc_oc=AdoXAOrQBunpKkmfeF8ewEHpPP9IL0GASGmSMdroVHAqxYLK-ZsBOIoF4CX8L74TFQ4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=m0lYnweKYuvWL6YrGYOARA&_nc_ss=7a22e&oh=00_AQJQf0fvlqzCiQMkfm1eOmJETHIQ1CfS1jNi_k4QClimww&oe=6AA8C617",
+    "url": "https://www.instagram.com/zheminwork/p/DC4VFp0NL2T/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "懸浮的白色布狀形體與灰色球體群持續翻轉，布面在球體間伸展、捲曲並形成摺痕；表面分布紅、藍、綠與紫色區塊。",
+    "tags": [
+      {
+        "en": "cloth",
+        "zh": "布料",
+        "category": "subject",
+        "search_aliases": [
+          "fabric",
+          "布面"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "sphere cluster",
+        "zh": "球體群",
+        "category": "subject",
+        "search_aliases": [
+          "balls",
+          "球群"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "rotate",
+        "zh": "旋轉",
+        "category": "motion",
+        "search_aliases": [
+          "rotation",
+          "翻轉"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "curl",
+        "zh": "捲曲",
+        "category": "motion",
+        "search_aliases": [
+          "curling",
+          "卷曲"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "stretch",
+        "zh": "拉伸",
+        "category": "motion",
+        "search_aliases": [
+          "stretching",
+          "伸展"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "fold",
+        "zh": "折疊",
+        "category": "motion",
+        "search_aliases": [
+          "folding",
+          "摺疊"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "fabric-like",
+        "zh": "布料感",
+        "category": "material",
+        "search_aliases": [
+          "柔性布面"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "smooth",
+        "zh": "平滑",
+        "category": "material",
+        "search_aliases": [
+          "光滑"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "grey"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      },
+      {
+        "en": "multicolor",
+        "zh": "多色",
+        "category": "color",
+        "search_aliases": [
+          "彩色"
+        ],
+        "source": "visual",
+        "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Random Bubble and Cloth",
+    "published_at": "2024-11-27T15:39:13.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "artist_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
+      "observed_times": [
+        8.08,
+        22.02
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 26.766666,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "organic",
+        "effects"
+      ],
+      "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。"
+    }
+  },
+  {
+    "id": "selectedyear-DZXoO6wjJwG-2",
+    "post_id": "DZXoO6wjJwG",
+    "index": 2,
+    "media_index": 2,
+    "total": 5,
+    "title": "足球與球鞋 · 像素失真",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/720736986_18098782259165395_7951191775254064003_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=MzkxNTc3MTQ0NzA5MjI0ODUzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ix2Vy1qt9ZAQ7kNvwHuB3bL&_nc_oc=AdrqH2FEEhm8i21WSXGaiL-wigDZxhUbhs9phqpbQiUjnIvu-NEHRpgqknTMCvcAigo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=jqsLiCjYDMASy-1qugQVRA&_nc_ss=7a22e&oh=00_AQJt5pwBVvUseqsP8VoaOQXbZtWaaR2ZJlXEeaqL8MHCeA&oe=6AA8D751",
+    "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "1 / 1",
+    "duration": "",
+    "description": "球鞋與足球近景，接觸區域形成青色、綠色的像素方塊失真與發光邊緣。",
+    "tags": [
+      {
+        "en": "football",
+        "zh": "足球",
+        "category": "subject",
+        "search_aliases": [
+          "soccer ball",
+          "球"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "football boot",
+        "zh": "足球鞋",
+        "category": "subject",
+        "search_aliases": [
+          "cleat",
+          "球鞋"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "pixel",
+        "zh": "像素",
+        "category": "subject",
+        "search_aliases": [
+          "pixel block",
+          "像素方塊"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "glitch",
+        "zh": "故障失真",
+        "category": "motion",
+        "search_aliases": [
+          "digital distortion",
+          "像素錯位"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "textured surface",
+        "zh": "紋理表面",
+        "category": "material",
+        "search_aliases": [
+          "顆粒表面"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青藍"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      },
+      {
+        "en": "red",
+        "zh": "紅色",
+        "category": "color",
+        "search_aliases": [
+          "紅"
+        ],
+        "source": "visual",
+        "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🐈⚡️\n\nCats mentioned in the brief, that’s all I needed to hear 🙇🏻‍♂️ — speedy R&D for a speedy & mad Nike Tiempo, in our latest work for our friends at @nikefootball 🧡 \n\nDone alongside my fellow ailurophiles at @futuredeluxe 🐱✨\n\n#houdinifx #sidefx #animation #3d #nike",
+    "published_at": "2026-06-09T14:53:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
+      "observed_times": [
+        0.66,
+        0.79
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示 Nike Tiempo／NikeFootball 正式專案，與 FutureDeluxe 製作。鞋款系列為 Tiempo，未推定未見的版本號。",
+    "carousel_pending": false,
+    "duration_seconds": 0.96,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product",
+        "effects"
+      ],
+      "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。"
+    }
+  },
+  {
+    "id": "selectedyear-DZXoO6wjJwG-3",
+    "post_id": "DZXoO6wjJwG",
+    "index": 3,
+    "media_index": 3,
+    "total": 5,
+    "title": "Nike Tiempo · 貓臉圖形與電光",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/719754695_18098782277165395_5060285303994480039_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=MzkxNTc3MTQ0OTE5Nzc3MjMzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=9SceYmTjgeQQ7kNvwE1T2VC&_nc_oc=AdpBpAyMl5tKehuXCBfr_dK4VdZEaF7Cs5SCefooI-2gQAjdiXObwhwPj4Ja5V8pZWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=jqsLiCjYDMASy-1qugQVRA&_nc_ss=7a22e&oh=00_AQLNkpkr9jkXnvw9o9GK9hDnDTS36Ls1eLifbbj9tk7LJg&oe=6AA8EEFB",
+    "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "1 / 1",
+    "duration": "",
+    "description": "深色足球鞋近景搭配藍黃貓臉圖形與粉紅背景，亮白電光閃現後切至黑底黃色 Go Mad／Nike 圖形。",
+    "tags": [
+      {
+        "en": "football boot",
+        "zh": "足球鞋",
+        "category": "subject",
+        "search_aliases": [
+          "cleat",
+          "球鞋"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "cat face",
+        "zh": "貓臉",
+        "category": "subject",
+        "search_aliases": [
+          "cat graphic",
+          "貓圖形"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "商標",
+          "字標"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "flash",
+        "zh": "閃光",
+        "category": "motion",
+        "search_aliases": [
+          "flashing",
+          "閃爍"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "cut transition",
+        "zh": "切換轉場",
+        "category": "motion",
+        "search_aliases": [
+          "hard cut",
+          "剪接"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "textured upper",
+        "zh": "紋理鞋面",
+        "category": "material",
+        "search_aliases": [
+          "鞋面紋理"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [
+          "粉色"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🐈⚡️\n\nCats mentioned in the brief, that’s all I needed to hear 🙇🏻‍♂️ — speedy R&D for a speedy & mad Nike Tiempo, in our latest work for our friends at @nikefootball 🧡 \n\nDone alongside my fellow ailurophiles at @futuredeluxe 🐱✨\n\n#houdinifx #sidefx #animation #3d #nike",
+    "published_at": "2026-06-09T14:53:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
+      "observed_times": [
+        0.37,
+        0.57,
+        2.79
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示 Nike Tiempo／NikeFootball 正式專案，與 FutureDeluxe 製作。鞋款系列為 Tiempo，未推定未見的版本號。",
+    "carousel_pending": false,
+    "duration_seconds": 4.124999,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "product",
+        "graphic"
+      ],
+      "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。"
+    }
+  },
+  {
+    "id": "selectedyear-DZXoO6wjJwG-4",
+    "post_id": "DZXoO6wjJwG",
+    "index": 4,
+    "media_index": 4,
+    "total": 5,
+    "title": "Go Mad 字標 · 放射失真",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/721051630_18098782298165395_1610084419221562001_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=MzkxNTc3MTQ1Njk1NzIyMTgwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=H31pfHK6eusQ7kNvwFqd-cz&_nc_oc=AdpfdpC3ZyIIPhZLXvFyxO0GEER9AqasswyNqdCiUfb-0rVfQfLgQwnuy8NFhFT55WU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=jqsLiCjYDMASy-1qugQVRA&_nc_ss=7a22e&oh=00_AQJKZ_JYk7M9AS4CucGzSFoosPKim9-utBesjJKnIY8dEA&oe=6AA8E5F5",
+    "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "1 / 1",
+    "duration": "",
+    "description": "中央綠色 Go Mad／Nike 字標，周圍的藍綠紫圖像向外拉長與扭曲，邊緣形成粗大像素斷裂。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "wordmark",
+          "字標"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "pixel",
+        "zh": "像素",
+        "category": "subject",
+        "search_aliases": [
+          "pixel block",
+          "像素塊"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "radial distortion",
+        "zh": "放射失真",
+        "category": "motion",
+        "search_aliases": [
+          "radial warp",
+          "放射變形"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "stretch",
+        "zh": "拉伸",
+        "category": "motion",
+        "search_aliases": [
+          "延展",
+          "stretching"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "glitch",
+        "zh": "故障失真",
+        "category": "motion",
+        "search_aliases": [
+          "像素錯位",
+          "digital distortion"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "grainy",
+        "zh": "顆粒感",
+        "category": "material",
+        "search_aliases": [
+          "grain"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "綠"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🐈⚡️\n\nCats mentioned in the brief, that’s all I needed to hear 🙇🏻‍♂️ — speedy R&D for a speedy & mad Nike Tiempo, in our latest work for our friends at @nikefootball 🧡 \n\nDone alongside my fellow ailurophiles at @futuredeluxe 🐱✨\n\n#houdinifx #sidefx #animation #3d #nike",
+    "published_at": "2026-06-09T14:53:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
+      "observed_times": [
+        0.28,
+        0.86
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示 Nike Tiempo／NikeFootball 正式專案，與 FutureDeluxe 製作。鞋款系列為 Tiempo，未推定未見的版本號。",
+    "carousel_pending": false,
+    "duration_seconds": 2.041666,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "effects"
+      ],
+      "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。"
+    }
+  },
+  {
+    "id": "selectedyear-DZXoO6wjJwG-5",
+    "post_id": "DZXoO6wjJwG",
+    "index": 5,
+    "media_index": 5,
+    "total": 5,
+    "title": "貓頭與貓爪 · 線框製作圖",
+    "creator": "ziyad.abah",
+    "publisher": "ziyad.abah",
+    "source_accounts": [
+      "ziyad.abah"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/719613427_18098782193165395_7117243963497482302_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=MzkxNTc3MTQzMjc1MDI0NzE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-2dsrmMbElYQ7kNvwGEJ-uf&_nc_oc=AdoRuXbkT-gBybZOiJvwe-NMu9KHciqXe01Orj_0ra4In5pIL8qk7R5pqfVgvk91aB0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=jqsLiCjYDMASy-1qugQVRA&_nc_ss=7a22e&oh=00_AQIVZ_8YwB8CTpS5aqnHlbXzA1fRo1TL8V0HC-GJhIpu7A&oe=6AA8BA75",
+    "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "1 / 1",
+    "duration": "",
+    "description": "靜態 3D 軟體工作畫面：灰白貓頭與兩隻貓爪，後方是三角線框布面；保留建模與拓撲參考，不加入動態標籤。",
+    "tags": [
+      {
+        "en": "cat head",
+        "zh": "貓頭",
+        "category": "subject",
+        "search_aliases": [
+          "cat",
+          "貓"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "cat paw",
+        "zh": "貓爪",
+        "category": "subject",
+        "search_aliases": [
+          "paw"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "wireframe",
+        "zh": "線框",
+        "category": "subject",
+        "search_aliases": [
+          "mesh",
+          "網格"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "triangulation",
+        "zh": "三角網格",
+        "category": "subject",
+        "search_aliases": [
+          "topology",
+          "拓撲"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "clay shading",
+        "zh": "灰模",
+        "category": "material",
+        "search_aliases": [
+          "clay render",
+          "白模"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [
+          "grey"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "🐈⚡️\n\nCats mentioned in the brief, that’s all I needed to hear 🙇🏻‍♂️ — speedy R&D for a speedy & mad Nike Tiempo, in our latest work for our friends at @nikefootball 🧡 \n\nDone alongside my fellow ailurophiles at @futuredeluxe 🐱✨\n\n#houdinifx #sidefx #animation #3d #nike",
+    "published_at": "2026-06-09T14:53:39.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_cg",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T03:31:14",
+      "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示 Nike Tiempo／NikeFootball 正式專案，與 FutureDeluxe 製作。鞋款系列為 Tiempo，未推定未見的版本號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric"
+      ],
+      "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。"
+    }
   }
 ]

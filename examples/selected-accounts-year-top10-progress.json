@@ -4318,10 +4318,11 @@
           "shortcode": "DbQrqIfKbJh",
           "url": "https://www.instagram.com/hamidebrahimnia/reel/DbQrqIfKbJh/",
           "published_at": "2026-07-26T15:13:40.000Z",
-          "status": "published_pending_analysis",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DbQrqIfKbJh-1"
-          ]
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbBFi5mKbVH",
@@ -9832,10 +9833,13 @@
           "shortcode": "DC4VFp0NL2T",
           "url": "https://www.instagram.com/zheminwork/p/DC4VFp0NL2T/",
           "published_at": "2024-11-27T15:39:13.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DC4VFp0NL2T-1"
-          ]
+            "selectedyear-DC4VFp0NL2T-1",
+            "selectedyear-DC4VFp0NL2T-2",
+            "selectedyear-DC4VFp0NL2T-3"
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9855,10 +9859,15 @@
           "shortcode": "DZXoO6wjJwG",
           "url": "https://www.instagram.com/ziyad.abah/p/DZXoO6wjJwG/",
           "published_at": "2026-06-09T14:53:39.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DZXoO6wjJwG-1"
-          ]
+            "selectedyear-DZXoO6wjJwG-1",
+            "selectedyear-DZXoO6wjJwG-2",
+            "selectedyear-DZXoO6wjJwG-3",
+            "selectedyear-DZXoO6wjJwG-4",
+            "selectedyear-DZXoO6wjJwG-5"
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DYRvk0WDAbp",
