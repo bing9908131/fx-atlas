@@ -6386,7 +6386,7 @@
           "shortcode": "DbWBMwDjYmK",
           "url": "https://www.instagram.com/maxonvfx/reel/DbWBMwDjYmK/",
           "published_at": "2026-07-28T16:57:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbWBMwDjYmK-1"
           ]
@@ -6395,7 +6395,7 @@
           "shortcode": "DaVpAOVDgcm",
           "url": "https://www.instagram.com/typecampus/p/DaVpAOVDgcm/",
           "published_at": "2026-07-03T16:53:17.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaVpAOVDgcm-1"
           ]
@@ -6417,7 +6417,7 @@
           "shortcode": "DYErJXxoNZz",
           "url": "https://www.instagram.com/newnewnew.studio/reel/DYErJXxoNZz/",
           "published_at": "2026-05-08T09:44:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYErJXxoNZz-1"
           ]
@@ -6426,7 +6426,7 @@
           "shortcode": "DX6Rxnhoigz",
           "url": "https://www.instagram.com/newnewnew.studio/reel/DX6Rxnhoigz/",
           "published_at": "2026-05-04T08:49:14.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DX6Rxnhoigz-1"
           ]
@@ -6480,7 +6480,7 @@
           "shortcode": "DANlz-ZyAy1",
           "url": "https://www.instagram.com/noah1art/reel/DANlz-ZyAy1/",
           "published_at": "2024-09-22T08:17:27.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DANlz-ZyAy1-1"
           ]
@@ -6489,7 +6489,7 @@
           "shortcode": "DACx40PyHxj",
           "url": "https://www.instagram.com/noah1art/p/DACx40PyHxj/",
           "published_at": "2024-09-18T03:29:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DACx40PyHxj-1"
           ]
@@ -6505,58 +6505,191 @@
     {
       "handle": "nonotakstudio",
       "url": "https://www.instagram.com/nonotakstudio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCf_lcCrml",
+          "url": "https://www.instagram.com/nonotakstudio/p/DdCf_lcCrml/",
+          "published_at": "2026-09-08T20:03:10.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實體機械燈光裝置展演紀錄，非 CG 媒體。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dc_h_wsCmuR",
+          "url": "https://www.instagram.com/nonotakstudio/p/Dc_h_wsCmuR/",
+          "published_at": "2026-09-07T16:22:57.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實體機械燈光裝置展演紀錄，非 CG 媒體。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCf_lcCrml",
+        "Dc_h_wsCmuR"
+      ],
+      "latest_two_selection_evidence": "Pins dated 2025-05-11T22:37:55.000Z, 2025-01-07T22:01:24.000Z, 2024-02-18T14:58:11.000Z; first two unpinned original dates checked. Physical kinetic lighting installation visible and caption names exhibition, excluded."
     },
     {
       "handle": "nopattern",
       "url": "https://www.instagram.com/nopattern/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdB9zkwjjuY",
+          "url": "https://www.instagram.com/nopattern/p/DdB9zkwjjuY/",
+          "published_at": "2026-09-08T15:04:26.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "平面印刷設計與雜誌／包裝檔案展示，非 CG 特效媒體。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcoW5WDjq6S",
+          "url": "https://www.instagram.com/nopattern/p/DcoW5WDjq6S/",
+          "published_at": "2026-08-29T16:23:25.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "平面印刷設計與雜誌／包裝檔案展示，非 CG 特效媒體。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdB9zkwjjuY",
+        "DcoW5WDjq6S"
+      ],
+      "latest_two_selection_evidence": "Reviewed first twelve entries for reordered grid. Latest observed Sept 8 and Aug 29 2026 originals read; other front entries include 2025 displaced post and Aug 8 2026 pin. Both print design archive posts excluded."
     },
     {
       "handle": "normanstagram",
       "url": "https://www.instagram.com/normanstagram/",
-      "status": "pending_latest_two_selection",
+      "status": "private_profile_unavailable",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Public profile shows 43 posts and 此個人檔案不公開, no post links. No follow request sent."
     },
     {
       "handle": "notarton",
       "url": "https://www.instagram.com/notarton/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C5Y2nR_Ipkl",
+          "url": "https://www.instagram.com/notarton/reel/C5Y2nR_Ipkl/",
+          "published_at": "2024-04-05T17:44:15.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "真人電影／舞蹈實拍剪輯，非 CG 特效作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "C5RLtHoI5FF",
+          "url": "https://www.instagram.com/notarton/reel/C5RLtHoI5FF/",
+          "published_at": "2024-04-02T18:09:47.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "真人電影／舞蹈實拍剪輯，非 CG 特效作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C5Y2nR_Ipkl",
+        "C5RLtHoI5FF"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two original dates read. Actor scene caption and visible live dance footage establish non-CG content."
     },
     {
       "handle": "notreal.tv",
       "url": "https://www.instagram.com/notreal.tv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdD4yyFspXY",
+          "url": "https://www.instagram.com/notreal.tv/reel/DdD4yyFspXY/",
+          "published_at": "2026-09-09T09:00:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdD4yyFspXY-1"
+          ]
+        },
+        {
+          "shortcode": "Db77uniDf9q",
+          "url": "https://www.instagram.com/miltgon/p/Db77uniDf9q/",
+          "published_at": "2026-08-12T10:19:27.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "演講活動現場照片，非獨立 CG 作品媒體。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdD4yyFspXY",
+        "Db77uniDf9q"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two original timestamps checked. Studio explicitly identifies J.P. Morgan campaign, second is in-person talk documentation and excluded."
     },
     {
       "handle": "ohso0hwan",
       "url": "https://www.instagram.com/ohso0hwan/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdBaWP8PVzF",
+          "url": "https://www.instagram.com/ohso0hwan/reel/DdBaWP8PVzF/",
+          "published_at": "2026-09-08T09:57:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBaWP8PVzF-1"
+          ]
+        },
+        {
+          "shortcode": "DcsnonjPbex",
+          "url": "https://www.instagram.com/ohso0hwan/reel/DcsnonjPbex/",
+          "published_at": "2026-08-31T08:07:31.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcsnonjPbex-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdBaWP8PVzF",
+        "DcsnonjPbex"
+      ],
+      "latest_two_selection_evidence": "First two profile posts dated September 8 and August 31 2026; no pinned indicators. Later entries show older dates; full CG analysis pending."
     },
     {
       "handle": "ondrejzunka",
       "url": "https://www.instagram.com/ondrejzunka/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DWYfk2zDKTG",
+          "url": "https://www.instagram.com/signalspaceprague/p/DWYfk2zDKTG/",
+          "published_at": "2026-03-27T09:23:03.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWYfk2zDKTG-1"
+          ]
+        },
+        {
+          "shortcode": "DDHFXHxtaqn",
+          "url": "https://www.instagram.com/ondrejzunka/reel/DDHFXHxtaqn/",
+          "published_at": "2024-12-03T09:10:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DDHFXHxtaqn-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DWYfk2zDKTG",
+        "DDHFXHxtaqn"
+      ],
+      "latest_two_selection_evidence": "Three pinned posts date from 2021–2022. Latest unpinned posts dated March 27 2026 and December 3 2024. Exhibition carousel contains presentation of 3D artwork; individual slide review pending."
     },
     {
       "handle": "oo_kk_aa",
@@ -7295,9 +7428,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 297,
-  "imported_media": 298,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 302,
+  "imported_media": 303,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
