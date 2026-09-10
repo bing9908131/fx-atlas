@@ -230,5 +230,29 @@
     "decision": "exclude",
     "reason": "展覽文字說明頁，沒有獨立 CG 圖像或動畫參考。",
     "evidence": "展覽文字說明頁，沒有獨立 CG 圖像或動畫參考。 全十項逐一檢查，末項沒有下一步。"
+  },
+  {
+    "post_id": "DY7Lmn7CBO9",
+    "media_index": 1,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "Printed magazine photo collage: desert, cactus, photographed people and car. No independently identifiable CG scene.",
+    "evidence": "Printed magazine photo collage: desert, cactus, photographed people and car. No independently identifiable CG scene. All three stills inspected in public carousel; final slide has no next button."
+  },
+  {
+    "post_id": "DY7Lmn7CBO9",
+    "media_index": 2,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "Magazine order-form graphic with small photographic inserts and 2D decorative motifs; no independently identifiable CG scene.",
+    "evidence": "Magazine order-form graphic with small photographic inserts and 2D decorative motifs; no independently identifiable CG scene. All three stills inspected in public carousel; final slide has no next button."
+  },
+  {
+    "post_id": "DY7Lmn7CBO9",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "Photographic collage of man, car and desert cactus landscape; no independently identifiable CG scene.",
+    "evidence": "Photographic collage of man, car and desert cactus landscape; no independently identifiable CG scene. All three stills inspected in public carousel; final slide has no next button."
   }
 ]

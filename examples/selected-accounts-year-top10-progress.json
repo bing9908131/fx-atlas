@@ -9001,10 +9001,14 @@
           "shortcode": "DY7Lmn7CBO9",
           "url": "https://www.instagram.com/tomarena_/p/DY7Lmn7CBO9/",
           "published_at": "2026-05-29T13:44:44.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DY7Lmn7CBO9-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DY2byLhCKsz",
