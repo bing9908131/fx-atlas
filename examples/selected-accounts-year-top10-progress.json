@@ -7567,7 +7567,7 @@
           "shortcode": "DcQi1dqqjRQ",
           "url": "https://www.instagram.com/sebastian_jelic/reel/DcQi1dqqjRQ/",
           "published_at": "2026-08-20T10:30:59.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcQi1dqqjRQ-1"
           ]
@@ -7589,7 +7589,7 @@
           "shortcode": "DSKshueEagm",
           "url": "https://www.instagram.com/secondarybounce/reel/DSKshueEagm/",
           "published_at": "2025-12-25T14:47:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DSKshueEagm-1"
           ]
@@ -7598,7 +7598,7 @@
           "shortcode": "DSaEKNHEXxR",
           "url": "https://www.instagram.com/secondarybounce/p/DSaEKNHEXxR/",
           "published_at": "2025-12-18T13:56:23.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DSaEKNHEXxR-1"
           ]
@@ -7620,7 +7620,7 @@
           "shortcode": "DW9Rza9kY6J",
           "url": "https://www.instagram.com/sekanisolomon/p/DW9Rza9kY6J/",
           "published_at": "2026-04-10T16:14:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DW9Rza9kY6J-1"
           ]
@@ -7629,7 +7629,7 @@
           "shortcode": "DVtwCkPESWm",
           "url": "https://www.instagram.com/sekanisolomon/p/DVtwCkPESWm/",
           "published_at": "2026-03-10T18:59:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DVtwCkPESWm-1"
           ]
@@ -7674,26 +7674,93 @@
     {
       "handle": "services.meb",
       "url": "https://www.instagram.com/services.meb/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DLidf6-SuPD",
+          "url": "https://www.instagram.com/services.meb/p/DLidf6-SuPD/",
+          "published_at": "2025-06-30T20:31:58.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "可辨識品牌／藝術家作品，但貼文僅標註帳號，未確認委託或實際使用；依品牌確認要求暫不收錄。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DFYetaRSZ2-",
+          "url": "https://www.instagram.com/services.meb/reel/DFYetaRSZ2-/",
+          "published_at": "2025-01-28T20:24:28.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "可辨識品牌／藝術家作品，但貼文僅標註帳號，未確認委託或實際使用；依品牌確認要求暫不收錄。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DLidf6-SuPD",
+        "DFYetaRSZ2-"
+      ],
+      "latest_two_selection_evidence": "Reordered grid checked through first 12 entries. First two newest dates read. Posts tag LOEWE/Jeff Koons but contain no client, commission, or actual-use confirmation."
     },
     {
       "handle": "shanren.3d",
       "url": "https://www.instagram.com/shanren.3d/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DMsGn8VJ9f1",
+          "url": "https://www.instagram.com/shanren.3d/reel/DMsGn8VJ9f1/",
+          "published_at": "2025-07-29T10:56:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMsGn8VJ9f1-1"
+          ]
+        },
+        {
+          "shortcode": "DMkt82qJ0Bb",
+          "url": "https://www.instagram.com/shanren.3d/reel/DMkt82qJ0Bb/",
+          "published_at": "2025-07-26T14:05:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMkt82qJ0Bb-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DMsGn8VJ9f1",
+        "DMkt82qJ0Bb"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; original dates read. Caption explicitly describes Blender geometry nodes and cloth simulation; generic unbranded R&D."
     },
     {
       "handle": "shittyrenders",
       "url": "https://www.instagram.com/shittyrenders/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZaX4d1kcIl",
+          "url": "https://www.instagram.com/shittyrenders/p/DZaX4d1kcIl/",
+          "published_at": "2026-06-10T16:28:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZaX4d1kcIl-1"
+          ]
+        },
+        {
+          "shortcode": "DWRiI_Ql3yN",
+          "url": "https://www.instagram.com/shittyrenders/p/DWRiI_Ql3yN/",
+          "published_at": "2026-03-24T16:30:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWRiI_Ql3yN-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZaX4d1kcIl",
+        "DWRiI_Ql3yN"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts, dates read. On second post author explicitly replied that these are official SpaceX work and he is a SpaceX employee. First AI Satellites is a satellite subject, not evidence of generative-image production."
     },
     {
       "handle": "simon_stalenhag",
@@ -8152,9 +8219,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 350,
-  "imported_media": 351,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 354,
+  "imported_media": 355,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
