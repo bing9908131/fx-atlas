@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2118,
+  "total": 2128,
   "unclassified": 0,
   "counts": {
     "graphic": 430,
-    "product": 759,
-    "organic": 448,
-    "geometric": 832,
+    "product": 767,
+    "organic": 455,
+    "geometric": 833,
     "scifi": 296,
-    "effects": 135
+    "effects": 136
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1128,6 +1128,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.687海床上方小型發光物與魚隻；4.939紫色瓣狀生物從砂床出現且砂粒向外揚起；8.416大型生物已不見、砂粒雲向上散布；12.653回到平靜海床與游魚。可觀察出現、下潛及粒子散開，不猜爆炸或水流solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "仰角穿過彎曲排列的綠色植栽柱與培育燈，2.119和2.272前景葉片及燈具構圖略移。只確認運鏡，不把彎曲的靜態造型標生長或扭轉。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "仰角穿過彎曲排列的綠色植栽柱與培育燈，2.119和2.272前景葉片及燈具構圖略移。只確認運鏡，不把彎曲的靜態造型標生長或扭轉。"
           ],
           "matched_tags": []
         }
@@ -3649,6 +3678,231 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.393與0.847為水平條狀錯位的重複洞口影像；1.820切到完整石砌洞口；6.691切換螺旋狀黑白構圖及疊加分析標記。保留後製圖形動畫，不把攝影素材或錯位切片標成3D石頭破碎。第四項末尾無下一步，四項已各自確認。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.519中央培育燈在畫面中央；0.669同組培育燈向左移、右側下一組进入。葉牆不見生長變化，標鏡頭橫移。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.519中央培育燈在畫面中央；0.669同組培育燈向左移、右側下一組进入。葉牆不見生長變化，標鏡頭橫移。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "鏡頭沿白色燈列與密集綠色葉牆行進，0.416與0.627近側葉片和燈列的相對構圖變化；未見植物長出。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "鏡頭沿白色燈列與密集綠色葉牆行進，0.416與0.627近側葉片和燈列的相對構圖變化；未見植物長出。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "切入時中央植栽架近垂直；1.034與1.071為向右上傾斜，手臂末端帶動長植栽架旋轉。三支黃色機械臂、灰色底座、綠色培育牆及白燈可見。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.191植栽架近水平遮擋上方，1.092植栽架變為斜向且黃色機械臂的紅色Plenty標誌露出，手臂角度改變。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.430與1.638白色架體及葉片近景構圖改變，透光葉緣清楚。前景運動存在，但不足分離葉片擺動和鏡頭移動，所以不標風吹或植物生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.430與1.638白色架體及葉片近景構圖改變，透光葉緣清楚。前景運動存在，但不足分離葉片擺動和鏡頭移動，所以不標風吹或植物生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片切入時幼苗較收窄正向，0.101與0.111為展寬側向，根部懸在軌道上方；記錄懸浮呈現，沒有充分時序證據支持幼苗生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "影片切入時幼苗較收窄正向，0.101與0.111為展寬側向，根部懸在軌道上方；記錄懸浮呈現，沒有充分時序證據支持幼苗生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-8",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.792片狀螺旋沿左下至右上構圖；1.087接近垂直，呈現旋轉視角。螺旋形態本身不能證明扭曲變形，故不標 twist 或生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.555可見白色槽體、根部與綠葉；1.754白霧覆蓋畫面、物件只剩淡輪廓。可見霧化遮蔽，不推定燃燒煙霧或特定流體模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.555可見白色槽體、根部與綠葉；1.754白霧覆蓋畫面、物件只剩淡輪廓。可見霧化遮蔽，不推定燃燒煙霧或特定流體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C1-SfWnvhDY-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.010與2.130為高聳平行栽培架與培育燈的仰視，鏡頭沿中軸前進，幾何透視略改變。第十項沒有下一步，十個媒體均為影片且逐項看過。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.010與2.130為高聳平行栽培架與培育燈的仰視，鏡頭沿中軸前進，幾何透視略改變。第十項沒有下一步，十個媒體均為影片且逐項看過。"
           ],
           "matched_tags": []
         }
