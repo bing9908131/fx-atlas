@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2050,
+  "total": 2051,
   "unclassified": 0,
   "counts": {
-    "graphic": 398,
+    "graphic": 399,
     "product": 748,
     "organic": 426,
-    "geometric": 822,
+    "geometric": 823,
     "scifi": 291,
     "effects": 108
   },
@@ -2025,6 +2025,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際開啟輪播第2張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DRKIGK5jx1g-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第6張為多頁作品拼貼，能辨識多層圓弧、放射扇形、球形與平滑金屬曲面；與第5張攤開書本不同，畫面大部分直接展示CG作品。作者指明兩組為Taipei Design Award 2023與第34屆金曲獎。靜態圖僅標記液滴造型，不標液體流動、擴散、堆疊動作或布料模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第6張為多頁作品拼貼，能辨識多層圓弧、放射扇形、球形與平滑金屬曲面；與第5張攤開書本不同，畫面大部分直接展示CG作品。作者指明兩組為Taipei Design Award 2023與第34屆金曲獎。靜態圖僅標記液滴造型，不標液體流動、擴散、堆疊動作或布料模擬。"
           ],
           "matched_tags": []
         }

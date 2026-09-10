@@ -30,5 +30,53 @@
     "decision": "exclude",
     "reason": "course_promotion_screen_recording",
     "evidence": "原片51.4秒；37.50秒與46.55秒均為Plnty畫布操作、角色圖片變體和講者人像小窗。文案呼籲加入下一期cohort。為工具／課程操作示範，沒有本次收錄所需的獨立CG成品動畫，不將畫布捲動及圖片變體當作角色模擬。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 1,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "18秒出版物翻頁／版面輪播，4.46及6.16秒顯示完整書頁與編排格線，沒有獨立CG動態。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 2,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "書籍堆放與封面宣傳圖，沒有足夠證據確認此書籍圖本身為CG。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 3,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "封面與印刷文字的細節拼圖，沒有可獨立辨識的CG作品。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 4,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "書籍堆放及封面背面書脊商品展示，未確認CG製作。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 5,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "完整攤開書籍與內頁實景應用照片，作品僅在頁面中小幅呈現。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
+  },
+  {
+    "post_id": "DRKIGK5jx1g",
+    "media_index": 7,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "publication_documentation_without_standalone_cg",
+    "evidence": "17.2秒出版章節文字宣傳，觀察到Visual Identities/Poster及13.21秒Project (01–33)文字版面，不作CG效果參考。作者明示此篇使用Victionary公開出版宣傳材料；排除僅針對此媒體，不否定作者原始CG作品。"
   }
 ]

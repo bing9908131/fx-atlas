@@ -9545,10 +9545,19 @@
           "shortcode": "DRKIGK5jx1g",
           "url": "https://www.instagram.com/whitelightmotion/p/DRKIGK5jx1g/",
           "published_at": "2025-11-17T12:51:33.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DRKIGK5jx1g-1"
-          ]
+            "selectedyear-DRKIGK5jx1g-6"
+          ],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DFKuNb4z_a6",
