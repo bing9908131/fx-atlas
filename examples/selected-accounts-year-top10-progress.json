@@ -7161,7 +7161,7 @@
           "shortcode": "DcjfINMESix",
           "url": "https://www.instagram.com/rettlesnake/p/DcjfINMESix/",
           "published_at": "2026-08-27T18:59:09.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcjfINMESix-1"
           ]
@@ -7170,7 +7170,7 @@
           "shortcode": "Db_V_OhiDOz",
           "url": "https://www.instagram.com/rettlesnake/p/Db_V_OhiDOz/",
           "published_at": "2026-08-13T18:06:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db_V_OhiDOz-1"
           ]
@@ -7192,7 +7192,7 @@
           "shortcode": "DZlsmXwTTgT",
           "url": "https://www.instagram.com/richnosworthy/reel/DZlsmXwTTgT/",
           "published_at": "2026-06-15T02:01:27.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZlsmXwTTgT-1"
           ]
@@ -7201,7 +7201,7 @@
           "shortcode": "DQdQ1PXjEkh",
           "url": "https://www.instagram.com/richnosworthy/reel/DQdQ1PXjEkh/",
           "published_at": "2025-10-31T02:42:43.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DQdQ1PXjEkh-1"
           ]
@@ -7223,7 +7223,7 @@
           "shortcode": "Dc3ofrMjU-E",
           "url": "https://www.instagram.com/rikoostenbroek/p/Dc3ofrMjU-E/",
           "published_at": "2026-09-04T14:45:49.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc3ofrMjU-E-1"
           ]
@@ -7232,7 +7232,7 @@
           "shortcode": "Dcv67JKjYAQ",
           "url": "https://www.instagram.com/rikoostenbroek/p/Dcv67JKjYAQ/",
           "published_at": "2026-09-01T14:52:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcv67JKjYAQ-1"
           ]
@@ -7248,26 +7248,94 @@
     {
       "handle": "robenrobin.nl",
       "url": "https://www.instagram.com/robenrobin.nl/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZmrAlUjGtd",
+          "url": "https://www.instagram.com/robenrobin.nl/p/DZmrAlUjGtd/",
+          "published_at": "2026-06-15T11:06:30.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZmrAlUjGtd-1"
+          ]
+        },
+        {
+          "shortcode": "DYO1vSWjKYE",
+          "url": "https://www.instagram.com/robenrobin.nl/p/DYO1vSWjKYE/",
+          "published_at": "2026-05-12T08:27:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYO1vSWjKYE-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZmrAlUjGtd",
+        "DYO1vSWjKYE"
+      ],
+      "latest_two_selection_evidence": "First two posts without pins; original dates read. Interactive digital illustrations and commissioned editorial illustrations; per-slide medium review pending."
     },
     {
       "handle": "rohitbhon.tv",
       "url": "https://www.instagram.com/rohitbhon.tv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcchZO_Jy97",
+          "url": "https://www.instagram.com/rohitbhon.tv/reel/DcchZO_Jy97/",
+          "published_at": "2026-08-25T02:05:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcchZO_Jy97-1"
+          ]
+        },
+        {
+          "shortcode": "DcSebR8Jb-6",
+          "url": "https://www.instagram.com/rohitbhon.tv/reel/DcSebR8Jb-6/",
+          "published_at": "2026-08-21T04:31:44.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "城市散步與攝影棚生活紀錄；可見實拍街景與計程車，非 CG 作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcchZO_Jy97",
+        "DcSebR8Jb-6"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts after older campaign/showreel pins; original dates read. Second is city/studio-life footage; first explicitly mixes C4D/Redshift studies."
     },
     {
       "handle": "roma_kuzminykh",
       "url": "https://www.instagram.com/roma_kuzminykh/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DGn_YwONgFx",
+          "url": "https://www.instagram.com/roma_kuzminykh/p/DGn_YwONgFx/",
+          "published_at": "2025-02-28T17:27:19.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DGn_YwONgFx-1"
+          ]
+        },
+        {
+          "shortcode": "DGdkAGYNoeD",
+          "url": "https://www.instagram.com/roma_kuzminykh/reel/DGdkAGYNoeD/",
+          "published_at": "2025-02-24T14:44:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DGdkAGYNoeD-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DGn_YwONgFx",
+        "DGdkAGYNoeD"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; original dates read. Official Hyundai greeting-card work at Builders Club with named production credits, including project R&D."
     },
     {
       "handle": "romain.rosi",
@@ -7838,9 +7906,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 330,
-  "imported_media": 331,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 335,
+  "imported_media": 336,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
