@@ -1356,7 +1356,7 @@
           "shortcode": "DavsPAUK0Cj",
           "url": "https://www.instagram.com/art.of.styleframe/p/DavsPAUK0Cj/",
           "published_at": "2026-07-13",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DavsPAUK0Cj-1"
           ]
@@ -1365,7 +1365,7 @@
           "shortcode": "DO-bPGdCoN_",
           "url": "https://www.instagram.com/art.of.styleframe/p/DO-bPGdCoN_/",
           "published_at": "2025-09-23",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DO-bPGdCoN_-1"
           ]
@@ -1387,7 +1387,7 @@
           "shortcode": "DcL4pQbhAR8",
           "url": "https://www.instagram.com/gxace/reel/DcL4pQbhAR8/",
           "published_at": "2026-08-19T11:17:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcL4pQbhAR8-1"
           ]
@@ -1396,7 +1396,7 @@
           "shortcode": "DcGacl-B8RM",
           "url": "https://www.instagram.com/gxace/reel/DcGacl-B8RM/",
           "published_at": "2026-08-16T12:00:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcGacl-B8RM-1"
           ]
@@ -1418,7 +1418,7 @@
           "shortcode": "DZzfBCDz5hN",
           "url": "https://www.instagram.com/atom63_/reel/DZzfBCDz5hN/",
           "published_at": "2026-06-20T10:36:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZzfBCDz5hN-1"
           ]
@@ -1427,7 +1427,7 @@
           "shortcode": "DZV1Cl2TCr8",
           "url": "https://www.instagram.com/atom63_/reel/DZV1Cl2TCr8/",
           "published_at": "2026-06-08T22:07:19.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZV1Cl2TCr8-1"
           ]
@@ -1449,7 +1449,7 @@
           "shortcode": "Dci5t6josxm",
           "url": "https://www.instagram.com/axis_fx/reel/Dci5t6josxm/",
           "published_at": "2026-08-27T13:32:43.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dci5t6josxm-1"
           ]
@@ -1458,7 +1458,7 @@
           "shortcode": "DaSu2fLIM9f",
           "url": "https://www.instagram.com/axis_fx/reel/DaSu2fLIM9f/",
           "published_at": "2026-07-02T13:49:31.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaSu2fLIM9f-1"
           ]
@@ -1503,50 +1503,184 @@
     {
       "handle": "beeple_crap",
       "url": "https://www.instagram.com/beeple_crap/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdF8sCmMsIg",
+          "url": "https://www.instagram.com/beeple_crap/p/DdF8sCmMsIg/",
+          "published_at": "2026-09-09",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdF8sCmMsIg-1"
+          ]
+        },
+        {
+          "shortcode": "Dc3K4eNsv80",
+          "url": "https://www.instagram.com/beeple_crap/p/Dc3K4eNsv80/",
+          "published_at": "2026-09-04",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3K4eNsv80-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdF8sCmMsIg",
+        "Dc3K4eNsv80"
+      ],
+      "latest_two_selection_evidence": "No pinned icons; dates read from profile image accessibility text."
     },
     {
       "handle": "beetrootdesign",
       "url": "https://www.instagram.com/beetrootdesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_non_cg",
+      "posts": [
+        {
+          "shortcode": "DcIjChzjIBr",
+          "url": "https://www.instagram.com/tinytalksthessaloniki/p/DcIjChzjIBr/",
+          "published_at": "2026-08-17",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image: Tiny Talks Thessaloniki event announcement poster, typography and logo; not CG reference.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Daxr3RpsHZV",
+          "url": "https://www.instagram.com/cluster__illustration/p/Daxr3RpsHZV/",
+          "published_at": "2026-07-14",
+          "status": "excluded_non_cg",
+          "cg_review": "Viewed profile image: illustrated Artist-in-Residence partnership announcement poster; not CG reference.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcIjChzjIBr",
+        "Daxr3RpsHZV"
+      ],
+      "latest_two_selection_evidence": "Pinned post dated June 4 2026; latest unpinned dates August 17 and July 14 2026 from profile accessibility text."
     },
     {
       "handle": "bentomotion.studio",
       "url": "https://www.instagram.com/bentomotion.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_reviewed_spec_work",
+      "posts": [
+        {
+          "shortcode": "Db8utxwI6VZ",
+          "url": "https://www.instagram.com/bentomotion.studio/reel/Db8utxwI6VZ/",
+          "published_at": "2026-08-12T18:04:36.000Z",
+          "status": "excluded_spec_recreation",
+          "cg_review": "Author caption identifies iOS camera icon recreation in After Effects with Patreon project file; tutorial, no evidence Apple used it.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Db1hmRYIUqB",
+          "url": "https://www.instagram.com/bentomotion.studio/reel/Db1hmRYIUqB/",
+          "published_at": "2026-08-09T22:38:09.000Z",
+          "status": "excluded_spec_recreation",
+          "cg_review": "Author explicitly describes Wonderful Tools recreation, not commissioned Apple advertisement.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db8utxwI6VZ",
+        "Db1hmRYIUqB"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Dates read individually."
     },
     {
       "handle": "blkb.studio",
       "url": "https://www.instagram.com/blkb.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc_MrY9zR7y",
+          "url": "https://www.instagram.com/blkb.studio/reel/Dc_MrY9zR7y/",
+          "published_at": "2026-09-07T13:27:01.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_MrY9zR7y-1"
+          ]
+        },
+        {
+          "shortcode": "DJGzQl2CxCp",
+          "url": "https://www.instagram.com/g6tem/p/DJGzQl2CxCp/",
+          "published_at": "2025-05-01T09:40:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJGzQl2CxCp-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc_MrY9zR7y",
+        "DJGzQl2CxCp"
+      ],
+      "latest_two_selection_evidence": "First two entries dated individually; no pinned icons. Other visible entries dated 2020 and 2023."
     },
     {
       "handle": "blublustudios",
       "url": "https://www.instagram.com/blublustudios/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcgNEZuiIAk",
+          "url": "https://www.instagram.com/blublustudios/p/DcgNEZuiIAk/",
+          "published_at": "2026-08-26",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcgNEZuiIAk-1"
+          ]
+        },
+        {
+          "shortcode": "DcLfFCbAmrI",
+          "url": "https://www.instagram.com/blublustudios/p/DcLfFCbAmrI/",
+          "published_at": "2026-08-18",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcLfFCbAmrI-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcgNEZuiIAk",
+        "DcLfFCbAmrI"
+      ],
+      "latest_two_selection_evidence": "Three older pinned posts (January 2026 and December 2025); latest unpinned dates read from profile image accessibility descriptions."
     },
     {
       "handle": "brandon.fretwell",
       "url": "https://www.instagram.com/brandon.fretwell/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc9fZISEtPv",
+          "url": "https://www.instagram.com/brandon.fretwell/p/Dc9fZISEtPv/",
+          "published_at": "2026-09-06T21:21:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc9fZISEtPv-1"
+          ]
+        },
+        {
+          "shortcode": "Dc7ZIgFGkje",
+          "url": "https://www.instagram.com/brandon.fretwell/p/Dc7ZIgFGkje/",
+          "published_at": "2026-09-06T01:48:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc7ZIgFGkje-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc9fZISEtPv",
+        "Dc7ZIgFGkje"
+      ],
+      "latest_two_selection_evidence": "First two unpinned entries and visible pinned entries compared by publication dates from profile accessibility text or individual post time elements. Checked: Dc9fZISEtPv 2026-09-06T21:21:43.000Z; Dc7ZIgFGkje 2026-09-06T01:48:32.000Z"
     },
     {
       "handle": "bus.group",
@@ -3637,8 +3771,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 50,
-  "imported_media": 51,
+  "imported_posts": 58,
+  "imported_media": 59,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
