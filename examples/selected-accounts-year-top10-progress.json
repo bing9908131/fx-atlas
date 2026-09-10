@@ -8045,7 +8045,7 @@
           "shortcode": "DcLjvMHgbdq",
           "url": "https://www.instagram.com/studio_loopa/reel/DcLjvMHgbdq/",
           "published_at": "2026-08-18T11:58:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcLjvMHgbdq-1"
           ]
@@ -8054,7 +8054,7 @@
           "shortcode": "DbGJUQ8gxtR",
           "url": "https://www.instagram.com/studio_loopa/reel/DbGJUQ8gxtR/",
           "published_at": "2026-07-22T12:59:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DbGJUQ8gxtR-1"
           ]
@@ -8076,7 +8076,7 @@
           "shortcode": "DZWmpqIGeni",
           "url": "https://www.instagram.com/studiobyts/p/DZWmpqIGeni/",
           "published_at": "2026-06-09T05:20:35.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZWmpqIGeni-1"
           ]
@@ -8085,7 +8085,7 @@
           "shortcode": "DZWlhzHxluN",
           "url": "https://www.instagram.com/studiobyts/reel/DZWlhzHxluN/",
           "published_at": "2026-06-09T05:12:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZWlhzHxluN-1"
           ]
@@ -8107,7 +8107,7 @@
           "shortcode": "Dbn1DMBDMjb",
           "url": "https://www.instagram.com/studiodumbar/p/Dbn1DMBDMjb/",
           "published_at": "2026-08-04T14:56:16.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dbn1DMBDMjb-1"
           ]
@@ -8116,7 +8116,7 @@
           "shortcode": "Dba8vRtDIlM",
           "url": "https://www.instagram.com/studiodumbar/p/Dba8vRtDIlM/",
           "published_at": "2026-07-30T14:53:20.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dba8vRtDIlM-1"
           ]
@@ -8132,26 +8132,95 @@
     {
       "handle": "styleframe.studio",
       "url": "https://www.instagram.com/styleframe.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcPChF9Cfl-",
+          "url": "https://www.instagram.com/styleframe.studio/reel/DcPChF9Cfl-/",
+          "published_at": "2026-08-19T20:30:14.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcPChF9Cfl--1"
+          ]
+        },
+        {
+          "shortcode": "DcOkZsGiCX2",
+          "url": "https://www.instagram.com/styleframe.studio/reel/DcOkZsGiCX2/",
+          "published_at": "2026-08-19T16:03:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcOkZsGiCX2-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcPChF9Cfl-",
+        "DcOkZsGiCX2"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; original dates read. Studio explicitly states created launch/teaser films together with We Are Rewind and Pink Floyd."
     },
     {
       "handle": "sub.stnc",
       "url": "https://www.instagram.com/sub.stnc/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXEXKP5DU4d",
+          "url": "https://www.instagram.com/sub.stnc/p/DXEXKP5DU4d/",
+          "published_at": "2026-04-13T10:16:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXEXKP5DU4d-1"
+          ]
+        },
+        {
+          "shortcode": "DVgF49bjchv",
+          "url": "https://www.instagram.com/sub.stnc/p/DVgF49bjchv/",
+          "published_at": "2026-03-05T11:41:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVgF49bjchv-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXEXKP5DU4d",
+        "DVgF49bjchv"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; exact dates read. Named Husqvarna launch R&D and lookdev with Valtech Radon; 3D production directly credited."
     },
     {
       "handle": "subframe_studio",
       "url": "https://www.instagram.com/subframe_studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCUBoBxQVq",
+          "url": "https://www.instagram.com/subframe_studio/reel/DdCUBoBxQVq/",
+          "published_at": "2026-09-08T18:19:48.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdCUBoBxQVq-1"
+          ]
+        },
+        {
+          "shortcode": "Dc_7X0JxYC7",
+          "url": "https://www.instagram.com/subframe_studio/reel/Dc_7X0JxYC7/",
+          "published_at": "2026-09-07T20:10:57.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_7X0JxYC7-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCUBoBxQVq",
+        "Dc_7X0JxYC7"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned dates read. Second caption is Patreon promotion but actual viewed video is a blue waving fabric/granular strip on black, so retained as a CG example rather than excluded by caption alone."
     },
     {
       "handle": "superpolarity",
@@ -8490,8 +8559,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 369,
-  "imported_media": 370,
+  "imported_posts": 375,
+  "imported_media": 376,
   "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
