@@ -1950,7 +1950,7 @@
           "shortcode": "CqI22MxulIK",
           "url": "https://www.instagram.com/cjwidd/p/CqI22MxulIK/",
           "published_at": "2023-03-23",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CqI22MxulIK-1"
           ]
@@ -1959,7 +1959,7 @@
           "shortcode": "CqI2zEzO0CP",
           "url": "https://www.instagram.com/cjwidd/p/CqI2zEzO0CP/",
           "published_at": "2023-03-23",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CqI2zEzO0CP-1"
           ]
@@ -1981,7 +1981,7 @@
           "shortcode": "DcdsgTxsNC2",
           "url": "https://www.instagram.com/baym/reel/DcdsgTxsNC2/",
           "published_at": "2026-08-25T13:13:23.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcdsgTxsNC2-1"
           ]
@@ -1990,7 +1990,7 @@
           "shortcode": "DaAM9HqCi_G",
           "url": "https://www.instagram.com/clanhub/reel/DaAM9HqCi_G/",
           "published_at": "2026-06-25T09:07:49.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaAM9HqCi_G-1"
           ]
@@ -2012,7 +2012,7 @@
           "shortcode": "Dc_PJfzCJXq",
           "url": "https://www.instagram.com/clemensmako/p/Dc_PJfzCJXq/",
           "published_at": "2026-09-07T13:38:15.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_PJfzCJXq-1"
           ]
@@ -2021,7 +2021,7 @@
           "shortcode": "DcbHK1iCJQf",
           "url": "https://www.instagram.com/clemensmako/p/DcbHK1iCJQf/",
           "published_at": "2026-08-24T12:55:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcbHK1iCJQf-1"
           ]
@@ -2043,7 +2043,7 @@
           "shortcode": "DcrPeIUDmGL",
           "url": "https://www.instagram.com/clim_studio/p/DcrPeIUDmGL/",
           "published_at": "2026-08-30",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcrPeIUDmGL-1"
           ]
@@ -2052,7 +2052,7 @@
           "shortcode": "DcQNRmVjqbm",
           "url": "https://www.instagram.com/clim_studio/p/DcQNRmVjqbm/",
           "published_at": "2026-08-20",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcQNRmVjqbm-1"
           ]
@@ -2068,34 +2068,133 @@
     {
       "handle": "colorsandthekids",
       "url": "https://www.instagram.com/colorsandthekids/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db8jsJZDQbm",
+          "url": "https://www.instagram.com/md_munich/p/Db8jsJZDQbm/",
+          "published_at": "2026-08-12T16:08:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db8jsJZDQbm-1"
+          ]
+        },
+        {
+          "shortcode": "DZuziZWjCkb",
+          "url": "https://www.instagram.com/colorsandthekids/p/DZuziZWjCkb/",
+          "published_at": "2026-06-18",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZuziZWjCkb-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db8jsJZDQbm",
+        "DZuziZWjCkb"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest date read from post time; second date from profile accessibility description."
     },
     {
       "handle": "combine.pics",
       "url": "https://www.instagram.com/combine.pics/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DctUlEpM-2W",
+          "url": "https://www.instagram.com/combine.pics/reel/DctUlEpM-2W/",
+          "published_at": "2026-09-01T14:32:04.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "accounts16-DctUlEpM-2W-1"
+          ]
+        },
+        {
+          "shortcode": "DcL9cRAjK-0",
+          "url": "https://www.instagram.com/combine.pics/p/DcL9cRAjK-0/",
+          "published_at": "2026-08-18T15:42:16.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "pendingyear-DcL9cRAjK-0-1",
+            "pendingyear-DcL9cRAjK-0-2",
+            "pendingyear-DcL9cRAjK-0-3",
+            "pendingyear-DcL9cRAjK-0-4",
+            "pendingyear-DcL9cRAjK-0-5",
+            "pendingyear-DcL9cRAjK-0-6",
+            "pendingyear-DcL9cRAjK-0-7",
+            "pendingyear-DcL9cRAjK-0-8"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DctUlEpM-2W",
+        "DcL9cRAjK-0"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Exact dates read on latest two individual posts."
     },
     {
       "handle": "computerface_tw",
       "url": "https://www.instagram.com/computerface_tw/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Daz7IxsGYZp",
+          "url": "https://www.instagram.com/feversensejoe/p/Daz7IxsGYZp/",
+          "published_at": "2026-07-15",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Daz7IxsGYZp-1"
+          ]
+        },
+        {
+          "shortcode": "DZMDcwFAWYe",
+          "url": "https://www.instagram.com/computerface_tw/reel/DZMDcwFAWYe/",
+          "published_at": "2026-06-05T03:00:57.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZMDcwFAWYe-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Daz7IxsGYZp",
+        "DZMDcwFAWYe"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest photo date in profile accessibility text; second video date read individually."
     },
     {
       "handle": "curry_tian",
       "url": "https://www.instagram.com/curry_tian/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcyGgKsDU2I",
+          "url": "https://www.instagram.com/caviar.tv/p/DcyGgKsDU2I/",
+          "published_at": "2026-09-02T11:12:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcyGgKsDU2I-1"
+          ]
+        },
+        {
+          "shortcode": "DbayLnuEVR_",
+          "url": "https://www.instagram.com/frame.set/p/DbayLnuEVR_/",
+          "published_at": "2026-07-30T13:21:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbayLnuEVR_-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcyGgKsDU2I",
+        "DbayLnuEVR_"
+      ],
+      "latest_two_selection_evidence": "Pinned dates January 29 2025, July 2 2024, May 8 2020. Latest two dates read individually."
     },
     {
       "handle": "cxingyou",
@@ -4050,9 +4149,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 82,
-  "imported_media": 83,
-  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 88,
+  "imported_media": 89,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
