@@ -8536,7 +8536,7 @@
           "shortcode": "DMqNtoioCNA",
           "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMqNtoioCNA/",
           "published_at": "2025-07-28T17:20:12.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DMqNtoioCNA-1"
           ]
@@ -8545,7 +8545,7 @@
           "shortcode": "DMIub1Sodxy",
           "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMIub1Sodxy/",
           "published_at": "2025-07-15T17:11:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DMIub1Sodxy-1"
           ]
@@ -8567,7 +8567,7 @@
           "shortcode": "Dcgv0BziFqr",
           "url": "https://www.instagram.com/thomas_dubois_art/p/Dcgv0BziFqr/",
           "published_at": "2026-08-26T17:27:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcgv0BziFqr-1"
           ]
@@ -8576,7 +8576,7 @@
           "shortcode": "Db_AtvTCMiO",
           "url": "https://www.instagram.com/thomas_dubois_art/p/Db_AtvTCMiO/",
           "published_at": "2026-08-13T15:00:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db_AtvTCMiO-1"
           ]
@@ -8598,7 +8598,7 @@
           "shortcode": "DZ61O9oIGtn",
           "url": "https://www.instagram.com/thomas_pomarelle/reel/DZ61O9oIGtn/",
           "published_at": "2026-06-23T07:00:16.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ61O9oIGtn-1"
           ]
@@ -8607,7 +8607,7 @@
           "shortcode": "DW4KBTfjZGJ",
           "url": "https://www.instagram.com/thomas_pomarelle/p/DW4KBTfjZGJ/",
           "published_at": "2026-04-08T16:30:09.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DW4KBTfjZGJ-1"
           ]
@@ -8623,26 +8623,95 @@
     {
       "handle": "tomarena_",
       "url": "https://www.instagram.com/tomarena_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DY7Lmn7CBO9",
+          "url": "https://www.instagram.com/tomarena_/p/DY7Lmn7CBO9/",
+          "published_at": "2026-05-29T13:44:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DY7Lmn7CBO9-1"
+          ]
+        },
+        {
+          "shortcode": "DY2byLhCKsz",
+          "url": "https://www.instagram.com/tomarena_/p/DY2byLhCKsz/",
+          "published_at": "2026-05-27T17:29:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DY2byLhCKsz-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DY7Lmn7CBO9",
+        "DY2byLhCKsz"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts, original dates read. Mixed print/photocollage and metallic decorative graphics: CG medium not confirmed; pending full carousel review."
     },
     {
       "handle": "tomorrowbureau",
       "url": "https://www.instagram.com/tomorrowbureau/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc-_ApaiPmX",
+          "url": "https://www.instagram.com/casabatllocontemporary/p/Dc-_ApaiPmX/",
+          "published_at": "2026-09-07T11:17:14.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc-_ApaiPmX-1"
+          ]
+        },
+        {
+          "shortcode": "DckxBDlK5MW",
+          "url": "https://www.instagram.com/tomorrowbureau/reel/DckxBDlK5MW/",
+          "published_at": "2026-08-28T06:56:30.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DckxBDlK5MW-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc-_ApaiPmX",
+        "DckxBDlK5MW"
+      ],
+      "latest_two_selection_evidence": "Latest two non-pinned posts dated September and August 2026. Old 2023–2024 pins. Latest carousel slide 1 archival photo, slide 2 visibly CG wire/particle sculpture video; retained mixed carousel for per-media review."
     },
     {
       "handle": "tomteller",
       "url": "https://www.instagram.com/tomteller/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DH7Fv36S_98",
+          "url": "https://www.instagram.com/tomteller/reel/DH7Fv36S_98/",
+          "published_at": "2025-04-02T00:00:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DH7Fv36S_98-1"
+          ]
+        },
+        {
+          "shortcode": "C1-SfWnvhDY",
+          "url": "https://www.instagram.com/tomteller/p/C1-SfWnvhDY/",
+          "published_at": "2024-01-11T20:23:50.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C1-SfWnvhDY-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DH7Fv36S_98",
+        "C1-SfWnvhDY"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts, exact original dates read. Underwater is unbranded Houdini exercise, Plenty names client and Frame.48 production credits. No current year cutoff."
     },
     {
       "handle": "unishkov",
@@ -8853,8 +8922,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 396,
-  "imported_media": 397,
+  "imported_posts": 402,
+  "imported_media": 403,
   "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
