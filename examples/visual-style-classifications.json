@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2095,
+  "total": 2107,
   "unclassified": 0,
   "counts": {
-    "graphic": 423,
+    "graphic": 426,
     "product": 759,
-    "organic": 428,
+    "organic": 440,
     "geometric": 830,
     "scifi": 296,
-    "effects": 126
+    "effects": 130
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -983,6 +983,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVoJy7iCDpZ-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.783/6.225/25.501同一植被字標的斜俯视角度改變，兩套配色同步展示。沒有觀察到字母生成或植物生長，不標生長解算。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.783/6.225/25.501同一植被字標的斜俯视角度改變，兩套配色同步展示。沒有觀察到字母生成或植物生長，不標生長解算。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.714近景繩索連到人物手部；17.903俯視走廊；26.290輪椅人物；35.781與47.142蟻群腿部姿態、前後位置及髮束方向不同。上下為同一動畫的成片及灰模。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.714近景繩索連到人物手部；17.903俯視走廊；26.290輪椅人物；35.781與47.142蟻群腿部姿態、前後位置及髮束方向不同。上下為同一動畫的成片及灰模。 七項逐一檢視，末項沒有下一步。"
           ],
           "matched_tags": []
         }
@@ -3078,6 +3136,236 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "8.979男子持手機；12.341街道人群與透明罩；19.666手機人物與通知；26.595城市建築罩體；39.004戰壕前景罩體；46.634士兵持槍；57.856空中飛行器與紅光、散開碎片。僅標看見的飛行與碎片，不推定碰撞原因、火焰或物理解算。 共8段，逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVoJy7iCDpZ-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "11.634字標斜橫向，19.627字標近縱向，山體與樹林相對構圖一起改變，確認鏡頭環繞。鳥群存在，但不由兩個不同視角推定群集模擬演算法。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "11.634字標斜橫向，19.627字標近縱向，山體與樹林相對構圖一起改變，確認鏡頭環繞。鳥群存在，但不由兩個不同視角推定群集模擬演算法。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVoJy7iCDpZ-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.312與5.644背景與排列不動，根部朝向和樹冠輪廓改變，符合單株旋轉展示；不把整株視角改變標為風力彎曲或生長。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVoJy7iCDpZ-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.432與3.174同一枝葉近景構圖有細微輪廓差異，無足夠證據區分視角移動與枝葉擺動，因此不加風流、生長等特定動態。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVoJy7iCDpZ-10",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "15.397至24.500字標與山體視角改變，霧團輪廓也不同。能確認鏡頭運動；沒有看到生成過程，不標植物生長、爆炸或煙霧解算器。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "15.397至24.500字標與山體視角改變，霧團輪廓也不同。能確認鏡頭運動；沒有看到生成過程，不標植物生長、爆炸或煙霧解算器。 此輪播13項均逐一查看，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.057螞蟻側面、20.108螞蟻肢體姿態改變；28.734髮丝束；36.862輪椅角色灰模；46.858Unreal室內與材質選單。只把骨架姿勢改變視作動態，不由單張髮絲畫面推定生長。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.057螞蟻側面、20.108螞蟻肢體姿態改變；28.734髮丝束；36.862輪椅角色灰模；46.858Unreal室內與材質選單。只把骨架姿勢改變視作動態，不由單張髮絲畫面推定生長。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張CG近照，清楚顯示外殼、束帶、扣環和牽引繩；沒有時間序列，不標牽引動態。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "16.134白色髮束近照；24.531近地面螞蟻前景；33.008角色與蟻群位於另一段窗格旁、髮束輪廓改變。灰模不標棕色外殼，髮絲不是煙霧。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "16.134白色髮束近照；24.531近地面螞蟻前景；33.008角色與蟻群位於另一段窗格旁、髮束輪廓改變。灰模不標棕色外殼，髮絲不是煙霧。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態細節圖，能看見密集髮絲及波形外輪廓；不把靜態波形標成波浪動態、流動或煙。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "14.173髮束近照；25.360輪椅人物髮束偏向右上；34.565髮束更垂直且外輪廓變化，螞蟻群與人物在走廊中的構圖位置改變。角色、螞蟻與繩索有程序化關係，由caption確認，不推定Vellum。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "14.173髮束近照；25.360輪椅人物髮束偏向右上；34.565髮束更垂直且外輪廓變化，螞蟻群與人物在走廊中的構圖位置改變。角色、螞蟻與繩索有程序化關係，由caption確認，不推定Vellum。 七項逐一檢視，末項沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DS0FDoriNRy-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張CG場景圖，窗框、人物、輪椅、螞蟻、繩索與地面光影清楚可辨，不套用影片動態。 七項逐一檢視，末項沒有下一步。"
           ],
           "matched_tags": []
         }

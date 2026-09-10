@@ -102,5 +102,69 @@
     "decision": "exclude",
     "reason": "personal_photo_collage",
     "evidence": "第五張把真實孩童照片頭部貼入相同插畫角色與森林背景，屬個人照片拼貼；原創插畫及動態已分別保留在其他媒體，不將照片頭部當成CG角色。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 3,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "大象與獅子岩的實拍照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 4,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "獅子岩山頂遺址空拍照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 6,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "當地孩童坐在車上的紀實照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 7,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "旅人在獅子岩前的照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 8,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "猴子坐在岩石旁的照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 11,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "雨天車內與巴士的兩張實拍拼圖。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 12,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "透過雨水玻璃拍攝的巴士照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
+  },
+  {
+    "post_id": "DVoJy7iCDpZ",
+    "media_index": 13,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "非CG：旅行實拍參考",
+    "evidence": "雨天車內後視鏡中司機的實拍照片。作者caption說明前往Sigiriya採集視覺靈感；未見CG成片或合成效果。"
   }
 ]

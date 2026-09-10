@@ -9196,19 +9196,42 @@
           "shortcode": "DVoJy7iCDpZ",
           "url": "https://www.instagram.com/vaclav.patka/p/DVoJy7iCDpZ/",
           "published_at": "2026-03-08T14:49:11.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DVoJy7iCDpZ-1"
-          ]
+            "selectedyear-DVoJy7iCDpZ-1",
+            "selectedyear-DVoJy7iCDpZ-2",
+            "selectedyear-DVoJy7iCDpZ-5",
+            "selectedyear-DVoJy7iCDpZ-9",
+            "selectedyear-DVoJy7iCDpZ-10"
+          ],
+          "excluded_media_indices": [
+            3,
+            4,
+            6,
+            7,
+            8,
+            11,
+            12,
+            13
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DS0FDoriNRy",
           "url": "https://www.instagram.com/vaclav.patka/p/DS0FDoriNRy/",
           "published_at": "2025-12-28T16:24:29.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DS0FDoriNRy-1"
-          ]
+            "selectedyear-DS0FDoriNRy-1",
+            "selectedyear-DS0FDoriNRy-2",
+            "selectedyear-DS0FDoriNRy-3",
+            "selectedyear-DS0FDoriNRy-4",
+            "selectedyear-DS0FDoriNRy-5",
+            "selectedyear-DS0FDoriNRy-6",
+            "selectedyear-DS0FDoriNRy-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
