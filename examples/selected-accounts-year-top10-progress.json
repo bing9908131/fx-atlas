@@ -7497,7 +7497,7 @@
           "shortcode": "DYXP7YeiAKw",
           "url": "https://www.instagram.com/sava.zivkovic/p/DYXP7YeiAKw/",
           "published_at": "2026-05-15T14:50:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYXP7YeiAKw-1"
           ]
@@ -7506,7 +7506,7 @@
           "shortcode": "DYSGXbeiEIG",
           "url": "https://www.instagram.com/sava.zivkovic/p/DYSGXbeiEIG/",
           "published_at": "2026-05-13T14:54:50.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYSGXbeiEIG-1"
           ]
@@ -7528,7 +7528,7 @@
           "shortcode": "C2z0vj-NTDk",
           "url": "https://www.instagram.com/diss_embargo/reel/C2z0vj-NTDk/",
           "published_at": "2024-02-01T15:25:23.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-C2z0vj-NTDk-1"
           ]
@@ -7537,7 +7537,7 @@
           "shortcode": "CzmDcxnNl1p",
           "url": "https://www.instagram.com/seb_scribbles/p/CzmDcxnNl1p/",
           "published_at": "2023-11-13T17:27:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CzmDcxnNl1p-1"
           ]
@@ -7553,34 +7553,123 @@
     {
       "handle": "sebastian_jelic",
       "url": "https://www.instagram.com/sebastian_jelic/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcgSNQ1KI9v",
+          "url": "https://www.instagram.com/sebastian_jelic/reel/DcgSNQ1KI9v/",
+          "published_at": "2026-08-26T19:08:14.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "課程開課宣傳，主要為講師本人介紹章節，非獨立 CG 作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcQi1dqqjRQ",
+          "url": "https://www.instagram.com/sebastian_jelic/reel/DcQi1dqqjRQ/",
+          "published_at": "2026-08-20T10:30:59.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcQi1dqqjRQ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcgSNQ1KI9v",
+        "DcQi1dqqjRQ"
+      ],
+      "latest_two_selection_evidence": "Selected August 26/27 announcement and August 20 pinned demo by publication date; unpinned May update is older. Demo visibly contains animated gradients/UI; announcement primarily presenter describing chapters."
     },
     {
       "handle": "secondarybounce",
       "url": "https://www.instagram.com/secondarybounce/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DSKshueEagm",
+          "url": "https://www.instagram.com/secondarybounce/reel/DSKshueEagm/",
+          "published_at": "2025-12-25T14:47:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DSKshueEagm-1"
+          ]
+        },
+        {
+          "shortcode": "DSaEKNHEXxR",
+          "url": "https://www.instagram.com/secondarybounce/p/DSaEKNHEXxR/",
+          "published_at": "2025-12-18T13:56:23.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DSaEKNHEXxR-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DSKshueEagm",
+        "DSaEKNHEXxR"
+      ],
+      "latest_two_selection_evidence": "Three old 2020–2022 pins skipped; original dates read for two latest unpinned entries and sorted by date rather than grid order. Unreal Engine realtime scenes."
     },
     {
       "handle": "sekanisolomon",
       "url": "https://www.instagram.com/sekanisolomon/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DW9Rza9kY6J",
+          "url": "https://www.instagram.com/sekanisolomon/p/DW9Rza9kY6J/",
+          "published_at": "2026-04-10T16:14:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DW9Rza9kY6J-1"
+          ]
+        },
+        {
+          "shortcode": "DVtwCkPESWm",
+          "url": "https://www.instagram.com/sekanisolomon/p/DVtwCkPESWm/",
+          "published_at": "2026-03-10T18:59:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVtwCkPESWm-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DW9Rza9kY6J",
+        "DVtwCkPESWm"
+      ],
+      "latest_two_selection_evidence": "First two profile entries, no pins; original dates read. Author explicitly credits work bringing Square Handheld to market and development shots of official VCARB film."
     },
     {
       "handle": "serialcut",
       "url": "https://www.instagram.com/serialcut/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZqNsM_DcIb",
+          "url": "https://www.instagram.com/_zagale_/p/DZqNsM_DcIb/",
+          "published_at": "2026-06-16T20:07:17.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "作者明確標示 Krea GenAI／AI Animation 流程，未提供 CG 製作證據，排除純生成式作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DY2PrhtDX1o",
+          "url": "https://www.instagram.com/_zagale_/p/DY2PrhtDX1o/",
+          "published_at": "2026-05-27T15:44:09.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "作者明確標示 Krea GenAI／AI Animation 流程，未提供 CG 製作證據，排除純生成式作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZqNsM_DcIb",
+        "DY2PrhtDX1o"
+      ],
+      "latest_two_selection_evidence": "Grid reordered; latest dated visible works are pinned June 16 and May 27 2026. Captions explicitly identify Krea GenAI workflow, not confirmed 3D CGI."
     },
     {
       "handle": "services.meb",
@@ -8063,9 +8152,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 345,
-  "imported_media": 346,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 350,
+  "imported_media": 351,
+  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
