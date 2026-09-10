@@ -7994,7 +7994,7 @@
           "shortcode": "DblONhyjmmp",
           "url": "https://www.instagram.com/steelworksstudio/p/DblONhyjmmp/",
           "published_at": "2026-08-03T14:38:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DblONhyjmmp-1"
           ]
@@ -8039,26 +8039,95 @@
     {
       "handle": "studio_loopa",
       "url": "https://www.instagram.com/studio_loopa/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcLjvMHgbdq",
+          "url": "https://www.instagram.com/studio_loopa/reel/DcLjvMHgbdq/",
+          "published_at": "2026-08-18T11:58:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcLjvMHgbdq-1"
+          ]
+        },
+        {
+          "shortcode": "DbGJUQ8gxtR",
+          "url": "https://www.instagram.com/studio_loopa/reel/DbGJUQ8gxtR/",
+          "published_at": "2026-07-22T12:59:28.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbGJUQ8gxtR-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcLjvMHgbdq",
+        "DbGJUQ8gxtR"
+      ],
+      "latest_two_selection_evidence": "First two profile posts, no pinned icons; original dates read. Author explicitly credits Houdini/Redshift generic pencil animations."
     },
     {
       "handle": "studiobyts",
       "url": "https://www.instagram.com/studiobyts/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZWmpqIGeni",
+          "url": "https://www.instagram.com/studiobyts/p/DZWmpqIGeni/",
+          "published_at": "2026-06-09T05:20:35.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZWmpqIGeni-1"
+          ]
+        },
+        {
+          "shortcode": "DZWlhzHxluN",
+          "url": "https://www.instagram.com/studiobyts/reel/DZWlhzHxluN/",
+          "published_at": "2026-06-09T05:12:02.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZWlhzHxluN-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZWmpqIGeni",
+        "DZWlhzHxluN"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts after old recruitment pin; exact dates read. Both explicitly list LANEIGE as client and named 3D artists."
     },
     {
       "handle": "studiodumbar",
       "url": "https://www.instagram.com/studiodumbar/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dbn1DMBDMjb",
+          "url": "https://www.instagram.com/studiodumbar/p/Dbn1DMBDMjb/",
+          "published_at": "2026-08-04T14:56:16.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dbn1DMBDMjb-1"
+          ]
+        },
+        {
+          "shortcode": "Dba8vRtDIlM",
+          "url": "https://www.instagram.com/studiodumbar/p/Dba8vRtDIlM/",
+          "published_at": "2026-07-30T14:53:20.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dba8vRtDIlM-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dbn1DMBDMjb",
+        "Dba8vRtDIlM"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned entries, original dates read. Commissioned anniversary identity with new motion pieces; mixed photography/motion carousel requires per-media filtering."
     },
     {
       "handle": "styleframe.studio",
@@ -8421,9 +8490,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 363,
-  "imported_media": 364,
-  "last_check_note": "Latest-two intake: 1 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 369,
+  "imported_media": 370,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
