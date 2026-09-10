@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2058,
+  "total": 2059,
   "unclassified": 0,
   "counts": {
-    "graphic": 404,
+    "graphic": 405,
     "product": 753,
     "organic": 426,
     "geometric": 823,
@@ -729,6 +729,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張開啟七張轮播；第1張觀察：銀白信用卡斜置於淡紫空間，背景及卡面有彩虹色光帶；可讀永豐銀行、DAWAY、VISA Signature。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUQ2WzqD-S1-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.57秒角色持網、旁有蝴蝶；6.68秒綠色毛蟲在樹枝上呈直立形態，8.40秒彎成拱形且角色嘴型改變；11.58秒手指接近花旁昆蟲；16.29秒多個角色在畫面邊緣。可確認毛蟲彎曲及嘴型表情變化。沒有依留言推定側手翻或任何3D求解器，畫面明確為2D插畫動畫。"
           ],
           "matched_tags": []
         }
