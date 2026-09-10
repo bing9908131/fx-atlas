@@ -9127,19 +9127,23 @@
           "shortcode": "DdEgxumplq-",
           "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgxumplq-/",
           "published_at": "2026-09-09T14:49:03.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdEgxumplq--1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdEgizephDo",
           "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgizephDo/",
           "published_at": "2026-09-09T14:47:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdEgizephDo-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9429,10 +9433,15 @@
           "shortcode": "DKjx-AZtaea",
           "url": "https://www.instagram.com/vzhemotion/p/DKjx-AZtaea/",
           "published_at": "2025-06-06T12:18:41.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DKjx-AZtaea-1"
-          ]
+            "selectedyear-DKjx-AZtaea-1",
+            "selectedyear-DKjx-AZtaea-2",
+            "selectedyear-DKjx-AZtaea-3",
+            "selectedyear-DKjx-AZtaea-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "C_S-mWZtb53",

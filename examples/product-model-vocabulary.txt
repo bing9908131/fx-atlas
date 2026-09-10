@@ -157,3 +157,5 @@ Nike|Tiempo|Nike Tiempo,Tiempo
 Volvo|EX60|Volvo EX60,EX60
 Formlabs|Fuse X1|Formlabs Fuse X1,Fuse X1
 SinoPac|DAWAY|DAWAY,永豐DAWAY
+Magic: The Gathering|Hulk, Strongest There Is|Hulk Strongest There Is,Hulk,浩克
+Magic: The Gathering|Thor, God of Thunder|Thor God of Thunder,Thor,索爾,雷神

@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2080,
+  "total": 2086,
   "unclassified": 0,
   "counts": {
-    "graphic": 410,
+    "graphic": 414,
     "product": 759,
-    "organic": 427,
+    "organic": 428,
     "geometric": 830,
-    "scifi": 291,
-    "effects": 115
+    "scifi": 296,
+    "effects": 117
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -838,6 +838,93 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "IG影片12.04秒：0.055黑底；1.365水環已破開，2.252/2.983水滴高度降低並分離；3.261/3.557再次出現起伏的連續環；5.373/6.599為粗糙水面近景，7.770可見分離小水滴及狹長水流。無可識別固體撞擊物，不標碰撞或爆炸；未由評論推定FLIP、Houdini或特定solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DKjx-AZtaea-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.199基地雙船；2.250艙內HUD；7.141至7.496角色船艦位置與角度微變。僅依實際畫面標飛行/位移，不標水模擬。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.199基地雙船；2.250艙內HUD；7.141至7.496角色船艦位置與角度微變。僅依實際畫面標飛行/位移，不標水模擬。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEgxumplq--1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.907可见綠色DNA雙螺旋與粒點；9.710虹膜微距，11.504完整眼睛，確認鏡頭拉遠；13.347卡面Hulk, Strongest There Is與氣泡狀粒點；18.773正式Magic The Gathering/Marvel Super Heroes片尾及Wizards/Marvel版權。未由單幀推定DNA生長、粒子擴散或液體流動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.907可见綠色DNA雙螺旋與粒點；9.710虹膜微距，11.504完整眼睛，確認鏡頭拉遠；13.347卡面Hulk, Strongest There Is與氣泡狀粒點；18.773正式Magic The Gathering/Marvel Super Heroes片尾及Wizards/Marvel版權。未由單幀推定DNA生長、粒子擴散或液體流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEgizephDo-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。"
           ],
           "matched_tags": []
         }
@@ -2643,6 +2730,93 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張檢視第7/7張：斜角近景的透明圓盤带桃紅紫色表面與青綠邊緣反光，後方圓盤因景深而模糊。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DKjx-AZtaea-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.388角色眼睛睜開、船艦偏左；5.113眼皮半閉且船艦位置/角度改變；9.713艙內PORTFOLIO DOWN 70%畫面。非投資推薦內容。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.388角色眼睛睜開、船艦偏左；5.113眼皮半閉且船艦位置/角度改變；9.713艙內PORTFOLIO DOWN 70%畫面。非投資推薦內容。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DKjx-AZtaea-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.007/3.240藍綠線框船艦；4.450紫船在畫面右緣，6.619回到中央，顯示路徑位移。是大型模型展示，不把曲線圖本身当特效，也不推定物理解算。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.007/3.240藍綠線框船艦；4.450紫船在畫面右緣，6.619回到中央，顯示路徑位移。是大型模型展示，不把曲線圖本身当特效，也不推定物理解算。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DKjx-AZtaea-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.413軟體中的紫色模型與曲線，9.759成片的船艦、速度光線與碎片。沒看到碰撞因果，不標撞擊或爆炸。 四段逐一檢視，末段沒有下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.413軟體中的紫色模型與曲線，9.759成片的船艦、速度光線與碎片。沒看到碰撞因果，不標撞擊或爆炸。 四段逐一檢視，末段沒有下一步。"
           ],
           "matched_tags": []
         }
