@@ -1044,34 +1044,126 @@
     {
       "handle": "alexander.stepnoy",
       "url": "https://www.instagram.com/alexander.stepnoy/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DacXa8YN1-6",
+          "url": "https://www.instagram.com/alexander.stepnoy/reel/DacXa8YN1-6/",
+          "published_at": "2026-07-06T07:37:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DacXa8YN1-6-1"
+          ]
+        },
+        {
+          "shortcode": "DWBYIMaDFJa",
+          "url": "https://www.instagram.com/notitleyet.ai/reel/DWBYIMaDFJa/",
+          "published_at": "2026-03-18T09:57:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DWBYIMaDFJa-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DacXa8YN1-6",
+        "DWBYIMaDFJa"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "alexandreveaux",
       "url": "https://www.instagram.com/alexandreveaux/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db6IPi3lWzu",
+          "url": "https://www.instagram.com/alexandreveaux/p/Db6IPi3lWzu/",
+          "published_at": "2026-08-11T17:30:19.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db6IPi3lWzu-1"
+          ]
+        },
+        {
+          "shortcode": "DaQhZ6Ijvss",
+          "url": "https://www.instagram.com/alexandreveaux/p/DaQhZ6Ijvss/",
+          "published_at": "2026-07-01T17:10:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaQhZ6Ijvss-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db6IPi3lWzu",
+        "DaQhZ6Ijvss"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "alfiemotion",
       "url": "https://www.instagram.com/alfiemotion/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db8os2ejSUI",
+          "url": "https://www.instagram.com/alfiemotion/p/Db8os2ejSUI/",
+          "published_at": "2026-08-12T16:52:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db8os2ejSUI-1"
+          ]
+        },
+        {
+          "shortcode": "DbqricqNP8I",
+          "url": "https://www.instagram.com/alfiemotion/reel/DbqricqNP8I/",
+          "published_at": "2026-08-05T17:34:34.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbqricqNP8I-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db8os2ejSUI",
+        "DbqricqNP8I"
+      ],
+      "latest_two_selection_evidence": "Three pinned posts checked: first March 2 2026, second March 21 2026, third profile dated June 21 2022. First two unpinned posts August 12 and August 5 2026 are newer."
     },
     {
       "handle": "alfieri_pablo",
       "url": "https://www.instagram.com/alfieri_pablo/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXOsz1OiAdA",
+          "url": "https://www.instagram.com/alfieri_pablo/p/DXOsz1OiAdA/",
+          "published_at": "2026-04-17T10:37:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXOsz1OiAdA-1"
+          ]
+        },
+        {
+          "shortcode": "DXMw89aiJii",
+          "url": "https://www.instagram.com/alfieri_pablo/p/DXMw89aiJii/",
+          "published_at": "2026-04-16T16:35:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DXMw89aiJii-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXOsz1OiAdA",
+        "DXMw89aiJii"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "amr_render",
@@ -3298,8 +3390,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 26,
-  "imported_media": 27,
+  "imported_posts": 34,
+  "imported_media": 35,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
