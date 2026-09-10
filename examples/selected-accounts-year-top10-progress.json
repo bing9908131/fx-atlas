@@ -6918,7 +6918,7 @@
           "shortcode": "Dc3lY88I1Ku",
           "url": "https://www.instagram.com/peelanimation/reel/Dc3lY88I1Ku/",
           "published_at": "2026-09-04T14:20:12.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc3lY88I1Ku-1"
           ]
@@ -6927,7 +6927,7 @@
           "shortcode": "DcJgZpgIpXy",
           "url": "https://www.instagram.com/peelanimation/reel/DcJgZpgIpXy/",
           "published_at": "2026-08-17T16:53:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcJgZpgIpXy-1"
           ]
@@ -6978,7 +6978,7 @@
           "shortcode": "DcoYhgFMNAT",
           "url": "https://www.instagram.com/petertarka/reel/DcoYhgFMNAT/",
           "published_at": "2026-08-29T16:46:52.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcoYhgFMNAT-1"
           ]
@@ -6987,7 +6987,7 @@
           "shortcode": "DcdgQ46stHv",
           "url": "https://www.instagram.com/petertarka/reel/DcdgQ46stHv/",
           "published_at": "2026-08-25T11:17:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcdgQ46stHv-1"
           ]
@@ -7003,18 +7003,64 @@
     {
       "handle": "ping.motiondesign",
       "url": "https://www.instagram.com/ping.motiondesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcx69_suk5_",
+          "url": "https://www.instagram.com/ping.motiondesign/reel/Dcx69_suk5_/",
+          "published_at": "2026-09-02T09:33:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcx69_suk5_-1"
+          ]
+        },
+        {
+          "shortcode": "Dcf1dh5sipC",
+          "url": "https://www.instagram.com/alex_romanenko/reel/Dcf1dh5sipC/",
+          "published_at": "2026-08-26T08:59:04.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcf1dh5sipC-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcx69_suk5_",
+        "Dcf1dh5sipC"
+      ],
+      "latest_two_selection_evidence": "First two unpinned posts after three process/service pins; dates read. First short film origin/CG status pending; second visibly contains rendered product/module animation. Full review pending."
     },
     {
       "handle": "pleasecallmechamp",
       "url": "https://www.instagram.com/pleasecallmechamp/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Da1wcBvlOnz",
+          "url": "https://www.instagram.com/pleasecallmechamp/p/Da1wcBvlOnz/",
+          "published_at": "2026-07-16T04:13:57.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Da1wcBvlOnz-1"
+          ]
+        },
+        {
+          "shortcode": "Davk1B1PihD",
+          "url": "https://www.instagram.com/pleasecallmechamp/reel/Davk1B1PihD/",
+          "published_at": "2026-07-13T18:54:10.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Davk1B1PihD-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Da1wcBvlOnz",
+        "Davk1B1PihD"
+      ],
+      "latest_two_selection_evidence": "First two unpinned works after older studio-site launch pin; original dates read. Caption directly credits studio work for Airtable and event clients."
     },
     {
       "handle": "porto.motion",
@@ -7657,8 +7703,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 317,
-  "imported_media": 318,
+  "imported_posts": 321,
+  "imported_media": 322,
   "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
