@@ -3801,7 +3801,7 @@
           "shortcode": "DdG6g_FlUP7",
           "url": "https://www.instagram.com/general_definition/p/DdG6g_FlUP7/",
           "published_at": "2026-09-10T13:11:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdG6g_FlUP7-1"
           ]
@@ -3832,7 +3832,7 @@
           "shortcode": "DdGSbqvmR6p",
           "url": "https://www.instagram.com/generativeartstudio/p/DdGSbqvmR6p/",
           "published_at": "2026-09-10T07:21:38.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdGSbqvmR6p-1"
           ]
@@ -3841,7 +3841,7 @@
           "shortcode": "DdENTYVmX1c",
           "url": "https://www.instagram.com/generativeartstudio/p/DdENTYVmX1c/",
           "published_at": "2026-09-09T11:58:20.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdENTYVmX1c-1"
           ]
@@ -3910,7 +3910,7 @@
           "shortcode": "DcOkB_2PsE1",
           "url": "https://www.instagram.com/gmunk/reel/DcOkB_2PsE1/",
           "published_at": "2026-08-19T15:59:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcOkB_2PsE1-1"
           ]
@@ -3926,42 +3926,153 @@
     {
       "handle": "goodboixian",
       "url": "https://www.instagram.com/goodboixian/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc1A-gkSxDj",
+          "url": "https://www.instagram.com/goodboixian/reel/Dc1A-gkSxDj/",
+          "published_at": "2026-09-03T14:23:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc1A-gkSxDj-1"
+          ]
+        },
+        {
+          "shortcode": "Dc0owwyPM_L",
+          "url": "https://www.instagram.com/goodboixian/reel/Dc0owwyPM_L/",
+          "published_at": "2026-09-03T10:52:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc0owwyPM_L-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc1A-gkSxDj",
+        "Dc0owwyPM_L"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; both latest September 3 2026, ordered 14:23 then 10:52 UTC, original times checked."
     },
     {
       "handle": "goodmovestv",
       "url": "https://www.instagram.com/goodmovestv/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C_j64ZlS-W0",
+          "url": "https://www.instagram.com/goodmovestv/reel/C_j64ZlS-W0/",
+          "published_at": "2024-09-06T03:52:17.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C_j64ZlS-W0-1"
+          ]
+        },
+        {
+          "shortcode": "C_OojeLBTHR",
+          "url": "https://www.instagram.com/goodmovestv/reel/C_OojeLBTHR/",
+          "published_at": "2024-08-28T21:27:26.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C_OojeLBTHR-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C_j64ZlS-W0",
+        "C_OojeLBTHR"
+      ],
+      "latest_two_selection_evidence": "Pinned November 16 2023; latest original dates September 6 and August 28 2024 checked. Curated reposts with original creator credits preserved in captions; second is 2D animation, pending scope/visual review."
     },
     {
       "handle": "googledesign",
       "url": "https://www.instagram.com/googledesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Db_HBHemwIM",
+          "url": "https://www.instagram.com/googledesign/p/Db_HBHemwIM/",
+          "published_at": "2026-08-13T15:55:49.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Caption and screenshot show physical handcrafted wristlets/charms photographed as products; no CG evidence.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Db54nEkvaTC",
+          "url": "https://www.instagram.com/googledesign/reel/Db54nEkvaTC/",
+          "published_at": "2026-08-11T15:14:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db54nEkvaTC-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Db_HBHemwIM",
+        "Db54nEkvaTC"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six; latest original dates August 13 and August 11 2026 checked. UI micro-interaction retained as motion reference; physical product photo excluded."
     },
     {
       "handle": "grassjelly",
       "url": "https://www.instagram.com/grassjelly/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcgJlGmiVXb",
+          "url": "https://www.instagram.com/grassjelly/p/DcgJlGmiVXb/",
+          "published_at": "2026-08-26T11:53:08.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Screenshot and caption show real offerings and studio pet food at annual ceremony; no CG.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcTDU-dCRlJ",
+          "url": "https://www.instagram.com/grassjelly/p/DcTDU-dCRlJ/",
+          "published_at": "2026-08-21T09:48:23.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Recruitment announcement poster, not a CG project/reference presentation.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcgJlGmiVXb",
+        "DcTDU-dCRlJ"
+      ],
+      "latest_two_selection_evidence": "Latest August 26 2026; pinned August 21 09:48 UTC is newer than next unpinned August 21 07:10. Selected latest and pin; excluded administrative/personal content without backfill."
     },
     {
       "handle": "greyscalegorilla",
       "url": "https://www.instagram.com/greyscalegorilla/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdGyVy0D-g2",
+          "url": "https://www.instagram.com/greyscalegorilla/p/DdGyVy0D-g2/",
+          "published_at": "2026-09-10T12:00:04.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "Caption presents artist product lighting/composition study, no evidence Nothing commissioned or used it. Excluded under user requirement to verify actual brand usage.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dc_D-mqBqDe",
+          "url": "https://www.instagram.com/greyscalegorilla/reel/Dc_D-mqBqDe/",
+          "published_at": "2026-09-07T12:00:10.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc_D-mqBqDe-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdGyVy0D-g2",
+        "Dc_D-mqBqDe"
+      ],
+      "latest_two_selection_evidence": "Pinned August 25 2026; latest dates September 10 and September 7 2026 checked. Brand lighting study not counted as official campaign."
     },
     {
       "handle": "guido.glid",
@@ -5404,9 +5515,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 179,
-  "imported_media": 180,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 185,
+  "imported_media": 186,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
