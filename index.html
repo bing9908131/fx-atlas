@@ -54,6 +54,34 @@ body:has(#modal[open]){overflow:hidden}
 .filter-content{max-height:calc(100vh - var(--header-height) - 126px);max-height:calc(100dvh - var(--header-height) - 126px);overflow-y:auto;overscroll-behavior-y:contain;padding:4px 2px 0}
 .filter-content .filters{margin-bottom:16px}
 @media(max-width:650px){:root{--header-height:130px}.discovery-panel>summary{padding-bottom:8px}.filter-content .inspiration-actions{margin-bottom:12px}.filter-content .filters{margin-bottom:12px}}
+
+/* Compact discovery bar: small account portraits beside two lines of text. */
+.discovery-panel>summary{min-height:36px;padding:0;font-size:11px}
+.panel-toggle{min-height:32px;padding:0 12px;font-size:11px}
+.filter-content{padding:2px 2px 0}
+.filter-content .inspiration-actions{gap:12px;margin-bottom:6px}
+.filter-content .inspiration-button{min-height:36px;padding:8px 16px;font-size:12px}
+.filter-content .account-strip{gap:4px;padding:2px 2px 4px}
+.filter-content .account-card{flex:0 0 132px;min-height:46px;display:grid;grid-template-columns:30px minmax(0,1fr);grid-template-rows:auto auto;column-gap:7px;row-gap:2px;align-content:center;align-items:center;text-align:left;padding:5px 6px;border-radius:10px}
+.filter-content .account-avatar{grid-row:1 / 3;width:30px;height:30px;font-size:12px}
+.filter-content .account-handle{font-size:10px;align-self:end;line-height:1.3}
+.filter-content .account-summary{font-size:9px;align-self:start;line-height:1.3}
+.filter-content .filters{gap:10px;margin-bottom:6px;align-items:center}
+.filter-content #filters .chip{min-height:36px;padding:7px 12px;font-size:11px}
+.filter-content .sourcefilters select{padding:7px 8px;min-height:36px;font-size:11px}
+.filter-content .account-active{margin-bottom:6px;font-size:11px}
+.filter-content .account-clear{min-height:32px;padding:5px 10px}
+@media(max-width:650px){
+ .discovery-panel>summary,.panel-toggle{min-height:44px;padding-top:0;padding-bottom:0}
+ .filter-content .inspiration-button{min-height:44px;padding:8px 12px}
+ .filter-content .account-card{flex-basis:120px;grid-template-columns:28px minmax(0,1fr);column-gap:5px}
+ .filter-content .account-avatar{width:28px;height:28px}
+ .filter-content .filters{gap:4px;align-items:stretch}
+ .filter-content #filters{padding:0 0 4px;gap:4px}
+ .filter-content #filters .chip{min-height:44px;padding:8px 10px}
+ .filter-content .sourcefilters select{min-height:44px;font-size:13px}
+ .filter-content .account-clear{min-height:44px}
+}
 </style></head><body>
 <header><a href="#" class="brand" id="home">FX <b>Atlas</b><span>✳</span></a><nav id="mediafilters" class="mediafilters" aria-label="媒體類型"></nav><label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜尋特效、效果名稱、顏色、品牌、型號、發布人、製作公司…" aria-label="搜尋素材、特效、效果名稱、顏色、品牌、型號、發布人或製作公司"><button id="clear" aria-label="清除搜尋">×</button></label><span class="headnote">A LIBRARY OF MOTION</span></header>
 <main><details class="discovery-panel" id="discovery-panel" open><summary aria-controls="filter-content"><span>特效與動態設計參考集</span><span class="panel-toggle"><span class="panel-collapse">收合篩選</span><span class="panel-expand">展開篩選</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m6 15 6-6 6 6"/></svg></span></summary><div class="filter-content" id="filter-content"><div class="inspiration-actions"><button type="button" id="inspire" class="inspiration-button" title="隨機排列目前符合篩選的素材">找靈感</button><div class="account-browser"><nav id="account-strip" class="account-strip" aria-label="已收錄的 Instagram 帳號"></nav></div></div><div id="account-active" class="account-active" hidden></div><div class="filters"><nav class="chips" aria-label="視覺風格分類" id="filters"></nav><div class="sourcefilters"><select id="group" aria-label="素材來源"><option value="all">全部來源</option><option value="history156">指定帳號 · 近三年補收</option><option value="accounts16">16 個指定帳號 · 本次新增</option><option value="brand2026">品牌 CG · 2026</option><option value="brand2025">品牌 CG · 2025</option><option value="pendingyear">指定帳號 · 近一年補收</option><option value="ashyear">Ash Thorp · 近一年</option><option value="cnc">CNC CG · 10 篇貼文</option><option value="hublot">Hublot CG · 3 支影片</option><option value="bulk500">工作室與藝術家 IG · 新增500支</option><option value="studioig">工作室 IG · 50 支影片</option><option value="year">2026 年 CG 精選 · 112 個素材</option><option value="recent">2026/08–09 精選 · 29 個素材</option><option value="discovered">新加入 CG · 53 個素材</option><option value="saved">我的收藏 · 48 個素材</option><option value="seed">原始輪播 · 6 支影片</option><option value="ref">延伸參考 · 5 則貼文</option></select><select id="collection" aria-label="珍藏分類"><option value="all">所有珍藏分類</option><option value="指定帳號 · 近三年">指定帳號 · 近三年</option><option value="16 個指定帳號">16 個指定帳號</option><option value="品牌 CG · 2026">品牌 CG · 2026</option><option value="品牌 CG · 2025">品牌 CG · 2025</option><option value="指定帳號 · 近一年補收">指定帳號 · 近一年補收</option><option value="Ash Thorp · 近一年">Ash Thorp · 近一年</option><option value="CNC CG">CNC CG</option><option value="Hublot CG">Hublot CG</option><option value="工作室與藝術家 IG · 新增500支">工作室與藝術家 IG · 新增500支</option><option value="工作室 IG · 50 支精選">工作室 IG · 50 支精選</option><option value="2026 年 CG 精選">2026 年 CG 精選</option><option value="2026/08–09 精選">2026/08–09 精選</option><option value="相關 CG">相關 CG · 本次新增</option><option value="metal liquid">metal liquid · 金屬流體</option><option value="liquid">liquid · 流體</option><option value="particle">particle · 粒子</option><option value="Shoes">Shoes · 鞋履</option></select></div></div></div></details><div class="resultline"><span id="count" role="status"></span><span class="expansion" id="expanded"></span></div><div class="grid" id="grid"></div><div id="empty">沒有符合的素材。試試「布料」、「鞋底」或「雪花」。<br><button id="reset">顯示全部素材</button></div></main><footer>FX ATLAS · 共 1968 項 Instagram 參考素材 · 圖片與影片使用遠端連結</footer>
