@@ -3808,10 +3808,12 @@
           "shortcode": "DUnwYw0CIOe",
           "url": "https://www.instagram.com/friedrich.neumann/reel/DUnwYw0CIOe/",
           "published_at": "2026-02-11T14:44:40.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DUnwYw0CIOe-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9690,19 +9692,31 @@
           "shortcode": "Dc1J4NNEeem",
           "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
           "published_at": "2026-09-03T15:39:48.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dc1J4NNEeem-1"
-          ]
+            "selectedyear-Dc1J4NNEeem-1",
+            "selectedyear-Dc1J4NNEeem-2",
+            "selectedyear-Dc1J4NNEeem-3",
+            "selectedyear-Dc1J4NNEeem-4",
+            "selectedyear-Dc1J4NNEeem-5",
+            "selectedyear-Dc1J4NNEeem-6"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DTjL1VDieod",
           "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
           "published_at": "2026-01-15T23:28:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DTjL1VDieod-1"
-          ]
+            "selectedyear-DTjL1VDieod-1",
+            "selectedyear-DTjL1VDieod-2",
+            "selectedyear-DTjL1VDieod-3",
+            "selectedyear-DTjL1VDieod-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -676,7 +676,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -835,7 +835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [
         0.014,
@@ -987,7 +987,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -1014,7 +1014,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Layerizer II",
+    "title": "Layerizer II · 走廊框形變化",
     "creator": "friedrich.neumann",
     "publisher": "friedrich.neumann",
     "source_accounts": [
@@ -1023,36 +1023,195 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.71878-15/629182785_889603407292850_8535668296720649120_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=MzgzMDI0MjgxNjAxNDQ1MTYxNDE3ODc2MjAzMTQ5NDgzOTUz.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=4uD6n9Cf9x0Q7kNvwEd81B8&_nc_oc=AdrR_aEt4nv1rnhJokY80b1ODCbzTcK1GzOKzeIFM0jxeB6FEjYQWnb7BajqcoDdSS8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=aITZv1fzn9rdkAPBe14EKw&_nc_ss=7a22e&oh=00_AQKIGorgtWGpRryVACJc5uEiJ2BNXXQLJO_aS1CkmD7Olw&oe=6AA8E0CF",
     "url": "https://www.instagram.com/friedrich.neumann/reel/DUnwYw0CIOe/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
     "ratio": "9 / 16",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "暖黃室內走廊，吊燈、邊桌與光滑地面保持穩定；深處矩形框的可見形状反覆變窄與恢復，形成層次循環。",
+    "tags": [
+      {
+        "en": "corridor",
+        "zh": "走廊",
+        "category": "subject",
+        "search_aliases": [
+          "hallway",
+          "室內"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "rectangular frame",
+        "zh": "矩形框",
+        "category": "subject",
+        "search_aliases": [
+          "門框",
+          "框體"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "pendant light",
+        "zh": "吊燈",
+        "category": "subject",
+        "search_aliases": [
+          "燈具"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "side table",
+        "zh": "邊桌",
+        "category": "subject",
+        "search_aliases": [
+          "家具"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "shape change",
+        "zh": "形狀變化",
+        "category": "motion",
+        "search_aliases": [
+          "形變",
+          "shape transformation"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "loop",
+        "zh": "循環",
+        "category": "motion",
+        "search_aliases": [
+          "looping",
+          "反覆"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "painted wall",
+        "zh": "漆面牆壁",
+        "category": "material",
+        "search_aliases": [
+          "牆面"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "glossy floor",
+        "zh": "光滑地板",
+        "category": "material",
+        "search_aliases": [
+          "反光地面"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "wood",
+        "zh": "木材",
+        "category": "material",
+        "search_aliases": [
+          "木頭"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "brown",
+        "zh": "棕色",
+        "category": "color",
+        "search_aliases": [
+          "褐色"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [
+          "青綠"
+        ],
+        "source": "visual",
+        "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Layerizer_II\n\nHuge thanks to @_noi_sound 🔊\n\n#cinema4d#render#redshift#interior#design",
     "published_at": "2026-02-11T14:44:40.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "unbranded_cg_exploration",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。",
+      "observed_times": [
+        0.77,
+        3.03,
+        8.35,
+        14.95,
+        16.56
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者標題Layerizer_II，與_noi_sound合作；未見品牌型號，不推定商業委託。",
+    "carousel_pending": false,
+    "duration_seconds": 24,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "geometric",
+        "product"
+      ],
+      "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+    }
   },
   {
     "id": "selectedyear-Dc1J4NNEeem-1",
     "post_id": "Dc1J4NNEeem",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "VALORANT Act I · graphics library",
+    "total": 6,
+    "title": "VALORANT Act I · 橘色圖標組",
     "creator": "worship.studio",
     "publisher": "worship.studio",
     "source_accounts": [
@@ -1061,36 +1220,117 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/793925115_18621713023057482_2107736325628028509_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&_nc_cat=107&ig_cache_key=Mzk3ODExNDQwOTU3ODIxMjk4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QZwngo1RUvUQ7kNvwF78GPp&_nc_oc=AdqkLA4y_cpyYOa3wxusIOz6ORIz9AbzOIMSJXb-DUKmBsufSp1tspx2chk3Al43Zls&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=B_R0nBFrd0bK3N1znZh_LQ&_nc_ss=7a22e&oh=00_AQJca6jrzST-WMP84EZ1afpWyn1hyVXXnlVG83Pt-IEBQw&oe=6AA8CAB6",
     "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "image",
-    "ratio": "1 / 1",
+    "ratio": "4 / 5",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。",
+    "tags": [
+      {
+        "en": "icon",
+        "zh": "圖標",
+        "category": "subject",
+        "search_aliases": [
+          "iconography",
+          "圖示"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "crosshair",
+        "zh": "準星",
+        "category": "subject",
+        "search_aliases": [
+          "瞄準框"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "interface border",
+        "zh": "介面邊框",
+        "category": "subject",
+        "search_aliases": [
+          "HUD",
+          "UI"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
     "published_at": "2026-09-03T15:39:48.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
   },
   {
     "id": "selectedyear-DTjL1VDieod-1",
     "post_id": "DTjL1VDieod",
     "index": 1,
     "media_index": 1,
-    "total": null,
-    "title": "VALORANT 2026 · original frames",
+    "total": 4,
+    "title": "VALORANT 2026 · Viper 角色橫幅",
     "creator": "worship.studio",
     "publisher": "worship.studio",
     "source_accounts": [
@@ -1099,28 +1339,170 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/613572809_18551072629057482_8255291709000959172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=MzgxMDk0MTc0MzkwMjg4MTc5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BYwhgaEHt5MQ7kNvwG_-oH0&_nc_oc=Adqvt-JS4NffP6y031belmEtULdO7b4ltEsO9kYsdNgxCURR1k7PLo0rJ9QCj-qdQhA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=B_R0nBFrd0bK3N1znZh_LQ&_nc_ss=7a22e&oh=00_AQJBjww4CVAA08S6wYm4PS2S8S9RGavx3dcblDgqHouYUg&oe=6AA8D97B",
     "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "image",
-    "ratio": "1 / 1",
+    "ratio": "16 / 9",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。 本項暫為輪播封面，完整媒體拆分待後續分析。",
-    "tags": [],
+    "description": "紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "字標",
+          "wordmark"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "interface border",
+        "zh": "介面邊框",
+        "category": "subject",
+        "search_aliases": [
+          "HUD",
+          "UI"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "character",
+        "zh": "角色",
+        "category": "subject",
+        "search_aliases": [
+          "人物"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "weapon",
+        "zh": "武器",
+        "category": "subject",
+        "search_aliases": [
+          "槍械"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "armor",
+        "zh": "盔甲",
+        "category": "subject",
+        "search_aliases": [
+          "護甲"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "smoke motif",
+        "zh": "煙霧圖形",
+        "category": "subject",
+        "search_aliases": [
+          "煙形"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "painterly",
+        "zh": "繪畫筆觸",
+        "category": "material",
+        "search_aliases": [
+          "插畫"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "New brand direction for VALORANT 2026 ACT1. V26 brand kit used across social/video/print, OG frames in dev updates video. Design Raf Ruiz, Renz Ward, Nic Girard, Carlos Fernández Plaza. Animation Nic Girard, Carlos Fernández Plaza, Mikhail P.",
     "published_at": "2026-01-15T23:28:00.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": true
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示VALORANT 2026 Act 1正式品牌方向，已用於社群、影片及印刷。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+    }
   },
   {
     "id": "selectedyear-Dc-ul8cs_If-1",
@@ -18850,7 +19232,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -19037,7 +19419,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -19191,7 +19573,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -19356,7 +19738,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -19522,7 +19904,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -19666,7 +20048,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -19818,7 +20200,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
       "observed_times": [
         13.69,
@@ -20002,7 +20384,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
       "observed_times": [
         3.26,
@@ -20187,7 +20569,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
       "observed_times": [
         0.26,
@@ -20364,7 +20746,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -20538,7 +20920,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -20697,7 +21079,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -20856,7 +21238,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21015,7 +21397,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21174,7 +21556,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21333,7 +21715,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21492,7 +21874,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21651,7 +22033,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21810,7 +22192,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21957,7 +22339,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22143,7 +22525,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22299,7 +22681,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22456,7 +22838,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22592,7 +22974,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22728,7 +23110,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22884,7 +23266,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23040,7 +23422,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23197,7 +23579,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T03:57:35",
+      "reviewed_at": "2026-09-11T04:07:24",
       "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [
         0.053,
@@ -23219,6 +23601,1155 @@
         "scifi"
       ],
       "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+    }
+  },
+  {
+    "id": "selectedyear-Dc1J4NNEeem-2",
+    "post_id": "Dc1J4NNEeem",
+    "index": 2,
+    "media_index": 2,
+    "total": 6,
+    "title": "VALORANT Act I · V26 橫向字標",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.82787-15/792206814_18621713038057482_5958659270057247183_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3ODExNDQxODAxNzIxNzM5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9UkEZ9N4JXUQ7kNvwHomGOm&_nc_oc=Adrjp_7Mfkaq3tuu83FfTgN703RgWWhw9bcP3m9YHvZW-OFSjTYkb9ld4W8-WqXBSYQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=uVA1YoXepbqHGvVWCvW9-g&_nc_ss=7a22e&oh=00_AQJZpxJ0FcrlNc-keDZ76tjV9jwP4Bm0ruzgvT7_IthQGw&oe=6AA8DE4F",
+    "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。",
+    "tags": [
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "wordmark",
+        "zh": "字標",
+        "category": "subject",
+        "search_aliases": [
+          "logo",
+          "標誌"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "scale pattern",
+        "zh": "鱗片紋理",
+        "category": "material",
+        "search_aliases": [
+          "蛇鱗",
+          "scales"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
+    "published_at": "2026-09-03T15:39:48.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
+  },
+  {
+    "id": "selectedyear-Dc1J4NNEeem-3",
+    "post_id": "Dc1J4NNEeem",
+    "index": 3,
+    "media_index": 3,
+    "total": 6,
+    "title": "VALORANT Act I · 綠色圖標與數字組",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/792483887_18621713065057482_3606149827249046294_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3ODExNDQ3Nzg2OTg2NDU4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iRsbPOxjfg8Q7kNvwEB2RMb&_nc_oc=AdpaZPyC7191mVJvG_v2sgf3CC8-5cGpyWyPMoALSp4-liws-jOPnEa5xp9N7LoHW60&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=uVA1YoXepbqHGvVWCvW9-g&_nc_ss=7a22e&oh=00_AQJg-jnk4GA-lm_8S-jjcqnY-Bu9Nkc2MjIzrjO_qQ4XIg&oe=6AA8EF70",
+    "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。",
+    "tags": [
+      {
+        "en": "icon",
+        "zh": "圖標",
+        "category": "subject",
+        "search_aliases": [
+          "圖示"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "numeral",
+        "zh": "數字",
+        "category": "subject",
+        "search_aliases": [
+          "26"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "crosshair",
+        "zh": "準星",
+        "category": "subject",
+        "search_aliases": [
+          "瞄準符號"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
+    "published_at": "2026-09-03T15:39:48.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
+  },
+  {
+    "id": "selectedyear-Dc1J4NNEeem-4",
+    "post_id": "Dc1J4NNEeem",
+    "index": 4,
+    "media_index": 4,
+    "total": 6,
+    "title": "VALORANT Act I · 直式切角字標",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/793122296_18621713083057482_3908755557013596783_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3ODExNDQ4MTQ0MzQ4MDI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UqjK1_KXzjUQ7kNvwFprgEG&_nc_oc=AdoUQhnEfhhKq2trQPoDB7RvgvnbgaOvKZi0nI6f6WDGqI8UqeWb4a25hl9cODK6o0Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=uVA1YoXepbqHGvVWCvW9-g&_nc_ss=7a22e&oh=00_AQJV34pB4hYF4uvyJSc7Bn4R_I-TAtT1dnCiZwr4PxxUxQ&oe=6AA8D3E4",
+    "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。",
+    "tags": [
+      {
+        "en": "vertical typography",
+        "zh": "直式字體",
+        "category": "subject",
+        "search_aliases": [
+          "直排文字"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "wordmark",
+        "zh": "字標",
+        "category": "subject",
+        "search_aliases": [
+          "logo",
+          "標誌"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "angular shape",
+        "zh": "切角造型",
+        "category": "subject",
+        "search_aliases": [
+          "斜切",
+          "稜角"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
+    "published_at": "2026-09-03T15:39:48.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
+  },
+  {
+    "id": "selectedyear-Dc1J4NNEeem-5",
+    "post_id": "Dc1J4NNEeem",
+    "index": 5,
+    "media_index": 5,
+    "total": 6,
+    "title": "VALORANT Act I · Viper 角色主視覺",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/793028492_18621713074057482_6941594013954433265_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3ODExNDQ4MjE4MTYwNTQ1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=nl_BbTlB5E8Q7kNvwF1Yz3e&_nc_oc=AdrCpn0WNNFT1KSrJ8e-TY2cM09HFT1ZNMP-q3Xj1z61NE3HjEsczP7D0AtvMFumuJg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=uVA1YoXepbqHGvVWCvW9-g&_nc_ss=7a22e&oh=00_AQIAuehxLpF8l_9h7ZOjKDQlL37M3r_XWTZnUONhmF8GAA&oe=6AA8F0CF",
+    "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。",
+    "tags": [
+      {
+        "en": "character",
+        "zh": "角色",
+        "category": "subject",
+        "search_aliases": [
+          "人物"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "snake",
+        "zh": "蛇",
+        "category": "subject",
+        "search_aliases": [
+          "serpent"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "portrait",
+        "zh": "肖像",
+        "category": "subject",
+        "search_aliases": [
+          "臉部"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "scale pattern",
+        "zh": "鱗片紋理",
+        "category": "material",
+        "search_aliases": [
+          "蛇鱗",
+          "scales"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "painterly",
+        "zh": "繪畫筆觸",
+        "category": "material",
+        "search_aliases": [
+          "插畫質感"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
+    "published_at": "2026-09-03T15:39:48.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
+  },
+  {
+    "id": "selectedyear-Dc1J4NNEeem-6",
+    "post_id": "Dc1J4NNEeem",
+    "index": 6,
+    "media_index": 6,
+    "total": 6,
+    "title": "VALORANT Act I · Season 2026 Act I 字標",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/793925124_18621713119057482_5855426222474968120_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk3ODExNDQ4NTMyNzQ1MzcxMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMzI3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gC2F-wEvn1UQ7kNvwEv3IpR&_nc_oc=AdqnazSOn4b9z18D21PjhgmDs9q7ZyPQ2ckOONcOrLg2tqO7VjCJkx0NWOE8t5KEVrA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=uVA1YoXepbqHGvVWCvW9-g&_nc_ss=7a22e&oh=00_AQJiKlZR21B1hofWa8NGT_uvNjK0aRt-ez-3FTGV-64giQ&oe=6AA8CE91",
+    "url": "https://www.instagram.com/worship.studio/p/Dc1J4NNEeem/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "4 / 5",
+    "duration": "",
+    "description": "黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。",
+    "tags": [
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "wordmark",
+        "zh": "字標",
+        "category": "subject",
+        "search_aliases": [
+          "logo",
+          "標誌"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "scale pattern",
+        "zh": "鱗片紋理",
+        "category": "material",
+        "search_aliases": [
+          "蛇鱗",
+          "scales"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "Deconstructing VALORANT Season 26: Act I Brand Kit Graphics Library. A 2026 New Year campaign channeling Omega Viper. V26 core brand kit, snake eyes, scaled textures and custom visual cues.",
+    "published_at": "2026-09-03T15:39:48.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。發布者明示 VALORANT Season 26 Act I 正式品牌套件。Viper 為角色名稱，26／Act I 為版本／篇章，不當作硬體型號。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+    }
+  },
+  {
+    "id": "selectedyear-DTjL1VDieod-2",
+    "post_id": "DTjL1VDieod",
+    "index": 2,
+    "media_index": 2,
+    "total": 4,
+    "title": "VALORANT 2026 · 淺色 VALORANT 字標",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/616556725_18551072638057482_6942803631397620174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzgxMDk0MTc0Mzk1MzE2Mzc2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CpA45P5QXpoQ7kNvwE2MUrC&_nc_oc=AdrpxAbv8mAFZcrerIglRpCowyJ6UIF51g0WFZ-1sssNJ5Q3TSn5CwBVhWii95GSp7I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=idQRLGabYjE2S7T-6RoBzQ&_nc_ss=7a22e&oh=00_AQKIfmzCdFoA8pHbVF1RK3DoI4rGE7I3D7HfeRVo-Fre3g&oe=6AA8E244",
+    "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "字標",
+          "wordmark"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "interface border",
+        "zh": "介面邊框",
+        "category": "subject",
+        "search_aliases": [
+          "HUD",
+          "UI"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "hexagonal grid",
+        "zh": "六角網格",
+        "category": "subject",
+        "search_aliases": [
+          "蜂巢圖案"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "scale pattern",
+        "zh": "鱗片紋理",
+        "category": "material",
+        "search_aliases": [
+          "蛇鱗"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New brand direction for VALORANT 2026 ACT1. V26 brand kit used across social/video/print, OG frames in dev updates video. Design Raf Ruiz, Renz Ward, Nic Girard, Carlos Fernández Plaza. Animation Nic Girard, Carlos Fernández Plaza, Mikhail P.",
+    "published_at": "2026-01-15T23:28:00.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示VALORANT 2026 Act 1正式品牌方向，已用於社群、影片及印刷。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+    }
+  },
+  {
+    "id": "selectedyear-DTjL1VDieod-3",
+    "post_id": "DTjL1VDieod",
+    "index": 3,
+    "media_index": 3,
+    "total": 4,
+    "title": "VALORANT 2026 · 深色 V26 字標",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/612495613_18551072647057482_4971975013321948421_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzgxMDk0MTc0Mzk2MTU0ODY5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FfTeazXd7sIQ7kNvwHPN1QA&_nc_oc=AdppYyYquc1VSaV6HsQxWIky-I7fypmImgh6ZP-LUPYAoe562iunSvVU8RnhN2fffJU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=idQRLGabYjE2S7T-6RoBzQ&_nc_ss=7a22e&oh=00_AQJjK401vuFeoNz_2zNJ-Te5WrLjgLUOfZQ8Lb-y6xON1Q&oe=6AA8CC55",
+    "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "image",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "字標",
+          "wordmark"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "interface border",
+        "zh": "介面邊框",
+        "category": "subject",
+        "search_aliases": [
+          "HUD",
+          "UI"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "scale pattern",
+        "zh": "鱗片紋理",
+        "category": "material",
+        "search_aliases": [
+          "蛇鱗"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "hexagonal grid",
+        "zh": "六角網格",
+        "category": "subject",
+        "search_aliases": [
+          "蜂巢圖案"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New brand direction for VALORANT 2026 ACT1. V26 brand kit used across social/video/print, OG frames in dev updates video. Design Raf Ruiz, Renz Ward, Nic Girard, Carlos Fernández Plaza. Animation Nic Girard, Carlos Fernández Plaza, Mikhail P.",
+    "published_at": "2026-01-15T23:28:00.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示VALORANT 2026 Act 1正式品牌方向，已用於社群、影片及印刷。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+    }
+  },
+  {
+    "id": "selectedyear-DTjL1VDieod-4",
+    "post_id": "DTjL1VDieod",
+    "index": 4,
+    "media_index": 4,
+    "total": 4,
+    "title": "VALORANT 2026 · 字標組合與配色轉場",
+    "creator": "worship.studio",
+    "publisher": "worship.studio",
+    "source_accounts": [
+      "worship.studio"
+    ],
+    "credit_aliases": [],
+    "image": "https://instagram.ftpe8-3.fna.fbcdn.net/v/t51.82787-15/611272996_18551072668057482_4450542652362972247_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=MzgxMDkzOTcyODAwMjkwNjY2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=UsJjojuG_m4Q7kNvwFxCknT&_nc_oc=AdrgmslmPoqPbt_Scq7skaxmfQsh19_8y51ThU5hn-Ov8b9_pZ3W1iO1IypcQQSWNPg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-3.fna&_nc_gid=4vJyOVTm-Lv5T3vYu9sYnA&_nc_ss=7a22e&oh=00_AQJXFnrbc2Vx-8-OnJzbkUN7bzVT0cBc1Rbhow_bdjKh7w&oe=6AA8C62E",
+    "url": "https://www.instagram.com/worship.studio/p/DTjL1VDieod/",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
+    "type": "video",
+    "ratio": "16 / 9",
+    "duration": "",
+    "description": "重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "字標",
+          "wordmark"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "typography",
+        "zh": "字體設計",
+        "category": "subject",
+        "search_aliases": [
+          "font",
+          "文字"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "interface border",
+        "zh": "介面邊框",
+        "category": "subject",
+        "search_aliases": [
+          "HUD",
+          "UI"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "green",
+        "zh": "綠色",
+        "category": "color",
+        "search_aliases": [
+          "螢光綠"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "kinetic typography",
+        "zh": "動態字體",
+        "category": "motion",
+        "search_aliases": [
+          "文字動畫"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "assemble",
+        "zh": "組合",
+        "category": "motion",
+        "search_aliases": [
+          "組裝",
+          "字標組合"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "graphic transition",
+        "zh": "圖形轉場",
+        "category": "motion",
+        "search_aliases": [
+          "版面切換"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      },
+      {
+        "en": "color change",
+        "zh": "顏色切換",
+        "category": "motion",
+        "search_aliases": [
+          "配色變化"
+        ],
+        "source": "visual",
+        "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+      }
+    ],
+    "styles": [],
+    "related": [],
+    "caption": [],
+    "caption_text": "New brand direction for VALORANT 2026 ACT1. V26 brand kit used across social/video/print, OG frames in dev updates video. Design Raf Ruiz, Renz Ward, Nic Girard, Carlos Fernández Plaza. Animation Nic Girard, Carlos Fernández Plaza, Mikhail P.",
+    "published_at": "2026-01-15T23:28:00.000Z",
+    "imported_at": "2026-09-11",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_game_graphics",
+    "saved": false,
+    "tag_review": {
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T04:07:24",
+      "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。",
+      "observed_times": [
+        0.22,
+        2.5,
+        3.42
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
+    },
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示VALORANT 2026 Act 1正式品牌方向，已用於社群、影片及印刷。",
+    "carousel_pending": false,
+    "duration_seconds": 4.099999,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
     }
   }
 ]

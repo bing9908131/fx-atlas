@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2013,
+  "total": 2024,
   "unclassified": 0,
   "counts": {
-    "graphic": 383,
-    "product": 737,
+    "graphic": 393,
+    "product": 738,
     "organic": 414,
-    "geometric": 819,
-    "scifi": 272,
+    "geometric": 820,
+    "scifi": 282,
     "effects": 106
   },
   "fallback_count": 194,
@@ -342,6 +342,93 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnwYw0CIOe-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTjL1VDieod-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
           ],
           "matched_tags": []
         }
@@ -1096,6 +1183,238 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc1J4NNEeem-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTjL1VDieod-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTjL1VDieod-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTjL1VDieod-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。"
           ],
           "matched_tags": []
         }
