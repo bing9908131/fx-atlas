@@ -9852,19 +9852,29 @@
           "shortcode": "DTvjHWxDbNO",
           "url": "https://www.instagram.com/yuriikhomovskyi/reel/DTvjHWxDbNO/",
           "published_at": "2026-01-20T18:43:36.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DTvjHWxDbNO-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DTQPrZrjcPr",
           "url": "https://www.instagram.com/yuriikhomovskyi/p/DTQPrZrjcPr/",
           "published_at": "2026-01-08T14:56:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DTQPrZrjcPr-1"
-          ]
+            "selectedyear-DTQPrZrjcPr-1",
+            "selectedyear-DTQPrZrjcPr-2",
+            "selectedyear-DTQPrZrjcPr-3",
+            "selectedyear-DTQPrZrjcPr-4",
+            "selectedyear-DTQPrZrjcPr-5",
+            "selectedyear-DTQPrZrjcPr-6",
+            "selectedyear-DTQPrZrjcPr-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

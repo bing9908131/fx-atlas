@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2037,
+  "total": 2045,
   "unclassified": 0,
   "counts": {
     "graphic": 394,
-    "product": 739,
-    "organic": 424,
+    "product": 746,
+    "organic": 425,
     "geometric": 821,
     "scifi": 289,
-    "effects": 107
+    "effects": 108
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -550,6 +550,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。紅髮角色黑色衣裝、粉紅羽翼和銀黑尖刺框架的完整構圖。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTvjHWxDbNO-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.04、2.16、2.82秒瓶底輪廓與氣泡的可見位置改變，氣泡表面保持光滑反射。能確認畫面中的氣泡／瓶身視角變化，尚不能區分所有氣泡位移與視差，不標記氣泡上升、融合、破裂或液體流動。作者明示bubbles/simulation/Houdini/Redshift，但沒有指定求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.04、2.16、2.82秒瓶底輪廓與氣泡的可見位置改變，氣泡表面保持光滑反射。能確認畫面中的氣泡／瓶身視角變化，尚不能區分所有氣泡位移與視差，不標記氣泡上升、融合、破裂或液體流動。作者明示bubbles/simulation/Houdini/Redshift，但沒有指定求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。車鼻與多層前翼俯視特寫，紅色燈光照亮纖維編織紋理。不將靜態高光加為流動、火焰或車輛行駛動態。"
           ],
           "matched_tags": []
         }
@@ -1732,6 +1778,108 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色及羽翼的灰模版本，衣服與毛髮灰白，皮膚保留粉色基底；沒有彩色羽翼材質。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。紅色背景下的座艙上方視角，弧形防護架包圍駕駛頭盔。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼及支撐结构近景，紅橘色高光沿黑色曲面延展。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。小型後視鏡、支架及車身曲面特寫，可見細密纖維紋理。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼端板與車尾近景，可見編織紋理、輪胎局部和紅色點陣燈。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。座艙上方進氣口、頂部結構與紅光車身曲面。不將靜態高光加為流動、火焰或車輛行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTQPrZrjcPr-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。賽車座艙側面，防護架、頭盔及上方結構形成深色輪廓與紅色邊光。不將靜態高光加為流動、火焰或車輛行駛動態。"
           ],
           "matched_tags": []
         }

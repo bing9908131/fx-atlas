@@ -85,7 +85,8 @@ IKEA|宜家家居|ikea
 Waterford|Waterford|waterford,waterfordcrystal
 SFSO|SFSO|studio.sfso,sfso
 Orluna|Orluna|orluna,orlunaled
-McLaren|麥拉倫|mclaren,mclarenf1
+McLaren|麥拉倫|mclaren,mclarenf1,mclarenauto
+Mastercard|萬事達卡|mastercard,萬事達卡,万事达卡
 Ford|福特|ford
 BMW|寶馬|bmw
 Porsche|保時捷|porsche
