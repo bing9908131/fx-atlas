@@ -8751,7 +8751,7 @@
           "shortcode": "DdEgxumplq-",
           "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgxumplq-/",
           "published_at": "2026-09-09T14:49:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEgxumplq--1"
           ]
@@ -8760,7 +8760,7 @@
           "shortcode": "DdEgizephDo",
           "url": "https://www.instagram.com/unitmotiondesign/reel/DdEgizephDo/",
           "published_at": "2026-09-09T14:47:00.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEgizephDo-1"
           ]
@@ -8782,7 +8782,7 @@
           "shortcode": "DcOPxOah_c9",
           "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
           "published_at": "2026-08-19T13:00:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcOPxOah_c9-1"
           ]
@@ -8812,7 +8812,7 @@
           "shortcode": "DVoJy7iCDpZ",
           "url": "https://www.instagram.com/vaclav.patka/p/DVoJy7iCDpZ/",
           "published_at": "2026-03-08T14:49:11.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DVoJy7iCDpZ-1"
           ]
@@ -8821,7 +8821,7 @@
           "shortcode": "DS0FDoriNRy",
           "url": "https://www.instagram.com/vaclav.patka/p/DS0FDoriNRy/",
           "published_at": "2025-12-28T16:24:29.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DS0FDoriNRy-1"
           ]
@@ -8851,7 +8851,7 @@
           "shortcode": "DdCRmFGJV0V",
           "url": "https://www.instagram.com/vertex.cgi/reel/DdCRmFGJV0V/",
           "published_at": "2026-09-08T17:57:48.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdCRmFGJV0V-1"
           ]
@@ -8873,7 +8873,7 @@
           "shortcode": "DaVW5N0iJ6e",
           "url": "https://www.instagram.com/vincentschwenk/p/DaVW5N0iJ6e/",
           "published_at": "2026-07-03T14:15:02.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaVW5N0iJ6e-1"
           ]
@@ -8882,7 +8882,7 @@
           "shortcode": "DaQWS4YiAi-",
           "url": "https://www.instagram.com/vincentschwenk/p/DaQWS4YiAi-/",
           "published_at": "2026-07-01T15:33:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaQWS4YiAi--1"
           ]
@@ -8898,42 +8898,154 @@
     {
       "handle": "visual_tense",
       "url": "https://www.instagram.com/visual_tense/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcycu11Dy2I",
+          "url": "https://www.instagram.com/visual_tense/p/Dcycu11Dy2I/",
+          "published_at": "2026-09-02T14:26:49.000Z",
+          "status": "excluded_unverified_brand_use",
+          "cg_review": "iPhone 組裝作品僅有標題，沒有 Apple 採用或客戶委託證據，暫不收錄。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DYJooqkDyox",
+          "url": "https://www.instagram.com/visual_tense/p/DYJooqkDyox/",
+          "published_at": "2026-05-10T07:56:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYJooqkDyox-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcycu11Dy2I",
+        "DYJooqkDyox"
+      ],
+      "latest_two_selection_evidence": "Reordered first12 checked. September2 iPhone newest. May10 asset render07:56 newer than May10 other07:47 and preceding film timestamp checked. Zhiben film credits official client; iPhone no client-use evidence."
     },
     {
       "handle": "visualoperator",
       "url": "https://www.instagram.com/visualoperator/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Da2sBZDjG8M",
+          "url": "https://www.instagram.com/visualoperator/p/Da2sBZDjG8M/",
+          "published_at": "2026-07-16T12:54:36.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Da2sBZDjG8M-1"
+          ]
+        },
+        {
+          "shortcode": "DTyenpRDLcW",
+          "url": "https://www.instagram.com/visualoperator/p/DTyenpRDLcW/",
+          "published_at": "2026-01-21T22:00:46.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DTyenpRDLcW-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Da2sBZDjG8M",
+        "DTyenpRDLcW"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned dated July2026 and January2026. Author explicitly credits FutureDeluxe for Arc’teryx archive and CG frames for physical installation. Pending slide review."
     },
     {
       "handle": "visualpleasuremag",
       "url": "https://www.instagram.com/visualpleasuremag/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdFEBnzDOkI",
+          "url": "https://www.instagram.com/visualpleasuremag/p/DdFEBnzDOkI/",
+          "published_at": "2026-09-09T19:56:30.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實體建築攝影專題，文案列出攝影師與現場建築，非 CG 參考。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "Dc9XvXhjBuG",
+          "url": "https://www.instagram.com/visualpleasuremag/p/Dc9XvXhjBuG/",
+          "published_at": "2026-09-06T20:14:51.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "實體建築攝影專題，文案列出攝影師與現場建築，非 CG 參考。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdFEBnzDOkI",
+        "Dc9XvXhjBuG"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned original dates read; both explicitly credit architecture photographers."
     },
     {
       "handle": "vladislav.solovjov",
       "url": "https://www.instagram.com/vladislav.solovjov/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcZipVqjnCU",
+          "url": "https://www.instagram.com/vladislav.solovjov/p/DcZipVqjnCU/",
+          "published_at": "2026-08-23T22:17:29.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcZipVqjnCU-1"
+          ]
+        },
+        {
+          "shortcode": "Db6jMbAOR-p",
+          "url": "https://www.instagram.com/vladislav.solovjov/reel/Db6jMbAOR-p/",
+          "published_at": "2026-08-11T21:26:47.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db6jMbAOR-p-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcZipVqjnCU",
+        "Db6jMbAOR-p"
+      ],
+      "latest_two_selection_evidence": "Latest two August2026 unpinned entries, newer than January2026/September2025 pins. Author explicitly credits Cinema4D/Redshift CG. Titles provisional, visual tags pending."
     },
     {
       "handle": "vzhemotion",
       "url": "https://www.instagram.com/vzhemotion/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DKjx-AZtaea",
+          "url": "https://www.instagram.com/vzhemotion/p/DKjx-AZtaea/",
+          "published_at": "2025-06-06T12:18:41.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DKjx-AZtaea-1"
+          ]
+        },
+        {
+          "shortcode": "C_S-mWZtb53",
+          "url": "https://www.instagram.com/vzhemotion/p/C_S-mWZtb53/",
+          "published_at": "2024-08-30T13:56:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C_S-mWZtb53-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DKjx-AZtaea",
+        "C_S-mWZtb53"
+      ],
+      "latest_two_selection_evidence": "Latest two non-pinned June2025 and August2024, older pins2022/May2024. Captions explicitly describe 3D modeling/animation for client and bubble breakdown for agency project."
     },
     {
       "handle": "warrickwong",
@@ -9056,9 +9168,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 410,
-  "imported_media": 411,
-  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 417,
+  "imported_media": 418,
+  "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
