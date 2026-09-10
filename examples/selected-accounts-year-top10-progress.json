@@ -8138,7 +8138,7 @@
           "shortcode": "DcPChF9Cfl-",
           "url": "https://www.instagram.com/styleframe.studio/reel/DcPChF9Cfl-/",
           "published_at": "2026-08-19T20:30:14.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcPChF9Cfl--1"
           ]
@@ -8147,7 +8147,7 @@
           "shortcode": "DcOkZsGiCX2",
           "url": "https://www.instagram.com/styleframe.studio/reel/DcOkZsGiCX2/",
           "published_at": "2026-08-19T16:03:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcOkZsGiCX2-1"
           ]
@@ -8169,7 +8169,7 @@
           "shortcode": "DXEXKP5DU4d",
           "url": "https://www.instagram.com/sub.stnc/p/DXEXKP5DU4d/",
           "published_at": "2026-04-13T10:16:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DXEXKP5DU4d-1"
           ]
@@ -8178,7 +8178,7 @@
           "shortcode": "DVgF49bjchv",
           "url": "https://www.instagram.com/sub.stnc/p/DVgF49bjchv/",
           "published_at": "2026-03-05T11:41:08.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DVgF49bjchv-1"
           ]
@@ -8200,7 +8200,7 @@
           "shortcode": "DdCUBoBxQVq",
           "url": "https://www.instagram.com/subframe_studio/reel/DdCUBoBxQVq/",
           "published_at": "2026-09-08T18:19:48.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdCUBoBxQVq-1"
           ]
@@ -8209,7 +8209,7 @@
           "shortcode": "Dc_7X0JxYC7",
           "url": "https://www.instagram.com/subframe_studio/reel/Dc_7X0JxYC7/",
           "published_at": "2026-09-07T20:10:57.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_7X0JxYC7-1"
           ]
@@ -8225,34 +8225,122 @@
     {
       "handle": "superpolarity",
       "url": "https://www.instagram.com/superpolarity/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DXXj8RGDSSJ",
+          "url": "https://www.instagram.com/superpolarity/reel/DXXj8RGDSSJ/",
+          "published_at": "2026-04-20T21:13:39.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "自行想像的機車產品概念，作者說尚希望有天能實際製作，未確認品牌採用，排除產品練習。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DWru68ujS7R",
+          "url": "https://www.instagram.com/superpolarity/p/DWru68ujS7R/",
+          "published_at": "2026-04-03T20:42:43.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "自行想像的機車產品概念，作者說尚希望有天能實際製作，未確認品牌採用，排除產品練習。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DXXj8RGDSSJ",
+        "DWru68ujS7R"
+      ],
+      "latest_two_selection_evidence": "Latest two unpinned posts, dates read. Author calls motorcycle a personal playground/concept and says he dreams of building it one day."
     },
     {
       "handle": "sy_gaussens",
       "url": "https://www.instagram.com/sy_gaussens/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DNgNZA2Nxf5",
+          "url": "https://www.instagram.com/sy_gaussens/p/DNgNZA2Nxf5/",
+          "published_at": "2025-08-18T16:35:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DNgNZA2Nxf5-1"
+          ]
+        },
+        {
+          "shortcode": "DJ9-gYUtu7B",
+          "url": "https://www.instagram.com/sy_gaussens/p/DJ9-gYUtu7B/",
+          "published_at": "2025-05-22T19:57:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DJ9-gYUtu7B-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DNgNZA2Nxf5",
+        "DJ9-gYUtu7B"
+      ],
+      "latest_two_selection_evidence": "Pinned March 2025 bubbles and August 2024 projects are older. Latest unpinned dates read. Redot collaboration explicit, exact watch brand/model confirmation pending."
     },
     {
       "handle": "sydneysie",
       "url": "https://www.instagram.com/sydneysie/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdFtRQ4jyyY",
+          "url": "https://www.instagram.com/sydneysie/p/DdFtRQ4jyyY/",
+          "published_at": "2026-09-10T01:56:54.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "真人棚拍與平面視覺設計，非 CG 製作。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcgPOLoj2Js",
+          "url": "https://www.instagram.com/sydneysie/p/DcgPOLoj2Js/",
+          "published_at": "2026-08-26T12:42:26.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "書籍典藏消息與文字資訊，非 CG 作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdFtRQ4jyyY",
+        "DcgPOLoj2Js"
+      ],
+      "latest_two_selection_evidence": "Three older pins skipped; latest two unpinned dates read. First explicitly photography/graphic-design commission with live talent; second book-library announcement."
     },
     {
       "handle": "sylviahsudesign",
       "url": "https://www.instagram.com/sylviahsudesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DPQMafsEkQZ",
+          "url": "https://www.instagram.com/nulls_design/p/DPQMafsEkQZ/",
+          "published_at": "2025-10-01T04:21:56.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DPQMafsEkQZ-1"
+          ]
+        },
+        {
+          "shortcode": "DPQL0q_Epzi",
+          "url": "https://www.instagram.com/nulls_design/p/DPQL0q_Epzi/",
+          "published_at": "2025-10-01T04:16:46.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DPQL0q_Epzi-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DPQMafsEkQZ",
+        "DPQL0q_Epzi"
+      ],
+      "latest_two_selection_evidence": "First two collaborative posts on selected account; original dates read. Explicit 3D/motion credits for official artist album/listening-event visuals."
     },
     {
       "handle": "szoraidez",
@@ -8559,9 +8647,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 375,
-  "imported_media": 376,
-  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 379,
+  "imported_media": 380,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
