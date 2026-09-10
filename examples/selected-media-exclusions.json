@@ -254,5 +254,13 @@
     "decision": "exclude",
     "reason": "Photographic collage of man, car and desert cactus landscape; no independently identifiable CG scene.",
     "evidence": "Photographic collage of man, car and desert cactus landscape; no independently identifiable CG scene. All three stills inspected in public carousel; final slide has no next button."
+  },
+  {
+    "post_id": "Dc-_ApaiPmX",
+    "media_index": 1,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "鳥棲息在圓孔石建築的黑白攝影資料，無獨立可辨識CG。",
+    "evidence": "第一項為靜態黑白照片，只疊少量文字；與第二項掃描動畫及第四項影像切片動畫分開處理。"
   }
 ]

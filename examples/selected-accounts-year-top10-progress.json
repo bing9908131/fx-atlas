@@ -9037,19 +9037,27 @@
           "shortcode": "Dc-_ApaiPmX",
           "url": "https://www.instagram.com/casabatllocontemporary/p/Dc-_ApaiPmX/",
           "published_at": "2026-09-07T11:17:14.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dc-_ApaiPmX-1"
-          ]
+            "selectedyear-Dc-_ApaiPmX-2",
+            "selectedyear-Dc-_ApaiPmX-3",
+            "selectedyear-Dc-_ApaiPmX-4"
+          ],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DckxBDlK5MW",
           "url": "https://www.instagram.com/tomorrowbureau/reel/DckxBDlK5MW/",
           "published_at": "2026-08-28T06:56:30.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DckxBDlK5MW-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9069,10 +9077,12 @@
           "shortcode": "DH7Fv36S_98",
           "url": "https://www.instagram.com/tomteller/reel/DH7Fv36S_98/",
           "published_at": "2025-04-02T00:00:52.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DH7Fv36S_98-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "C1-SfWnvhDY",

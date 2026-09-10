@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2113,
+  "total": 2118,
   "unclassified": 0,
   "counts": {
-    "graphic": 428,
+    "graphic": 430,
     "product": 759,
-    "organic": 446,
-    "geometric": 830,
+    "organic": 448,
+    "geometric": 832,
     "scifi": 296,
-    "effects": 133
+    "effects": 135
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1070,6 +1070,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DckxBDlK5MW-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.135與5.564砂土脊線及凹槽輪廓不同；12.438碎石與密集粒狀地形；23.513改為層狀黏土般捲曲表面。作者明示材質continual flux與reformation。觀察支持地形形變和顆粒移動；沒有直接看到爆破、燃燒，不標流體或指定solver。單影片25.633秒，無輪播。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.135與5.564砂土脊線及凹槽輪廓不同；12.438碎石與密集粒狀地形；23.513改為層狀黏土般捲曲表面。作者明示材質continual flux與reformation。觀察支持地形形變和顆粒移動；沒有直接看到爆破、燃燒，不標流體或指定solver。單影片25.633秒，無輪播。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DH7Fv36S_98-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.687海床上方小型發光物與魚隻；4.939紫色瓣狀生物從砂床出現且砂粒向外揚起；8.416大型生物已不見、砂粒雲向上散布；12.653回到平靜海床與游魚。可觀察出現、下潛及粒子散開，不猜爆炸或水流solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.687海床上方小型發光物與魚隻；4.939紫色瓣狀生物從砂床出現且砂粒向外揚起；8.416大型生物已不見、砂粒雲向上散布；12.653回到平靜海床與游魚。可觀察出現、下潛及粒子散開，不猜爆炸或水流solver。"
           ],
           "matched_tags": []
         }
@@ -3528,6 +3586,69 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc-_ApaiPmX-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.028線框點雲直立結構；2.933細密點雲與數字資料；5.140人形雕塑周围相機視錐及邊界框。直接可見掃描重建介面；不把檢視角度切換誤標粒子擴散、生長或破碎。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.028線框點雲直立結構；2.933細密點雲與數字資料；5.140人形雕塑周围相機視錐及邊界框。直接可見掃描重建介面；不把檢視角度切換誤標粒子擴散、生長或破碎。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc-_ApaiPmX-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張手掌雕塑細節圖，無動態。數位重建判斷由同輪播掃描流程及作者同系列 Artefact 說明輔助：公開相關貼文 DcQRzCGCh6a 明示雕塑以 advanced 3D scanning reconstructed as digital artefacts 呈現；材質只標可見外觀，不推定實際石材或青銅。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc-_ApaiPmX-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.393與0.847為水平條狀錯位的重複洞口影像；1.820切到完整石砌洞口；6.691切換螺旋狀黑白構圖及疊加分析標記。保留後製圖形動畫，不把攝影素材或錯位切片標成3D石頭破碎。第四項末尾無下一步，四項已各自確認。"
           ],
           "matched_tags": []
         }
