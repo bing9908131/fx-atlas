@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -676,7 +676,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -835,7 +835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [
         0.014,
@@ -987,7 +987,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -1177,7 +1177,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。",
       "observed_times": [
         0.77,
@@ -1302,7 +1302,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -1482,7 +1482,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -1505,50 +1505,12 @@
     }
   },
   {
-    "id": "selectedyear-Dc-ul8cs_If-1",
-    "post_id": "Dc-ul8cs_If",
-    "index": 1,
-    "media_index": 1,
-    "total": 1,
-    "title": "Plnty · character workflow demo",
-    "creator": "yamb0x",
-    "publisher": "yamb0x",
-    "source_accounts": [
-      "yamb0x"
-    ],
-    "credit_aliases": [],
-    "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/799360044_18643385044011556_6123569371985655676_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4MDgyNDAzODMwODMxMTU4MzE4NjQzMzg1MDQxMDExNTU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=pX5pX83BHF0Q7kNvwFQWyOW&_nc_oc=Ador-cxG6nfpWl2Tj0-FJospEMcZEDK4ZfvX293dnGLFc41Ge2voCTEIHjhj9PzdMQc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=21M-51SfxErQITRZhPeXMw&_nc_ss=7a22e&oh=00_AQKEVzGyXqGXi10N450jWqzo6vFEeH2tyCrScaVV5bZApQ&oe=6AA8E2B1",
-    "url": "https://www.instagram.com/yamb0x/reel/Dc-ul8cs_If/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
-    "type": "video",
-    "ratio": "9 / 16",
-    "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
-    "styles": [],
-    "related": [],
-    "caption": [],
-    "caption_text": "Comment 'nipples' to join @plntyapp next cohort 🤓",
-    "published_at": "2026-09-07T08:56:37.000Z",
-    "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
-    "saved": false,
-    "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
-    },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
-  },
-  {
     "id": "selectedyear-DcvGkIYt_rq-1",
     "post_id": "DcvGkIYt_rq",
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Plnty · collaborative animation",
+    "title": "Plnty · 協作介面與字標動畫",
     "creator": "yamb0x",
     "publisher": "dor",
     "source_accounts": [
@@ -1558,28 +1520,214 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-2.fna.fbcdn.net/v/t51.82787-15/790268018_18620347948016676_4283885341908901442_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=Mzk3NjQyNTg2NzE3NjMxMTUzMDE4NjIwMzQ3OTQ1MDE2Njc2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=yIbeDckLGdYQ7kNvwFSUflb&_nc_oc=Adrh1owPlPaRnv8WY1xMeO-Bo-DUpS6ETSleoTzCIg7b2kTJCcc9sGT_DvhAHmVQH3U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-2.fna&_nc_gid=21M-51SfxErQITRZhPeXMw&_nc_ss=7a22e&oh=00_AQI8HQVTCSz4vfnP6j89gyEzTtfi-CE6KfV19Bto5-Nb5w&oe=6AA8D48A",
     "url": "https://www.instagram.com/dor/reel/DcvGkIYt_rq/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "16 / 9",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "誇張眼睛的角色面部特寫，接著切至多人頭像、Share 按鈕與手形游標的介面；彩色符號最後轉成黑色 Plnty.app 字標。",
+    "tags": [
+      {
+        "en": "character face",
+        "zh": "角色臉部",
+        "category": "subject",
+        "search_aliases": [
+          "臉部",
+          "portrait"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "eye",
+        "zh": "眼睛",
+        "category": "subject",
+        "search_aliases": [
+          "眼球"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "user interface",
+        "zh": "使用者介面",
+        "category": "subject",
+        "search_aliases": [
+          "UI",
+          "GUI"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "cursor",
+        "zh": "游標",
+        "category": "subject",
+        "search_aliases": [
+          "手形游標"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "avatar",
+        "zh": "頭像",
+        "category": "subject",
+        "search_aliases": [
+          "使用者頭貼"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "字標"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "text scramble",
+        "zh": "字元替換",
+        "category": "motion",
+        "search_aliases": [
+          "文字亂碼",
+          "scramble"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "cut transition",
+        "zh": "切換轉場",
+        "category": "motion",
+        "search_aliases": [
+          "剪接"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "skin texture",
+        "zh": "皮膚紋理",
+        "category": "material",
+        "search_aliases": [
+          "肌膚"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "flat color",
+        "zh": "平塗色塊",
+        "category": "material",
+        "search_aliases": [
+          "平面色彩"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "purple",
+        "zh": "紫色",
+        "category": "color",
+        "search_aliases": [
+          "紫"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "yellow",
+        "zh": "黃色",
+        "category": "color",
+        "search_aliases": [
+          "黃"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [
+          "藍"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "orange",
+        "zh": "橘色",
+        "category": "color",
+        "search_aliases": [
+          "橙色"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [
+          "黑"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [
+          "白"
+        ],
+        "source": "visual",
+        "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "The whole team in the same idea at once? 🌐\n\nAnimation I’ve done to showcase the\ncollaboration feature in @plntyapp \n\nAll visuals where made in plnty\n👆👇👉👈",
     "published_at": "2026-09-01T07:15:05.000Z",
     "imported_at": "2026-09-11",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "commercial_digital_animation",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T04:11:29",
+      "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。",
+      "observed_times": [
+        3.43,
+        8.87,
+        11.03,
+        11.75
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。作者明示為Plnty協作功能製作的動畫，畫面最後明示Plnty.app；全部視覺由作者說明在Plnty製作，不推定傳統3D模擬軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 13,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic"
+      ],
+      "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
+    }
   },
   {
     "id": "selectedyear-DcfG3e7tNyD-1",
@@ -19232,7 +19380,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -19419,7 +19567,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -19573,7 +19721,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -19738,7 +19886,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -19904,7 +20052,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -20048,7 +20196,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -20200,7 +20348,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
       "observed_times": [
         13.69,
@@ -20384,7 +20532,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
       "observed_times": [
         3.26,
@@ -20569,7 +20717,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
       "observed_times": [
         0.26,
@@ -20746,7 +20894,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -20920,7 +21068,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -21079,7 +21227,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21238,7 +21386,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21397,7 +21545,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21556,7 +21704,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21715,7 +21863,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -21874,7 +22022,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -22033,7 +22181,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -22192,7 +22340,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -22339,7 +22487,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22525,7 +22673,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22681,7 +22829,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22838,7 +22986,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -22974,7 +23122,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23110,7 +23258,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23266,7 +23414,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23422,7 +23570,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -23579,7 +23727,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [
         0.053,
@@ -23711,7 +23859,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -23838,7 +23986,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -23967,7 +24115,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -24115,7 +24263,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -24255,7 +24403,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -24405,7 +24553,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -24555,7 +24703,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -24726,7 +24874,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T04:07:24",
+      "reviewed_at": "2026-09-11T04:11:29",
       "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。",
       "observed_times": [
         0.22,

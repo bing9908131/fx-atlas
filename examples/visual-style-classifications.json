@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2024,
+  "total": 2025,
   "unclassified": 0,
   "counts": {
-    "graphic": 393,
+    "graphic": 394,
     "product": 738,
     "organic": 414,
     "geometric": 820,
@@ -429,6 +429,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcvGkIYt_rq-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。"
           ],
           "matched_tags": []
         }

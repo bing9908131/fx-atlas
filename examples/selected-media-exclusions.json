@@ -22,5 +22,13 @@
     "decision": "exclude",
     "reason": "live_event_documentation",
     "evidence": "1.78秒可見實車、舞台地面接縫與後方環境屏幕；為發表會實車呈現錄影，保留獨立CG版本即可。"
+  },
+  {
+    "post_id": "Dc-ul8cs_If",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "course_promotion_screen_recording",
+    "evidence": "原片51.4秒；37.50秒與46.55秒均為Plnty畫布操作、角色圖片變體和講者人像小窗。文案呼籲加入下一期cohort。為工具／課程操作示範，沒有本次收錄所需的獨立CG成品動畫，不將畫布捲動及圖片變體當作角色模擬。"
   }
 ]
