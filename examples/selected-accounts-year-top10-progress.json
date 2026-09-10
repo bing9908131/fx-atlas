@@ -7100,7 +7100,7 @@
           "shortcode": "DdGMTu1FLnq",
           "url": "https://www.instagram.com/rawandrendered/p/DdGMTu1FLnq/",
           "published_at": "2026-09-10T06:28:07.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdGMTu1FLnq-1"
           ]
@@ -7109,7 +7109,7 @@
           "shortcode": "DdDxochG5z_",
           "url": "https://www.instagram.com/rawandrendered/p/DdDxochG5z_/",
           "published_at": "2026-09-09T07:56:32.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdDxochG5z_-1"
           ]
@@ -7139,7 +7139,7 @@
           "shortcode": "DaJLgwaTcOc",
           "url": "https://www.instagram.com/render_gal/p/DaJLgwaTcOc/",
           "published_at": "2026-06-28T20:44:48.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaJLgwaTcOc-1"
           ]
@@ -7155,26 +7155,95 @@
     {
       "handle": "rettlesnake",
       "url": "https://www.instagram.com/rettlesnake/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcjfINMESix",
+          "url": "https://www.instagram.com/rettlesnake/p/DcjfINMESix/",
+          "published_at": "2026-08-27T18:59:09.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcjfINMESix-1"
+          ]
+        },
+        {
+          "shortcode": "Db_V_OhiDOz",
+          "url": "https://www.instagram.com/rettlesnake/p/Db_V_OhiDOz/",
+          "published_at": "2026-08-13T18:06:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db_V_OhiDOz-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcjfINMESix",
+        "Db_V_OhiDOz"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; original dates read. Author specifies Houdini Gaussian Splats and generated-image source on first; full media/motion review pending."
     },
     {
       "handle": "richnosworthy",
       "url": "https://www.instagram.com/richnosworthy/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZlsmXwTTgT",
+          "url": "https://www.instagram.com/richnosworthy/reel/DZlsmXwTTgT/",
+          "published_at": "2026-06-15T02:01:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZlsmXwTTgT-1"
+          ]
+        },
+        {
+          "shortcode": "DQdQ1PXjEkh",
+          "url": "https://www.instagram.com/richnosworthy/reel/DQdQ1PXjEkh/",
+          "published_at": "2025-10-31T02:42:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DQdQ1PXjEkh-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZlsmXwTTgT",
+        "DQdQ1PXjEkh"
+      ],
+      "latest_two_selection_evidence": "First two profile posts without pins; original dates read. Philips caption directly credits commissioned production and artist role; no speculative brand association."
     },
     {
       "handle": "rikoostenbroek",
       "url": "https://www.instagram.com/rikoostenbroek/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc3ofrMjU-E",
+          "url": "https://www.instagram.com/rikoostenbroek/p/Dc3ofrMjU-E/",
+          "published_at": "2026-09-04T14:45:49.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dc3ofrMjU-E-1"
+          ]
+        },
+        {
+          "shortcode": "Dcv67JKjYAQ",
+          "url": "https://www.instagram.com/rikoostenbroek/p/Dcv67JKjYAQ/",
+          "published_at": "2026-09-01T14:52:55.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcv67JKjYAQ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc3ofrMjU-E",
+        "Dcv67JKjYAQ"
+      ],
+      "latest_two_selection_evidence": "Three pins include August 20 2026 and older works; newest unpinned posts September 4 and September 1. Abstract/gradient studies; CG versus photographic-source verification pending."
     },
     {
       "handle": "robenrobin.nl",
@@ -7769,9 +7838,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 324,
-  "imported_media": 325,
-  "last_check_note": "Latest-two intake: 3 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 330,
+  "imported_media": 331,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
