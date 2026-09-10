@@ -7862,7 +7862,7 @@
           "shortcode": "DaAzUsTCKUU",
           "url": "https://www.instagram.com/simonsjoo/p/DaAzUsTCKUU/",
           "published_at": "2026-06-25T14:39:25.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaAzUsTCKUU-1"
           ]
@@ -7871,7 +7871,7 @@
           "shortcode": "DZuvh1KoLRb",
           "url": "https://www.instagram.com/simonsjoo/reel/DZuvh1KoLRb/",
           "published_at": "2026-06-18T14:20:55.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZuvh1KoLRb-1"
           ]
@@ -7922,7 +7922,7 @@
           "shortcode": "DL5csnGy4Hf",
           "url": "https://www.instagram.com/slimjimstudios/reel/DL5csnGy4Hf/",
           "published_at": "2025-07-09T18:52:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DL5csnGy4Hf-1"
           ]
@@ -7931,7 +7931,7 @@
           "shortcode": "DJHi1CXPO8I",
           "url": "https://www.instagram.com/slimjimstudios/reel/DJHi1CXPO8I/",
           "published_at": "2025-05-01T16:45:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DJHi1CXPO8I-1"
           ]
@@ -7947,26 +7947,94 @@
     {
       "handle": "someform.studio",
       "url": "https://www.instagram.com/someform.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbvFsF3hAYK",
+          "url": "https://www.instagram.com/someform.studio/reel/DbvFsF3hAYK/",
+          "published_at": "2026-08-07T10:38:24.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "accounts16-DbvFsF3hAYK-1"
+          ]
+        },
+        {
+          "shortcode": "DVjCTw7jNYw",
+          "url": "https://www.instagram.com/sixnfive/p/DVjCTw7jNYw/",
+          "published_at": "2026-03-06T15:07:34.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "history156-DVjCTw7jNYw-1",
+            "history156-DVjCTw7jNYw-2",
+            "history156-DVjCTw7jNYw-6"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbvFsF3hAYK",
+        "DVjCTw7jNYw"
+      ],
+      "latest_two_selection_evidence": "First two profile entries without pins; original dates read. Nike/Hyperice official global visual launch campaign and live-generated CGI installation; full carousel review pending."
     },
     {
       "handle": "steelworksstudio",
       "url": "https://www.instagram.com/steelworksstudio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcvwY_mIOFG",
+          "url": "https://www.instagram.com/steelworksstudio/p/DcvwY_mIOFG/",
+          "published_at": "2026-09-01T13:20:53.000Z",
+          "status": "excluded_unverified_brand_project",
+          "cg_review": "Mirinda 作品文字僅說 inspired by，未確認品牌委託或實際使用，依要求暫不收錄。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DblONhyjmmp",
+          "url": "https://www.instagram.com/steelworksstudio/p/DblONhyjmmp/",
+          "published_at": "2026-08-03T14:38:25.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DblONhyjmmp-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcvwY_mIOFG",
+        "DblONhyjmmp"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; original dates read. Second unbranded form/color R&D. First says inspired by Mirinda visual identity, but actual commission/use not established."
     },
     {
       "handle": "stefansagmeister",
       "url": "https://www.instagram.com/stefansagmeister/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcHjAddz0J7",
+          "url": "https://www.instagram.com/jamessommerville/reel/DcHjAddz0J7/",
+          "published_at": "2026-08-16T22:39:33.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "訪談／演講宣傳與實拍講者紀錄，未呈現 CG 特效作品。",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DbbWPKnDoiI",
+          "url": "https://www.instagram.com/stefansagmeister/reel/DbbWPKnDoiI/",
+          "published_at": "2026-07-30T18:39:11.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "訪談／演講宣傳與實拍講者紀錄，未呈現 CG 特效作品。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcHjAddz0J7",
+        "DbbWPKnDoiI"
+      ],
+      "latest_two_selection_evidence": "Newest unpinned posts after June 20 portrait pin; original dates read. First book/graphic slides promoting a call, second actual speaker footage."
     },
     {
       "handle": "studio_loopa",
@@ -8353,9 +8421,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 362,
-  "imported_media": 363,
-  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 363,
+  "imported_media": 364,
+  "last_check_note": "Latest-two intake: 1 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
