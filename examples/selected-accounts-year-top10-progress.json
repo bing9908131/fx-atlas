@@ -9404,10 +9404,12 @@
           "shortcode": "Db6jMbAOR-p",
           "url": "https://www.instagram.com/vladislav.solovjov/reel/Db6jMbAOR-p/",
           "published_at": "2026-08-11T21:26:47.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Db6jMbAOR-p-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

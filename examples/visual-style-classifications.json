@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2079,
+  "total": 2080,
   "unclassified": 0,
   "counts": {
     "graphic": 410,
     "product": 759,
-    "organic": 426,
+    "organic": 427,
     "geometric": 830,
     "scifi": 291,
-    "effects": 114
+    "effects": 115
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -809,6 +809,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張檢視第1/7張：不同大小的桃紅紫色玻璃圓盤散置於淺灰背景，中心帶環狀紋理及綠紅反光。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db6jMbAOR-p-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "IG影片12.04秒：0.055黑底；1.365水環已破開，2.252/2.983水滴高度降低並分離；3.261/3.557再次出現起伏的連續環；5.373/6.599為粗糙水面近景，7.770可見分離小水滴及狹長水流。無可識別固體撞擊物，不標碰撞或爆炸；未由評論推定FLIP、Houdini或特定solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "IG影片12.04秒：0.055黑底；1.365水環已破開，2.252/2.983水滴高度降低並分離；3.261/3.557再次出現起伏的連續環；5.373/6.599為粗糙水面近景，7.770可見分離小水滴及狹長水流。無可識別固體撞擊物，不標碰撞或爆炸；未由評論推定FLIP、Houdini或特定solver。"
           ],
           "matched_tags": []
         }
