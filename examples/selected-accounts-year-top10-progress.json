@@ -5299,7 +5299,7 @@
           "shortcode": "DYj5l3oMzkR",
           "url": "https://www.instagram.com/romenkaelin/reel/DYj5l3oMzkR/",
           "published_at": "2026-05-20T12:51:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYj5l3oMzkR-1"
           ]
@@ -5321,7 +5321,7 @@
           "shortcode": "DdGklSFt_Vx",
           "url": "https://www.instagram.com/soda.festival/reel/DdGklSFt_Vx/",
           "published_at": "2026-09-10T09:40:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdGklSFt_Vx-1"
           ]
@@ -5330,7 +5330,7 @@
           "shortcode": "DcZEXS6iIiW",
           "url": "https://www.instagram.com/look.deva/p/DcZEXS6iIiW/",
           "published_at": "2026-08-23T17:52:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcZEXS6iIiW-1"
           ]
@@ -5352,7 +5352,7 @@
           "shortcode": "DZ4fxpvtqe2",
           "url": "https://www.instagram.com/loop_creative_studio/reel/DZ4fxpvtqe2/",
           "published_at": "2026-06-22T09:19:11.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ4fxpvtqe2-1"
           ]
@@ -5361,7 +5361,7 @@
           "shortcode": "DZSar5ZE35E",
           "url": "https://www.instagram.com/didierbashev/p/DZSar5ZE35E/",
           "published_at": "2026-06-07T14:19:04.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZSar5ZE35E-1"
           ]
@@ -5383,7 +5383,7 @@
           "shortcode": "DZQJmDvIJ_O",
           "url": "https://www.instagram.com/loremdeloop/reel/DZQJmDvIJ_O/",
           "published_at": "2026-06-06T17:13:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZQJmDvIJ_O-1"
           ]
@@ -5392,7 +5392,7 @@
           "shortcode": "DYpifm6IFy-",
           "url": "https://www.instagram.com/loremdeloop/reel/DYpifm6IFy-/",
           "published_at": "2026-05-23T12:29:58.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DYpifm6IFy--1"
           ]
@@ -5408,34 +5408,125 @@
     {
       "handle": "loudsqueak",
       "url": "https://www.instagram.com/loudsqueak/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Cvh4XaiNUkh",
+          "url": "https://www.instagram.com/loudsqueak/reel/Cvh4XaiNUkh/",
+          "published_at": "2023-08-04T16:37:42.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Cvh4XaiNUkh-1"
+          ]
+        },
+        {
+          "shortcode": "CuuUlSWso2m",
+          "url": "https://www.instagram.com/loudsqueak/reel/CuuUlSWso2m/",
+          "published_at": "2023-07-15T16:00:39.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CuuUlSWso2m-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Cvh4XaiNUkh",
+        "CuuUlSWso2m"
+      ],
+      "latest_two_selection_evidence": "All three pins dates read: 2023-07-10T16:42:05.000Z, 2023-07-15T16:00:39.000Z, 2023-08-04T16:37:42.000Z. Unpinned first is July 6 2023. Selected Aug 4 and July 15 pins, which are the newest original publications."
     },
     {
       "handle": "lucas_piazzini",
       "url": "https://www.instagram.com/lucas_piazzini/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DQvxI1Kkwok",
+          "url": "https://www.instagram.com/lucas_piazzini/reel/DQvxI1Kkwok/",
+          "published_at": "2025-11-07T07:10:59.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DQvxI1Kkwok-1"
+          ]
+        },
+        {
+          "shortcode": "DPDjM0BCCk1",
+          "url": "https://www.instagram.com/foxrenderfarm/reel/DPDjM0BCCk1/",
+          "published_at": "2025-09-26T06:31:55.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "人物訪談格式，非獨立 CG 作品參考；同帳號已有正式作品與 breakdown。",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DQvxI1Kkwok",
+        "DPDjM0BCCk1"
+      ],
+      "latest_two_selection_evidence": "All six profile entries visible with no pins. First two original dates verified. Retain rendered work/breakdown; exclude artist interview format."
     },
     {
       "handle": "lucas_zanotto",
       "url": "https://www.instagram.com/lucas_zanotto/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DcyZsh4Rf-c",
+          "url": "https://www.instagram.com/lucas_zanotto/reel/DcyZsh4Rf-c/",
+          "published_at": "2026-09-02T14:00:05.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcyZsh4Rf-c-1"
+          ]
+        },
+        {
+          "shortcode": "DcQ7Yu5xdOb",
+          "url": "https://www.instagram.com/lucas_zanotto/reel/DcQ7Yu5xdOb/",
+          "published_at": "2026-08-20T14:00:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcQ7Yu5xdOb-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DcyZsh4Rf-c",
+        "DcQ7Yu5xdOb"
+      ],
+      "latest_two_selection_evidence": "Pinned Hermès dated 2025-04-14T14:14:42.000Z; other pins visibly Nov/July 2024. First two unpinned original dates verified Sept 2 and Aug 20 2026."
     },
     {
       "handle": "lumindigital.au",
       "url": "https://www.instagram.com/lumindigital.au/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcfu_ecBICc",
+          "url": "https://www.instagram.com/sp1ll/reel/Dcfu_ecBICc/",
+          "published_at": "2026-08-26T08:00:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcfu_ecBICc-1"
+          ]
+        },
+        {
+          "shortcode": "DcX9J5CB5t5",
+          "url": "https://www.instagram.com/sp1ll/reel/DcX9J5CB5t5/",
+          "published_at": "2026-08-23T07:30:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcX9J5CB5t5-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcfu_ecBICc",
+        "DcX9J5CB5t5"
+      ],
+      "latest_two_selection_evidence": "Pins individually dated 2026-06-13T01:37:43.000Z, 2026-05-08T00:33:13.000Z; latest unpinned dates Aug 26 and Aug 23 2026 verified. Collaborations explicitly credit CG/VFX production."
     },
     {
       "handle": "mad.dog.jones",
@@ -6486,8 +6577,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 248,
-  "imported_media": 249,
+  "imported_posts": 255,
+  "imported_media": 256,
   "last_check_note": "Latest-two intake: 7 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
