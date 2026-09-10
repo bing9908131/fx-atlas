@@ -2950,7 +2950,7 @@
           "shortcode": "DcL1uxVjPnR",
           "url": "https://www.instagram.com/droikcg/p/DcL1uxVjPnR/",
           "published_at": "2026-08-18T14:34:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcL1uxVjPnR-1"
           ]
@@ -2959,7 +2959,7 @@
           "shortcode": "DZF13pMjGbr",
           "url": "https://www.instagram.com/droikcg/p/DZF13pMjGbr/",
           "published_at": "2026-06-02T17:06:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZF13pMjGbr-1"
           ]
@@ -2981,7 +2981,7 @@
           "shortcode": "Das7nWFFoui",
           "url": "https://www.instagram.com/dsgden/p/Das7nWFFoui/",
           "published_at": "2026-07-12",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Das7nWFFoui-1"
           ]
@@ -2990,7 +2990,7 @@
           "shortcode": "Dan-TtnDYly",
           "url": "https://www.instagram.com/dsgden/p/Dan-TtnDYly/",
           "published_at": "2026-07-10",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dan-TtnDYly-1"
           ]
@@ -3012,7 +3012,7 @@
           "shortcode": "DdCIIhMz3lG",
           "url": "https://www.instagram.com/ducky3d/reel/DdCIIhMz3lG/",
           "published_at": "2026-09-08T16:35:30.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdCIIhMz3lG-1"
           ]
@@ -3021,7 +3021,7 @@
           "shortcode": "Dcy8CNmT57Y",
           "url": "https://www.instagram.com/ducky3d/reel/Dcy8CNmT57Y/",
           "published_at": "2026-09-02T19:02:13.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcy8CNmT57Y-1"
           ]
@@ -3043,7 +3043,7 @@
           "shortcode": "DcKN9Mls88P",
           "url": "https://www.instagram.com/duncanimate/reel/DcKN9Mls88P/",
           "published_at": "2026-08-17T23:29:01.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcKN9Mls88P-1"
           ]
@@ -3052,7 +3052,7 @@
           "shortcode": "Da35Ui9mM1z",
           "url": "https://www.instagram.com/duncanimate/p/Da35Ui9mM1z/",
           "published_at": "2026-07-16",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Da35Ui9mM1z-1"
           ]
@@ -3068,42 +3068,136 @@
     {
       "handle": "eliseohz",
       "url": "https://www.instagram.com/eliseohz/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DU0xENCER7Y",
+          "url": "https://www.instagram.com/eliseohz/p/DU0xENCER7Y/",
+          "published_at": "2026-02-16",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DU0xENCER7Y-1"
+          ]
+        },
+        {
+          "shortcode": "DCPat4QRGT2",
+          "url": "https://www.instagram.com/eliseohz/p/DCPat4QRGT2/",
+          "published_at": "2024-11-11T18:19:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DCPat4QRGT2-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DU0xENCER7Y",
+        "DCPat4QRGT2"
+      ],
+      "latest_two_selection_evidence": "Pinned dates September 19 2023, March 4 2021, August 9 2021 from profile alt. Latest photo date from alt and other date verified individually."
     },
     {
       "handle": "elmotionlab",
       "url": "https://www.instagram.com/elmotionlab/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C06pspdSc5m",
+          "url": "https://www.instagram.com/motiondesignschool/reel/C06pspdSc5m/",
+          "published_at": "2023-12-16T14:00:00.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C06pspdSc5m-1"
+          ]
+        },
+        {
+          "shortcode": "Cz6SIDBN9hQ",
+          "url": "https://www.instagram.com/motiondesignschool/reel/Cz6SIDBN9hQ/",
+          "published_at": "2023-11-21T14:01:21.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Cz6SIDBN9hQ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C06pspdSc5m",
+        "Cz6SIDBN9hQ"
+      ],
+      "latest_two_selection_evidence": "No pinned icons. Latest two original post dates verified individually."
     },
     {
       "handle": "emi.fls_",
       "url": "https://www.instagram.com/emi.fls_/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaNUx1Bjcrn",
+          "url": "https://www.instagram.com/emi.fls_/p/DaNUx1Bjcrn/",
+          "published_at": "2026-06-30T11:22:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaNUx1Bjcrn-1"
+          ]
+        },
+        {
+          "shortcode": "DVqqpR1CEbk",
+          "url": "https://www.instagram.com/turner.motion/p/DVqqpR1CEbk/",
+          "published_at": "2026-03-09T14:14:43.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DVqqpR1CEbk-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaNUx1Bjcrn",
+        "DVqqpR1CEbk"
+      ],
+      "latest_two_selection_evidence": "Latest unpinned June 30 and March 9 2026; pinned checked November 6 2023, March 2 2026, September 5 2024."
     },
     {
       "handle": "etiennebauquin",
       "url": "https://www.instagram.com/etiennebauquin/",
-      "status": "pending_latest_two_selection",
+      "status": "manual_grid_order_review_required",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Public grid first six out of chronological order without pinned markers: DatEj_ckQcX July 12 2026; Da7qnm9itzP July 18 2026; C_km5hmNorV September 6 2024; DanUo-Fiifm July 10 2026; DA8v2P8tQsf October 10 2024. Requires broader date review before selecting latest two."
     },
     {
       "handle": "etinjcb",
       "url": "https://www.instagram.com/etinjcb/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DaSaG0FAHW8",
+          "url": "https://www.instagram.com/etinjcb/p/DaSaG0FAHW8/",
+          "published_at": "2026-07-02T10:45:24.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaSaG0FAHW8-1"
+          ]
+        },
+        {
+          "shortcode": "DZK1i88jE7P",
+          "url": "https://www.instagram.com/etinjcb/p/DZK1i88jE7P/",
+          "published_at": "2026-06-04T15:39:51.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZK1i88jE7P-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DaSaG0FAHW8",
+        "DZK1i88jE7P"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first five grid entries; first two original dates July 2 and June 4 2026 checked in post UI."
     },
     {
       "handle": "eynnbarriosart",
@@ -4786,8 +4880,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 135,
-  "imported_media": 136,
+  "imported_posts": 143,
+  "imported_media": 144,
   "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
