@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2031,
+  "total": 2037,
   "unclassified": 0,
   "counts": {
     "graphic": 394,
     "product": 739,
-    "organic": 418,
+    "organic": 424,
     "geometric": 821,
-    "scifi": 283,
+    "scifi": 289,
     "effects": 107
   },
   "fallback_count": 194,
@@ -521,6 +521,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張確認靜態圖片，第四項無下一步且無影片。女性角色半身，黑色上衣、手部遮住部分臉孔，棕白雙色長髮向側面展開，背景為夜間城市散景。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。紅髮角色黑色衣裝、粉紅羽翼和銀黑尖刺框架的完整構圖。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。紅髮角色黑色衣裝、粉紅羽翼和銀黑尖刺框架的完整構圖。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
           ],
           "matched_tags": []
         }
@@ -1558,6 +1587,151 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張確認靜態圖片，第四項無下一步且無影片。同一姿勢的製作圖，臉部、手部及衣服顯示密集四邊形線框；皮膚是灰白基底，頭髮仍有深淺髮絲。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色半張臉、紅黑髮絲、黑色尖刺及粉紅羽翼特寫，背景有手繪臉形符號。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色半張臉、紅黑髮絲、黑色尖刺及粉紅羽翼特寫，背景有手繪臉形符號。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。裁切至軀幹，黑色亮面衣裝、銀色尖刺弧形框架與粉紅羽片。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。裁切至軀幹，黑色亮面衣裝、銀色尖刺弧形框架與粉紅羽片。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。無前景尖刺框架的角色與雙側粉紅羽翼，黑色衣服、紅黑髮絲。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。無前景尖刺框架的角色與雙側粉紅羽翼，黑色衣服、紅黑髮絲。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。粉紅羽翼與半張角色臉部的近景，羽片分層、紅黑髮絲清楚。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。粉紅羽翼與半張角色臉部的近景，羽片分層、紅黑髮絲清楚。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DU57zpRiKuA-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色及羽翼的灰模版本，衣服與毛髮灰白，皮膚保留粉色基底；沒有彩色羽翼材質。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色及羽翼的灰模版本，衣服與毛髮灰白，皮膚保留粉色基底；沒有彩色羽翼材質。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。"
           ],
           "matched_tags": []
         }
