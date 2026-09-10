@@ -6293,7 +6293,7 @@
           "shortcode": "Dcyup6ZINlW",
           "url": "https://www.instagram.com/motionplusdesign/reel/Dcyup6ZINlW/",
           "published_at": "2026-09-02T17:04:54.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dcyup6ZINlW-1"
           ]
@@ -6302,7 +6302,7 @@
           "shortcode": "DcjTPT8I9N_",
           "url": "https://www.instagram.com/motionplusdesign/reel/DcjTPT8I9N_/",
           "published_at": "2026-08-27T17:16:53.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcjTPT8I9N_-1"
           ]
@@ -6324,7 +6324,7 @@
           "shortcode": "DZcwctWINc-",
           "url": "https://www.instagram.com/muartive/reel/DZcwctWINc-/",
           "published_at": "2026-06-11T14:43:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZcwctWINc--1"
           ]
@@ -6333,7 +6333,7 @@
           "shortcode": "DRkDx27j6ik",
           "url": "https://www.instagram.com/oneplus_india/reel/DRkDx27j6ik/",
           "published_at": "2025-11-27T14:35:19.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DRkDx27j6ik-1"
           ]
@@ -6355,7 +6355,7 @@
           "shortcode": "DZ78RCEFj-H",
           "url": "https://www.instagram.com/murilomrtarello/p/DZ78RCEFj-H/",
           "published_at": "2026-06-23T17:21:21.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ78RCEFj-H-1"
           ]
@@ -6364,7 +6364,7 @@
           "shortcode": "DZ46bECxE4q",
           "url": "https://www.instagram.com/murilomrtarello/reel/DZ46bECxE4q/",
           "published_at": "2026-06-22T13:07:51.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZ46bECxE4q-1"
           ]
@@ -6380,34 +6380,127 @@
     {
       "handle": "nakobaev",
       "url": "https://www.instagram.com/nakobaev/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DbWBMwDjYmK",
+          "url": "https://www.instagram.com/maxonvfx/reel/DbWBMwDjYmK/",
+          "published_at": "2026-07-28T16:57:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DbWBMwDjYmK-1"
+          ]
+        },
+        {
+          "shortcode": "DaVpAOVDgcm",
+          "url": "https://www.instagram.com/typecampus/p/DaVpAOVDgcm/",
+          "published_at": "2026-07-03T16:53:17.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DaVpAOVDgcm-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DbWBMwDjYmK",
+        "DaVpAOVDgcm"
+      ],
+      "latest_two_selection_evidence": "Compared first twelve visible entries. A Dec 10 2025 Forbes entry is displaced into second position with no pin marker; selected verified Jul 28 and Jul 3 2026 originals, newer than surrounding Feb/Jan/2025 entries. Poster flower technique and carousel contents remain unverified."
     },
     {
       "handle": "newnewnew.studio",
       "url": "https://www.instagram.com/newnewnew.studio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DYErJXxoNZz",
+          "url": "https://www.instagram.com/newnewnew.studio/reel/DYErJXxoNZz/",
+          "published_at": "2026-05-08T09:44:08.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYErJXxoNZz-1"
+          ]
+        },
+        {
+          "shortcode": "DX6Rxnhoigz",
+          "url": "https://www.instagram.com/newnewnew.studio/reel/DX6Rxnhoigz/",
+          "published_at": "2026-05-04T08:49:14.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DX6Rxnhoigz-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DYErJXxoNZz",
+        "DX6Rxnhoigz"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; first two exact original dates checked. Studio publishes TUMI product campaign series; motion and brand-use evidence review pending."
     },
     {
       "handle": "nicolaslopardo",
       "url": "https://www.instagram.com/nicolaslopardo/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdCqcuFSPJj",
+          "url": "https://www.instagram.com/nicolaslopardo/p/DdCqcuFSPJj/",
+          "published_at": "2026-09-08T21:36:55.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "pendingyear-DdCqcuFSPJj-1"
+          ]
+        },
+        {
+          "shortcode": "Dc3_SWEG5hx",
+          "url": "https://www.instagram.com/nicolaslopardo/p/Dc3_SWEG5hx/",
+          "published_at": "2026-09-04T18:04:58.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "pendingyear-Dc3_SWEG5hx-1",
+            "pendingyear-Dc3_SWEG5hx-2"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdCqcuFSPJj",
+        "Dc3_SWEG5hx"
+      ],
+      "latest_two_selection_evidence": "Three pins visibly dated Feb 2025, June 2024, March 2024; newest unpinned original dates verified. UI graphics qualify for graphic/sci-fi review; detailed media analysis pending."
     },
     {
       "handle": "noah1art",
       "url": "https://www.instagram.com/noah1art/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DANlz-ZyAy1",
+          "url": "https://www.instagram.com/noah1art/reel/DANlz-ZyAy1/",
+          "published_at": "2024-09-22T08:17:27.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DANlz-ZyAy1-1"
+          ]
+        },
+        {
+          "shortcode": "DACx40PyHxj",
+          "url": "https://www.instagram.com/noah1art/p/DACx40PyHxj/",
+          "published_at": "2024-09-18T03:29:06.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DACx40PyHxj-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DANlz-ZyAy1",
+        "DACx40PyHxj"
+      ],
+      "latest_two_selection_evidence": "No pins in first six; latest two original dates individually checked. Both captions explicitly identify client and production house."
     },
     {
       "handle": "nonotakstudio",
@@ -7202,8 +7295,8 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 291,
-  "imported_media": 292,
+  "imported_posts": 297,
+  "imported_media": 298,
   "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
