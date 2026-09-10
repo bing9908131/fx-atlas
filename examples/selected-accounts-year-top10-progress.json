@@ -3648,7 +3648,7 @@
           "shortcode": "DcQ9bFfjKyQ",
           "url": "https://www.instagram.com/futuredeluxe/p/DcQ9bFfjKyQ/",
           "published_at": "2026-08-20T14:18:18.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcQ9bFfjKyQ-1"
           ]
@@ -3657,7 +3657,7 @@
           "shortcode": "Db-9tP6CBTW",
           "url": "https://www.instagram.com/futuredeluxe/p/Db-9tP6CBTW/",
           "published_at": "2026-08-13T14:34:27.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Db-9tP6CBTW-1"
           ]
@@ -3679,7 +3679,7 @@
           "shortcode": "DdEgtLAuoOB",
           "url": "https://www.instagram.com/fvckrender/reel/DdEgtLAuoOB/",
           "published_at": "2026-09-09T14:48:44.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdEgtLAuoOB-1"
           ]
@@ -3688,7 +3688,7 @@
           "shortcode": "Dc_4Ywvj1pH",
           "url": "https://www.instagram.com/fvckrender/p/Dc_4Ywvj1pH/",
           "published_at": "2026-09-07T19:38:36.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-Dc_4Ywvj1pH-1"
           ]
@@ -3710,7 +3710,7 @@
           "shortcode": "DaAoqJ_i8NV",
           "url": "https://www.instagram.com/fwiedel/reel/DaAoqJ_i8NV/",
           "published_at": "2026-06-25T13:07:05.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DaAoqJ_i8NV-1"
           ]
@@ -3719,7 +3719,7 @@
           "shortcode": "DZuQPu9Ajo3",
           "url": "https://www.instagram.com/fwiedel/p/DZuQPu9Ajo3/",
           "published_at": "2026-06-18T09:46:34.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZuQPu9Ajo3-1"
           ]
@@ -3741,7 +3741,7 @@
           "shortcode": "CgIURwqhGAq",
           "url": "https://www.instagram.com/ge.iiid/reel/CgIURwqhGAq/",
           "published_at": "2022-07-17T22:21:28.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CgIURwqhGAq-1"
           ]
@@ -3750,7 +3750,7 @@
           "shortcode": "CfkCBilBtV7",
           "url": "https://www.instagram.com/ge.iiid/reel/CfkCBilBtV7/",
           "published_at": "2022-07-03T20:09:16.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CfkCBilBtV7-1"
           ]
@@ -3766,50 +3766,162 @@
     {
       "handle": "gene_jiang",
       "url": "https://www.instagram.com/gene_jiang/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DLbp6svTPr0",
+          "url": "https://www.instagram.com/gene_jiang/p/DLbp6svTPr0/",
+          "published_at": "2025-06-28T05:05:48.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Screenshot shows purchased potted plants photographed at home, matching personal caption; no CG.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DLNMeeOTO5M",
+          "url": "https://www.instagram.com/gene_jiang/reel/DLNMeeOTO5M/",
+          "published_at": "2025-06-22T14:19:40.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Screenshot shows live-action phone footage of incense at a desk; 3D software only appears incidentally on monitor, not a CG reference clip.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DLbp6svTPr0",
+        "DLNMeeOTO5M"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six. Original post times June 28 and June 22 2025 checked; excludes both without older backfill."
     },
     {
       "handle": "general_definition",
       "url": "https://www.instagram.com/general_definition/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdG6g_FlUP7",
+          "url": "https://www.instagram.com/general_definition/p/DdG6g_FlUP7/",
+          "published_at": "2026-09-10T13:11:53.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdG6g_FlUP7-1"
+          ]
+        },
+        {
+          "shortcode": "DdEU0MANHQw",
+          "url": "https://www.instagram.com/general_definition/reel/DdEU0MANHQw/",
+          "published_at": "2026-09-09T13:04:32.000Z",
+          "status": "already_published",
+          "media_ids": [
+            "selectedyear-DdEU0MANHQw-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdG6g_FlUP7",
+        "DdEU0MANHQw"
+      ],
+      "latest_two_selection_evidence": "No pinned markers; original dates September 10 and September 9 2026 checked. Creator credits collaboration with Buck for Microsoft launch."
     },
     {
       "handle": "generativeartstudio",
       "url": "https://www.instagram.com/generativeartstudio/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdGSbqvmR6p",
+          "url": "https://www.instagram.com/generativeartstudio/p/DdGSbqvmR6p/",
+          "published_at": "2026-09-10T07:21:38.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdGSbqvmR6p-1"
+          ]
+        },
+        {
+          "shortcode": "DdENTYVmX1c",
+          "url": "https://www.instagram.com/generativeartstudio/p/DdENTYVmX1c/",
+          "published_at": "2026-09-09T11:58:20.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdENTYVmX1c-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdGSbqvmR6p",
+        "DdENTYVmX1c"
+      ],
+      "latest_two_selection_evidence": "Pinned April 22 2026, May 29 2026, September 24 2024 checked. Latest original dates September 10 and September 9 2026. Creator identifies AIArtwork; CGI versus AI workflow remains unverified, not labeled Houdini simulation."
     },
     {
       "handle": "georgieyanadesign",
       "url": "https://www.instagram.com/georgieyanadesign/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dc1FhqfDFNn",
+          "url": "https://www.instagram.com/georgieyanadesign/p/Dc1FhqfDFNn/",
+          "published_at": "2026-09-03T15:01:46.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots show real selfie/cat photos with career-advice text; captions discuss freelancing, not CG reference artwork.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcOY4c_DBpj",
+          "url": "https://www.instagram.com/georgieyanadesign/p/DcOY4c_DBpj/",
+          "published_at": "2026-08-19T14:20:31.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Public screenshots show real selfie/cat photos with career-advice text; captions discuss freelancing, not CG reference artwork.",
+          "media_ids": []
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dc1FhqfDFNn",
+        "DcOY4c_DBpj"
+      ],
+      "latest_two_selection_evidence": "Latest September 3 and August 19 2026; pins July 7 2026, July 6 2026, October 10 2023 checked. No older backfill."
     },
     {
       "handle": "ginawangya",
       "url": "https://www.instagram.com/ginawangya/",
-      "status": "pending_latest_two_selection",
+      "status": "private_profile_unavailable",
       "posts": [],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [],
+      "selection_blocked": true,
+      "latest_two_selection_evidence": "Public Instagram profile explicitly says 此個人檔案不公開 and exposes zero post links. No follow request sent."
     },
     {
       "handle": "gmunk",
       "url": "https://www.instagram.com/gmunk/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEnHEXPH5I",
+          "url": "https://www.instagram.com/gmunk/reel/DdEnHEXPH5I/",
+          "published_at": "2026-09-09T15:44:57.000Z",
+          "status": "excluded_non_cg",
+          "cg_review": "Creator explicitly describes real flames filmed through physical glass and mapped to stage sphere; screenshot confirms practical footage/stage presentation, not CG fire simulation.",
+          "media_ids": []
+        },
+        {
+          "shortcode": "DcOkB_2PsE1",
+          "url": "https://www.instagram.com/gmunk/reel/DcOkB_2PsE1/",
+          "published_at": "2026-08-19T15:59:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DcOkB_2PsE1-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEnHEXPH5I",
+        "DcOkB_2PsE1"
+      ],
+      "latest_two_selection_evidence": "No pinned markers in first six. Latest original dates September 9 and August 19 2026 checked. Practical fire excluded without backfill; TRON data visualization pending analysis."
     },
     {
       "handle": "goodboixian",
@@ -5292,9 +5404,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 175,
-  "imported_media": 176,
-  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 179,
+  "imported_media": 180,
+  "last_check_note": "Latest-two intake: 4 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
