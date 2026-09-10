@@ -201,7 +201,7 @@ function inFilterScope(i){
  return (!selectedAccount||accountItemIds.get(selectedAccount)?.has(i.id))&&(mediaType==='all'||i.type===mediaType)&&(!selected||(i.styles||[]).some(s=>s.id===selected))&&(source==='all'||(source==='saved'?i.saved:i.group===source))&&(collection==='all'||i.collection===collection);
 }
 const inspirationMaterials=new Set(['metal','metallic','glass','cloth','fabric','silk','wood','stone','plastic','rubber','leather','ceramic','liquid','transparent','translucent','reflective','glossy','matte','rough surface','polished metal','brushed metal','iridescent']);
-let initialQuery='橘色';
+let initialQuery='';
 function inspirationQueries(pool){
  const queries={color:new Set(),material:new Set(),both:new Set()};
  const phrase=t=>{const w=String(t.zh||t.en).trim();return /[\s",，、]/.test(w)?'"'+w.replace(/"/g,'')+'"':w};
