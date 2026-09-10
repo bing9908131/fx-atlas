@@ -920,34 +920,126 @@
     {
       "handle": "aaroncovrett",
       "url": "https://www.instagram.com/aaroncovrett/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DdEU0MANHQw",
+          "url": "https://www.instagram.com/general_definition/reel/DdEU0MANHQw/",
+          "published_at": "2026-09-09T13:04:32.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdEU0MANHQw-1"
+          ]
+        },
+        {
+          "shortcode": "DdBwRD8lZ7M",
+          "url": "https://www.instagram.com/general_definition/p/DdBwRD8lZ7M/",
+          "published_at": "2026-09-08T13:06:07.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DdBwRD8lZ7M-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DdEU0MANHQw",
+        "DdBwRD8lZ7M"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "abraham___3",
       "url": "https://www.instagram.com/abraham___3/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DUGxKcrjJLE",
+          "url": "https://www.instagram.com/abraham___3/p/DUGxKcrjJLE/",
+          "published_at": "2026-01-29T19:07:37.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUGxKcrjJLE-1"
+          ]
+        },
+        {
+          "shortcode": "DUBQIQ8DUv9",
+          "url": "https://www.instagram.com/abraham___3/reel/DUBQIQ8DUv9/",
+          "published_at": "2026-01-27T15:44:49.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DUBQIQ8DUv9-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DUGxKcrjJLE",
+        "DUBQIQ8DUv9"
+      ],
+      "latest_two_selection_evidence": "Pinned DJkPps8t7m1 dated 2025-05-12; Cg4dKzzKhcq dated 2022-08-05. Latest nonpinned January 29 and 27, 2026."
     },
     {
       "handle": "aether3.0",
       "url": "https://www.instagram.com/aether3.0/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "C0JooztSNlb",
+          "url": "https://www.instagram.com/aether3.0/p/C0JooztSNlb/",
+          "published_at": "2023-11-27",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-C0JooztSNlb-1"
+          ]
+        },
+        {
+          "shortcode": "CzYhrN7yqD9",
+          "url": "https://www.instagram.com/aether3.0/p/CzYhrN7yqD9/",
+          "published_at": "2023-11-08",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-CzYhrN7yqD9-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "C0JooztSNlb",
+        "CzYhrN7yqD9"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned profile posts; dates explicitly shown in image alt text. Latest-two rule has no active year window."
     },
     {
       "handle": "agovik",
       "url": "https://www.instagram.com/agovik/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZKmIB2ofKI",
+          "url": "https://www.instagram.com/agovik/reel/DZKmIB2ofKI/",
+          "published_at": "2026-06-04T13:26:11.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZKmIB2ofKI-1"
+          ]
+        },
+        {
+          "shortcode": "DYm59OeIYQs",
+          "url": "https://www.instagram.com/agovik/reel/DYm59OeIYQs/",
+          "published_at": "2026-05-21T16:47:33.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DYm59OeIYQs-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZKmIB2ofKI",
+        "DYm59OeIYQs"
+      ],
+      "latest_two_selection_evidence": "Profile first two entries have no pinned icon; exact post dates read individually."
     },
     {
       "handle": "alexander.stepnoy",
@@ -3206,9 +3298,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 18,
-  "imported_media": 19,
-  "last_check_note": "Latest-two intake: 2 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 26,
+  "imported_media": 27,
+  "last_check_note": "Latest-two intake: 8 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
