@@ -215,4 +215,4 @@ Marvel|漫威|marvel,漫威
 VMGROUPE|VMGROUPE|vmgroupe,vm groupe
 Input Club|Input Club|Input Club Barcelona,inputdanceclub
 Casa Batlló|巴特婁之家|Casa Batllo,casabatllocontemporary
-Plenty|Plenty|Plenty vertical farming
+Plenty|Plenty|plenty,Plenty vertical farming
