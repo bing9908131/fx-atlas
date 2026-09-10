@@ -8444,7 +8444,7 @@
           "shortcode": "DZpti-dsS6Q",
           "url": "https://www.instagram.com/thanu_lee/reel/DZpti-dsS6Q/",
           "published_at": "2026-06-16T15:27:40.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZpti-dsS6Q-1"
           ]
@@ -8453,7 +8453,7 @@
           "shortcode": "DZchzsTMA6f",
           "url": "https://www.instagram.com/thanu_lee/reel/DZchzsTMA6f/",
           "published_at": "2026-06-11T12:35:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DZchzsTMA6f-1"
           ]
@@ -8483,7 +8483,7 @@
           "shortcode": "CLe1kSglPQf",
           "url": "https://www.instagram.com/theberd/p/CLe1kSglPQf/",
           "published_at": "2021-02-19T17:16:06.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-CLe1kSglPQf-1"
           ]
@@ -8505,7 +8505,7 @@
           "shortcode": "DdHI4h_K_Vv",
           "url": "https://www.instagram.com/therealentagma/reel/DdHI4h_K_Vv/",
           "published_at": "2026-09-10T15:29:03.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DdHI4h_K_Vv-1"
           ]
@@ -8514,7 +8514,7 @@
           "shortcode": "DcWJI26qrEa",
           "url": "https://www.instagram.com/therealentagma/reel/DcWJI26qrEa/",
           "published_at": "2026-08-22T14:46:39.000Z",
-          "status": "published_pending_analysis",
+          "status": "already_published",
           "media_ids": [
             "selectedyear-DcWJI26qrEa-1"
           ]
@@ -8530,26 +8530,95 @@
     {
       "handle": "thevirtualcinematographer",
       "url": "https://www.instagram.com/thevirtualcinematographer/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DMqNtoioCNA",
+          "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMqNtoioCNA/",
+          "published_at": "2025-07-28T17:20:12.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMqNtoioCNA-1"
+          ]
+        },
+        {
+          "shortcode": "DMIub1Sodxy",
+          "url": "https://www.instagram.com/thevirtualcinematographer/reel/DMIub1Sodxy/",
+          "published_at": "2025-07-15T17:11:52.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DMIub1Sodxy-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DMqNtoioCNA",
+        "DMIub1Sodxy"
+      ],
+      "latest_two_selection_evidence": "First two nonpinned posts; exact dates read. Author identifies own commissioned lighting work; first mixed reaction/CG excerpt requires later sequence filtering, second explicit UE lighting design."
     },
     {
       "handle": "thomas_dubois_art",
       "url": "https://www.instagram.com/thomas_dubois_art/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "Dcgv0BziFqr",
+          "url": "https://www.instagram.com/thomas_dubois_art/p/Dcgv0BziFqr/",
+          "published_at": "2026-08-26T17:27:13.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Dcgv0BziFqr-1"
+          ]
+        },
+        {
+          "shortcode": "Db_AtvTCMiO",
+          "url": "https://www.instagram.com/thomas_dubois_art/p/Db_AtvTCMiO/",
+          "published_at": "2026-08-13T15:00:44.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-Db_AtvTCMiO-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "Dcgv0BziFqr",
+        "Db_AtvTCMiO"
+      ],
+      "latest_two_selection_evidence": "Three older pins skipped; exact latest unpinned dates read. Cinematic artwork and process slides; 3D versus painted components not established, explicitly pending medium review."
     },
     {
       "handle": "thomas_pomarelle",
       "url": "https://www.instagram.com/thomas_pomarelle/",
-      "status": "pending_latest_two_selection",
-      "posts": [],
+      "status": "latest_two_published_analysis_pending",
+      "posts": [
+        {
+          "shortcode": "DZ61O9oIGtn",
+          "url": "https://www.instagram.com/thomas_pomarelle/reel/DZ61O9oIGtn/",
+          "published_at": "2026-06-23T07:00:16.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DZ61O9oIGtn-1"
+          ]
+        },
+        {
+          "shortcode": "DW4KBTfjZGJ",
+          "url": "https://www.instagram.com/thomas_pomarelle/p/DW4KBTfjZGJ/",
+          "published_at": "2026-04-08T16:30:09.000Z",
+          "status": "published_pending_analysis",
+          "media_ids": [
+            "selectedyear-DW4KBTfjZGJ-1"
+          ]
+        }
+      ],
       "previous_status": "pending",
-      "latest_two_shortcodes": []
+      "latest_two_shortcodes": [
+        "DZ61O9oIGtn",
+        "DW4KBTfjZGJ"
+      ],
+      "latest_two_selection_evidence": "Latest unpinned June and April 2026; Heavy Metal pin date checked February 2026, other pins older. AC-04 names Cinema4D plus AI tools: mixed process remains unverified, not asserted fully CG."
     },
     {
       "handle": "tomarena_",
@@ -8784,9 +8853,9 @@
       "latest_two_shortcodes": []
     }
   ],
-  "imported_posts": 390,
-  "imported_media": 391,
-  "last_check_note": "Latest-two intake: 5 new pending post previews; carousel expansion and CG analysis pending.",
+  "imported_posts": 396,
+  "imported_media": 397,
+  "last_check_note": "Latest-two intake: 6 new pending post previews; carousel expansion and CG analysis pending.",
   "policy_history": [
     {
       "policy": {
