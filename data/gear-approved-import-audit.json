@@ -1,0 +1,1227 @@
+{
+  "captured_posts": 135,
+  "imported_posts": 78,
+  "imported_media": 149,
+  "remaining_uncaptured": 213,
+  "items": [
+    {
+      "post_id": "DZvZOkxgDqo",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DZvZOkxgDqo-1"
+    },
+    {
+      "post_id": "Db09VCiInY-",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Db09VCiInY--1"
+    },
+    {
+      "post_id": "DTkETVECC3o",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DTkETVECC3o-1"
+    },
+    {
+      "post_id": "Db8fD1uRYId",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Db8fD1uRYId-1"
+    },
+    {
+      "post_id": "CrQB-SrLyLF",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CrQB-SrLyLF-1"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-1"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 2,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 3,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-4"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-5"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-6"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-7"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 8,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-8"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 9,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-9"
+    },
+    {
+      "post_id": "DVOn3JpiAES",
+      "media_index": 10,
+      "status": "imported",
+      "id": "gear-DVOn3JpiAES-10"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-1"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-2"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-3"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-4"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-5"
+    },
+    {
+      "post_id": "DMXveWZSOjJ",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DMXveWZSOjJ-6"
+    },
+    {
+      "post_id": "DTkmBh0E-ST",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DTkmBh0E-ST-1"
+    },
+    {
+      "post_id": "C0trc2qsO8D",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "Dahw9RQJPMC",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DWi-j5WjFGR",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DUSwVNeip0e",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DUSwVNeip0e-1"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-1"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-2"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-3"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-4"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-5"
+    },
+    {
+      "post_id": "DMkmebvSwzc",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DMkmebvSwzc-6"
+    },
+    {
+      "post_id": "DU0q8fkjHVO",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DMGL53AvV-y",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DS5XcQNjCCb",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DS-HqR4kjFS",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DS-HqR4kjFS-1"
+    },
+    {
+      "post_id": "DYKD6p-v9CP",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DYKD6p-v9CP-1"
+    },
+    {
+      "post_id": "DcHMIb5xfDH",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcHMIb5xfDH-1"
+    },
+    {
+      "post_id": "DX7q2a3l6NG",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DcjYkIPDsKL",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcjYkIPDsKL-1"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-1"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 2,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-3"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-4"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-5"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-6"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-7"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 8,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-8"
+    },
+    {
+      "post_id": "DTcgQa8lAJP",
+      "media_index": 9,
+      "status": "imported",
+      "id": "gear-DTcgQa8lAJP-9"
+    },
+    {
+      "post_id": "Dc0TNRmpn2C",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DOHD4DlClH4",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DVtF-_9jhW4",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DVtF-_9jhW4-1"
+    },
+    {
+      "post_id": "DYaMNT7NLtm",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-1"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-2"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-3"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-4"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-5"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-6"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DVLGrXOkdNq-7"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 8,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DVLGrXOkdNq",
+      "media_index": 9,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DbLs4sDCcD6",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DMKuTkkMj0B",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DMKuTkkMj0B-1"
+    },
+    {
+      "post_id": "DMKuTkkMj0B",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DMKuTkkMj0B-2"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DVI8QZhCg66-1"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 2,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DVI8QZhCg66-3"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DVI8QZhCg66-4"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DVI8QZhCg66-5"
+    },
+    {
+      "post_id": "DVI8QZhCg66",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DVI8QZhCg66-6"
+    },
+    {
+      "post_id": "DW0LxgwEfkT",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DW0LxgwEfkT-1"
+    },
+    {
+      "post_id": "DXuA44hDVAH",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DXuA44hDVAH-1"
+    },
+    {
+      "post_id": "DSwYzhLDn0n",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "Dbn9nj4iGjH",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Dbn9nj4iGjH-1"
+    },
+    {
+      "post_id": "Dbn9nj4iGjH",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-Dbn9nj4iGjH-2"
+    },
+    {
+      "post_id": "Dbn9nj4iGjH",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-Dbn9nj4iGjH-3"
+    },
+    {
+      "post_id": "Dbn9nj4iGjH",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-Dbn9nj4iGjH-4"
+    },
+    {
+      "post_id": "Dbn9nj4iGjH",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-Dbn9nj4iGjH-5"
+    },
+    {
+      "post_id": "DZ-Awmplkwb",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-1"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-2"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-3"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-4"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-5"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-6"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-7"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 8,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-8"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 9,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-9"
+    },
+    {
+      "post_id": "DSLUjRuiA22",
+      "media_index": 10,
+      "status": "imported",
+      "id": "gear-DSLUjRuiA22-10"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-1"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 2,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-3"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 4,
+      "status": "missing_individual_cover"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-5"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-6"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-7"
+    },
+    {
+      "post_id": "DZaZBEsDXN9",
+      "media_index": 8,
+      "status": "imported",
+      "id": "gear-DZaZBEsDXN9-8"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-1"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-2"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-3"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-4"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-5"
+    },
+    {
+      "post_id": "DcmKx6YgqjP",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DcmKx6YgqjP-6"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-1"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-2"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-3"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-4"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-5"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 6,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-6"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 7,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-7"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 8,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-8"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 9,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-9"
+    },
+    {
+      "post_id": "DcP7rfmDaWi",
+      "media_index": 10,
+      "status": "imported",
+      "id": "gear-DcP7rfmDaWi-10"
+    },
+    {
+      "post_id": "DasiZr4E21L",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DasiZr4E21L-1"
+    },
+    {
+      "post_id": "DasiZr4E21L",
+      "media_index": 2,
+      "status": "imported",
+      "id": "gear-DasiZr4E21L-2"
+    },
+    {
+      "post_id": "DasiZr4E21L",
+      "media_index": 3,
+      "status": "imported",
+      "id": "gear-DasiZr4E21L-3"
+    },
+    {
+      "post_id": "DasiZr4E21L",
+      "media_index": 4,
+      "status": "imported",
+      "id": "gear-DasiZr4E21L-4"
+    },
+    {
+      "post_id": "DasiZr4E21L",
+      "media_index": 5,
+      "status": "imported",
+      "id": "gear-DasiZr4E21L-5"
+    },
+    {
+      "post_id": "DbdDx9uReZ8",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DbdDx9uReZ8-1"
+    },
+    {
+      "post_id": "DGAbQDTTRVy",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DGAbQDTTRVy-1"
+    },
+    {
+      "post_id": "Dc-k0aBJD0B",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Dc-k0aBJD0B-1"
+    },
+    {
+      "post_id": "DaxJyULM6T-",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DcEhWGyNXiQ",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcEhWGyNXiQ-1"
+    },
+    {
+      "post_id": "DcEHXAiAs_0",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcEHXAiAs_0-1"
+    },
+    {
+      "post_id": "DVt4duAmDtm",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DVt4duAmDtm-1"
+    },
+    {
+      "post_id": "DbcnISqgcbM",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "C2PUOOfvkaX",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "CyjC6eixIRX",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "Db8gH_bMClT",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Db8gH_bMClT-1"
+    },
+    {
+      "post_id": "DX_vTy4jq4E",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DX_vTy4jq4E-1"
+    },
+    {
+      "post_id": "DbvU9nuIHqE",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DYC2J-DCRym",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DcBmq86oq5u",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcBmq86oq5u-1"
+    },
+    {
+      "post_id": "DV8RWVDAS9k",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DV8RWVDAS9k-1"
+    },
+    {
+      "post_id": "DQJHOD6D6a-",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DQJHOD6D6a--1"
+    },
+    {
+      "post_id": "DbX1nyItQTR",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DbX1nyItQTR-1"
+    },
+    {
+      "post_id": "Db711ROz5Et",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Db711ROz5Et-1"
+    },
+    {
+      "post_id": "C9C0Le9tEIs",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-C9C0Le9tEIs-1"
+    },
+    {
+      "post_id": "DcJFuqcM75F",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DaSJLHaSl9U",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DciN-pdqMIl",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DciN-pdqMIl-1"
+    },
+    {
+      "post_id": "DaFz7FUpa4S",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DaFz7FUpa4S-1"
+    },
+    {
+      "post_id": "Db8e4oLx2CL",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Db8e4oLx2CL-1"
+    },
+    {
+      "post_id": "CM09GpDJCYn",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CM09GpDJCYn-1"
+    },
+    {
+      "post_id": "DBwYbwOvhTW",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DDhFYc2TalO",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DSTFmWEDxCP",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DV4pkjCCoLY",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DLDX1QgKffd",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DLDX1QgKffd-1"
+    },
+    {
+      "post_id": "CCoIWrnJpoJ",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DTRfudNlfZU",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DUJTRzKjPXH",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "CIi5VH4BE6H",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CIi5VH4BE6H-1"
+    },
+    {
+      "post_id": "DT2ZdaogjPU",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DRcOD3sD-rC",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "CNFXsBwqL7O",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CNFXsBwqL7O-1"
+    },
+    {
+      "post_id": "CvPTUsLuiKR",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "B9WwfU8Hf8R",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "C3KZ7kTp5WO",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-C3KZ7kTp5WO-1"
+    },
+    {
+      "post_id": "CVxki-QgPiU",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CVxki-QgPiU-1"
+    },
+    {
+      "post_id": "DOTY25BEhYZ",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "C4qlmlNtkob",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DdEexdxyH-u",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DXhfyBSDu_X",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DVuxZFAEpMr",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DXHH46sj5wk",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DXHH46sj5wk-1"
+    },
+    {
+      "post_id": "DbIoxxOBWm4",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DbU1tlEC-SL",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "Dck-S3rzHSl",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Dck-S3rzHSl-1"
+    },
+    {
+      "post_id": "DSkr35YkRV6",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DSkr35YkRV6-1"
+    },
+    {
+      "post_id": "DRbe964kiQw",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DRbe964kiQw-1"
+    },
+    {
+      "post_id": "DYWzntZN1tH",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DYWzntZN1tH-1"
+    },
+    {
+      "post_id": "DcPFD69P_TS",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcPFD69P_TS-1"
+    },
+    {
+      "post_id": "Db2yuTAKYNX",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DPjIPKnE7LM",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DbOA81wJKs_",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DbOA81wJKs_-1"
+    },
+    {
+      "post_id": "DGBDdpeNebN",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DcQ-yOihM8u",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DL5InixNAO3",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "CaSgkiRqEuz",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DQIv3-iCSYV",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DQIv3-iCSYV-1"
+    },
+    {
+      "post_id": "DbecihKv8Iq",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DbecihKv8Iq-1"
+    },
+    {
+      "post_id": "Dcs_-kDMrot",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DK_wXY_sgbz",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DK_wXY_sgbz-1"
+    },
+    {
+      "post_id": "DMu2MKJvC9c",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DMu2MKJvC9c-1"
+    },
+    {
+      "post_id": "CzwXKaoKJdD",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CzwXKaoKJdD-1"
+    },
+    {
+      "post_id": "C-L4Wv7qiQF",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-C-L4Wv7qiQF-1"
+    },
+    {
+      "post_id": "Cta5Y-RtkN6",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-Cta5Y-RtkN6-1"
+    },
+    {
+      "post_id": "DcoNuS1M9zs",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DcoNuS1M9zs-1"
+    },
+    {
+      "post_id": "DUsP2ikjuhx",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DUsP2ikjuhx-1"
+    },
+    {
+      "post_id": "C8jf63MMyab",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-C8jf63MMyab-1"
+    },
+    {
+      "post_id": "CODETd-pXqs",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-CODETd-pXqs-1"
+    },
+    {
+      "post_id": "DXwbcKWtp3k",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DAtYMk5srtv",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DAtYMk5srtv-1"
+    },
+    {
+      "post_id": "C-N9NSTvpnw",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-C-N9NSTvpnw-1"
+    },
+    {
+      "post_id": "DYUzPySDHiG",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DUKdlbXEsM3",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DUKdlbXEsM3-1"
+    },
+    {
+      "post_id": "DPeU7ZgDNtj",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DPeU7ZgDNtj-1"
+    },
+    {
+      "post_id": "C8NDIufJ_SX",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DSpRNWLD_ia",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DZaq5V8lcfB",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DZaq5V8lcfB-1"
+    },
+    {
+      "post_id": "DBTsFfKJ9LC",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DBTsFfKJ9LC-1"
+    },
+    {
+      "post_id": "DV9F8QFjamA",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DV9F8QFjamA-1"
+    },
+    {
+      "post_id": "DctT6PXNHEg",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DctT6PXNHEg-1"
+    },
+    {
+      "post_id": "DXMjsMhjBLZ",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DXMjsMhjBLZ-1"
+    },
+    {
+      "post_id": "DSrggm9k46r",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DLiW7dfzT6j",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DPMHHftAoFZ",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DTbRJY2Es5d",
+      "media_index": 1,
+      "status": "imported",
+      "id": "gear-DTbRJY2Es5d-1"
+    },
+    {
+      "post_id": "DZwDKX7PdXq",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DSj_IpUEyK6",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DF74zJ7pyW2",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    },
+    {
+      "post_id": "DW1mXy1jLHZ",
+      "status": "excluded_or_pending",
+      "reason": "原文為轉貼、實拍、其他產品／主題，或不足以確認本次電腦周邊 CG 內容。"
+    }
+  ]
+}
