@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2690,
+  "total": 2696,
   "unclassified": 0,
   "counts": {
     "graphic": 660,
-    "product": 942,
+    "product": 948,
     "organic": 608,
     "geometric": 923,
     "scifi": 349,
@@ -2215,6 +2215,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單張1350x1688 IMG三格拼圖，無video無Next。上格暗色地面與人物，中格燃燒建築角色剪影，下格防護面罩人物抱人。火焰外觀確認但沒有時間序列，不標擴散、爆炸或燃燒動作，不推測pyro求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第1項靜態圖，1080x1350。兩段黑色圓弧外殼在灰背景中斜向交錯，展示接縫與細緻表面。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
           ],
           "matched_tags": []
         }
@@ -16321,6 +16338,91 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第六項靜態圖，無video、只有返回確認總共6項。可讀Cash App、Red Bull、Ford Racing、VISA、Pirelli P ZERO字樣；不推測賽車型號，P ZERO為輪胎可見字樣。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第2項靜態圖，1080x1350。青色光照下的產品面板，雙圓輪廓凹槽邊緣呈現明亮反射。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第3項靜態圖，1080x1350。黑色機殼的狹長凹槽、突出滑鍵與孔洞近景，斜向光線勾勒表面。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第4項靜態圖，1080x1350。上方穿孔金屬外蓋與下方黑色內部機殼分離展示，青色背景。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第5項靜態圖，1080x1350。黑色圓弧表面與平面交接，接縫和深色凹部構成簡潔幾何畫面。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzmDcxnNl1p-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際逐次點選第6項靜態圖，1080x1350。青綠反射的密集圓孔面板位於黑色圓角外殼上方，呈現細孔排列與邊角。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
           ],
           "matched_tags": []
         }
