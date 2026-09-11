@@ -5793,10 +5793,12 @@
           "shortcode": "DYSNyhYR7xO",
           "url": "https://www.instagram.com/saga___cg/reel/DYSNyhYR7xO/",
           "published_at": "2026-05-13T16:00:37.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DYSNyhYR7xO-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
