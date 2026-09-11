@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2696,
+  "total": 2697,
   "unclassified": 0,
   "counts": {
     "graphic": 660,
-    "product": 948,
+    "product": 949,
     "organic": 608,
     "geometric": 923,
     "scifi": 349,
@@ -4251,6 +4251,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.917秒發光金色網狀球，7.222秒切換到透明金色液滴狀長絲；僅確認鏡頭切換。作者明示2024年任職Ars Thanea期間参与SK-II LXP品牌專案，從研發到最終視覺；全程Houdini與Redshift。六項逐一觀看，末項無下一步。不猜具體LXP子產品型號，也不把本篇推定Pyro/Vellum。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcKN9Mls88P-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支1080x1920、12.433333秒影片，頁面沒有輪播下一步。0.012紅色皇冠蓋與透明帶淡綠玻璃，0.879/1.752鏡頭下移露出棕色液面細泡；2.625/3.512/4.365沿瓶身拉遠，水珠附著玻璃，紅白Logo標籤逐漸進入畫面；5.249/6.172瓶身轉向靠右；7.512淡紅Always.文字，8.572變為實紅並停留至11.791。全段為乾淨白背景產品CG畫面，並非現場螢幕拍攝。不由水珠推定流動/噴濺/碰撞，不推定模擬器。"
           ],
           "matched_tags": []
         }
