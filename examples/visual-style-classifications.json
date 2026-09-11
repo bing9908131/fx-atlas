@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2590,
+  "total": 2594,
   "unclassified": 0,
   "counts": {
-    "graphic": 631,
+    "graphic": 635,
     "product": 890,
     "organic": 585,
     "geometric": 909,
@@ -1830,6 +1830,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "25.258666秒9/16單支CG產品片。0.464586/1.381641/2.321373/3.264115三件橘色軟管與瓶身成組懸浮，取景逐漸拉遠、光線由暗轉亮；4.208884/5.169362四顆透明琥珀乳白球漂浮位置改變；6.033724已黏合成不規則團塊，6.974521/7.917652平滑成乳白球；8.844098琥珀球由左上接近，10.265866兩球分離，11.204428/12.136456近拍間隙縮小，13.053781/13.97355出現連接頸部，14.922823連接擴大；15.927376兩球相黏，16.858023/17.747198收成起伏團塊，18.641187/19.695513/20.598777趨於球形，21.486036文字，24.960718品牌片尾。可辨微氣泡、球內小分子造型、透光膠體、乳霜質感及包裝；無米粒實物、潑濺、煙火、破碎或水面波紋證據，不猜FLIP/Vellum/Houdini，也不把成分抽象球當作真實化學反應。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dbn1DMBDMjb-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.98與1.97秒粉紅JAZZ條紋長度與位置改變；2.97秒切黃綠青色，7.04粉紅字面彎曲，8.11與9.19黃綠字形中線條間距變化。 已逐項查看6項，最後僅返回。未推定Cavalry或其他軟體，也不把字體波動標成水或布料模擬。"
           ],
           "matched_tags": []
         }
@@ -14021,6 +14038,57 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.873136/2.732017保濕瓶拉遠，包裝SHINE CONTROL WEIGHTLESS MOISTURIZER；3.590117球在液面上方，4.42224靠近5.261349接觸6.104675融合頸部6.966716融入平滑表面；7.821299/8.690824/9.035142/9.866635/10.726685/11.585005乳霜團塊起伏逐漸收圓，12.443739文字14.14676品牌。沒有噴濺或明確環形漣漪。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dbn1DMBDMjb-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.74秒JAZZ橘紫字形向下延長；4.93秒粉紅字列轉向斜透視，線條呈放射展開；6.14秒2026黃綠粉色數字正面。 已逐項查看6項，最後僅返回。未推定Cavalry或其他軟體，也不把字體波動標成水或布料模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dbn1DMBDMjb-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.83秒橘色BIRD在下方，上方留黑；2.72秒頂端EARLY細線開始出現；3.62秒黃綠EARLY完整，BIRD退去，兩端字形交替延展收縮。 已逐項查看6項，最後僅返回。未推定Cavalry或其他軟體，也不把字體波動標成水或布料模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dbn1DMBDMjb-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.35Burna Boy，2.14Adekunle Gold，3.94Thundercat，5.72Sienna Spiro，7.50Q-Tet；11.22與12.21同一De La Soul照片下方文字由紅色彎曲線條改為黃綠青色直立長字；13.20Giveon、14.23Anais肖像。照片切換不視為人體變形，照片服裝不當作CG材質。 已逐項查看6項，最後僅返回。未推定Cavalry或其他軟體，也不把字體波動標成水或布料模擬。"
           ],
           "matched_tags": []
         }

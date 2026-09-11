@@ -9122,10 +9122,18 @@
           "shortcode": "Dbn1DMBDMjb",
           "url": "https://www.instagram.com/studiodumbar/p/Dbn1DMBDMjb/",
           "published_at": "2026-08-04T14:56:16.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dbn1DMBDMjb-1"
-          ]
+            "selectedyear-Dbn1DMBDMjb-1",
+            "selectedyear-Dbn1DMBDMjb-2",
+            "selectedyear-Dbn1DMBDMjb-4",
+            "selectedyear-Dbn1DMBDMjb-6"
+          ],
+          "excluded_media_indices": [
+            3,
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dba8vRtDIlM",
