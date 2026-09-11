@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2752,
+  "total": 2753,
   "unclassified": 0,
   "counts": {
     "graphic": 688,
-    "product": 973,
-    "organic": 618,
+    "product": 974,
+    "organic": 619,
     "geometric": 933,
     "scifi": 355,
     "effects": 241
@@ -2474,6 +2474,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "6.080和6.246秒粉米色條帶中段較水平；8.395秒左側粉米色團塊突出且中間輪廓分化。可確認外觀形態變化，不確定為實際生長或鏡頭重建變化。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZlsmXwTTgT-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732766單支9.733333秒1080x1920。0.094–2.694橘色蜂巢網殼與金屬錶圈相對旋轉；3.411橘色錶帶孔洞細節；4.134–4.841兩錶帶交錯扭轉彎曲；先前5.825/6.528加本次7.450/8.269透明琥珀色液團表面流動改變形狀；9.081微距小液滴成串漂移，9.458透明界面。不是煙火、布料或已證實的特定solver，未加入該等標籤。對照Chrome1519732769作者Hublot官方作品圖、1519732772作者L’Oréal專案首段。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732766單支9.733333秒1080x1920。0.094–2.694橘色蜂巢網殼與金屬錶圈相對旋轉；3.411橘色錶帶孔洞細節；4.134–4.841兩錶帶交錯扭轉彎曲；先前5.825/6.528加本次7.450/8.269透明琥珀色液團表面流動改變形狀；9.081微距小液滴成串漂移，9.458透明界面。不是煙火、布料或已證實的特定solver，未加入該等標籤。對照Chrome1519732769作者Hublot官方作品圖、1519732772作者L’Oréal專案首段。"
           ],
           "matched_tags": []
         }
