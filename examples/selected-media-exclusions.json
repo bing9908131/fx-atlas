@@ -2149,5 +2149,31 @@
     "caption_evidence": "作者原始貼文明示Artwork & Music by Lucas Zanotto，為原創抽象角色動畫，畫面與正文沒有品牌產品，不聲稱商業委託。",
     "evidence": "單影片1080x1920，15.999999秒。0.20/1.79/3.39/4.98與10.04/11.62/13.19/14.76秒兩隻橘紅腳輪流離地、落地，深綠膠囊連接體改變角度，粉色球头弧線從下方轉上方再回來。整體位置近乎固定，標踏步循環不宣稱沿道路前進；沒有充氣、融化或碰撞解算器依據。 材質只描述表面外觀，不推定陶瓷成分或實體機械製作。",
     "reason": "原創個人動畫，無品牌使用證據；依使用者排除自行練習影片及須確認品牌採用的要求移除。不是非CG判定。"
+  },
+  {
+    "post_id": "Cvh4XaiNUkh",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "個人抽象 CG 創作，未確認品牌採用；依使用者排除未獲品牌採用之個人動畫的收錄條件移除。不是非 CG。",
+    "evidence": "2026-09-11 直接開啟 https://www.instagram.com/loudsqueak/reel/Cvh4XaiNUkh/ 核對原文及影片。作者討論時間、數學與數位創作；註明 hej_fund 音效合成與未發行單曲片段合作。 6.225218 秒畫面：彩色小球排列成凹凸波形表面，白色室內背景。 此次以用途判定排除，未宣稱完成全片動態標記。",
+    "duration_seconds": 20.033333,
+    "observed_times": [
+      6.225218
+    ],
+    "caption_evidence": "作者討論時間、數學與數位創作；註明 hej_fund 音效合成與未發行單曲片段合作。"
+  },
+  {
+    "post_id": "CuuUlSWso2m",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "個人抽象 CG 創作，未確認品牌採用；依使用者排除未獲品牌採用之個人動畫的收錄條件移除。不是非 CG。",
+    "evidence": "2026-09-11 直接開啟 https://www.instagram.com/loudsqueak/reel/CuuUlSWso2m/ 核對原文及影片。作者描述以重複數學運算創造數位生命；僅列 hej_fund 音效合作。 8.934308 秒畫面：彩色小球形成懸浮折疊片狀形體，下方可見地面倒影。 此次以用途判定排除，未宣稱完成全片動態標記。",
+    "duration_seconds": 22.243264,
+    "observed_times": [
+      8.934308
+    ],
+    "caption_evidence": "作者描述以重複數學運算創造數位生命；僅列 hej_fund 音效合作。"
   }
 ]

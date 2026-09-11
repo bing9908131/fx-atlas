@@ -6126,19 +6126,23 @@
           "shortcode": "Cvh4XaiNUkh",
           "url": "https://www.instagram.com/loudsqueak/reel/Cvh4XaiNUkh/",
           "published_at": "2023-08-04T16:37:42.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Cvh4XaiNUkh-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "CuuUlSWso2m",
           "url": "https://www.instagram.com/loudsqueak/reel/CuuUlSWso2m/",
           "published_at": "2023-07-15T16:00:39.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-CuuUlSWso2m-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
