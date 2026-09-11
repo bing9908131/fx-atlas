@@ -7483,10 +7483,12 @@
           "shortcode": "DcsnonjPbex",
           "url": "https://www.instagram.com/ohso0hwan/reel/DcsnonjPbex/",
           "published_at": "2026-08-31T08:07:31.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcsnonjPbex-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
