@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2530,
+  "total": 2532,
   "unclassified": 0,
   "counts": {
-    "graphic": 601,
+    "graphic": 602,
     "product": 865,
-    "organic": 567,
+    "organic": 568,
     "geometric": 907,
     "scifi": 333,
-    "effects": 212
+    "effects": 214
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2540,6 +2540,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "单支17.343854秒：1.275083 hello線框字；5.134381單曲線與圓形控制點；9.156378黑色細長J形；12.142233輪廓變為F形；12.908953灰色厚實R形，13.569409側向厚實字形；15.004611上下參數介面，中間灰白擠出造型。確認字形切換、輪廓形變及2D/3D展示，不將不同字母間的切換推定為同一物體旋轉或流體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPCUKodka2K-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.840634秒；.634986較短冰柱與電弧，1.830272冰晶叢更高密集；4.832199分枝晶體與局部電光；9.079966冰晶覆蓋畫面，10.000664電弧沿閃電標誌邊界、冰層解體，11.123159黑色球隊閃電標誌露出、周邊殘留冰塊。無輪播。未看見碰撞物體或燃燒，不加碰撞/爆炸/火焰；冰的形態變化不等於液體流動，未推定特定solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.840634秒；.634986較短冰柱與電弧，1.830272冰晶叢更高密集；4.832199分枝晶體與局部電光；9.079966冰晶覆蓋畫面，10.000664電弧沿閃電標誌邊界、冰層解體，11.123159黑色球隊閃電標誌露出、周邊殘留冰塊。無輪播。未看見碰撞物體或燃燒，不加碰撞/爆炸/火焰；冰的形態變化不等於液體流動，未推定特定solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DO6YIEqjTES-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.035736秒；.228961羽狀葉片部分覆霜，1.602536枝葉冰晶增厚；2.670483冰晶與電弧近景；4.628291大量碎屑離開表面，露出綠色羽狀葉片，電弧沿周圍閃現。無輪播。未看見碰撞物體或燃燒，不加碰撞/爆炸/火焰；冰的形態變化不等於液體流動，未推定特定solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.035736秒；.228961羽狀葉片部分覆霜，1.602536枝葉冰晶增厚；2.670483冰晶與電弧近景；4.628291大量碎屑離開表面，露出綠色羽狀葉片，電弧沿周圍閃現。無輪播。未看見碰撞物體或燃燒，不加碰撞/爆炸/火焰；冰的形態變化不等於液體流動，未推定特定solver。"
           ],
           "matched_tags": []
         }

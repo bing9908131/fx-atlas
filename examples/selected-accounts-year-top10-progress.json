@@ -6365,19 +6365,23 @@
           "shortcode": "DPCUKodka2K",
           "url": "https://www.instagram.com/markfancherfx/reel/DPCUKodka2K/",
           "published_at": "2025-09-25T19:00:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DPCUKodka2K-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DO6YIEqjTES",
           "url": "https://www.instagram.com/markfancherfx/reel/DO6YIEqjTES/",
           "published_at": "2025-09-22T17:00:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DO6YIEqjTES-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
