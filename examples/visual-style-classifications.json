@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2751,
+  "total": 2752,
   "unclassified": 0,
   "counts": {
-    "graphic": 687,
+    "graphic": 688,
     "product": 973,
     "organic": 618,
     "geometric": 933,
-    "scifi": 354,
+    "scifi": 355,
     "effects": 241
   },
   "fallback_count": 194,
@@ -5740,6 +5740,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWBYIMaDFJa-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支20秒1920x1080。0.06–1.48手機相簿UI捲動；2.56–4.00螢幕長帶延伸繞室內並破牆；4.72–5.47洞口碎塊/塵霧飛散，6.23穿電梯；7.52–8.27魚眼城市長帶移動，9.06–11.67穿雲及飛機窗外；12.50螢幕周圍火焰火星；13.34–15.00太空人漂浮與長帶扭轉；15.81–16.65地球/岩石/品牌字及長帶環繞；17.07–17.50手機接觸文字令文字彎曲位移，非字體碎裂；18.80–19.52回到人物室內長帶。AI和CG混合，僅標可見效果，不臆測solver或每鏡技術。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支20秒1920x1080。0.06–1.48手機相簿UI捲動；2.56–4.00螢幕長帶延伸繞室內並破牆；4.72–5.47洞口碎塊/塵霧飛散，6.23穿電梯；7.52–8.27魚眼城市長帶移動，9.06–11.67穿雲及飛機窗外；12.50螢幕周圍火焰火星；13.34–15.00太空人漂浮與長帶扭轉；15.81–16.65地球/岩石/品牌字及長帶環繞；17.07–17.50手機接觸文字令文字彎曲位移，非字體碎裂；18.80–19.52回到人物室內長帶。AI和CG混合，僅標可見效果，不臆測solver或每鏡技術。"
           ],
           "matched_tags": []
         }
