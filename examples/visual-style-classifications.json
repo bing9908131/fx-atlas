@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2743,
+  "total": 2750,
   "unclassified": 0,
   "counts": {
-    "graphic": 680,
-    "product": 971,
+    "graphic": 687,
+    "product": 972,
     "organic": 618,
-    "geometric": 930,
+    "geometric": 933,
     "scifi": 354,
     "effects": 240
   },
@@ -5873,6 +5873,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始IG單支1080x1920/35.48秒。0.051/.886/1.710粒子結構顯現；2.547/3.371/4.207細粒子絲狀流動；5.035整體輪廓；5.863/6.689電路板旋轉；8.497/9.474散熱片拉遠；10.440櫃體11.406/12.370/13.361多色分屏；14.326/14.774/15.300光線掃描；16.265/17.249材質轉透明；18.288/19.051/19.815透明結構跟移；20.569/21.347場景切換；22.938/23.703操作面板；24.474/25.254櫃門旋開；26.168/27.230/28.306/29.368紙箱下移；30.447/31.531滑入；32.635/33.699/34.785不同環境展示。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第1/7媒體。灰色顆粒漸層背景，圓角卡片環形排列，卡片內有白色T恤、黑色提袋橘色提把、黑色凹凸字招牌與網頁版面。靜態合成，沒有據此推定卡片旋轉。"
           ],
           "matched_tags": []
         }
@@ -17486,6 +17503,156 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome 1519732682依下一步順序逐張截图確認，第7/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。近距離側看四顆白色球體斜向排列於桌面上方，左側藍青粉紅同心圈紋帶柔焦，後方桌面是細顆粒銀灰質感。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第2/7媒體。黑白像素雜訊由滿版縮成圓形，中間留方形黑區，DEPTH OF FIELD 與品牌文字逐漸顯現；圓內點陣持續變換。不是煙霧或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第3/7媒體。After Effects 製作畫面：Neue Haas Grotesk 與 Boska 字母、字重及橘色底色切換；中段混排引言，後段方卡旋轉重排、兩側多重圓形拉出軌跡、線條由扁弧變圓環。保留控制點與時間軸，屬品牌專案 breakdown。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第3/7媒體。After Effects 製作畫面：Neue Haas Grotesk 與 Boska 字母、字重及橘色底色切換；中段混排引言，後段方卡旋轉重排、兩側多重圓形拉出軌跡、線條由扁弧變圓環。保留控制點與時間軸，屬品牌專案 breakdown。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第4/7媒體。黑底上橘灰小方塊先出現，品牌引言逐步顯現；襯線、無襯線、斜體與粗細文字混排，橘色強調區塊由 saturated 移至 focus。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第5/7媒體。白色方格底，橘黑灰小方塊散布；中央方形重疊序列由兩側小、中央大組成，表面黑灰反光漸層，上下各有一片彎曲菱形薄片。此張靜態，沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第5/7媒體。白色方格底，橘黑灰小方塊散布；中央方形重疊序列由兩側小、中央大組成，表面黑灰反光漸層，上下各有一片彎曲菱形薄片。此張靜態，沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第6/7媒體。After Effects breakdown：方形沿水平序列循環換位，兩片彎曲菱形向相反方向移動；橘黑分割圓環轉動，五個雜訊圓由直排重組為環形；品牌卡片群環形旋轉並縮放。透明棋盤只屬軟體工作區，不標成實物材質。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第6/7媒體。After Effects breakdown：方形沿水平序列循環換位，兩片彎曲菱形向相反方向移動；橘黑分割圓環轉動，五個雜訊圓由直排重組為環形；品牌卡片群環形旋轉並縮放。透明棋盤只屬軟體工作區，不標成實物材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dah8wgFAoyI-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第7/7媒體。黑色筆電由斜角轉正放大，再展示後方重複螺旋陣列；螢幕內網站向上捲動，後半切換 DOF 點陣圓形標誌與灰階作品背景，結尾橘色DOF字樣。未確認筆電廠牌與型號，不標成 Apple 或硬體品牌廣告。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第7/7媒體。黑色筆電由斜角轉正放大，再展示後方重複螺旋陣列；螢幕內網站向上捲動，後半切換 DOF 點陣圓形標誌與灰階作品背景，結尾橘色DOF字樣。未確認筆電廠牌與型號，不標成 Apple 或硬體品牌廣告。"
           ],
           "matched_tags": []
         }

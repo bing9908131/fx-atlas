@@ -847,10 +847,18 @@
           "shortcode": "Dah8wgFAoyI",
           "url": "https://www.instagram.com/_pool.studio/p/Dah8wgFAoyI/",
           "published_at": "2026-07-08T11:36:47.000Z",
-          "status": "published_pending_analysis",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dah8wgFAoyI-1"
-          ]
+            "selectedyear-Dah8wgFAoyI-1",
+            "selectedyear-Dah8wgFAoyI-2",
+            "selectedyear-Dah8wgFAoyI-3",
+            "selectedyear-Dah8wgFAoyI-4",
+            "selectedyear-Dah8wgFAoyI-5",
+            "selectedyear-Dah8wgFAoyI-6",
+            "selectedyear-Dah8wgFAoyI-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
