@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2456,
+  "total": 2460,
   "unclassified": 0,
   "counts": {
-    "graphic": 567,
+    "graphic": 570,
     "product": 849,
     "organic": 554,
-    "geometric": 888,
-    "scifi": 326,
+    "geometric": 892,
+    "scifi": 327,
     "effects": 205
   },
   "fallback_count": 194,
@@ -2013,6 +2013,35 @@
       ]
     },
     {
+      "id": "selectedyear-Dcv67JKjYAQ-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓角矩形光暈，外緣藍紫、下緣桃紅，內部由深藍轉粉紫、橘黃。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓角矩形光暈，外緣藍紫、下緣桃紅，內部由深藍轉粉紫、橘黃。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DdGMTu1FLnq-1",
       "styles": [
         {
@@ -2053,6 +2082,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "直接查看原貼文單張圖，無影片及下一步；透明彎曲細管、短棒及弧形片相互交錯，端部與沿線有白色圓珠。近景清晰遠景模糊；整體灰白與淡青色，表面透明折射，沒有動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaJLgwaTcOc-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態風格圖，透明層板上可見細長線路、彎折導線與小型圓環元件，冷藍色光線與黑灰結構，前後景有失焦。沒有影片或下一步；不從透明外觀斷言實際玻璃配方，不把線路當成已證實電流動畫。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態風格圖，透明層板上可見細長線路、彎折導線與小型圓環元件，冷藍色光線與黑灰結構，前後景有失焦。沒有影片或下一步；不從透明外觀斷言實際玻璃配方，不把線路當成已證實電流動畫。"
           ],
           "matched_tags": []
         }
@@ -11203,6 +11261,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "綠底吐司上的起司由拼圖片構成，旁邊坐著人物和散落拼片、葉子。人物手持的拼圖片由靠近身體移到吐司側，手臂和身體姿勢改變；不聲稱整片拼圖自動組合。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcv67JKjYAQ-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "米白底圓角矩形，外圈淡青至鮮藍，中央深藍近黑，柔和模糊漸層。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "米白底圓角矩形，外圈淡青至鮮藍，中央深藍近黑，柔和模糊漸層。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcv67JKjYAQ-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓角矩形光塊，頂部深藍，中段紫粉，底部橘紅，邊界柔焦。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓角矩形光塊，頂部深藍，中段紫粉，底部橘紅，邊界柔焦。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
           ],
           "matched_tags": []
         }
