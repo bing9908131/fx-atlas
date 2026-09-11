@@ -6461,10 +6461,12 @@
           "shortcode": "DdEQ6H0oWzS",
           "url": "https://www.instagram.com/mathias_lynge/reel/DdEQ6H0oWzS/",
           "published_at": "2026-09-09T12:33:14.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdEQ6H0oWzS-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DcLPYd6otEx",
