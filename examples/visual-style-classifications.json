@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2550,
+  "total": 2551,
   "unclassified": 0,
   "counts": {
-    "graphic": 618,
+    "graphic": 619,
     "product": 865,
     "organic": 570,
     "geometric": 907,
@@ -2666,6 +2666,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "16.539807整句可讀的圓潤字，24.317869部分筆畫拉長連成大片黑形，字形高度寬度明顯變化。最初28.112327截圖22秒延遲不用作精準動態證據。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcgp4beIfpd-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支15秒：1.00098雙腿張開，右側手伸出；4.204401腿部靠攏、手移到胸前，獎牌接近重疊；7.870507另一手抬起，14.023305單腿抬高、手臂彎曲及獎牌擺位變化。確認原地踏步、擺臂、身體搖擺與懸掛獎牌晃動。白色粗糙線描非立體材質，不把黃色輪廓標成實體金屬。"
           ],
           "matched_tags": []
         }
