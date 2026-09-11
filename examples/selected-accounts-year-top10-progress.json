@@ -887,10 +887,16 @@
           "shortcode": "DZaE579jQIV",
           "url": "https://www.instagram.com/_florianbaumann/p/DZaE579jQIV/",
           "published_at": "2026-06-10T13:42:40.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DZaE579jQIV-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
