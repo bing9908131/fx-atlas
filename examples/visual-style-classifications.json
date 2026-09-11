@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2552,
+  "total": 2553,
   "unclassified": 0,
   "counts": {
-    "graphic": 620,
+    "graphic": 621,
     "product": 865,
-    "organic": 571,
+    "organic": 572,
     "geometric": 907,
     "scifi": 333,
     "effects": 214
@@ -2712,6 +2712,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.45475實拍平板上圓環建模；3.756706網格圓環雕塑；6.464539金屬圓環及節點3D視窗；13.607542手繪藍花白花；17.281765合成介面有Fractal Noise參數、發光點與圖層；24.708351成品中央內環為斜向橢圓，26.704897內環轉為接近水平交錯，外環保持直立，確認內環旋轉。背景枝葉花朵環繞，但未證明植物生長或風力模擬。前段實拍手部不作特效動態；成品含實際3D和2D動畫。無輪播。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcGpKLbIvVX-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支10.447527秒無輪播。3.132656整體構圖較小，中心多重圓環較正面；4.449507構圖放大，內環斜向；7.049584外環窄成直立橢圓，內環交錯角度不同。確認圓環旋轉及整體構圖縮放，不把畫面放大推定植物生長。花朵有柔和高光/光點，無指定風力或物理solver。與已核對BTS Dc8uuOaIIJv作品畫面相符，保留此獨立成品。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支10.447527秒無輪播。3.132656整體構圖較小，中心多重圓環較正面；4.449507構圖放大，內環斜向；7.049584外環窄成直立橢圓，內環交錯角度不同。確認圓環旋轉及整體構圖縮放，不把畫面放大推定植物生長。花朵有柔和高光/光點，無指定風力或物理solver。與已核對BTS Dc8uuOaIIJv作品畫面相符，保留此獨立成品。"
           ],
           "matched_tags": []
         }
