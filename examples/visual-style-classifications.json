@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2626,
+  "total": 2633,
   "unclassified": 0,
   "counts": {
-    "graphic": 640,
-    "product": 909,
-    "organic": 592,
+    "graphic": 641,
+    "product": 910,
+    "organic": 596,
     "geometric": 909,
-    "scifi": 335,
-    "effects": 224
+    "scifi": 337,
+    "effects": 226
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2007,6 +2007,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原影片多段觀察：低角度人物近景呈柔軟起伏褶皺的深色表面；中景舞者雙臂展開；後段人物後仰拱背，手臂與身體輪廓有尖刺突起。作者明列3D-CGI Simon Braud，證實含CG，但不把所有舞蹈或布料都判為模擬。沒有足夠連續證據證明尖刺生長、煙霧、液體或碰撞，所以不加這些動態。時間是讀取播放進度的觀察區段，截圖略有延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第1/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。封面上方為Houdini及OFFF白色標誌；下方花朵局部有粒子化的點狀區域與細線疊加，桃粉色花瓣、橘色花心和綠色背景。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第1/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。封面上方為Houdini及OFFF白色標誌；下方花朵局部有粒子化的點狀區域與細線疊加，桃粉色花瓣、橘色花心和綠色背景。"
           ],
           "matched_tags": []
         }
@@ -14693,6 +14722,132 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.879/1.297秒草地與農田；2.020秒樹枝框景；2.739秒田野；3.458秒樹樁；4.194/4.918秒秋色地景；7.216秒堆石上另一包裝。這些是剪接和場景方案切換，不標生長、季節變形、風流或植物擺動。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第3/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。紫褐色多孔網狀結構立於白紅色彎曲表面之間，底部有白色圓卵形物與密集灰白顆粒；單張圖片不能證明發生碰撞、破碎或流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第4/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。微縮式平台上排列蕨類、小樹與深色岩石，植物上方可見透明圓形氣泡；下方水樣平滑反射面呈綠色倒影。這是靜態景觀，不推定植物生長或氣泡上升。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第5/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。花朵畫面鋪滿版面，花瓣邊緣與花心上分布密集微粒和疊加細線；粉色半透明花瓣、暖橘花心及綠色背景。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第5/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。花朵畫面鋪滿版面，花瓣邊緣與花心上分布密集微粒和疊加細線；粉色半透明花瓣、暖橘花心及綠色背景。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第6/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。抽象矩形與細密垂直掃描紋理，紅橘、紫、粉色及白色高亮區域疊於黑底；靜態電子影像，不將亮部標成火焰或聲稱閃爍。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第6/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。抽象矩形與細密垂直掃描紋理，紅橘、紫、粉色及白色高亮區域疊於黑底；靜態電子影像，不將亮部標成火焰或聲稱閃爍。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-7",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第7/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。室內木樑與磚牆場景，一名巨型大耳奇幻角色坐在人物及梯子旁，臉部皺紋、毛髮與手指细節清楚；保留角色合成參考，不把旁邊真人判成CG。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張點選並截圖核對第8/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。兩個無可讀品牌的大型白色提把瓶靠在混凝土空心磚旁，散落藍粉色瓶蓋，粉色垂墜背景與地面反光。作為無品牌靜物CG展示，不猜清潔劑品牌、型號或瓶子運動。"
           ],
           "matched_tags": []
         }
