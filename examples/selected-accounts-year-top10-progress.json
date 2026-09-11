@@ -6007,10 +6007,12 @@
           "shortcode": "DYj5l3oMzkR",
           "url": "https://www.instagram.com/romenkaelin/reel/DYj5l3oMzkR/",
           "published_at": "2026-05-20T12:51:53.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DYj5l3oMzkR-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
