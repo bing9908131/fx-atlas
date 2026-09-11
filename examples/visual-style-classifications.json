@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2570,
+  "total": 2572,
   "unclassified": 0,
   "counts": {
-    "graphic": 625,
+    "graphic": 627,
     "product": 877,
-    "organic": 576,
+    "organic": 577,
     "geometric": 908,
     "scifi": 334,
     "effects": 214
@@ -2346,6 +2346,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "23.766666秒单支竖版，中央横版内容与黑色留白，无轮播。1.42人物与眼镜分屏，2.92行李箱拆分造型与机械手，4.42眼镜特写，5.93绿色皮革包，7.03/7.397人脸蓝色光线与滴管，8.90/9.05玻璃保养瓶和白色雾团。10.157红色Maybach敞篷车，11.255黑色粗糙雕塑与橙色颗粒有机块，12.348实体展厅投影只作实景合成呈现，13.49层叠透明圆片，14.734透明螺旋，15.826绿色包与叶片，16.929白色圆润雕塑，17.333透明环雕塑（不同造型跨剪接，不声称变形），18.039/18.256银色衣物和格栅分屏，19.166室内水墙与岩石，20.296鞋底斜朝镜头，21.441鞋身转正，22.570继续朝后转，23.065画面淡白。确认鞋款旋转与淡白；叶片只记录主体，不臆测生长。人物可为实拍合成，不标CG人物动画；没有确认的碰撞破碎/solver不加入。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVpAOVDgcm-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第1項直接海報：白色褶皺花瓣、細黃花蕊、深綠花萼，橄欖綠至米白背景，手寫文字及底部標誌。無video元素。共8項，末項僅返回；靜態畫面不證明生長/開花。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第1項直接海報：白色褶皺花瓣、細黃花蕊、深綠花萼，橄欖綠至米白背景，手寫文字及底部標誌。無video元素。共8項，末項僅返回；靜態畫面不證明生長/開花。"
           ],
           "matched_tags": []
         }
@@ -13513,6 +13542,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "白霧背景中的植物浮島，右側粗根形成中空拱環，綠色葉片覆蓋表面；中央疊加票務文字與社群圖示。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaVpAOVDgcm-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第7項15秒動畫，10.263018背景上方SUBMIT/MAY、中央EDITION字形，12.159742背景圖樣往上移，14.036255頂端BY/MAY、中段SUBMIT，固定薄荷綠主標題保持原位；圓點、空心圈、四角星組成字形。文字背景滑動與圖樣變換可見，沒有液體/粒子物理/布料/solver證據。第8項僅返回確認總數8；自身影片封面於第6項相鄰DOM擷取。"
           ],
           "matched_tags": []
         }
