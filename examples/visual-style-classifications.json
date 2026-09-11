@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2634,
+  "total": 2644,
   "unclassified": 0,
   "counts": {
     "graphic": 641,
-    "product": 911,
+    "product": 920,
     "organic": 596,
-    "geometric": 910,
-    "scifi": 337,
+    "geometric": 911,
+    "scifi": 347,
     "effects": 226
   },
   "fallback_count": 194,
@@ -2065,6 +2065,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0秒暖色骷髏；1.479秒橫向分層；3.071秒白色碎塊散出；4.152/9.789秒線框；6.031/16.355/22.811秒暖色沙化；17.176/19.055秒骷髏邊緣侵蝕與塵雲擴大；20.918/31.037/32.635秒碎片向周圍散出，末尾Panoply字樣。1276x720。橫條為合成分層切換，非實體切割；橘黃為沙塵與燈光，未標火焰。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第1/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。低角度月面碎石與長條金屬投射器，黑色支架形成斜線，遠方藍白地球懸在黑色背景。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第1/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。低角度月面碎石與長條金屬投射器，黑色支架形成斜線，遠方藍白地球懸在黑色背景。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
           ],
           "matched_tags": []
         }
@@ -14877,6 +14906,267 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張點選並截圖核對第8/12張，靜態1080x1350 JPG；輪播末張只剩返回按鈕，沒有video元素。兩個無可讀品牌的大型白色提把瓶靠在混凝土空心磚旁，散落藍粉色瓶蓋，粉色垂墜背景與地面反光。作為無品牌靜物CG展示，不猜清潔劑品牌、型號或瓶子運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-2",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第2/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。斜向俯視長距離雙軌道，周圍是帶凹坑與岩塊的月面；支架投下連續長陰影。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第2/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。斜向俯視長距離雙軌道，周圍是帶凹坑與岩塊的月面；支架投下連續長陰影。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-3",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第3/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。雙軌向遠方消失點延伸，前景下方受紅色燈光照亮，側面有橘色光條，遠處可見地球。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第3/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。雙軌向遠方消失點延伸，前景下方受紅色燈光照亮，側面有橘色光條，遠處可見地球。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-4",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第4/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色方形晶片封裝中央有銀色晶片蓋，TESLA D3字樣可讀，周圍是細密散熱鰭片與金屬框線。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第4/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色方形晶片封裝中央有銀色晶片蓋，TESLA D3字樣可讀，周圍是細密散熱鰭片與金屬框線。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-5",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第5/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。金屬軌道中央是扁平流線載荷，橘色燈條與邊緣紅光形成反射，背景有方向性速度模糊。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第5/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。金屬軌道中央是扁平流線載荷，橘色燈條與邊緣紅光形成反射，背景有方向性速度模糊。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-6",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第6/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。低視角從載荷和軌道下方看向前方，月面紋理呈方向性模糊，黑色金屬邊緣帶少量紅光。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第6/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。低視角從載荷和軌道下方看向前方，月面紋理呈方向性模糊，黑色金屬邊緣帶少量紅光。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-7",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第7/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。一排排圓角金屬框架向中央消失點收束，兩側長條金屬結構形成對稱通道，底部窄縫可見月面。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第7/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。一排排圓角金屬框架向中央消失點收束，兩側長條金屬結構形成對稱通道，底部窄縫可見月面。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-8",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第8/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色平滑載荷外殼的SPACEX字標特寫，銀色斜面邊緣和柔和反射勾勒硬表面形狀。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第8/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色平滑載荷外殼的SPACEX字標特寫，銀色斜面邊緣和柔和反射勾勒硬表面形狀。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-9",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第9/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。前景橫樑與左右金屬軌道向中央延伸，地面形成方向性模糊，側邊橘紅色光條與山脊可見。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第9/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。前景橫樑與左右金屬軌道向中央延伸，地面形成方向性模糊，側邊橘紅色光條與山脊可見。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWRiI_Ql3yN-10",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第10/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色太空中的半明半暗月球，表面可見斑駁隕石坑與橫向結構，暗側附近散布細小藍白光點。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "已逐張點選輪播第10/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色太空中的半明半暗月球，表面可見斑駁隕石坑與橫向結構，暗側附近散布細小藍白光點。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
           ],
           "matched_tags": []
         }

@@ -8733,10 +8733,21 @@
           "shortcode": "DWRiI_Ql3yN",
           "url": "https://www.instagram.com/shittyrenders/p/DWRiI_Ql3yN/",
           "published_at": "2026-03-24T16:30:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DWRiI_Ql3yN-1"
-          ]
+            "selectedyear-DWRiI_Ql3yN-1",
+            "selectedyear-DWRiI_Ql3yN-2",
+            "selectedyear-DWRiI_Ql3yN-3",
+            "selectedyear-DWRiI_Ql3yN-4",
+            "selectedyear-DWRiI_Ql3yN-5",
+            "selectedyear-DWRiI_Ql3yN-6",
+            "selectedyear-DWRiI_Ql3yN-7",
+            "selectedyear-DWRiI_Ql3yN-8",
+            "selectedyear-DWRiI_Ql3yN-9",
+            "selectedyear-DWRiI_Ql3yN-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
