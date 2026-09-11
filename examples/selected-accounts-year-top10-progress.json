@@ -6662,19 +6662,23 @@
           "shortcode": "DbpnCVFuyC4",
           "url": "https://www.instagram.com/maxschwugier/reel/DbpnCVFuyC4/",
           "published_at": "2026-08-05T07:34:04.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DbpnCVFuyC4-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Da5cdn8IwJq",
           "url": "https://www.instagram.com/maxschwugier/reel/Da5cdn8IwJq/",
           "published_at": "2026-07-17T14:37:15.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Da5cdn8IwJq-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

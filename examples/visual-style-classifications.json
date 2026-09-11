@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2522,
+  "total": 2524,
   "unclassified": 0,
   "counts": {
     "graphic": 598,
     "product": 863,
     "organic": 566,
     "geometric": 907,
-    "scifi": 332,
-    "effects": 210
+    "scifi": 333,
+    "effects": 212
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2426,6 +2426,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支10.033333秒，無輪播。0.251247光線分向右上右下；1.317782/3.301846彩虹光束集中右上、圓盤內光路移位；6.090514讀時後截圖延遲約10秒故僅作輔助，圖中光線指向右下。前三個即時畫面足以確認光線方向與色帶位置變化。藍色帶缺口圓盤本體形狀保持，未確認自轉或變形。不標液體、波浪或流體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbpnCVFuyC4-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支8.450611秒無輪播。.516066與.663835秒左側尖柱/右側顆粒坡面輪廓及顆粒位置改變；3.772908秒鏡頭呈現密集高尖柱，顆粒聚集成柱的場景。標聚集、堆積與形態變化，不指定真實磁場物理、碰撞、爆破、液體、煙霧或POP/Vellum解算器。8.305179讀時後截圖延遲6.98秒不作精確時間依據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da5cdn8IwJq-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支16.043536秒，無輪播。4.212686/5.570803綠屏面朝鏡頭、頭部傾角變化；12.757189側面姿態屈腿蹲低且底座近地；14.090638機器人底座明顯離地、腿較伸展。青色顆粒在四周及地面位置不同，標跳躍/下蹲/關節彎曲/粒子飛散。地面青色效果僅確定發光粒子，不推定水花或FLIP。背景苔蘚岩壁垂吊植物，金屬關節及綠色像素臉；不從音樂Minecraft或留言Pixar推定品牌合作/角色。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支16.043536秒，無輪播。4.212686/5.570803綠屏面朝鏡頭、頭部傾角變化；12.757189側面姿態屈腿蹲低且底座近地；14.090638機器人底座明顯離地、腿較伸展。青色顆粒在四周及地面位置不同，標跳躍/下蹲/關節彎曲/粒子飛散。地面青色效果僅確定發光粒子，不推定水花或FLIP。背景苔蘚岩壁垂吊植物，金屬關節及綠色像素臉；不從音樂Minecraft或留言Pixar推定品牌合作/角色。"
           ],
           "matched_tags": []
         }
