@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2489,
+  "total": 2498,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
-    "product": 850,
+    "product": 858,
     "organic": 560,
-    "geometric": 902,
+    "geometric": 903,
     "scifi": 328,
     "effects": 206
   },
@@ -2460,6 +2460,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第一張為靜態完整構圖，紅橘球狀物、深藍橢圓、四角星凹槽圓盤、紅色捲管、直立波紋板與小銀球清楚可見。背景上黑下珊瑚紅。 三張均逐張檢視；不從靜態圖推定動態或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcydVvhimzJ-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態圖，無輪播按鈕或影片。多層矩形門洞與錯位牆體向中央延伸，牆面青綠、局部黃綠，右側及地面有暖黃色照明。表面微粗糙、低反射。只標光影構圖，不推定光在移動或幾何生長。"
           ],
           "matched_tags": []
         }
@@ -11920,6 +11937,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第三張靜態完整構圖：橘色和深藍形體表面呈點狀顆粒，背景有同心環線與粉紅光斑。最後僅返回按鈕，三張皆無video元素。點狀外觀不代表粒子模擬，同心線條不代表水波動態。 三張均逐張檢視；不從靜態圖推定動態或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第2張靜態圖片：雪覆石板路、雙櫥窗及兩盆球形灌木，窗內暖光照亮米色外牆。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第3張靜態圖片：店內兩個白衣金色面罩人偶、櫃台、貨架、紅色紙袋及禮盒。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第5張靜態圖片：透明玻璃與金屬框架廊道通向冰湖、雪山和針葉林，遠方有紅白瓶罐。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第6張靜態圖片：紅白瓶罐以巨型比例分布在雪山森林冰湖中；冰面有裂紋與倒影。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第7張靜態圖片：紅白瓶罐位於半透明藍色冰洞，洞頂凹凸且冰面反射產品。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第8張靜態圖片：金色瓶罐懸置構圖遍布雪山上空，下方針葉林、湖泊與亮燈村落。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第9張靜態圖片：金色滴管瓶位於湖畔雪村前方，水面映照瓶身與建築暖光。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看第10張靜態圖片：金色瓶蓋白色罐身與細長瓶置於積雪森林，路邊燈籠暖光照亮雪地。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
           ],
           "matched_tags": []
         }
