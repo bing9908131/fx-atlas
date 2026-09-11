@@ -6571,10 +6571,12 @@
           "shortcode": "DbWG77zxvFJ",
           "url": "https://www.instagram.com/maximkroft/reel/DbWG77zxvFJ/",
           "published_at": "2026-07-28T22:30:48.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DbWG77zxvFJ-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

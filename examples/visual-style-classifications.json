@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2529,
+  "total": 2530,
   "unclassified": 0,
   "counts": {
-    "graphic": 600,
+    "graphic": 601,
     "product": 865,
     "organic": 567,
     "geometric": 907,
@@ -2523,6 +2523,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "細長尖錐形玻璃香水瓶斜置，圓柱金色瓶蓋，桃粉瓶身在灰黑地面投出長影與折射亮紋。逐張查看共3張，末張僅返回按鈕，DOM無video。這是靜態造型及光影，不推定旋轉、生長、流動、布料或液體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbWG77zxvFJ-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "单支17.343854秒：1.275083 hello線框字；5.134381單曲線與圓形控制點；9.156378黑色細長J形；12.142233輪廓變為F形；12.908953灰色厚實R形，13.569409側向厚實字形；15.004611上下參數介面，中間灰白擠出造型。確認字形切換、輪廓形變及2D/3D展示，不將不同字母間的切換推定為同一物體旋轉或流體模擬。"
           ],
           "matched_tags": []
         }
