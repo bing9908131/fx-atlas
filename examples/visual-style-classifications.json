@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2676,
+  "total": 2681,
   "unclassified": 0,
   "counts": {
-    "graphic": 652,
-    "product": 930,
+    "graphic": 655,
+    "product": 935,
     "organic": 608,
     "geometric": 922,
     "scifi": 347,
@@ -2123,6 +2123,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單一影片608x1080，39.797596秒。0.011/0.957秒屋頂石子平台、石塊、U形座椅與夕陽；1.598/1.919/3.164秒視角水平轉向樓梯；4.728/6.315/7.903/9.478秒沿階梯下降，看到庭院樹木、藍色圓桌與椅子。12.294秒看向房屋入口。19.838秒拱形木框玻璃門閉合，21.516/22.180/22.494秒門板繞鉸鏈轉開、視角穿入；23.185/23.786/24.861秒轉向室內落地拱窗；25.073/26.333秒窗門仍閉，27.630/28.199秒右側玻璃門板沿軌道橫移，露出庭院開口。29.905秒長條空間和藍色曲線地毯、木椅。36.352/38.041/38.847秒回到室外看開放立面、石長椅、圓窗及樹木；39.700秒循環回開頭。只有實際觀察到的鏡頭移動與開門列為動態；未將樹木視差、日光斑駁標成植物生長或風流，也未添加水、煙、火、破碎或模擬解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW9Rza9kY6J-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第一项為IMG，無可見video，白色機殼與兩側鍵靜態特寫；原先type video錯誤已修正。右側video屬第二項。"
           ],
           "matched_tags": []
         }
@@ -15963,6 +15980,110 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際410x360，3.166666秒；0.543至2.854鱗片掀起位置移動，形變可見；最後無下一步，確認总共8項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW9Rza9kY6J-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.882標誌，3.365左右分屏細節，4.849背部掃描模組配中央畫框，6.332模組特寫，7.806鏡頭模組與左側小框，9.275Introducing文字與正面。畫框位置尺寸變動，產品不同朝向；不標組裝、流體或碰撞。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.882標誌，3.365左右分屏細節，4.849背部掃描模組配中央畫框，6.332模組特寫，7.806鏡頭模組與左側小框，9.275Introducing文字與正面。畫框位置尺寸變動，產品不同朝向；不標組裝、流體或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW9Rza9kY6J-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.544近距離機殼，1.490未閉合按鈕曲線，2.409輪廓延長，3.363完成按鈕；4.271螢幕感應符號初始圓圈，5.709多圈線條。不是按鍵被切割或液態生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.544近距離機殼，1.490未閉合按鈕曲線，2.409輪廓延長，3.363完成按鈕；4.271螢幕感應符號初始圓圈，5.709多圈線條。不是按鍵被切割或液態生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW9Rza9kY6J-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.214與1.761手機在終端上方位置改變，藍色畫面顯示卡片；0.982與2.581掃描模組。短循環交替兩鏡頭，未見撞擊、不標collision；手機型號未確認。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DW9Rza9kY6J-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.236黑白控制面板，1.122彩虹鏡片，2.004同心光學環，2.892失焦虹彩，3.763與4.991白色背部鏡頭拉遠。光學環不是水波ripple，未標液體；最後只有返回無下一步，確認總共5項。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.236黑白控制面板，1.122彩虹鏡片，2.004同心光學環，2.892失焦虹彩，3.763與4.991白色背部鏡頭拉遠。光學環不是水波ripple，未標液體；最後只有返回無下一步，確認總共5項。"
           ],
           "matched_tags": []
         }
