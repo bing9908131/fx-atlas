@@ -4468,10 +4468,14 @@
           "shortcode": "DdG6g_FlUP7",
           "url": "https://www.instagram.com/general_definition/p/DdG6g_FlUP7/",
           "published_at": "2026-09-10T13:11:53.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdG6g_FlUP7-1"
-          ]
+            "selectedyear-DdG6g_FlUP7-1",
+            "selectedyear-DdG6g_FlUP7-2",
+            "selectedyear-DdG6g_FlUP7-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdEU0MANHQw",

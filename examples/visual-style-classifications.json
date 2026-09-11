@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2788,
+  "total": 2791,
   "unclassified": 0,
   "counts": {
     "graphic": 692,
-    "product": 991,
-    "organic": 631,
-    "geometric": 945,
+    "product": 994,
+    "organic": 632,
+    "geometric": 946,
     "scifi": 358,
     "effects": 248
   },
@@ -4411,6 +4411,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際播放8.016666秒4/5影片：1.355825三張深藍待辦卡片與空心圓；1.968562點擊指示接近第二卡片；2.238323仍為藍色，2.465994卡片轉粉紅漸層，2.59594/2.692679圓角變大並出現紫色實心勾選圓與白勾；3.161612維持完成狀態；3.861233漸層轉近純粉紅；4.509338點擊指示消失；5.775965按壓時邊角由膠囊回到較小圓角。可見2D填色、圓角形變、勾選狀態及指示淡出；沒有水、液體、布料、粒子或Houdini solver的視覺證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdG6g_FlUP7-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "前輪Chrome1519732830實際畫面：0.558銀灰圓角機身與織物鍵盤，1.184邊缘散熱槽，1.766綠色金屬邊緣，3.727黑色螢幕邊框與PgDn/Del/Backspace鍵。今輪Chrome1519732834重看1.380深灰機身及微軟logo。是多個微距鏡頭切換，不推論完整拆解、折疊或布料模擬。"
           ],
           "matched_tags": []
         }
@@ -18575,6 +18592,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。第十項靜態圖，無活動video，末項僅返回無下一步。不標呼吸燈或光色變化。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdG6g_FlUP7-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "前輪Chrome2830：0.293/0.549/0.941白粒圓角輪廓與散粒分布變化；2.177/2.491/2.983彩色織物層懸浮、卷邊位移；7.900至8.498葉叢彎曲方向改變並擺動。今輪Chrome2834補查1.337綠紫織片層疊，4.651金屬觸控筆，6.786白色細粒凹槽凸點，7.442葉群局部，8.403彎曲葉叢全貌。顆粒不是液體；觸控筆與凸點只標主體不虛構運動。未推定Vellum、FLIP或植物種類。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "前輪Chrome2830：0.293/0.549/0.941白粒圓角輪廓與散粒分布變化；2.177/2.491/2.983彩色織物層懸浮、卷邊位移；7.900至8.498葉叢彎曲方向改變並擺動。今輪Chrome2834補查1.337綠紫織片層疊，4.651金屬觸控筆，6.786白色細粒凹槽凸點，7.442葉群局部，8.403彎曲葉叢全貌。顆粒不是液體；觸控筆與凸點只標主體不虛構運動。未推定Vellum、FLIP或植物種類。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdG6g_FlUP7-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732834第三支4.672秒1080x1350，最後僅返回鍵無下一步，確認全篇3支。0.012/0.158手指與機身，0.805轉軸與分開的鍵盤邊，1.837至1.961同鏡頭線頭向下離開連接埠位置，2.192織物轉軸特寫，3.112接近閉合的浮空裝置，4.221多台銀色裝置放射排列。僅標確認位移與剪接，不由不同剪接鏡头推定完整拆解、吸附或碰撞。含手部接觸鏡頭的產品CG剪輯，未宣稱手部為CG。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732834第三支4.672秒1080x1350，最後僅返回鍵無下一步，確認全篇3支。0.012/0.158手指與機身，0.805轉軸與分開的鍵盤邊，1.837至1.961同鏡頭線頭向下離開連接埠位置，2.192織物轉軸特寫，3.112接近閉合的浮空裝置，4.221多台銀色裝置放射排列。僅標確認位移與剪接，不由不同剪接鏡头推定完整拆解、吸附或碰撞。含手部接觸鏡頭的產品CG剪輯，未宣稱手部為CG。"
           ],
           "matched_tags": []
         }
