@@ -1747,5 +1747,407 @@
       33.74208
     ],
     "evidence": "34.28秒1916x1078。開頭粉橘紫漸層和文字插入，7–8秒Appara桌面場景，9.607秒輸入提示字，12.880/13.701秒Processing/Generating/Image/Assembling列依序出現，14.520至15.705秒彩色點組成女性影像；16.153至21.497秒人像卡片堆疊轉向、錯位、縮放與環形隊列。22.976/24.461秒AI powered platform文案逐字顯示於柔焦漸層；25.921秒Nano Banana Pro圖像生成卡片，27.395秒Kling 3.0影片卡片與細連線；30.658/31.412秒綠色景觀及標語；32.202/32.967/33.742秒Appara字標結尾。頁面原文明確This Video is the Video that we are going to create in the Masterclass，sound design由rocketaudiostudio合作。不是訪談或單純實拍，但課程案例及聲音合作都不證明產品品牌採用。未把同帳號其他OpenAI spec ad或Framer假想合作的性質套用到本篇。"
+  },
+  {
+    "post_id": "DcyZsh4Rf-c",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "title": "Forward · 橘色球形角色與升降柱列",
+    "description": "橘色球形角色在深淺綠色圓角柱列上翻轉，紅色弧形嘴巴的朝向隨球體變換，頂部橘紅膠囊和白色眼球保留在上方。柱列交替升降，形成起伏節奏。",
+    "type": "video",
+    "ratio": "9 / 16",
+    "duration_seconds": 31.999999,
+    "observed_times": [
+      0.074718,
+      2.053186,
+      3.995847,
+      5.968333,
+      7.943559,
+      8.245023,
+      9.742702,
+      11.214426,
+      12.692356,
+      14.154899,
+      15.619706,
+      21.407594,
+      22.871961,
+      24.345046,
+      25.835755,
+      26.343923,
+      28.315158,
+      30.297822
+    ],
+    "reference_kind": "excluded_uncommissioned_personal_animation",
+    "style_ids": [
+      "geometric",
+      "graphic"
+    ],
+    "tags": [
+      [
+        "abstract character",
+        "抽象角色",
+        "subject",
+        [
+          "幾何角色"
+        ]
+      ],
+      [
+        "eyes",
+        "眼睛",
+        "subject",
+        [
+          "眼球"
+        ]
+      ],
+      [
+        "curved mouth",
+        "弧形嘴巴",
+        "subject",
+        [
+          "笑臉",
+          "表情"
+        ]
+      ],
+      [
+        "glossy surface",
+        "亮面",
+        "material",
+        [
+          "光滑反光"
+        ]
+      ],
+      [
+        "glazed appearance",
+        "釉面外觀",
+        "material",
+        [
+          "陶瓷質感",
+          "釉面質感"
+        ]
+      ],
+      [
+        "sphere",
+        "球體",
+        "subject",
+        [
+          "圓球"
+        ]
+      ],
+      [
+        "rounded pillars",
+        "圓角柱列",
+        "subject",
+        [
+          "立柱",
+          "柱子"
+        ]
+      ],
+      [
+        "capsule",
+        "膠囊形",
+        "subject",
+        [
+          "圓角長條"
+        ]
+      ],
+      [
+        "orange",
+        "橘色",
+        "color",
+        [
+          "橙色"
+        ]
+      ],
+      [
+        "red orange",
+        "橘紅色",
+        "color",
+        []
+      ],
+      [
+        "green",
+        "綠色",
+        "color",
+        [
+          "深綠"
+        ]
+      ],
+      [
+        "mint green",
+        "薄荷綠",
+        "color",
+        [
+          "淺綠"
+        ]
+      ],
+      [
+        "white",
+        "白色",
+        "color",
+        []
+      ],
+      [
+        "cyan",
+        "青色",
+        "color",
+        []
+      ],
+      [
+        "beige",
+        "米色",
+        "color",
+        [
+          "灰米色"
+        ]
+      ],
+      [
+        "rotation",
+        "旋轉",
+        "motion",
+        [
+          "翻轉",
+          "轉動"
+        ]
+      ],
+      [
+        "alternating elevation",
+        "交替升降",
+        "motion",
+        [
+          "上下往復",
+          "柱列起伏"
+        ]
+      ],
+      [
+        "rolling motion",
+        "滾動",
+        "motion",
+        [
+          "翻滾"
+        ]
+      ],
+      [
+        "loop",
+        "循環",
+        "motion",
+        [
+          "循環動畫"
+        ]
+      ]
+    ],
+    "caption_tags": [
+      [
+        "Lucas Zanotto",
+        "Lucas Zanotto",
+        "credit",
+        [
+          "lucas_zanotto"
+        ]
+      ]
+    ],
+    "brand_evidence": "作者原始貼文明示Artwork & Music by Lucas Zanotto，為原創抽象角色動畫，畫面與正文沒有品牌產品，不聲稱商業委託。",
+    "caption_evidence": "作者原始貼文明示Artwork & Music by Lucas Zanotto，為原創抽象角色動畫，畫面與正文沒有品牌產品，不聲稱商業委託。",
+    "evidence": "單影片1080x1920，載入後穩定duration31.999999秒。0.07–15.62與21.41–30.30多段同一場景：球上嘴巴由上方倒弧轉到正面笑弧，側邊小突起位置隨之翻轉，頂部眼睛改變注視角度；綠柱頂面高度輪流改變。9.74/11.21/12.69及21.41/22.87/24.35秒可比較不同升降與翻轉相位。不是液體、膨脹、碰撞破碎；不推定特定求解器。 材質只描述表面外觀，不推定陶瓷成分或實體機械製作。",
+    "reason": "原創個人動畫，無品牌使用證據；依使用者排除自行練習影片及須確認品牌採用的要求移除。不是非CG判定。"
+  },
+  {
+    "post_id": "DcQ7Yu5xdOb",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "title": "First steps · 膠囊角色交替踏步",
+    "description": "粉桃色球形頭部搭配深綠膠囊形身體與雙腿，橘紅短圓柱腳在黃色地面交替抬起和落下，頭部翻轉、身體側擺，表面帶釉面般窗形反光。",
+    "type": "video",
+    "ratio": "9 / 16",
+    "duration_seconds": 15.999999,
+    "observed_times": [
+      0.200313,
+      1.79231,
+      3.391794,
+      4.983471,
+      10.043918,
+      11.618584,
+      13.193467,
+      14.758706
+    ],
+    "reference_kind": "excluded_uncommissioned_personal_animation",
+    "style_ids": [
+      "geometric",
+      "graphic"
+    ],
+    "tags": [
+      [
+        "abstract character",
+        "抽象角色",
+        "subject",
+        [
+          "幾何角色"
+        ]
+      ],
+      [
+        "eyes",
+        "眼睛",
+        "subject",
+        [
+          "眼球"
+        ]
+      ],
+      [
+        "curved mouth",
+        "弧形嘴巴",
+        "subject",
+        [
+          "笑臉",
+          "表情"
+        ]
+      ],
+      [
+        "glossy surface",
+        "亮面",
+        "material",
+        [
+          "光滑反光"
+        ]
+      ],
+      [
+        "glazed appearance",
+        "釉面外觀",
+        "material",
+        [
+          "陶瓷質感",
+          "釉面質感"
+        ]
+      ],
+      [
+        "spherical head",
+        "球形頭部",
+        "subject",
+        [
+          "圓球"
+        ]
+      ],
+      [
+        "capsule legs",
+        "膠囊形雙腿",
+        "subject",
+        [
+          "圓角長條"
+        ]
+      ],
+      [
+        "cylinder feet",
+        "圓柱腳",
+        "subject",
+        [
+          "短圓柱"
+        ]
+      ],
+      [
+        "floor",
+        "地面",
+        "subject",
+        []
+      ],
+      [
+        "peach pink",
+        "粉桃色",
+        "color",
+        [
+          "蜜桃色",
+          "粉紅"
+        ]
+      ],
+      [
+        "dark green",
+        "深綠色",
+        "color",
+        [
+          "墨綠"
+        ]
+      ],
+      [
+        "orange red",
+        "橘紅色",
+        "color",
+        [
+          "紅橙"
+        ]
+      ],
+      [
+        "yellow",
+        "黃色",
+        "color",
+        []
+      ],
+      [
+        "beige",
+        "米色",
+        "color",
+        []
+      ],
+      [
+        "cyan",
+        "青色",
+        "color",
+        []
+      ],
+      [
+        "stepping",
+        "交替踏步",
+        "motion",
+        [
+          "走路",
+          "步行",
+          "walking"
+        ]
+      ],
+      [
+        "leg lifting",
+        "抬腿",
+        "motion",
+        [
+          "交替抬腳"
+        ]
+      ],
+      [
+        "body sway",
+        "身體擺動",
+        "motion",
+        [
+          "左右搖擺"
+        ]
+      ],
+      [
+        "head rotation",
+        "頭部翻轉",
+        "motion",
+        [
+          "頭部旋轉"
+        ]
+      ],
+      [
+        "loop",
+        "循環",
+        "motion",
+        [
+          "循環動畫"
+        ]
+      ]
+    ],
+    "caption_tags": [
+      [
+        "Lucas Zanotto",
+        "Lucas Zanotto",
+        "credit",
+        [
+          "lucas_zanotto"
+        ]
+      ]
+    ],
+    "brand_evidence": "作者原始貼文明示Artwork & Music by Lucas Zanotto，為原創抽象角色動畫，畫面與正文沒有品牌產品，不聲稱商業委託。",
+    "caption_evidence": "作者原始貼文明示Artwork & Music by Lucas Zanotto，為原創抽象角色動畫，畫面與正文沒有品牌產品，不聲稱商業委託。",
+    "evidence": "單影片1080x1920，15.999999秒。0.20/1.79/3.39/4.98與10.04/11.62/13.19/14.76秒兩隻橘紅腳輪流離地、落地，深綠膠囊連接體改變角度，粉色球头弧線從下方轉上方再回來。整體位置近乎固定，標踏步循環不宣稱沿道路前進；沒有充氣、融化或碰撞解算器依據。 材質只描述表面外觀，不推定陶瓷成分或實體機械製作。",
+    "reason": "原創個人動畫，無品牌使用證據；依使用者排除自行練習影片及須確認品牌採用的要求移除。不是非CG判定。"
   }
 ]
