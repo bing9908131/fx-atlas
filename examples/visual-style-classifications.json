@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2844,
+  "total": 2847,
   "unclassified": 0,
   "counts": {
-    "graphic": 718,
-    "product": 1022,
+    "graphic": 721,
+    "product": 1024,
     "organic": 637,
     "geometric": 958,
     "scifi": 358,
@@ -5435,6 +5435,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.63與2.40秒視角構圖改變，辨識為攝影機環繞；不能把透視變化標粒子擴散。cxingyou作者標示Work 2025 ACER Veriton GN 100 AI，Produced by Computerface，Software Houdini Redshift AE；2026-07-01發布。品牌型號屬此專案，不推定旁邊筆電或螢幕型號。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdElAgfDJcm-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.457鞋子較小位於灰色網格下方，Feel the speed字樣；2.752鞋面大特寫、Feel the support；6.882黑底多個鞋部位及On標誌與線框疊加。不同大小視角及字體切換，未憑片段推定鞋材液化或碰撞。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.457鞋子較小位於灰色網格下方，Feel the speed字樣；2.752鞋面大特寫、Feel the support；6.882黑底多個鞋部位及On標誌與線框疊加。不同大小視角及字體切換，未憑片段推定鞋材液化或碰撞。"
           ],
           "matched_tags": []
         }
@@ -19791,6 +19820,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.806前景黑色01/08影片列表與後方綠色行程表、白色頁尾層疊；3.326白色日期表格置頂、背景仍有其他頁面。標記平面圖層切換，不當作物理堆疊或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdElAgfDJcm-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.505灰網格右下黑白多邊形及線框；3.617白底大型F/e字形處於不同高度，有黑點連線及模糊重影。是2D圖形/文字動態，未確認連續字形變形、物理彈簧或碰撞，故不標這些。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdElAgfDJcm-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.280暗色鞋底極近景；1.789黑底較小、斜側可見整體鞋底；2.426白底較大正面鞋底及線框疊加。鞋底凹槽與凸塊可見，不因角度造成輪廓不同就推定扭曲/破碎/組裝。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.280暗色鞋底極近景；1.789黑底較小、斜側可見整體鞋底；2.426白底較大正面鞋底及線框疊加。鞋底凹槽與凸塊可見，不因角度造成輪廓不同就推定扭曲/破碎/組裝。"
           ],
           "matched_tags": []
         }
