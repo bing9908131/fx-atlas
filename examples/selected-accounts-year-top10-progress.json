@@ -10159,10 +10159,25 @@
           "shortcode": "DYJooqkDyox",
           "url": "https://www.instagram.com/visual_tense/p/DYJooqkDyox/",
           "published_at": "2026-05-10T07:56:24.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DYJooqkDyox-1"
-          ]
+            "selectedyear-DYJooqkDyox-1",
+            "selectedyear-DYJooqkDyox-2",
+            "selectedyear-DYJooqkDyox-3",
+            "selectedyear-DYJooqkDyox-4",
+            "selectedyear-DYJooqkDyox-5",
+            "selectedyear-DYJooqkDyox-6",
+            "selectedyear-DYJooqkDyox-7",
+            "selectedyear-DYJooqkDyox-8",
+            "selectedyear-DYJooqkDyox-9",
+            "selectedyear-DYJooqkDyox-10",
+            "selectedyear-DYJooqkDyox-11",
+            "selectedyear-DYJooqkDyox-12",
+            "selectedyear-DYJooqkDyox-13",
+            "selectedyear-DYJooqkDyox-14"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

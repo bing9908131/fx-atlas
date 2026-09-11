@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2602,
+  "total": 2616,
   "unclassified": 0,
   "counts": {
     "graphic": 638,
-    "product": 890,
+    "product": 904,
     "organic": 590,
     "geometric": 909,
     "scifi": 335,
@@ -734,6 +734,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "5.94秒角色與毛蟲近景；19.08秒角色位於森林左邊，20.91秒移至中央並持網，蝴蝶在固定樹木間改變位置。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第1/14張的實際靜態圖片。多格接觸表展示軟管正背側面、壓紋封口、翻蓋及近距離文字細節；是同一張合成排版的靜態圖。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
           ],
           "matched_tags": []
         }
@@ -14225,6 +14242,227 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.626秒外圈藍瓣張開但內圈仍直立，1.373秒內圈紅橘帶片打開，2.106與2.940秒米色細花蕊向四周伸展；綠色彎曲莖葉、橘棕漸層背景，1440x1800。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第2/14張的實際靜態圖片。直立白色軟管上半部，灰色至本標誌與條狀封口壓紋清楚可見。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第3/14張的實際靜態圖片。軟管背面有縱向印刷小字與回收符號，底部可見翻蓋連接鉸鏈。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第4/14張的實際靜態圖片。軟管側面呈由窄至寬的平滑曲線；底部瓶蓋接縫與小缺口清楚可见。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第5/14張的實際靜態圖片。軟管從側面觀看，頂部封口薄而窄，下方逐漸鼓起成平滑外弧。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第6/14張的實際靜態圖片。圓形白色瓶蓋底視，中央可讀 ZHIBEN 立體字樣，兩側軟管輪廓形成尖角。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第7/14張的實際靜態圖片。從封口端俯視，密集壓紋橫跨中央，兩片弧面形成透鏡狀輪廓，底部有藍灰陰影。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第8/14張的實際靜態圖片。斜角近照顯示 SOOTHING RECOVERY Foam cleanser 文字，底部翻蓋有半圓掀蓋凹口與細接縫。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第9/14張的實際靜態圖片。更近距離的底部結構，半圓掀蓋凹口、水平分模接縫與舒顏修護潔面乳標示可見。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第10/14張的實際靜態圖片。斜角放大的至本灰黑標誌，上缘密集立體肋紋，白色塑膠表面呈柔光漸層。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-11",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第11/14張的實際靜態圖片。背面底部翻蓋鉸鏈特寫，上方印有回收符號及淨含量120g文字，曲面呈白色至藍灰光影。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-12",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第12/14張的實際靜態圖片。翻蓋固定於打開狀態，內側蓋面、中央圓形出料口及連接鉸鏈可見；靜態結構展示，沒有開合動畫。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-13",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第13/14張的實際靜態圖片。軟管斜置於淺灰背景，翻蓋向下張開且仍由鉸鏈連接，可見管口及包裝正面印字；不是物件分離或運動。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYJooqkDyox-14",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram輪播逐次點選第14/14張的實際靜態圖片。閉合的白色圓蓋斜角特寫，中央 ZHIBEN 立體字樣與側邊半圓缺口可見，背景灰白柔光。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
           ],
           "matched_tags": []
         }
