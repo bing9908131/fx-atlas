@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2851,
+  "total": 2856,
   "unclassified": 0,
   "counts": {
-    "graphic": 721,
-    "product": 1027,
+    "graphic": 726,
+    "product": 1030,
     "organic": 637,
     "geometric": 961,
     "scifi": 359,
@@ -4147,6 +4147,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支37.522秒正方形動畫，無輪播。5.361秒粉底橘色曲線形Oils卡片；14.683秒淺青底深藍不規則圓形Edibles卡片；22.596秒淺青底橘色長圓形Slow Onset卡片。前景卡片與文字依序替換，背景彩色卡片位置改變並維持強烈模糊。可見形狀變換和版面切換；不把Oils、Edibles文字當作實際油或食物物件，也不將柔軟曲線推定為液體/布料模擬。时间為截圖附近讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdE6NNYGU5z-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第1/5張實際截圖。上半為黑底黃綠GOTCHA標誌、白色眼睛圖形與密集字元；下半白底雙手剪影各持藍色發光圓角裝置，畫面有互動標註。屬靜態概念視覺，不推定碰撞、配對動畫或真實操作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第1/5張實際截圖。上半為黑底黃綠GOTCHA標誌、白色眼睛圖形與密集字元；下半白底雙手剪影各持藍色發光圓角裝置，畫面有互動標註。屬靜態概念視覺，不推定碰撞、配對動畫或真實操作。"
           ],
           "matched_tags": []
         }
@@ -19982,6 +20011,98 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "米色背景紅桌面，懸掛雞蛋圓輪、刨絲器與檸檬、拱形麵條、大型木齒輪和切麵輪刀、義大利麵沿木階排列。靜態品牌構圖，不推定旋轉、切割或食物輸送。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdE6NNYGU5z-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第2/5張實際截圖。上半黑底四步使用說明，手持、手機、提袋吊掛與裝置示意；下半薄荷綠底分層外殼、電路板與零件爆炸圖、正交視圖。是工程示意靜態排版，不能標示實際拆解或組合動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第2/5張實際截圖。上半黑底四步使用說明，手持、手機、提袋吊掛與裝置示意；下半薄荷綠底分層外殼、電路板與零件爆炸圖、正交視圖。是工程示意靜態排版，不能標示實際拆解或組合動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdE6NNYGU5z-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第3/5張實際截圖。白灰描圖紙質感與斜格線背景，中央大型GOTCHA線描字標及雙弧蝙蝠眼睛符號，下方小標誌變體與套印定位圖形。保留為品牌圖形設計參考，不認定為3D模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdE6NNYGU5z-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第4/5張實際截圖。上半灰色裝置側視，黃綠按鈕與GPS天線、螢幕、喇叭等標註；下半黑底兩種圓形/圓角外殼透視，內部輪廓呈透明X光式層次與吊環。僅描述可見設計，不確認最終硬體規格。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第4/5張實際截圖。上半灰色裝置側視，黃綠按鈕與GPS天線、螢幕、喇叭等標註；下半黑底兩種圓形/圓角外殼透視，內部輪廓呈透明X光式層次與吊環。僅描述可見設計，不確認最終硬體規格。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdE6NNYGU5z-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733034輪播第5/5張實際截圖。米白紙感底，上方圓形輔助線構成標誌與網點漸層；左列分解TOTORO face、BAT silhouette與Radio/wifi signal圖形，右側GOTCHA字標及造型變體，下方一排蝙蝠形圖示。為靜態品牌識別說明，不把圖形排列誤認為變形動畫。"
           ],
           "matched_tags": []
         }

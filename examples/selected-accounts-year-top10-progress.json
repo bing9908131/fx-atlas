@@ -5439,10 +5439,16 @@
           "shortcode": "DdE6NNYGU5z",
           "url": "https://www.instagram.com/jesslwiseman/p/DdE6NNYGU5z/",
           "published_at": "2026-09-09T18:30:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdE6NNYGU5z-1"
-          ]
+            "selectedyear-DdE6NNYGU5z-1",
+            "selectedyear-DdE6NNYGU5z-2",
+            "selectedyear-DdE6NNYGU5z-3",
+            "selectedyear-DdE6NNYGU5z-4",
+            "selectedyear-DdE6NNYGU5z-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdAl5jTKSZM",
