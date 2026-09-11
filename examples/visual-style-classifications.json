@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2697,
+  "total": 2705,
   "unclassified": 0,
   "counts": {
     "graphic": 660,
-    "product": 949,
+    "product": 957,
     "organic": 608,
     "geometric": 923,
     "scifi": 349,
-    "effects": 236
+    "effects": 237
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4268,6 +4268,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支1080x1920、12.433333秒影片，頁面沒有輪播下一步。0.012紅色皇冠蓋與透明帶淡綠玻璃，0.879/1.752鏡頭下移露出棕色液面細泡；2.625/3.512/4.365沿瓶身拉遠，水珠附著玻璃，紅白Logo標籤逐漸進入畫面；5.249/6.172瓶身轉向靠右；7.512淡紅Always.文字，8.572變為實紅並停留至11.791。全段為乾淨白背景產品CG畫面，並非現場螢幕拍攝。不由水珠推定流動/噴濺/碰撞，不推定模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第1/8媒體。橘黃背景中傾斜的黃色汽水罐，桃紅檸檬切面圖案及蛛網紋，周圍水滴呈放射蛛網排列。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
           ],
           "matched_tags": []
         }
@@ -16440,6 +16457,137 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際逐次點選第6項靜態圖，1080x1350。青綠反射的密集圓孔面板位於黑色圓角外殼上方，呈現細孔排列與邊角。 無時間序列，不增加運動標籤；孔洞不代表正在切削，分解視圖不代表爆破或組裝。末項只有返回無下一步且無video，總共6張。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第2/8媒體。0.449與1.068罐口及Wild Berry近景，1.700/2.329/2.789完整罐身懸浮旋轉拉遠。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第3/8媒體。紅色汽水罐斜向近景，白色poppi字樣、黃色圖案和水珠，前後景水滴呈散景。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第4/8媒體。0.287/0.605/1.264紅黃圖案近景，1.923/2.600電影字樣和銀色底緣，3.266罐口新角度，4.167/4.777拉遠見整罐Cherry Limeade。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第5/8媒體。藍色罐身的深藍莓果造型與銀白蛛網印刷特寫，透明水珠附著於表面。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第6/8媒體。0.118/0.618黃色罐身旋轉，1.240Lemonade與拉環近景；1.891快速模糊，2.518整罐，3.179水滴已沿放射弧線展開成蛛網。不標記爆炸、碰撞或特定模擬器。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第6/8媒體。0.118/0.618黃色罐身旋轉，1.240Lemonade與拉環近景；1.891快速模糊，2.518整罐，3.179水滴已沿放射弧線展開成蛛網。不標記爆炸、碰撞或特定模擬器。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第7/8媒體。由低角度沿紅色弧面向上看白色poppi標誌，罐身水珠與背景懸空水滴。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da35Ui9mM1z-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項點選第8/8媒體。紅黃包裝表面透明圓潤水滴的特寫，近處水滴有折射與淺景深散景。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
           ],
           "matched_tags": []
         }

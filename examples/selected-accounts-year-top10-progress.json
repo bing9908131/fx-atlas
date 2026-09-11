@@ -3549,10 +3549,19 @@
           "shortcode": "Da35Ui9mM1z",
           "url": "https://www.instagram.com/duncanimate/p/Da35Ui9mM1z/",
           "published_at": "2026-07-16",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Da35Ui9mM1z-1"
-          ]
+            "selectedyear-Da35Ui9mM1z-1",
+            "selectedyear-Da35Ui9mM1z-2",
+            "selectedyear-Da35Ui9mM1z-3",
+            "selectedyear-Da35Ui9mM1z-4",
+            "selectedyear-Da35Ui9mM1z-5",
+            "selectedyear-Da35Ui9mM1z-6",
+            "selectedyear-Da35Ui9mM1z-7",
+            "selectedyear-Da35Ui9mM1z-8"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
