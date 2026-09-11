@@ -8175,10 +8175,12 @@
           "shortcode": "DcdgQ46stHv",
           "url": "https://www.instagram.com/petertarka/reel/DcdgQ46stHv/",
           "published_at": "2026-08-25T11:17:03.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcdgQ46stHv-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -10168,10 +10170,13 @@
           "shortcode": "DY2byLhCKsz",
           "url": "https://www.instagram.com/tomarena_/p/DY2byLhCKsz/",
           "published_at": "2026-05-27T17:29:55.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DY2byLhCKsz-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

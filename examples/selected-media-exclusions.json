@@ -2757,5 +2757,39 @@
     ],
     "reason": "真人敘事與汽車場景廣告；逐段畫面及導演專案製作資料仍無法確認可用的CG或模擬內容，未達CG參考收錄依據而排除。不是宣稱完全沒有任何後製。",
     "evidence": "IG第一支Mercedes-Benz C-Class Stay In Your Comfort Zone，60.02213秒。原先17.642764木製波浪拱門泳池與演員、30.993581女演員木碼頭、40.819126林間水面船；本次Chrome1519733001於43.079839見汽車中控螢幕播放水面、53.110595真人鞋沿木棧道步行。53.519651俯視木步道草地。導演來源 https://currytian.com/works/works-all/mercedes-benz-c-class-stay-in-your-comfort-zone/project-info_for-video 列Mercedes-Benz/Ogilvy Beijing/Dongtutang、攝影Sam Datou、美術Heyang Wang、道具Feng Zhang、Online Longlong/Jiguang/Shannai，未提供木拱/水面CG或模擬依據；不能從超現實布景直接推定流體、木材生長。保留本輪播2/3/4已確認CG與圖形動畫。"
+  },
+  {
+    "post_id": "DY2byLhCKsz",
+    "media_index": 1,
+    "total": 2,
+    "decision": "exclude",
+    "reference_kind": "unverified_editorial_graphic_concept",
+    "observed_times": [],
+    "reason": "未能確認品牌採用的圖形概念作品。作者說可想像放在汽車引擎蓋上，未交代委託或實際使用；不把看起來像刊物的排版直接當作商業品牌採用證據。",
+    "evidence": "黑灰網格、銀色尖角標誌、Viper Racing/Y2Killers/Stanced字樣、人物剪貼圍於青色煙狀圓環與紫色尖角框中，為靜態海報。 2026-09-12 Chrome1519733006逐張截圖核對。IG原文That’s something i could see looking good on the hood of car / Viper Mag / Y2Killers / Stanced / Long live Y2K。精確作者及系列搜尋未找到可對應的品牌採用資料；不宣稱此作必定沒有委託，也不將靜態煙狀紋理標為煙霧模擬。"
+  },
+  {
+    "post_id": "DY2byLhCKsz",
+    "media_index": 2,
+    "total": 2,
+    "decision": "exclude",
+    "reference_kind": "unverified_editorial_graphic_concept",
+    "observed_times": [],
+    "reason": "未能確認品牌採用的圖形概念作品。作者說可想像放在汽車引擎蓋上，未交代委託或實際使用；不把看起來像刊物的排版直接當作商業品牌採用證據。",
+    "evidence": "移去第一張網格與頁首文字的版本，仍是人物剪貼、銀色標誌、青色煙狀環和紫色尖框；無影片，末張只有返回鍵，確認總數2。 2026-09-12 Chrome1519733006逐張截圖核對。IG原文That’s something i could see looking good on the hood of car / Viper Mag / Y2Killers / Stanced / Long live Y2K。精確作者及系列搜尋未找到可對應的品牌採用資料；不宣稱此作必定沒有委託，也不將靜態煙狀紋理標為煙霧模擬。"
+  },
+  {
+    "post_id": "DcdgQ46stHv",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "personal_product_exploration_retrospective",
+    "duration_seconds": 13.628661,
+    "observed_times": [
+      6.488791,
+      13.21335
+    ],
+    "reason": "作者三年產品設計與渲染探索回顧，混合大量概念物件；原文僅說其中一個作品已成真，未確認整段收錄的產品由品牌採用。依排除個人練習/未確認採用之影片條件移除，不把所有概念產品誤標為正式廣告。",
+    "evidence": "Chrome1519733009 IG單支13.628661秒。6.488791瀏覽器視窗拼貼中的彩色鍵盤、紫色電子寵物手錶、抽象紫白物件；13.21335改為前景大量小罐容器排列與橘色罐，後方多層產品渲染視窗。片頭文字110 PRODUCTS - EXPLORING PRODUCT DESIGN AND PRODUCT RENDERS APRIL 2023-AUGUST 2026。作者明述three years of exploring product design and product renders，並稱bring one of my projects to life。這不是沒有CG，而是混合概念作品回顧未達品牌採用條件。"
   }
 ]
