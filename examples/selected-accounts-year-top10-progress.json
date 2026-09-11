@@ -7752,19 +7752,23 @@
           "shortcode": "DdEw7ExOgft",
           "url": "https://www.instagram.com/passionanimation/reel/DdEw7ExOgft/",
           "published_at": "2026-09-09T17:11:03.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdEw7ExOgft-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdBvsJRBr7F",
           "url": "https://www.instagram.com/passionanimation/reel/DdBvsJRBr7F/",
           "published_at": "2026-09-08T13:01:32.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdBvsJRBr7F-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

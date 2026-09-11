@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2653,
+  "total": 2655,
   "unclassified": 0,
   "counts": {
-    "graphic": 650,
-    "product": 920,
+    "graphic": 651,
+    "product": 921,
     "organic": 596,
     "geometric": 915,
     "scifi": 347,
-    "effects": 226
+    "effects": 227
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2520,6 +2520,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.075秒方塊密集直立；2.655與3.873秒橫向長條突出、輪廓展開，青色高光帶移過結構。可見幾何重排與掃光，沒有可確認的爆炸、碰撞、液體。 三段輪播逐一播放，第三段無下一步。讀值為截圖附近時間，影片循環。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEw7ExOgft-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "完整14.014秒單影片已分段觀察。0.99/2.55秒船在波動海面，4.14秒頭套角色剛浮起且面部被水遮擋，4.85/5.70秒露出白色臉部；6.38/7.60秒水線起伏；8.83秒角色往下沉，10.42秒消失且白水向上濺起，12–13.57秒只剩船與泡沫。各時間海面反射形狀及船體傾斜有變化。沒有火焰、爆炸、碰撞或特定FLIP解算器證據；全片並無水下攝影，不因Ocean Depths標題添加海底場景。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "完整14.014秒單影片已分段觀察。0.99/2.55秒船在波動海面，4.14秒頭套角色剛浮起且面部被水遮擋，4.85/5.70秒露出白色臉部；6.38/7.60秒水線起伏；8.83秒角色往下沉，10.42秒消失且白水向上濺起，12–13.57秒只剩船與泡沫。各時間海面反射形狀及船體傾斜有變化。沒有火焰、爆炸、碰撞或特定FLIP解算器證據；全片並無水下攝影，不因Ocean Depths標題添加海底場景。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBvsJRBr7F-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "完整13.013秒單影片多時間觀察：0.82秒Hello Kitty抬腿步行，4.12/5.56秒身體及手臂位置變化且鏡頭推近；2.39/4.83/6.27/7.72秒哥吉拉頭部、手臂與視角變化，期間與2D鏡頭交替，不能把剪接推定為連續材質變形。8.77/9.26秒上哥吉拉下Kitty的斜向分割加青色發光線，10.82/12.39秒轉為全卡通街景與服裝角色，前景角色姿勢及尺度改變。只標圖形轉場，不標身體融合、爆炸或真實電流模擬；沒有足夠证據為遠景其他角色逐一猜名稱。"
           ],
           "matched_tags": []
         }
