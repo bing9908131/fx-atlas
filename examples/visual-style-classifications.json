@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2644,
+  "total": 2653,
   "unclassified": 0,
   "counts": {
-    "graphic": 641,
+    "graphic": 650,
     "product": 920,
     "organic": 596,
-    "geometric": 911,
+    "geometric": 915,
     "scifi": 347,
     "effects": 226
   },
@@ -3278,6 +3278,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支10.447527秒無輪播。3.132656整體構圖較小，中心多重圓環較正面；4.449507構圖放大，內環斜向；7.049584外環窄成直立橢圓，內環交錯角度不同。確認圓環旋轉及整體構圖縮放，不把畫面放大推定植物生長。花朵有柔和高光/光點，無指定風力或物理solver。與已核對BTS Dc8uuOaIIJv作品畫面相符，保留此獨立成品。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第1/9項；各時間人物腳部位置基本固定，只見身體與手部微動；不能標走路、跳躍或鏡頭旋轉。"
           ],
           "matched_tags": []
         }
@@ -15167,6 +15184,190 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "已逐張點選輪播第10/10張，DOM顯示1440x1440靜態圖片且video數量0；最後第10張只有返回沒有下一步。黑色太空中的半明半暗月球，表面可見斑駁隕石坑與橫向結構，暗側附近散布細小藍白光點。 靜態圖不添加鏡頭移動、發射、碰撞、爆炸等動態標籤；速度模糊只記為可見影像技法。不推測Houdini/粒子或流體解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第2/9項；6.55/9.33秒背向行走，12.11/16.76秒視角轉到正面，19.51秒朝鏡頭奔跑，22.27秒人物離地、影子分離。車輛沒有行駛證據，不推測布料模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第3/9項；1.26/2.75/4.24秒三維角色預覽朝向不同，5.86秒可見輸入照片節點。不是實拍人物連續變形成CG。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第4/9項；2.14至7.13秒建築節點、9.60秒道路與號誌、12.08秒車輛與垃圾桶、15.70秒輪胎。動態是介面捲動，不是城市生長或組合。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第4/9項；2.14至7.13秒建築節點、9.60秒道路與號誌、12.08秒車輛與垃圾桶、15.70秒輪胎。動態是介面捲動，不是城市生長或組合。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第5/9項；逐張點選第5項，無播放中的影片，為資產總覽靜態圖。不添加行駛、組合、生長等動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第5/9項；逐張點選第5項，無播放中的影片，為資產總覽靜態圖。不添加行駛、組合、生長等動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第6/9項；0.28秒計程車被操控軸抬高、2.77秒移低；後續選取建築與街道家具。這是編輯器操作，不是物理懸浮、汽車跳躍或行駛。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第6/9項；0.28秒計程車被操控軸抬高、2.77秒移低；後續選取建築與街道家具。這是編輯器操作，不是物理懸浮、汽車跳躍或行駛。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第7/9項；1.74秒高處全景、3.92秒較近、6.08秒下降到街道、8.62秒高角度角色近景。建築不動，不標建築組裝或鏡頭環繞。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第7/9項；1.74秒高處全景、3.92秒較近、6.08秒下降到街道、8.62秒高角度角色近景。建築不動，不標建築組裝或鏡頭環繞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第8/9項；0.61/1.52/2.40/3.28/4.17秒可見不同步態與角色位置，編輯器重播或拖動會重設位置；不聲稱角色持續單方向平移。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DczCCtHms82-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項視覺檢視第9/9項；6.63/9.30秒背向行走，11.99/14.69/17.40秒視角變化，下半部節點捲動。未在本段確認跳躍，不照搬第2段跳躍標籤。最後一項只有返回按鈕，完整9項輪播結束。"
           ],
           "matched_tags": []
         }

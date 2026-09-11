@@ -6351,10 +6351,20 @@
           "shortcode": "DczCCtHms82",
           "url": "https://www.instagram.com/mariannesanche/p/DczCCtHms82/",
           "published_at": "2026-09-02T19:52:51.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DczCCtHms82-1"
-          ]
+            "selectedyear-DczCCtHms82-1",
+            "selectedyear-DczCCtHms82-2",
+            "selectedyear-DczCCtHms82-3",
+            "selectedyear-DczCCtHms82-4",
+            "selectedyear-DczCCtHms82-5",
+            "selectedyear-DczCCtHms82-6",
+            "selectedyear-DczCCtHms82-7",
+            "selectedyear-DczCCtHms82-8",
+            "selectedyear-DczCCtHms82-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dcgsyyoim0H",
