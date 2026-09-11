@@ -1220,19 +1220,17 @@
           "shortcode": "DU8bEKxjdxS",
           "url": "https://www.instagram.com/andreiwarren/p/DU8bEKxjdxS/",
           "published_at": "2026-02-19",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DU8bEKxjdxS-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User-requested exclusion matched against supplied screenshot; not a full-carousel visual review."
         },
         {
           "shortcode": "DT5UuiljZl8",
           "url": "https://www.instagram.com/andreiwarren/p/DT5UuiljZl8/",
           "published_at": "2026-01-24",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DT5UuiljZl8-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User-requested exclusion matched against supplied screenshot; not a full-carousel visual review."
         }
       ],
       "previous_status": "pending",
@@ -1252,19 +1250,17 @@
           "shortcode": "DSqbgeMCYNX",
           "url": "https://www.instagram.com/andrewkramer/p/DSqbgeMCYNX/",
           "published_at": "2025-12-24",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DSqbgeMCYNX-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User-requested exclusion matched against supplied screenshot; not a full-carousel visual review."
         },
         {
           "shortcode": "CmkmTPgJ9rm",
           "url": "https://www.instagram.com/andrewkramer/p/CmkmTPgJ9rm/",
           "published_at": "2022-12-24",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-CmkmTPgJ9rm-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User-requested exclusion matched against supplied screenshot; not a full-carousel visual review."
         }
       ],
       "previous_status": "pending",
@@ -1344,10 +1340,9 @@
           "shortcode": "Dc3wB2RiLSA",
           "url": "https://www.instagram.com/w1curates/p/Dc3wB2RiLSA/",
           "published_at": "2026-09-04",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-Dc3wB2RiLSA-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User-requested exclusion matched against supplied screenshot; not a full-carousel visual review."
         },
         {
           "shortcode": "DXt3dK5jHIb",
