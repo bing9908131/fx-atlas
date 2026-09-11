@@ -7244,10 +7244,12 @@
           "shortcode": "DcjTPT8I9N_",
           "url": "https://www.instagram.com/motionplusdesign/reel/DcjTPT8I9N_/",
           "published_at": "2026-08-27T17:16:53.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcjTPT8I9N_-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

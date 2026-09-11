@@ -2573,5 +2573,28 @@
     ],
     "reason": "Motion Plus Design紐約場購票活動預告，混合講者名字、不同作品片段與長段活動資訊；依既有排除活動宣傳內容規則移除，不誤判為沒有CG。",
     "evidence": "Chrome1519732742原始單影片75.7667秒。7.59黑白人物腳步；8.56 Mehdi Hadi名字；9.52科幻機器人10.49火焰角色。26.72 Rachel Brickel名字、28.61字體片段、30.48 Yellowjackets片頭、32.38 Bhakti Patel名字。44.31–48.42 Runway/Spenser Dickerson/Render Network介紹，50.50 SEPT26，63.58–65.35 BOOK NOW motion-plus-design.com，67.12合作夥伴標誌，68.90淡出。原文明確為9月26日Roulette Theatre活動購票。含CG但媒體本身是講者與售票宣傳合集。"
+  },
+  {
+    "post_id": "DcjTPT8I9N_",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "conference_promotion",
+    "duration_seconds": 76.93333333333334,
+    "observed_times": [
+      8.7714,
+      9.630395,
+      10.512619,
+      11.375451,
+      29.573684,
+      33.146241,
+      36.73627,
+      51.48961,
+      55.559937,
+      59.613044,
+      71.318676
+    ],
+    "reason": "Motion Plus Design與Motionographer的紐約活動合作宣傳，講者名卡、各作品短片、日期與夥伴標誌交錯；按既有活动宣傳排除規則處理。不是判定沒有CG。",
+    "evidence": "Chrome1519732746單支76.933秒實際播放。8.77黑白腳步9.63Mehdi Hadi名卡10.51機器人11.38火焰角色29.57SMOKE字體33.15BhaktiPatel名卡36.74黑白物體特寫51.49SEPT55.56THE BEST59.61MotionPlusDesignNewYorkSEPT26,2026及71.32夥伴標誌。原文明確Motionographer合作與Tickets now live。與前筆預告相近但已另行檢視。"
   }
 ]
