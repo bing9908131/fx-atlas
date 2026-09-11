@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2735,
+  "total": 2742,
   "unclassified": 0,
   "counts": {
-    "graphic": 672,
+    "graphic": 679,
     "product": 971,
     "organic": 617,
-    "geometric": 923,
+    "geometric": 930,
     "scifi": 354,
     "effects": 240
   },
@@ -4348,6 +4348,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項點選第1/8媒體。橘黃背景中傾斜的黃色汽水罐，桃紅檸檬切面圖案及蛛網紋，周圍水滴呈放射蛛網排列。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第1/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。淡藍色亮面球體位於銀灰色桌面，藍黃軌跡線跨過球體，底部密集同心等高線與左側白色針柱網格構成運動追蹤圖。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第1/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。淡藍色亮面球體位於銀灰色桌面，藍黃軌跡線跨過球體，底部密集同心等高線與左側白色針柱網格構成運動追蹤圖。"
           ],
           "matched_tags": []
         }
@@ -17254,6 +17283,180 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.364/1.274月面進入；2.209前進地平線；3.157地球暗輪廓；4.118/5.050/5.972藍色亮面擴大；6.612/7.538月面持續向鏡頭下方掠過。1080x1350，第5圓點啟用無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第2/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。白色霧面球體斜向排列，右側細白線以圓角向上轉折並連接小矩形，桌面呈柔和彩虹色圈紋與點狀格線，底緣是銀色細密紋理。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第2/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。白色霧面球體斜向排列，右側細白線以圓角向上轉折並連接小矩形，桌面呈柔和彩虹色圈紋與點狀格線，底緣是銀色細密紋理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第3/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。俯視白灰桌面，兩列白色球體跨過多組藍色重疊圓環，青黃粉彩輪廓周圍帶黑色三軸箭頭與規則點網格。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第3/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。俯視白灰桌面，兩列白色球體跨過多組藍色重疊圓環，青黃粉彩輪廓周圍帶黑色三軸箭頭與規則點網格。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第4/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。銀灰色桌球桌上有中間網板、藍色同心圈紋及藍黃弧形軌跡，桌面帶十字定位記號。此張沒有球體，保留桌面與路徑標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第4/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。銀灰色桌球桌上有中間網板、藍色同心圈紋及藍黃弧形軌跡，桌面帶十字定位記號。此張沒有球體，保留桌面與路徑標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第5/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。小白球位於銀灰桌面上的圓形靶環中心，外圈呈藍紫粉色漸層虹彩，細線由中央斜向右上延伸，桌面有定位十字。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第5/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。小白球位於銀灰桌面上的圓形靶環中心，外圈呈藍紫粉色漸層虹彩，細線由中央斜向右上延伸，桌面有定位十字。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第6/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。整張深色反光球桌的斜俯視圖，透明感中央隔板兩側有青藍紫黃細曲線交叉，路徑局部變成平行線束，桌面分布十字定位記號。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第6/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。整張深色反光球桌的斜俯視圖，透明感中央隔板兩側有青藍紫黃細曲線交叉，路徑局部變成平行線束，桌面分布十字定位記號。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dap6OfljaCz-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第7/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。近距離側看四顆白色球體斜向排列於桌面上方，左側藍青粉紅同心圈紋帶柔焦，後方桌面是細顆粒銀灰質感。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome 1519732682依下一步順序逐張截图確認，第7/7張靜態圖片。末張只有返回無下一步、7個圓點、DOM無video。近距離側看四顆白色球體斜向排列於桌面上方，左側藍青粉紅同心圈紋帶柔焦，後方桌面是細顆粒銀灰質感。"
           ],
           "matched_tags": []
         }

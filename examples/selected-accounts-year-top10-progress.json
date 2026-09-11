@@ -3296,10 +3296,18 @@
           "shortcode": "Dap6OfljaCz",
           "url": "https://www.instagram.com/dorian_gourg/p/Dap6OfljaCz/",
           "published_at": "2026-07-11",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dap6OfljaCz-1"
-          ]
+            "selectedyear-Dap6OfljaCz-1",
+            "selectedyear-Dap6OfljaCz-2",
+            "selectedyear-Dap6OfljaCz-3",
+            "selectedyear-Dap6OfljaCz-4",
+            "selectedyear-Dap6OfljaCz-5",
+            "selectedyear-Dap6OfljaCz-6",
+            "selectedyear-Dap6OfljaCz-7"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
