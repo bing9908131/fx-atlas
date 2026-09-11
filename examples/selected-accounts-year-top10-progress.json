@@ -7121,19 +7121,23 @@
           "shortcode": "DZcwctWINc-",
           "url": "https://www.instagram.com/muartive/reel/DZcwctWINc-/",
           "published_at": "2026-06-11T14:43:47.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZcwctWINc--1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DRkDx27j6ik",
           "url": "https://www.instagram.com/oneplus_india/reel/DRkDx27j6ik/",
           "published_at": "2025-11-27T14:35:19.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DRkDx27j6ik-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
