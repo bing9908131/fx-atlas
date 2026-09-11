@@ -73,5 +73,19 @@
     "reason": "使用者指定截圖要求移除：Best Student Artworks Part 1",
     "excluded_at": "2026-09-11",
     "source": "user"
+  },
+  {
+    "post_id": "Dc3lY88I1Ku",
+    "url": "https://www.instagram.com/peelanimation/reel/Dc3lY88I1Ku/",
+    "reason": "使用者指定截圖要求移除：Peel Animation · Project Breakdown / Nomadic",
+    "excluded_at": "2026-09-11",
+    "source": "user"
+  },
+  {
+    "post_id": "DcJgZpgIpXy",
+    "url": "https://www.instagram.com/peelanimation/reel/DcJgZpgIpXy/",
+    "reason": "使用者指定截圖要求移除：Peel Animation · One Year Recap",
+    "excluded_at": "2026-09-11",
+    "source": "user"
   }
 ]

@@ -7619,19 +7619,17 @@
           "shortcode": "Dc3lY88I1Ku",
           "url": "https://www.instagram.com/peelanimation/reel/Dc3lY88I1Ku/",
           "published_at": "2026-09-04T14:20:12.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Dc3lY88I1Ku-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User explicitly requested removal based on matched screenshot."
         },
         {
           "shortcode": "DcJgZpgIpXy",
           "url": "https://www.instagram.com/peelanimation/reel/DcJgZpgIpXy/",
           "published_at": "2026-08-17T16:53:41.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcJgZpgIpXy-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User explicitly requested removal based on matched screenshot."
         }
       ],
       "previous_status": "pending",
