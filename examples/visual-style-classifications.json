@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2464,
+  "total": 2468,
   "unclassified": 0,
   "counts": {
-    "graphic": 574,
+    "graphic": 578,
     "product": 849,
     "organic": 558,
     "geometric": 892,
@@ -2140,6 +2140,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單張靜態風格圖，透明層板上可見細長線路、彎折導線與小型圓環元件，冷藍色光線與黑灰結構，前後景有失焦。沒有影片或下一步；不從透明外觀斷言實際玻璃配方，不把線路當成已證實電流動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da1wcBvlOnz-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底多行粉、綠、黃、紫、青色點陣圖示，小圓點和短條呈圓環及放射形。前後時刻可見圖示縮小變淡或重新顯現，中心聚合程度與放射條長度改變。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
           ],
           "matched_tags": []
         }
@@ -11435,6 +11452,57 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "黑底圓形柔光斑，粉紅、青藍、橘黄與淡白中心上下排列，僅餘淡綠莖線暗示花卉。此張以圓形光斑為主，不標明確花瓣細節。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da1wcBvlOnz-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白底黑色PRIMARY LOADERS圖示表，點陣圓環、放射短條和花狀圓點群交替出現；圓環缺口位置及顯示點數改變，部分圖示收縮成少量點或淡出。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da1wcBvlOnz-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白底黑色GREETING圖示表，SUN ENERGY、ASSISTANT、BLOOM、BURST列展示圓點聚合、放射短條與圓環；圖示在緊密與分散、深黑與淡灰之間改變。僅為UI圖形變化，不將BURST解釋成物理爆炸。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Da1wcBvlOnz-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白底PRIMARY EXPRESSIONS圖示表，圓周點陣局部偏移形成表情，旁有睡眠Z字；短條及點陣在不同時刻改變長度、密度與明暗。不是真人臉部或物理粒子模擬。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
           ],
           "matched_tags": []
         }

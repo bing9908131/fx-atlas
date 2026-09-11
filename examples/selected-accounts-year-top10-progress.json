@@ -7766,10 +7766,15 @@
           "shortcode": "Da1wcBvlOnz",
           "url": "https://www.instagram.com/pleasecallmechamp/p/Da1wcBvlOnz/",
           "published_at": "2026-07-16T04:13:57.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Da1wcBvlOnz-1"
-          ]
+            "selectedyear-Da1wcBvlOnz-1",
+            "selectedyear-Da1wcBvlOnz-2",
+            "selectedyear-Da1wcBvlOnz-3",
+            "selectedyear-Da1wcBvlOnz-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Davk1B1PihD",
