@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2499,
+  "total": 2502,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
     "product": 859,
     "organic": 560,
     "geometric": 903,
-    "scifi": 328,
-    "effects": 206
+    "scifi": 331,
+    "effects": 209
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2007,6 +2007,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "綠底文章封面，黃色有孔起司片中央葉子，人物的手腳穿出孔洞；不同時刻可見片角翹起與人物姿態改變。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcjfINMESix-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.443秒讀時與截圖間有延遲，只用作前後段輔助；8.470與8.905秒中央模糊人形角度和輪廓不同，青藍環線改變位置。下方人形與左側發光樹並置。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.443秒讀時與截圖間有延遲，只用作前後段輔助；8.470與8.905秒中央模糊人形角度和輪廓不同，青藍環線改變位置。下方人形與左側發光樹並置。"
           ],
           "matched_tags": []
         }
@@ -12090,6 +12119,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張查看第10張靜態圖片：金色瓶蓋白色罐身與細長瓶置於積雪森林，路邊燈籠暖光照亮雪地。 不從靜態懸置造型推定飛行、旋轉或降雪動態。第十張僅返回，完整輪播共十個媒體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcjfINMESix-2",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.375秒棕色背景細環線、光體較直立；8.088秒藍黑背景與粗藍環線、光體輪廓轉向且擴展。可辨視角與投影輪廓變化，不能推定煙霧或液體模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.375秒棕色背景細環線、光體較直立；8.088秒藍黑背景與粗藍環線、光體輪廓轉向且擴展。可辨視角與投影輪廓變化，不能推定煙霧或液體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcjfINMESix-3",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "7.408秒近側面，8.748與9.152秒轉為較正面、腿部輪廓可見；岩石背景相對視角改變。只標環繞觀看，不把腿部投影差異確定為行走或變身。最後僅返回，輪播共3段影片。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "7.408秒近側面，8.748與9.152秒轉為較正面、腿部輪廓可見；岩石背景相對視角改變。只標環繞觀看，不把腿部投影差異確定為行走或變身。最後僅返回，輪播共3段影片。"
           ],
           "matched_tags": []
         }
