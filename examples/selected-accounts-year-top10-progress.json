@@ -2439,10 +2439,16 @@
           "shortcode": "DcyGgKsDU2I",
           "url": "https://www.instagram.com/caviar.tv/p/DcyGgKsDU2I/",
           "published_at": "2026-09-02T11:12:35.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DcyGgKsDU2I-1"
-          ]
+            "selectedyear-DcyGgKsDU2I-2",
+            "selectedyear-DcyGgKsDU2I-3",
+            "selectedyear-DcyGgKsDU2I-4"
+          ],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbayLnuEVR_",

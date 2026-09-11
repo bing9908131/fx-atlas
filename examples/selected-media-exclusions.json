@@ -2739,5 +2739,23 @@
     "observed_times": [],
     "reason": "混合品牌委託與個人探索的文章拼貼；右上鞋款原圖屬作者個人Pop Clay系列，未確認品牌採用，依使用者排除個人練習的条件不收錄整張拼貼。保留本篇已核實Imperia的第2、5張。",
     "evidence": "2026-09-12重新查看IG第4張：左Hermès藍色包與橘盒，右下Hermès彩妝；右上黃綠粉紅青色扭轉鞋。與作者 https://www.federicopicci.com/wp-content/uploads/2022/04/Popclay_Airmax_v03.jpg 截圖逐圖吻合。https://www.federicopicci.com/portfolio/pop-clay/ 說明2022年pop colors/clay textures探索；作者首頁將Pop Clay列Personal。不同於Senso的Nike Epic React正式委託，不能混用品牌證據。"
+  },
+  {
+    "post_id": "DcyGgKsDU2I",
+    "media_index": 1,
+    "total": 4,
+    "decision": "exclude",
+    "reference_kind": "live_action_ad_cg_not_verified",
+    "duration_seconds": 60.02213,
+    "observed_times": [
+      17.642764,
+      30.993581,
+      40.819126,
+      43.079839,
+      53.110595,
+      53.519651
+    ],
+    "reason": "真人敘事與汽車場景廣告；逐段畫面及導演專案製作資料仍無法確認可用的CG或模擬內容，未達CG參考收錄依據而排除。不是宣稱完全沒有任何後製。",
+    "evidence": "IG第一支Mercedes-Benz C-Class Stay In Your Comfort Zone，60.02213秒。原先17.642764木製波浪拱門泳池與演員、30.993581女演員木碼頭、40.819126林間水面船；本次Chrome1519733001於43.079839見汽車中控螢幕播放水面、53.110595真人鞋沿木棧道步行。53.519651俯視木步道草地。導演來源 https://currytian.com/works/works-all/mercedes-benz-c-class-stay-in-your-comfort-zone/project-info_for-video 列Mercedes-Benz/Ogilvy Beijing/Dongtutang、攝影Sam Datou、美術Heyang Wang、道具Feng Zhang、Online Longlong/Jiguang/Shannai，未提供木拱/水面CG或模擬依據；不能從超現實布景直接推定流體、木材生長。保留本輪播2/3/4已確認CG與圖形動畫。"
   }
 ]
