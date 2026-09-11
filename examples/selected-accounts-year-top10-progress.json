@@ -4420,10 +4420,12 @@
           "shortcode": "CgIURwqhGAq",
           "url": "https://www.instagram.com/ge.iiid/reel/CgIURwqhGAq/",
           "published_at": "2022-07-17T22:21:28.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-CgIURwqhGAq-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "CfkCBilBtV7",
@@ -4913,10 +4915,21 @@
           "shortcode": "DdGotUBE-KC",
           "url": "https://www.instagram.com/here.creative/p/DdGotUBE-KC/",
           "published_at": "2026-09-10T10:36:17.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdGotUBE-KC-1"
-          ]
+            "selectedyear-DdGotUBE-KC-1",
+            "selectedyear-DdGotUBE-KC-2",
+            "selectedyear-DdGotUBE-KC-3",
+            "selectedyear-DdGotUBE-KC-4",
+            "selectedyear-DdGotUBE-KC-5",
+            "selectedyear-DdGotUBE-KC-6",
+            "selectedyear-DdGotUBE-KC-7",
+            "selectedyear-DdGotUBE-KC-8",
+            "selectedyear-DdGotUBE-KC-9",
+            "selectedyear-DdGotUBE-KC-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdBo4icE5ae",

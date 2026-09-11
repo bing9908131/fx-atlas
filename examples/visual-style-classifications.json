@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2808,
+  "total": 2819,
   "unclassified": 0,
   "counts": {
     "graphic": 698,
-    "product": 1011,
+    "product": 1021,
     "organic": 634,
     "geometric": 954,
     "scifi": 358,
-    "effects": 248
+    "effects": 249
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4400,6 +4400,23 @@
       ]
     },
     {
+      "id": "selectedyear-DdGotUBE-KC-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。2.001遠處單顆黃綠戒指；本輪6.341黃綠戒指斜向懸浮；7.480多顆彩色戒指充滿白色場景；10.785黃綠和青色戒指大特寫；15.730單顆粉紫戒指內圈感測器。依可見浮空與景別變化標記，不從專案說明直接推定碰撞或軟體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DdBo4icE5ae-1",
       "styles": [
         {
@@ -4486,6 +4503,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732842逐張點下一步實際檢查，第1/9張：綠色Roam直立於矩形植栽框內，前景草皮與深色斜向陰影形成層次。 各頁video元素皆空；第9張僅返回鍵無下一步。所有動態標籤留空，不以靜態褶皺推斷cloth simulation，不將色名Wave視為波浪。材質為外觀描述，不指定實際材質或製作軟體。專案含CG與實拍元素，圖片視為視覺設計/合成風格稿，不宣稱其中每個元素均為CG。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CgIURwqhGAq-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732872單支3.285332秒1280x720，無輪播。0.017/0.292/0.355右上岩塊較立且彼此接近，裂縫與碎石可見；2.833/3.113右上塊體已向下翻倒，岩塊周圍更多散開小碎粒和淡粉塵。中心灰色弧面反光柔和，未確定是金屬刀具，故只標平滑灰弧面，不推定CNC、切削工具或碰撞求解器。整段未看到電腦、火焰或液體。"
           ],
           "matched_tags": []
         }
@@ -19131,6 +19165,159 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732848，每支1080x1440實際播放。0.352主機右側可見拱形管；2.244鏡位改變，左側直管上方漏斗與管口有間隔；2.275漏斗已降下接合。兩近接時間點球在透明彎管內位置也變化。末頁只有返回無下一步，確認全篇6支。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。0.906/1.222/1.241可見透明凸起感測器、兩顆綠色方形光源及金色接點，3.079上緣灰色反光帶與前面不同，綠光持續可見。僅反光變化，不標閃爍、流動或機械組合。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。0.577、3.830、5.881相同斜向黑色戒指微距，外緣大致固定，內圈感測模組位置由左往右改變，支持相對轉動。未看到綠燈，不加綠色或發光標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。1.473大白環內有小黃綠環，3.763大黑內圈刻CUDIS 002、SIZE 10並可見遠方灰白環，6.471單顆黑色環縮至中央遠處。不同視角和穿過環孔的景別連續變化支持鏡頭穿梭、旋轉與拉遠；不標液體或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。1.494白灰環水平露內圈；3.496感測器綠燈；8.423透明凸起晶片微距及綠燈；12.709灰白戒指垂直側面；21.281黃綠戒指斜向；27.313大環刻字內看見白環；33.310白灰環上方大特寫與下方黑環。這是39.433秒版本，與第1段16.367秒多色版本分開。只記已看見的顏色。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。本輪0.022黃綠與青色雙環斜向近景，1.188青色環菱格與黑色內圈極近景；4.034中央小環正面，5.458粉色環較近且傾斜露內圈。支持旋轉及鏡頭景別切換，不推定變色形變或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。1.032灰白環側面斜向，1.593轉為更窄的正側面；2.867後方黃綠環露出，5.448雙環占滿画面，內圈感測器和金色接點清楚。標旋轉、推近與視差；後環露出不代表生成或分裂。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。第8個為靜態圖片，DOM無活動video；左側黃綠矽膠菱格環帶、黑色內圈部分002/SIZE10刻字，右側另一黑色環。沒有影片動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。第9個靜態圖，DOM無活動video；兩顆灰白菱格戒指上下斜向排列，下環可見內部凸起感測器。沒有發光、旋轉或碰撞動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGotUBE-KC-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。第10個靜態圖，DOM無活動video且輪播僅有返回無下一步，確認共10個。單側黑亮環弧占滿畫面，可見透明覆蓋中的晶片與凸起感測器側面。不是爆炸分解、液體或金屬流動。"
           ],
           "matched_tags": []
         }
