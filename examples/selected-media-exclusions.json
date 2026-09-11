@@ -2709,5 +2709,25 @@
     ],
     "reason": "Ship the Work系列，原文沒有品牌委託或採用證據；依使用者要求確認品牌使用的收錄條件排除，不宣稱確定沒有任何商業用途。",
     "evidence": "https://www.instagram.com/agovik/reel/DYm59OeIYQs/ 作者文案僅6/9或4/9及design/c4d/3d/cinema4d/shipthework標籤；實際6.529022秒：暖棕漸層背景中的不規則黑色懸浮形體，未看到可確認品牌。 以shortcode+作者搜尋未找到額外採用證據。保留排除紀錄以便有證據時重審。"
+  },
+  {
+    "post_id": "DbTO4c6jKAL",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "人物介紹/文章封面，依排除介紹及宣傳內容條件移除；不否認其中有CG作品。",
+    "reference_kind": "editorial_artist_profile",
+    "observed_times": [],
+    "evidence": "黃色背景The art of Federico Picci標題、3D artist & motion designer副標，下方小幅Imperia作品與FS標誌。屬藝術家介紹封面。"
+  },
+  {
+    "post_id": "DbTO4c6jKAL",
+    "media_index": 3,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "人物介紹/文章封面，依排除介紹及宣傳內容條件移除；不否認其中有CG作品。",
+    "reference_kind": "editorial_artist_profile",
+    "observed_times": [],
+    "evidence": "上下為粉色天空綠丘小屋作品，中間大幅真人肖像，屬人物介紹拼貼。"
   }
 ]
