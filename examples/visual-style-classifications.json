@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2472,
+  "total": 2476,
   "unclassified": 0,
   "counts": {
-    "graphic": 579,
-    "product": 849,
-    "organic": 558,
-    "geometric": 895,
+    "graphic": 582,
+    "product": 850,
+    "organic": 560,
+    "geometric": 896,
     "scifi": 327,
     "effects": 205
   },
@@ -2242,6 +2242,110 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "C4D視窗中方形平面布滿矩形單元，局部長方塊突出並朝不同方向傾斜；後段回到較平整、只見接縫的表面。局部變化區域移動，呈起伏波，不視為水波或破碎碰撞。白灰為視窗預覽材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbvIx6JBY-v-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支約30.348秒影片，無輪播。4.978秒粉白層疊牡丹，右下局部藍色三角線網；6.701秒藍色圓環介面及局部線網；13.559秒線網覆蓋較大花心範圍，內層花瓣輪廓扭曲、彎折；後段看到紅色線網及環形介面。21.095秒讀值後截圖耗時約9秒，因此紅色畫面只記後段而非精確21秒。可確認局部形變、線網範圍變化、藍紅色彩切換；未觀察完整由花苞開花或生長，不加生長標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支約30.348秒影片，無輪播。4.978秒粉白層疊牡丹，右下局部藍色三角線網；6.701秒藍色圓環介面及局部線網；13.559秒線網覆蓋較大花心範圍，內層花瓣輪廓扭曲、彎折；後段看到紅色線網及環形介面。21.095秒讀值後截圖耗時約9秒，因此紅色畫面只記後段而非精確21秒。可確認局部形變、線網範圍變化、藍紅色彩切換；未觀察完整由花苞開花或生長，不加生長標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIO2EsaS8Ht-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支6.362267秒CG字母影片，無輪播。0.157秒绿色W形仙人掌在棕色長盆中，周圍漂浮黃色短細條；3.219秒方形特寫內紅氣球靠近仙人掌頂端；3.842、3.934與4.001秒氣球下緣呈凹凸輪廓並向右移動，綠莖與黃刺清楚可見。可確認氣球位移、表面形變與畫中畫特寫切換；沒有捕捉到爆裂，不加爆炸或破碎標籤。未證實細條是長出或脫落，僅標形狀。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支6.362267秒CG字母影片，無輪播。0.157秒绿色W形仙人掌在棕色長盆中，周圍漂浮黃色短細條；3.219秒方形特寫內紅氣球靠近仙人掌頂端；3.842、3.934與4.001秒氣球下緣呈凹凸輪廓並向右移動，綠莖與黃刺清楚可見。可確認氣球位移、表面形變與畫中畫特寫切換；沒有捕捉到爆裂，不加爆炸或破碎標籤。未證實細條是長出或脫落，僅標形狀。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DV6sVqWDHxs-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支8.333秒影片，無輪播。4.09至4.21秒白灰半透明鍊條與圓珠重疊；4.706秒上下黑白分割，局部金屬鍊與黑色剪影顯現；7.173秒黑底銀色叉子與細線點狀標記。可確認反相、分割轉場與疊影切換，不據此推定鍊條碰撞、解體或粒子物理。時間為截图附近讀值，影片循環。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支8.333秒影片，無輪播。4.09至4.21秒白灰半透明鍊條與圓珠重疊；4.706秒上下黑白分割，局部金屬鍊與黑色剪影顯現；7.173秒黑底銀色叉子與細線點狀標記。可確認反相、分割轉場與疊影切換，不據此推定鍊條碰撞、解體或粒子物理。時間為截图附近讀值，影片循環。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTtFakUDFe--1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支13.467秒CG影片，無輪播。2.449秒多條金色鍊與淡粉白珠串垂掛於叉子；4.082秒斜側近景顯示珠串、金銀環扣及鏡面粗鍊；9.969秒轉至粗金鍊包圍圓珠的微距。可確認從整體到微距的鏡頭切換與視角變化；未充分證明鍊條主動纏繞、拉伸或碰撞，不新增這些動態標籤。材質為外觀，不判定真金或真珍珠。"
           ],
           "matched_tags": []
         }

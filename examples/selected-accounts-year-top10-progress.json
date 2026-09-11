@@ -5760,19 +5760,23 @@
           "shortcode": "DV6sVqWDHxs",
           "url": "https://www.instagram.com/kollektiiv/reel/DV6sVqWDHxs/",
           "published_at": "2026-03-15T19:46:41.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DV6sVqWDHxs-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DTtFakUDFe-",
           "url": "https://www.instagram.com/kollektiiv/reel/DTtFakUDFe-/",
           "published_at": "2026-01-19T20:10:55.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DTtFakUDFe--1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -5922,19 +5926,23 @@
           "shortcode": "DbvIx6JBY-v",
           "url": "https://www.instagram.com/lewisorton/reel/DbvIx6JBY-v/",
           "published_at": "2026-08-07T11:04:17.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DbvIx6JBY-v-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DIO2EsaS8Ht",
           "url": "https://www.instagram.com/lewisorton/reel/DIO2EsaS8Ht/",
           "published_at": "2025-04-09T16:08:56.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DIO2EsaS8Ht-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
