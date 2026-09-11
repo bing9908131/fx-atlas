@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2484,
+  "total": 2486,
   "unclassified": 0,
   "counts": {
-    "graphic": 588,
+    "graphic": 589,
     "product": 850,
     "organic": 560,
-    "geometric": 897,
+    "geometric": 899,
     "scifi": 328,
     "effects": 206
   },
@@ -2397,6 +2397,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支30.125秒影片，無輪播。8.560秒木色屋架與梁柱近景，19.443秒多層塔樓灰色瓦頂及金色塔尖，29.331秒完整五層塔與白灰台基階梯。視角與鏡頭距離變換，裸露木架與完成外觀分段展示；沒有據此假定零件飛入自動組装。木材、瓦片、金屬為可見外觀，不判定現實建築名稱。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc9AEMZTs5K-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支21.588254秒影片，無輪播。7.263秒多棟建築的分層模型與圓柱塔，9.804秒模型已有青綠屋頂及灰白橋架；17.352秒街道視角可見紅棕木構、青綠欄杆、燈籠、階梯及上方橋梁。可確認模型階段展示與鏡頭切換；不由分段截圖推定連續物理組裝。街景畫面可能包含作者輸入參考或成品比較，標籤描述可见內容，不聲稱每一個細節都是生成模型。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBpMHhNlvg-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支11.966666秒影片，無輪播。5.293秒中央較大範圍花形圓盤呈彩色，部分轉成狹窄側面；8.887秒彩色範圍較小，外圈暗色花盤。相同格點上的圓盤可見正面/側面切換，呈依序翻轉與顏色顯露效果。不是花朵生長；留言提到餅乾不代表材質為食物。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支11.966666秒影片，無輪播。5.293秒中央較大範圍花形圓盤呈彩色，部分轉成狹窄側面；8.887秒彩色範圍較小，外圈暗色花盤。相同格點上的圓盤可見正面/側面切換，呈依序翻轉與顏色顯露效果。不是花朵生長；留言提到餅乾不代表材質為食物。"
           ],
           "matched_tags": []
         }
