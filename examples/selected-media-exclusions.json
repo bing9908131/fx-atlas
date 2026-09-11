@@ -294,5 +294,773 @@
     "decision": "exclude",
     "reason": "live_action_aerial_footage",
     "evidence": "作者標明Shot on Fujifilm GFX Eterna55、film photos developed by Gelatinlabs。單影片56.375秒；6.832443牲畜棚俯視、16.97579太陽能板實景反光、30.563926與41.484908大型養殖場牲畜與棚頂實景空拍，無可確認CG效果。"
+  },
+  {
+    "post_id": "DcLfFCbAmrI",
+    "media_index": 2,
+    "total": 2,
+    "decision": "exclude",
+    "reason": "text_synopsis_without_visual_reference",
+    "evidence": "轮播第二張為I SEA片名、三段劇情與導演說明、影展logo；只有邊緣裝飾色塊，沒有動畫成品或角色畫面。無影片，無下一步，輪播總數2。"
+  },
+  {
+    "post_id": "DXeTxSCF64s",
+    "media_index": 5,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "live_action_prop_production_without_cg",
+    "evidence": "實拍兩人在地面檢視設計紙張與道具，非CG成品。"
+  },
+  {
+    "post_id": "DXeTxSCF64s",
+    "media_index": 6,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "live_action_prop_production_without_cg",
+    "evidence": "實拍手整理真實苔蘚與浮雕道具；2.339531與2.971365秒均為道具近景，無可見CG。"
+  },
+  {
+    "post_id": "DXeTxSCF64s",
+    "media_index": 7,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "live_action_prop_production_without_cg",
+    "evidence": "實拍石門道具上的苔蘚與太陽浮雕特寫，無動畫。"
+  },
+  {
+    "post_id": "DXeTxSCF64s",
+    "media_index": 8,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "live_action_prop_production_without_cg",
+    "evidence": "實拍工作台上石門、鉗子、苔蘚與浮雕，無CG。"
+  },
+  {
+    "post_id": "DXeTxSCF64s",
+    "media_index": 9,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "live_action_prop_production_without_cg",
+    "evidence": "13.733333秒實拍搬運石門道具；2.924888室外抬起、13.112642搬入建築，無CG內容。"
+  },
+  {
+    "post_id": "CZC2YRjFOUB",
+    "media_index": 2,
+    "total": 2,
+    "decision": "exclude",
+    "reason": "純文字獎項提名公告，沒有CG畫面。",
+    "evidence": "白底VES Awards nominees名單，列出WandaVision Vision’s Destruction與製作人員；最後一張僅返回按鈕。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 1,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "三名角色彩色合成；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 2,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "春麗彩色局部；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 3,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "春麗彩色配另外兩人藍灰；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 4,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "春麗線稿；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 5,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "Cammy線稿；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 6,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "Mai線稿；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 7,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "Mai與春麗背影線稿；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 8,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "春麗草稿附配色筆記；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 9,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "Cammy草稿附配色筆記；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "DZrIbr1iYiz",
+    "media_index": 10,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "品牌角色的私人同人委託，未符合品牌實際採用條件。",
+    "evidence": "Mai草稿附配色筆記；作者明示Street Fighter，為女友請託的繪畫，不是品牌官方委託；全部10張逐張檢視，最後無下一步。"
+  },
+  {
+    "post_id": "Db8aoyYDUCV",
+    "media_index": 4,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "實體店面與陳列紀錄照片，缺乏可單獨分析的CG效果。",
+    "evidence": "實體店內展陳全景，小幅照片包含岩石道具、陳列行李箱與店面廣告，不能把整個實體空間視為CG。第10張無下一步，完整10項。"
+  },
+  {
+    "post_id": "Db8aoyYDUCV",
+    "media_index": 10,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "實體店面與陳列紀錄照片，缺乏可單獨分析的CG效果。",
+    "evidence": "藍色夜景街角店面實拍，廣告只佔櫥窗局部，沒有獨立可辨識的特效展示。第10張無下一步，完整10項。"
+  },
+  {
+    "post_id": "DcdsgTxsNC2",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "品牌專案未採用概念集，未符合品牌實際使用條件。",
+    "evidence": "作者雖參與Nike Mercurial正式launch campaign，但明示此片為75 unseen frames、未進final cut的concepts/renders/experiments。畫面快速切换概念圖並寫Pick your fav image，6.067秒AIR綠色透明材質概念；單一15.021858秒reel，無輪播。不能以參與正式專案推定這75張亦获採用。"
+  },
+  {
+    "post_id": "Db8jsJZDQbm",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "純講者文字介紹，無CG/動態設計展示",
+    "evidence": "最後一張無下一步，芥末底僅工作室簡介與活動日期。"
+  },
+  {
+    "post_id": "Daz7IxsGYZp",
+    "media_index": 6,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "現場紀錄不作獨立CG參考",
+    "evidence": "10.1秒，上下分屏車站行人/固定印刷海報實拍，3.85秒人物行走；無獨立CG動畫本體。"
+  },
+  {
+    "post_id": "Daz7IxsGYZp",
+    "media_index": 7,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "現場紀錄不作獨立CG參考",
+    "evidence": "走廊廣角上下拼照，現場攝影紀錄，較清楚主視覺另於1/3/4/5收錄。"
+  },
+  {
+    "post_id": "Daz7IxsGYZp",
+    "media_index": 9,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "現場紀錄不作獨立CG參考",
+    "evidence": "29.33秒现场播放記錄，8.92秒远處螢幕，18.08/26.62秒空白；不作為獨立可辨識CG參考，清晰原動畫於第8項收錄。"
+  },
+  {
+    "post_id": "Daz7IxsGYZp",
+    "media_index": 10,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "現場紀錄不作獨立CG參考",
+    "evidence": "末項無下一步，建築火車及遠處廣告牌的現場照片，不是CG場景。"
+  },
+  {
+    "post_id": "DZ-JdJ8DDai",
+    "media_index": 6,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實際跑步機展場紀錄照片；保留為品牌採用證據，不當作CG素材重複收錄。",
+    "evidence": "靜態展區照片，前方WOODWAY跑步機，後方顯示屏展示鞋子CG；末項僅返回按鈕，確認總数6。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 1,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "模特兒黑T正面，胸前粉色CRACK印花，上方銷售標題。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 2,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人佩戴棕色棒球帽正面。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 3,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人棕色帽子背側，白色昆蟲刺繡。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 4,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "黑T胸前粉色字形印花特寫。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 5,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "黑T背面粉色方塊與蒼蠅印花。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 6,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人黑長袖正面，袖子粉白黃印花。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 7,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人黑長袖側面與袖子印花。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 8,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人白T正面紅色字形印花。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 9,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "服飾真人攝影，非獨立CG原稿或動畫。",
+    "evidence": "真人白T背面紅色口腔圖案印花。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbdjPhSDfWz",
+    "media_index": 10,
+    "total": 10,
+    "decision": "exclude",
+    "reason": "純購物促銷文字卡片。",
+    "evidence": "白底SHOP NOW與購物網址純促銷卡片。作者明列攝影Holly Delooze，圖案取自工作室短片；印刷於實體衣物不作CG/布料模擬標記。逐張檢查10項，最後無下一步、無影片。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 1,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "黑T正面平鋪商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 2,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "黑T背面粉色方塊印花商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 4,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "黑長袖正面商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 5,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "黑長袖背面商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 7,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "白T正面商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 8,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "白T背面口腔印花商品照。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 10,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "真人佩戴棕帽正面照片。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 11,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "真人棕帽背側照片。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DbLJjIjAPS0",
+    "media_index": 13,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "實體商品攝影或純促銷卡；此篇原始CG動畫已逐項另收。",
+    "evidence": "SHOP NOW純銷售網址卡。與作者攝影及商品說明一致；全篇13項已逐項查看，13末項只有返回按鈕。"
+  },
+  {
+    "post_id": "DdGgELhTfRA",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "Audio Buffer Tokyo聲音實驗工作坊活動公告，無獨立CG作品。",
+    "evidence": "單張黑白活動海報，2026-09-16時程、票價與參與者名單，無輪播下一步、無影片；文字介紹空間音響及模組合成器。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 1,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "展場全景、觀眾與雕刻桌。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 2,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "觀眾身旁的不鏽鋼雕刻圓盤。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 3,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "真人俯身看展桌。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 4,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "桌面實際機械繪圖雕刻機。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 5,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "金屬圓盤刻線實拍特寫。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "Dc3QXKiGWvM",
+    "media_index": 6,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體機械雕刻展覽紀錄攝影，非CG/模擬影像。",
+    "evidence": "牆面機器控制介面投影與前景實體圓盤。作者說明旋轉不鏽鋼圓盤以鑽石針刻線，Photo by Osamu Sakamoto；逐項看完6张，无影片，最后只有返回按鈕。不可因金屬或圓盤紋路標程序化CG。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 2,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "手持封面與紅唱片的實拍照片。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 4,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "紅色實體唱片正面商品展示。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 6,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "手持唱片背面實拍。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 9,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "紅唱片標籤實體近拍。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 12,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "透明CD盒開合與正反面實體展示。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 13,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "CD光碟印刷實體展示。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 15,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "紅色半透明唱片疊在實體封套上的商品展示。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcZTrktCN3R",
+    "media_index": 17,
+    "total": 17,
+    "decision": "exclude",
+    "reason": "實體商品攝影或非CG手繪草稿；同篇設計原稿另收。",
+    "evidence": "白紙鉛筆手繪人物構圖草稿。全篇17項均已查看，末張僅返回按鈕。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 1,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "黑色T恤正反面平鋪商品照片，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 3,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "真人背面穿著T恤攝影，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 5,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "多件T恤的商品照片拼貼，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 8,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "第二款T恤正反面商品照，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 9,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "帽子T恤長袖等商品目錄，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DcOW9r8iKb8",
+    "media_index": 10,
+    "total": 11,
+    "decision": "exclude",
+    "reason": "實拍穿著、商品攝影或商品清單，無CG動態參考。",
+    "evidence": "真人正面穿著攝影加顆粒處理，全11張逐一查看；設計原稿另收。"
+  },
+  {
+    "post_id": "DZxhx2qt0CK",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "實拍展場紀錄，非獨立CG作品片段",
+    "evidence": "52.940044秒單支影片，9.207秒為賭場中庭、真人與環形螢幕；34.209秒仍為現場建築與觀眾，螢幕播放藍粉圖形；47.738秒為同場地螢幕金色動畫，51.294秒Artpoint宣傳結尾。作者說明Partouche新場館開幕的六件數位藝術展出，故確認是裝置展場拍攝，不把螢幕內多位藝術家的內容拆成自己辨識的CG素材。"
+  },
+  {
+    "post_id": "DcTnI3mvP9v",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "品牌角色二創，未能確認品牌實際採用",
+    "evidence": "畫面為肌肉人形巴大蝶在藍色森林，作者文字Butterfree line superiority及pokemonart等標籤。兩者都是單一CG短片，並非辨識成非CG；作者未提供Pokemon官方委託或採用資訊。依使用者只收錄已確認品牌採用的品牌作品規則排除，不聲稱已證明沒有授權。"
+  },
+  {
+    "post_id": "Da26cTOvLl5",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "品牌角色二創，未能確認品牌實際採用",
+    "evidence": "畫面為粉色胖丁在木製舞台、燈牌旁，作者文字Have you ever been double slapped by a Jigglypuff及pokemonart等標籤。兩者都是單一CG短片，並非辨識成非CG；作者未提供Pokemon官方委託或採用資訊。依使用者只收錄已確認品牌採用的品牌作品規則排除，不聲稱已證明沒有授權。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 1,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "實拍桌面LG螢幕與Bento Jot收納盒，疊加介紹字句。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 2,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "真人雙手拿取盒蓋，layer one介紹。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 3,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "真人翻閱實體筆記本，writing介紹。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 4,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "真人手部操作磁吸筆，playing with magnets介紹。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 5,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "真人把物件放入實體皮革攜帶袋，carry it介紹。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DcbLfnnjXOq",
+    "media_index": 6,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實拍禮物開箱或致謝資訊，非CG作品",
+    "evidence": "白底thankyou debx.design for gifting this致謝卡與人像。作者文字明說感謝debx.design贈送reservenooe Bento Jot 3 Layer。全部六項逐一查看，第六項無下一步；不把實拍影片的說明字幕當作獨立CG作品。"
+  },
+  {
+    "post_id": "DZaxZRZnB3q",
+    "media_index": 4,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "本項所見為資訊或活動紀錄，無可確認的CG／動態設計參考。",
+    "evidence": "17.133秒影片：1.334秒講座工作坊名單，4.041秒多欄作品名稱索引，所見為資訊名單展示。作者發布DIA Studio正式網站作品檔案，列出Bänziger Hug、Samuel Bänziger、Olivier Hug、Optimo、François Rappo與DIA Meg設計協作。僅辨識網站介面，不把縮圖中的作品推定為獨立CG；未聲明軟體。逐項看到第七項，最後無下一步。"
+  },
+  {
+    "post_id": "DZaxZRZnB3q",
+    "media_index": 5,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "本項所見為資訊或活動紀錄，無可確認的CG／動態設計參考。",
+    "evidence": "13.467秒影片：12.140秒搜尋squa顯示Squarespace文字結果，所見為文字搜尋示範，沒有可確認的特效動畫。作者發布DIA Studio正式網站作品檔案，列出Bänziger Hug、Samuel Bänziger、Olivier Hug、Optimo、François Rappo與DIA Meg設計協作。僅辨識網站介面，不把縮圖中的作品推定為獨立CG；未聲明軟體。逐項看到第七項，最後無下一步。"
+  },
+  {
+    "post_id": "DZaxZRZnB3q",
+    "media_index": 7,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "本項所見為資訊或活動紀錄，無可確認的CG／動態設計參考。",
+    "evidence": "13.800秒影片：9.060秒講座活動照片與說明頁，主要實拍活動紀錄，沒有獨立CG展示。作者發布DIA Studio正式網站作品檔案，列出Bänziger Hug、Samuel Bänziger、Olivier Hug、Optimo、François Rappo與DIA Meg設計協作。僅辨識網站介面，不把縮圖中的作品推定為獨立CG；未聲明軟體。逐項看到第七項，最後無下一步。"
+  },
+  {
+    "post_id": "DbAqC05DZyT",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "實物成品攝影，不是CG畫面。",
+    "evidence": "實物頭飾全景影片，細絲垂掛，文案明示作者拍攝成品。作者直接說明設計Galaxea頭飾結構，再由Muriel Nisse與Yiqing Yin加工；Odess Studio作品經3D列印、手工褶皺刺繡髮絲與緞布製作，成品由作者拍攝。實物完成支持本模型實際採用，非未採用品牌練習。五項逐一查看，最後無下一步。"
+  },
+  {
+    "post_id": "DbAqC05DZyT",
+    "media_index": 2,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "實物成品攝影，不是CG畫面。",
+    "evidence": "實物珠飾及細絲特寫影片。作者直接說明設計Galaxea頭飾結構，再由Muriel Nisse與Yiqing Yin加工；Odess Studio作品經3D列印、手工褶皺刺繡髮絲與緞布製作，成品由作者拍攝。實物完成支持本模型實際採用，非未採用品牌練習。五項逐一查看，最後無下一步。"
+  },
+  {
+    "post_id": "DbAqC05DZyT",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "實物成品攝影，不是CG畫面。",
+    "evidence": "實物褶皺緞布與骨架側面照片。作者直接說明設計Galaxea頭飾結構，再由Muriel Nisse與Yiqing Yin加工；Odess Studio作品經3D列印、手工褶皺刺繡髮絲與緞布製作，成品由作者拍攝。實物完成支持本模型實際採用，非未採用品牌練習。五項逐一查看，最後無下一步。"
+  },
+  {
+    "post_id": "DbAqC05DZyT",
+    "media_index": 5,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "實物成品攝影，不是CG畫面。",
+    "evidence": "實物頭飾全景淺色背景照片。作者直接說明設計Galaxea頭飾結構，再由Muriel Nisse與Yiqing Yin加工；Odess Studio作品經3D列印、手工褶皺刺繡髮絲與緞布製作，成品由作者拍攝。實物完成支持本模型實際採用，非未採用品牌練習。五項逐一查看，最後無下一步。"
+  },
+  {
+    "post_id": "DZFZlmpjSgJ",
+    "media_index": 6,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "重複場景搭配前往Behance文字的導流圖，非獨立特效參考。",
+    "evidence": "末項白底Learn more about this project on Behance文字與花形靜圖。Dot4 Studio原創Video of the Year慶祝作品，本篇展示成片細節及製作過程；作者#b3d支持Blender。六項逐一查看，最後是Behance導流圖，無下一步。不是第三方品牌練習；不從桌面書名字样猜客戶。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 1,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 1/13 張：復古麵包店櫥窗與戴帽男子背影的故事封面。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 2,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 2/13 張：麵包店門口、店員及前景馬車輪。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 3,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 3/13 張：店員隔著玻璃整理麵包與街道倒影。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 4,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 4/13 張：雙手揉麵團與窗光下的麵粉。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 5,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 5/13 張：烤爐內視角、麵包與麵包師。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 6,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 6/13 張：女子在工作桌揉麵團。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 7,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 7/13 張：麵包店外街道行人與馬車。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 8,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 8/13 張：麵包店室內顧客與麵包櫃。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 9,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 9/13 張：男孩拿麵包及上方飛鳥。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 10,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 10/13 張：夜間窗外看麵包師工作。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 11,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 11/13 張：店門外蜷縮的狗與麵包。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 12,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 12/13 張：夜間麵包店外坐著的人和狗。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "Das7nWFFoui",
+    "media_index": 13,
+    "total": 13,
+    "decision": "exclude",
+    "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
+    "evidence": "逐張檢查 Instagram 輪播第 13/13 張：麵包店櫥窗文字與待續標牌。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
   }
 ]
