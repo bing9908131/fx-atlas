@@ -3952,10 +3952,17 @@
           "shortcode": "DbTO4c6jKAL",
           "url": "https://www.instagram.com/fedsod/p/DbTO4c6jKAL/",
           "published_at": "2026-07-27T14:57:57.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbTO4c6jKAL-1"
-          ]
+            "selectedyear-DbTO4c6jKAL-2",
+            "selectedyear-DbTO4c6jKAL-5"
+          ],
+          "excluded_media_indices": [
+            1,
+            3,
+            4
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Da0Jnn9qxnV",

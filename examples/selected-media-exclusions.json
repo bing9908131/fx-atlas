@@ -2729,5 +2729,15 @@
     "reference_kind": "editorial_artist_profile",
     "observed_times": [],
     "evidence": "上下為粉色天空綠丘小屋作品，中間大幅真人肖像，屬人物介紹拼貼。"
+  },
+  {
+    "post_id": "DbTO4c6jKAL",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reference_kind": "editorial_collage_with_personal_study",
+    "observed_times": [],
+    "reason": "混合品牌委託與個人探索的文章拼貼；右上鞋款原圖屬作者個人Pop Clay系列，未確認品牌採用，依使用者排除個人練習的条件不收錄整張拼貼。保留本篇已核實Imperia的第2、5張。",
+    "evidence": "2026-09-12重新查看IG第4張：左Hermès藍色包與橘盒，右下Hermès彩妝；右上黃綠粉紅青色扭轉鞋。與作者 https://www.federicopicci.com/wp-content/uploads/2022/04/Popclay_Airmax_v03.jpg 截圖逐圖吻合。https://www.federicopicci.com/portfolio/pop-clay/ 說明2022年pop colors/clay textures探索；作者首頁將Pop Clay列Personal。不同於Senso的Nike Epic React正式委託，不能混用品牌證據。"
   }
 ]
