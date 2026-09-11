@@ -4594,10 +4594,12 @@
           "shortcode": "Db54nEkvaTC",
           "url": "https://www.instagram.com/googledesign/reel/Db54nEkvaTC/",
           "published_at": "2026-08-11T15:14:38.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Db54nEkvaTC-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -7168,10 +7170,12 @@
           "shortcode": "DZ46bECxE4q",
           "url": "https://www.instagram.com/murilomrtarello/reel/DZ46bECxE4q/",
           "published_at": "2026-06-22T13:07:51.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DZ46bECxE4q-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

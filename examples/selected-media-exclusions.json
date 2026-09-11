@@ -1588,5 +1588,32 @@
     "decision": "exclude",
     "reason": "靜態主辦與贊助單位名單，標誌排版資訊卡，無獨立CG或動態參考。",
     "evidence": "靜態主辦與贊助單位名單，標誌排版資訊卡，無獨立CG或動態參考。逐項查看8項輪播，末項僅返回。第1項花朵海報與第7項文字動畫另保留。"
+  },
+  {
+    "post_id": "DZ46bECxE4q",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明確標示個人探索作品，包含SMEG家電，未確認品牌實際採用；依使用者排除個人練習影片的要求移出公開庫。並非誤判為非CG。",
+    "duration_seconds": 23.573333,
+    "observed_times": [
+      0.488082,
+      1.889593,
+      3.285559,
+      4.690672,
+      6.080344,
+      7.467548,
+      8.845313,
+      10.214032,
+      11.590048,
+      12.981196,
+      14.365594,
+      15.765299,
+      17.178761,
+      18.606338,
+      20.003936,
+      22.417875
+    ],
+    "evidence": "實際播放完整單支23.573333秒CG室內動畫。黃色行李箱旋轉並在房間移動，燈具與桌面物件跳動，手機傾倒、紙張彎曲，鏡頭移動；木地板、米色織物、彩色燈具、藍色桌面，18.606338可見SMEG咖啡機標誌，室內另有同品牌冰箱。IG正文稱exploratory project；作者作品集https://murilomartarello.com/明列After Travel 2026 Personal exploration, transforming a living space in a joyful way。未把聲音合作vidassets.io當作SMEG委託證據。保留逐時觀察與排除理由供日後追溯。"
   }
 ]
