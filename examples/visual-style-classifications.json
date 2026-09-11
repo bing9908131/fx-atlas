@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2806,
+  "total": 2808,
   "unclassified": 0,
   "counts": {
     "graphic": 698,
-    "product": 1009,
+    "product": 1011,
     "organic": 634,
-    "geometric": 952,
+    "geometric": 954,
     "scifi": 358,
     "effects": 248
   },
@@ -4486,6 +4486,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732842逐張點下一步實際檢查，第1/9張：綠色Roam直立於矩形植栽框內，前景草皮與深色斜向陰影形成層次。 各頁video元素皆空；第9張僅返回鍵無下一步。所有動態標籤留空，不以靜態褶皺推斷cloth simulation，不將色名Wave視為波浪。材質為外觀描述，不指定實際材質或製作軟體。專案含CG與實拍元素，圖片視為視覺設計/合成風格稿，不宣稱其中每個元素均為CG。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdCPrI0sVlm-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732854單支30.016秒1080x1920。3.220拱形透明管路與主機；7.017正向旋鈕到7.393傾斜鏡位，支持camera roll而非旋鈕自转；9.560至10.295鏡頭穿過橘色管道内壁；15.450藍球位於進球口，16.643紅球在口前/紫球位於彎曲瓣片後/綠球已在上方管內；17.715多個紫綠球從擴口飛出；23.195遠景完整管路，25.591/28.526主機前全景與多球在不同高度位移。保留原版9:16比例，未從轉載直接複製3:4；未因caption bouncing就推定碰撞求解器，沒有添加未在本輪原片確認的角色或毛髮。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732854單支30.016秒1080x1920。3.220拱形透明管路與主機；7.017正向旋鈕到7.393傾斜鏡位，支持camera roll而非旋鈕自转；9.560至10.295鏡頭穿過橘色管道内壁；15.450藍球位於進球口，16.643紅球在口前/紫球位於彎曲瓣片後/綠球已在上方管內；17.715多個紫綠球從擴口飛出；23.195遠景完整管路，25.591/28.526主機前全景與多球在不同高度位移。保留原版9:16比例，未從轉載直接複製3:4；未因caption bouncing就推定碰撞求解器，沒有添加未在本輪原片確認的角色或毛髮。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc38zqBhcfW-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732857單支15.018666秒1080x1920。0.332器材與立架位於平台；2.333多器材在空中；3.534圓柱喇叭斜向露底，3.866轉為較直立且SONOS字樣朝前，支持旋轉。5.086長條音響；8.287/8.306兩顆扁橢圓喇叭懸浮；10.083多器材形成斜向平衡排列；11.485多器材在有凹槽且錯層的平台上方，11.612器材傾倒下降；13.562器材已落位，平台拼合為平整布局並出SONOS字樣。金色是顏色，牆地材質僅灰泥外觀，未當成金屬；未推定碰撞求解器或特定產品型號。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732857單支15.018666秒1080x1920。0.332器材與立架位於平台；2.333多器材在空中；3.534圓柱喇叭斜向露底，3.866轉為較直立且SONOS字樣朝前，支持旋轉。5.086長條音響；8.287/8.306兩顆扁橢圓喇叭懸浮；10.083多器材形成斜向平衡排列；11.485多器材在有凹槽且錯層的平台上方，11.612器材傾倒下降；13.562器材已落位，平台拼合為平整布局並出SONOS字樣。金色是顏色，牆地材質僅灰泥外觀，未當成金屬；未推定碰撞求解器或特定產品型號。"
           ],
           "matched_tags": []
         }
