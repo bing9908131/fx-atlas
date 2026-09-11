@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2432,
+  "total": 2442,
   "unclassified": 0,
   "counts": {
-    "graphic": 546,
+    "graphic": 556,
     "product": 848,
     "organic": 551,
-    "geometric": 880,
+    "geometric": 888,
     "scifi": 325,
     "effects": 204
   },
@@ -1812,6 +1812,40 @@
       ]
     },
     {
+      "id": "selectedyear-DL5csnGy4Hf-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單段3D角色動畫：穿藍色西裝、紅色領帶的鏡面機器人以雙手操作鍵盤。兩次播放觀察手指及手掌位置改變，臉部面板由淡青轉紫，圓形眼睛由粉紅轉黃。西裝有細絨紋理，手掌與臉框為高反射金屬外觀。時間為截圖前讀值，截圖稍有延遲；無輪播下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DJHi1CXPO8I-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單段3D籃球角色動畫，球員穿10號球衣與短褲，球在手掌下方上下移動，身體左右移重心、屈膝並抬脚。多次播放觀察球衣及鞋子由黃、青到紫，黑色背景與棕橘籃球；球衣輪廓有擺動但不推定布料求解器。時間為截圖前讀值且會循環，截圖稍有延遲。無輪播下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DUSnE55Dn4t-1",
       "styles": [
         {
@@ -1932,6 +1966,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "C4D視窗中方形平面布滿矩形單元，局部長方塊突出並朝不同方向傾斜；後段回到較平整、只見接縫的表面。局部變化區域移動，呈起伏波，不視為水波或破碎碰撞。白灰為視窗預覽材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbsEOXVliJD-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "平面色塊動畫，米色網格背景上橘紅圓形與黑色曲邊連接面；另一段切為綠色底與黑圓、黑環。圓形位置與連接輪廓改變，同時有鏡頭切換，不標液體物理模擬。 已逐一查看2個輪播，末項無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "平面色塊動畫，米色網格背景上橘紅圓形與黑色曲邊連接面；另一段切為綠色底與黑圓、黑環。圓形位置與連接輪廓改變，同時有鏡頭切換，不標液體物理模擬。 已逐一查看2個輪播，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。白底上藍綠黑圓片帶白色男女符號，圓形與成對半圓交替，符號與色片排列改變。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。白底上藍綠黑圓片帶白色男女符號，圓形與成對半圓交替，符號與色片排列改變。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
           ],
           "matched_tags": []
         }
@@ -10663,6 +10755,180 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張查看輪播靜態圖片，銀色叉子和紅色覆盆莓、深藍藍莓集中在灰色畫面中央偏上；遠景與大範圍留白，果皮霧面和金屬亮面對照。 作者本篇明示Cinema4D/Redshift/3Dart，非依外觀臆斷真實攝影。第四張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbsEOXVliJD-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Cavalry操作錄影，藍紅黑圓與紫色方形構成灰色連接面。30秒區段外框多為直線，39秒區段改為四邊向內凹的弧線；畫面包含圖層、時間軸和工具選單。這是可見輪廓變形，不把滑鼠操作標作物理碰撞或液體流動。 已逐一查看2個輪播，末項無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Cavalry操作錄影，藍紅黑圓與紫色方形構成灰色連接面。30秒區段外框多為直線，39秒區段改為四邊向內凹的弧線；畫面包含圖層、時間軸和工具選單。這是可見輪廓變形，不把滑鼠操作標作物理碰撞或液體流動。 已逐一查看2個輪播，末項無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底上藍色與淺灰色圓角多邊形緊密聚集，色塊在中央與外圈交換位置並改變邊界。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底上藍色與淺灰色圓角多邊形緊密聚集，色塊在中央與外圈交換位置並改變邊界。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底上粉藍漸層、深藍漸層、綠色、白色與白描邊圓片聚集。後段部分圓片脫離群組，其他片邊緣由圓弧變成接觸平面。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底上粉藍漸層、深藍漸層、綠色、白色與白描邊圓片聚集。後段部分圓片脫離群組，其他片邊緣由圓弧變成接觸平面。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底滿版綠白圓角矩形拼片，長寬比例與傾斜方向變動，部分縮成扁條，整體保持拼貼排列。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底滿版綠白圓角矩形拼片，長寬比例與傾斜方向變動，部分縮成扁條，整體保持拼貼排列。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底三個圓潤相接區塊，從全藍色換成米白、藍、橘三色，區塊大小與輪廓亦變化。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。黑底三個圓潤相接區塊，從全藍色換成米白、藍、橘三色，區塊大小與輪廓亦變化。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbStWo1m_GW-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。Cavalry介面操作：灰色圓形一開始分散，後來拖成群組，接觸部位變成相互配合的平直與圓角邊界。保留工具示範屬性，非液體物理模擬。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐一觀看六個輪播影片，最後一項無下一步。Cavalry介面操作：灰色圓形一開始分散，後來拖成群組，接觸部位變成相互配合的平直與圓角邊界。保留工具示範屬性，非液體物理模擬。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
           ],
           "matched_tags": []
         }

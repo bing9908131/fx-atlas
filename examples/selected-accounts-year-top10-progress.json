@@ -3761,19 +3761,29 @@
           "shortcode": "DbsEOXVliJD",
           "url": "https://www.instagram.com/fafa_motion/p/DbsEOXVliJD/",
           "published_at": "2026-08-06T06:25:50.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbsEOXVliJD-1"
-          ]
+            "selectedyear-DbsEOXVliJD-1",
+            "selectedyear-DbsEOXVliJD-2"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbStWo1m_GW",
           "url": "https://www.instagram.com/fafa_motion/p/DbStWo1m_GW/",
           "published_at": "2026-07-27T10:04:58.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbStWo1m_GW-1"
-          ]
+            "selectedyear-DbStWo1m_GW-1",
+            "selectedyear-DbStWo1m_GW-2",
+            "selectedyear-DbStWo1m_GW-3",
+            "selectedyear-DbStWo1m_GW-4",
+            "selectedyear-DbStWo1m_GW-5",
+            "selectedyear-DbStWo1m_GW-6"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8680,19 +8690,23 @@
           "shortcode": "DL5csnGy4Hf",
           "url": "https://www.instagram.com/slimjimstudios/reel/DL5csnGy4Hf/",
           "published_at": "2025-07-09T18:52:05.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DL5csnGy4Hf-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DJHi1CXPO8I",
           "url": "https://www.instagram.com/slimjimstudios/reel/DJHi1CXPO8I/",
           "published_at": "2025-05-01T16:45:36.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DJHi1CXPO8I-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
