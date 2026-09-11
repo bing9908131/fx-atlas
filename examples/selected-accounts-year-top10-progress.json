@@ -7991,19 +7991,34 @@
           "shortcode": "DZmrAlUjGtd",
           "url": "https://www.instagram.com/robenrobin.nl/p/DZmrAlUjGtd/",
           "published_at": "2026-06-15T11:06:30.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DZmrAlUjGtd-1"
-          ]
+            "selectedyear-DZmrAlUjGtd-1",
+            "selectedyear-DZmrAlUjGtd-3",
+            "selectedyear-DZmrAlUjGtd-4",
+            "selectedyear-DZmrAlUjGtd-6"
+          ],
+          "excluded_media_indices": [
+            2,
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DYO1vSWjKYE",
           "url": "https://www.instagram.com/robenrobin.nl/p/DYO1vSWjKYE/",
           "published_at": "2026-05-12T08:27:06.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DYO1vSWjKYE-1"
-          ]
+            "selectedyear-DYO1vSWjKYE-1",
+            "selectedyear-DYO1vSWjKYE-2",
+            "selectedyear-DYO1vSWjKYE-3",
+            "selectedyear-DYO1vSWjKYE-4",
+            "selectedyear-DYO1vSWjKYE-5",
+            "selectedyear-DYO1vSWjKYE-6"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

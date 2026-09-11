@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2446,
+  "total": 2456,
   "unclassified": 0,
   "counts": {
-    "graphic": 557,
+    "graphic": 567,
     "product": 849,
     "organic": 554,
     "geometric": 888,
@@ -1973,6 +1973,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單段21.28秒數位拼貼動畫，無下一步。5.19秒可見黑白人臉、粉色腦部及青色像素游標；8.66秒綠色眼球重複陣列、洋紅底和人物疊影及水平雜訊；13.44秒綠色城市與紅色人形、畫面傾斜移動；20.15秒黑白WATCH DOGS 2標誌文字橫向斷裂錯位。播放中快速剪接、圖像抖動及故障閃爍，不能將城市段落推定為某軟體或流體模擬。時間為截圖附近DOM播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZmrAlUjGtd-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "正面螢幕中紅藍綠三台等角汽車插畫，操作自製MIDI推桿時車身高度、長度與車頂傾斜改變；藍車由斜高車身轉低矮，綠車變高。畫面含實拍雙手與裝置，但有效參考是螢幕內明確的數位圖形變形。 六個媒體全部逐一查看，末項無下一步。時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "綠底文章封面，黃色有孔起司片中央葉子，人物的手腳穿出孔洞；不同時刻可見片角翹起與人物姿態改變。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
           ],
           "matched_tags": []
         }
@@ -11033,6 +11067,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐一觀看六個輪播影片，最後一項無下一步。Cavalry介面操作：灰色圓形一開始分散，後來拖成群組，接觸部位變成相互配合的平直與圓角邊界。保留工具示範屬性，非液體物理模擬。 時間為讀取播放進度的觀察區段，截圖有短暫延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZmrAlUjGtd-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "螢幕內多排紅藍綠橘粉汽車，由接近正常比例变成高塔、長車、扁車等誇張比例；雙手操作推桿。只標插畫拉伸壓縮，不把拍攝者動作標成特效。 六個媒體全部逐一查看，末項無下一步。時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZmrAlUjGtd-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "純數位汽車插畫，紅藍綠橘粉車輛排列在白底，車身與車頂被拉長、壓扁、斜切，前後時刻比例明顯不同。沒有實拍手部或硬體。 六個媒體全部逐一查看，末項無下一步。時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZmrAlUjGtd-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "側面拍攝操作人及螢幕，螢幕中粉色高塔車身收矮，藍綠車身變寬，多車陣列即時變形。保留原因是可辨識互動數位動畫，不以真人操作本身當作CG。 六個媒體全部逐一查看，末項無下一步。時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "文章中的灰色圓槽，紅白同心圈表面，兩端梳齒狀攪拌臂的角度隨時間改變，為明確旋轉動畫。藍色背景。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "四台顯微鏡與木夾在四角固定黃色起司薄片，綠色背景。兩次取樣造型接近，沒有足夠證據確認拉伸的連續動作，僅標記拉伸外觀與物件。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "灰底架子上多排黃色圓起司，下方伺服器機櫃，最低排起司呈軟化滴掛外觀、地上有黃色灘狀圖形。取樣畫面接近，未足以确认連續融化或滴落動作，不加模擬標籤。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "橘底圓形起司中一片掀起，白色起司與本體之間呈拉絲造型，切片上綠色葉片。兩次取樣太接近且構圖相似，沒有足夠連續動態證據，不把拉絲造型當液體模擬。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYO1vSWjKYE-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "綠底吐司上的起司由拼圖片構成，旁邊坐著人物和散落拼片、葉子。人物手持的拼圖片由靠近身體移到吐司側，手臂和身體姿勢改變；不聲稱整片拼圖自動組合。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
           ],
           "matched_tags": []
         }

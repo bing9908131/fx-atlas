@@ -1456,5 +1456,25 @@
     ],
     "source": "visual_and_caption",
     "reference_kind": "cg_installation_adoption_unverified"
+  },
+  {
+    "post_id": "DZmrAlUjGtd",
+    "media_index": 2,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "主要為實拍控制器準備操作，沒有可辨識的CG形變參考。",
+    "evidence": "12.499999秒；4.140575與10.772456秒畫面為手部插線、放置控制器及固定A MIX OF CARS字樣。",
+    "source": "visual",
+    "reference_kind": "physical_controller_documentation"
+  },
+  {
+    "post_id": "DZmrAlUjGtd",
+    "media_index": 5,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "實體控制器手持照片，無CG參考內容。",
+    "evidence": "單張照片為手持灰色MIDI控制器，彩色推桿旋鈕，混凝土背景。",
+    "source": "visual",
+    "reference_kind": "physical_controller_documentation"
   }
 ]
