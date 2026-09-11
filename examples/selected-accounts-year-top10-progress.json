@@ -4319,10 +4319,20 @@
           "shortcode": "Db-9tP6CBTW",
           "url": "https://www.instagram.com/futuredeluxe/p/Db-9tP6CBTW/",
           "published_at": "2026-08-13T14:34:27.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Db-9tP6CBTW-1"
-          ]
+            "selectedyear-Db-9tP6CBTW-1",
+            "selectedyear-Db-9tP6CBTW-2",
+            "selectedyear-Db-9tP6CBTW-3",
+            "selectedyear-Db-9tP6CBTW-4",
+            "selectedyear-Db-9tP6CBTW-5",
+            "selectedyear-Db-9tP6CBTW-6",
+            "selectedyear-Db-9tP6CBTW-7",
+            "selectedyear-Db-9tP6CBTW-8",
+            "selectedyear-Db-9tP6CBTW-9"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -4908,10 +4918,17 @@
           "shortcode": "DdBo4icE5ae",
           "url": "https://www.instagram.com/here.creative/p/DdBo4icE5ae/",
           "published_at": "2026-09-08T12:01:37.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdBo4icE5ae-1"
-          ]
+            "selectedyear-DdBo4icE5ae-1",
+            "selectedyear-DdBo4icE5ae-2",
+            "selectedyear-DdBo4icE5ae-3",
+            "selectedyear-DdBo4icE5ae-4",
+            "selectedyear-DdBo4icE5ae-5",
+            "selectedyear-DdBo4icE5ae-6"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
