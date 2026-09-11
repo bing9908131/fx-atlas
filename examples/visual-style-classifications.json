@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2195,
+  "total": 2204,
   "unclassified": 0,
   "counts": {
-    "graphic": 455,
-    "product": 791,
-    "organic": 474,
+    "graphic": 462,
+    "product": 795,
+    "organic": 475,
     "geometric": 838,
-    "scifi": 306,
+    "scifi": 307,
     "effects": 140
   },
   "fallback_count": 194,
@@ -1554,6 +1554,98 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "3.794217中央綠色長形色塊與粉灰團塊；4.780939已扭變成不同藍綠色帶和有機斑塊，邊緣拉長彎曲、色塊分布改變。表面為平滑漸層與微弱顆粒，不能推定實體玻璃或液體求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DJ9-gYUtu7B-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "正面酒桶形手錶，三個副錶盤、指針、錶冠和錶帶，以細線和密集顆粒疊合形成掃描般輪廓。灰底，黑白灰階。 第1/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "正面酒桶形手錶，三個副錶盤、指針、錶冠和錶帶，以細線和密集顆粒疊合形成掃描般輪廓。灰底，黑白灰階。 第1/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPQMafsEkQZ-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白馬站在夜間加油站，青綠燈光、紅色招牌、湿地倒影。2.347034/9.467143/14.874074地面水窪的波紋與倒影輪廓不同，LED英文由LORD變為局部字樣，確認水波與文字橫移。白馬站姿大致相同，不推定奔跑或走路。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPQL0q_Epzi-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張4:5靜態圖。畫面下方是白色密集短毛/細纖維外觀的緩曲表面，上方大面積黑灰雲霧紋理。沒有影片元素或輪播，不能由「影像製作」標題推定為影片，也不加入風吹、毛髮擺動或霧流動。未展示完整物體，不指定完整馬形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcPChF9Cfl--1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "90秒單影片；3.641618太空人與月球邊緣，14.793589月球粗糙表面與手套；25.330124人物懸浮在黑色星空；35.185112手伸向白色光束；44.984668彩色光軌沿人物穿越畫面；57.059814頭盔近景被青色高速光帶掠過；68.278752人眼近景；77.778505黑色卡帶機正面三角形、白光和虹彩圖案。確定有光軌掠過與光帶拖尾，未從剪接推定產品組裝/爆破或流體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "90秒單影片；3.641618太空人與月球邊緣，14.793589月球粗糙表面與手套；25.330124人物懸浮在黑色星空；35.185112手伸向白色光束；44.984668彩色光軌沿人物穿越畫面；57.059814頭盔近景被青色高速光帶掠過；68.278752人眼近景；77.778505黑色卡帶機正面三角形、白光和虹彩圖案。確定有光軌掠過與光帶拖尾，未從剪接推定產品組裝/爆破或流體。"
           ],
           "matched_tags": []
         }
@@ -5282,6 +5374,115 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.913906白灰斜向長條中穿插青藍綠黃條帶；3.637345各色斜向條带已移位，細碎邊緣被拉成尾跡，呈筆刷拖曳質感。沒有火焰或煙霧證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DJ9-gYUtu7B-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "機芯橋板、螺絲孔與圓形軸心的微距，表面水平拉絲、黑色陰影和亮銀邊緣，疊有細線痕跡。 第2/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "機芯橋板、螺絲孔與圓形軸心的微距，表面水平拉絲、黑色陰影和亮銀邊緣，疊有細線痕跡。 第2/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DJ9-gYUtu7B-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "多層手錶零件沿垂直軸分層排列，黑亮曲形外殼與細線半透明內構，白至灰背景。靜態爆炸圖構圖，沒有觀察拆解或組裝動態。 第3/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "多層手錶零件沿垂直軸分層排列，黑亮曲形外殼與細線半透明內構，白至灰背景。靜態爆炸圖構圖，沒有觀察拆解或組裝動態。 第3/3張確認靜態圖片，輪播第3張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPQMafsEkQZ-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.918637較簡化、強青光的加油站模型場景；11.893513切換到有馬鬃、完整文字與濕地倒影的最終成品。屬製作階段/光照版本切換，不能把跨版本的馬姿態差異當作走路動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPQMafsEkQZ-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.018906展示馬腿毛髮貼圖與UV展开；17.630179成品加油機及部分白馬；25.926121鏡頭改變取景包含完整白馬，LED字樣位置亦改變。確認材質製作展示、鏡頭移動與文字橫移，未確認特定軟體或馬行走。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DPQMafsEkQZ-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態現場照片，歌手站在大型直式專輯CG封面投影前。投影中的白馬加油站和濕地倒影清楚可見，作為已使用CG作品的展示記錄保留。"
           ],
           "matched_tags": []
         }

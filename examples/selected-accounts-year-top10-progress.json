@@ -8494,10 +8494,12 @@
           "shortcode": "DcPChF9Cfl-",
           "url": "https://www.instagram.com/styleframe.studio/reel/DcPChF9Cfl-/",
           "published_at": "2026-08-19T20:30:14.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcPChF9Cfl--1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DcOkZsGiCX2",
@@ -8634,10 +8636,14 @@
           "shortcode": "DJ9-gYUtu7B",
           "url": "https://www.instagram.com/sy_gaussens/p/DJ9-gYUtu7B/",
           "published_at": "2025-05-22T19:57:06.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DJ9-gYUtu7B-1"
-          ]
+            "selectedyear-DJ9-gYUtu7B-1",
+            "selectedyear-DJ9-gYUtu7B-2",
+            "selectedyear-DJ9-gYUtu7B-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8687,19 +8693,26 @@
           "shortcode": "DPQMafsEkQZ",
           "url": "https://www.instagram.com/nulls_design/p/DPQMafsEkQZ/",
           "published_at": "2025-10-01T04:21:56.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DPQMafsEkQZ-1"
-          ]
+            "selectedyear-DPQMafsEkQZ-1",
+            "selectedyear-DPQMafsEkQZ-2",
+            "selectedyear-DPQMafsEkQZ-3",
+            "selectedyear-DPQMafsEkQZ-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DPQL0q_Epzi",
           "url": "https://www.instagram.com/nulls_design/p/DPQL0q_Epzi/",
           "published_at": "2025-10-01T04:16:46.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DPQL0q_Epzi-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
