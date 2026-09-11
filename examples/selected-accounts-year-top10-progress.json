@@ -1082,10 +1082,12 @@
           "shortcode": "DacXa8YN1-6",
           "url": "https://www.instagram.com/alexander.stepnoy/reel/DacXa8YN1-6/",
           "published_at": "2026-07-06T07:37:44.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DacXa8YN1-6-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DWBYIMaDFJa",
