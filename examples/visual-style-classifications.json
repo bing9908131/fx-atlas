@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2710,
+  "total": 2720,
   "unclassified": 0,
   "counts": {
-    "graphic": 663,
-    "product": 960,
-    "organic": 610,
+    "graphic": 669,
+    "product": 964,
+    "organic": 613,
     "geometric": 923,
     "scifi": 349,
-    "effects": 237
+    "effects": 239
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4193,6 +4193,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始單支17.299999秒1080x1920。0.331黑箱，1.296游標，2.284銀箱浮起加減按鈕，3.262/4.259尺寸變化，5.237/6.197色票列與黑把手，7.594藍把手，8.861/9.208綠圓片接近把手，10.152綠色吊牌展開；11.433黑輪12.712橘輪；13.492黑箱懸浮14.566銀箱懸浮15.622箱體落地16.580黑箱轉向。未標流體或碰撞，不把材質配色更換說成物理液化。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第1/10逐項視覺核對。0秒僅控制器圓線；0.579四顆檸檬；1.445變大且轉動；2.310/3.191/4.052檸檬向角落出框，碎片位置改變。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第1/10逐項視覺核對。0秒僅控制器圓線；0.579四顆檸檬；1.445變大且轉動；2.310/3.191/4.052檸檬向角落出框，碎片位置改變。"
           ],
           "matched_tags": []
         }
@@ -16709,6 +16738,207 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始輪播第4/4影片逐項視覺核對。0.114/0.924上衣轉動；3.273/4.109腰部布邊位置改變；4.947/5.751近景褶皺波動。最後第4點亮，只見返回沒有下一步，確認共4個影片。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第2/10逐項視覺核對。0.939 INFUSE透視；2.810 FLAVOR正面；4.671 FLAVOR BORN IN JAPAN傾斜；6.557 WHOLE FRUIT MORE FLAVOR透明底；8.433 MORE放大拉伸；12.802/14.658/16.554詞句換為MORE EDITING。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第3/10逐項視覺核對。0.114掌心；1.247手背；2.407側面；3.522掌心；4.639/5.755/6.565三層不同著色的手部同步轉動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第4/10逐項視覺核對。0.609只見檸檬；1.530加入冰塊；2.458手與飲料罐；3.399/4.312表面與明暗調整；6.746完成文字背景。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第4/10逐項視覺核對。0.609只見檸檬；1.530加入冰塊；2.458手與飲料罐；3.399/4.312表面與明暗調整；6.746完成文字背景。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第5/10逐項視覺核對。1.726手罐近景；1.860遠景攝影機框；2.844近景；3.814遠景；4.793只顯示罐身；5.755/6.517帶手部線框；7.513回到遠景。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第6/10逐項視覺核對。0.049/1.884黑底；2.808至6.535雲狀灰白紋理由模糊變斑駁且出現孔隙；7.198/8.175可見AE分層；9.138控制點；10.125/11.109白色−196標誌逐步補全。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第7/10逐項視覺核對。0.772視窗低細節黃色基底；1.770/1.911完成刨冰材質杯正面；2.767/2.899旋轉到杯側面。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第7/10逐項視覺核對。0.772視窗低細節黃色基底；1.770/1.911完成刨冰材質杯正面；2.767/2.899旋轉到杯側面。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第8/10逐項視覺核對。第8個媒體為1080x1340靜態圖片，當前位置無video元素；畫面是手掌/手背和手指展開的灰階紋理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第9/10逐項視覺核對。0.469透明檸檬；0.769細顆粒；1.400粗晶體表面；1.685分成多塊；2.320形體消失。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第9/10逐項視覺核對。0.469透明檸檬；0.769細顆粒；1.400粗晶體表面；1.685分成多塊；2.320形體消失。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVqqpR1CEbk-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第10/10逐項視覺核對。0.302罐背與檸檬碎冰；1.075罐身正面近景；1.895黃色碎屑放射爆散；1.849/2.880手罐標語成品；3.851至8.327黃底多張動態版面漂移，最後無下一步且10點確認完整輪播。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第10/10逐項視覺核對。0.302罐背與檸檬碎冰；1.075罐身正面近景；1.895黃色碎屑放射爆散；1.849/2.880手罐標語成品；3.851至8.327黃底多張動態版面漂移，最後無下一步且10點確認完整輪播。"
           ],
           "matched_tags": []
         }

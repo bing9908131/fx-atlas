@@ -2229,5 +2229,91 @@
     "reason": "AI與After Effects操作教學／工具推廣示範，依排除教學內容的收錄要求移除。",
     "reference_kind": "software_workflow_tutorial",
     "evidence": "原始IG rourke/reel/DdHEjhYIx2P，單支61.166666秒。9.895/11.478/13.056/14.642秒可見AE時間軸、體育人物影像與身高數字圖卡；31.323/33.201/35.087/36.978/38.831秒可見講解人像與Supercomputer介面，上傳參考、輸入lower-third製作提示、Working狀態；40.730秒切換Nano Banana Pro示例。原文邀請留言AI試用工具，說明生成素材與組裝流程。此判斷為教學類別排除，並非宣稱全片無動態圖形，也未將文案中的模型能力主張當成已驗證事實。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 3,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "以人物、場景和車輛實拍為主，沒有足夠CG參考內容。",
+    "reference_kind": "live_action_commercial",
+    "duration_seconds": 16.767999,
+    "observed_times": [
+      0.34,
+      1.417,
+      6.11,
+      7.074,
+      8.065,
+      9.04,
+      10.033,
+      10.711,
+      11.814,
+      12.893,
+      13.987,
+      15.074,
+      16.164
+    ],
+    "evidence": "逐項觀看原始輪播第3/7影片。人物下船、草地行走、樹下沙發讀書、貓走近及抱貓，均為人物動物與場景拍攝；未見可獨立辨識的CG效果。 正文列攝影ARRI ALEXA 35與美術/服装團隊。第7項只有返回，確認總數7。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 5,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "以人物、場景和車輛實拍為主，沒有足夠CG參考內容。",
+    "reference_kind": "live_action_commercial",
+    "duration_seconds": 9.045332,
+    "observed_times": [
+      1.453,
+      2.525,
+      3.61,
+      4.675,
+      5.749,
+      6.848,
+      7.919,
+      8.988
+    ],
+    "evidence": "逐項觀看原始輪播第5/7影片。桌上餐具與手拿杯特寫、俯拍湖面小船、人物倒影及船上伸展、林蔭水道全景，未見CG模擬或動畫。 正文列攝影ARRI ALEXA 35與美術/服装團隊。第7項只有返回，確認總數7。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 6,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "以人物、場景和車輛實拍為主，沒有足夠CG參考內容。",
+    "reference_kind": "live_action_commercial",
+    "duration_seconds": 13.695999,
+    "observed_times": [
+      0.303,
+      1.615,
+      2.94,
+      4.251,
+      5.571,
+      6.891,
+      8.236,
+      10.14,
+      11.469,
+      12.794
+    ],
+    "evidence": "逐項觀看原始輪播第6/7影片。人物紅裙舞動、汽車標誌與車頭特寫、公路空拍，屬攝影與剪接；不把金屬反光或人物衣物動作標成CG效果。 正文列攝影ARRI ALEXA 35與美術/服装團隊。第7項只有返回，確認總數7。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 7,
+    "total": 7,
+    "decision": "exclude",
+    "reason": "以人物、場景和車輛實拍為主，沒有足夠CG參考內容。",
+    "reference_kind": "live_action_commercial",
+    "duration_seconds": 7.573333,
+    "observed_times": [
+      0.423,
+      1.527,
+      2.605,
+      3.749,
+      4.824,
+      5.927,
+      7.005
+    ],
+    "evidence": "逐項觀看原始輪播第7/7影片。沿湖公路汽車空拍、人物與布幕背景、車尾燈及車內手觸飾板，屬實拍廣告片段，沒有可辨識的CG主體。 正文列攝影ARRI ALEXA 35與美術/服装團隊。第7項只有返回，確認總數7。"
   }
 ]
