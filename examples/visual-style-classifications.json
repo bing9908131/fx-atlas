@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2516,
+  "total": 2522,
   "unclassified": 0,
   "counts": {
-    "graphic": 592,
-    "product": 861,
+    "graphic": 598,
+    "product": 863,
     "organic": 566,
     "geometric": 907,
     "scifi": 332,
@@ -12451,6 +12451,132 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.747秒大範圍同心弧面，7.383秒中心為深色縱向狹槽、兩側片層延伸至畫面邊缘，形態及視角改變明顯。最後僅返回，共六段影片。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "淺藍與米白圓柱珠、ff字母珠串成直立圓環，淡藍背景及柔和落影。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "淺藍與米白圓柱珠、ff字母珠串成直立圓環，淡藍背景及柔和落影。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "乳藍字、米白底的feelings in feeds圓潤連筆文字標誌。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "斜向排列的手環珠近景：淺藍斑點圓柱珠、米白圓珠刻印ff，白色細繩連接。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "斜向排列的手環珠近景：淺藍斑點圓柱珠、米白圓珠刻印ff，白色細繩連接。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "米白字、乳藍底的feelings in feeds圓潤連筆文字標誌。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "乳藍字、米白底的ff連筆字母組合標誌。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DboRVjdDHLw-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "米白字、乳藍底的ff連筆字母組合標誌。此項為獨立靜態圖片，無動態推定。未指定實際珠粒化學材料或製作軟體。"
           ],
           "matched_tags": []
         }

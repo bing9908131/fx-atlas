@@ -6620,10 +6620,21 @@
           "shortcode": "DboRVjdDHLw",
           "url": "https://www.instagram.com/feelingsinfeeds/p/DboRVjdDHLw/",
           "published_at": "2026-08-04T19:03:27.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DboRVjdDHLw-1"
-          ]
+            "selectedyear-DboRVjdDHLw-2",
+            "selectedyear-DboRVjdDHLw-3",
+            "selectedyear-DboRVjdDHLw-4",
+            "selectedyear-DboRVjdDHLw-5",
+            "selectedyear-DboRVjdDHLw-7",
+            "selectedyear-DboRVjdDHLw-8"
+          ],
+          "excluded_media_indices": [
+            1,
+            6,
+            9
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbQuAC6tHGB",
