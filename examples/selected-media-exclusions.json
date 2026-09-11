@@ -2642,5 +2642,33 @@
     "reference_kind": "static_credits",
     "reason": "唱片背面曲目與製作名單，沒有CG畫面，排除純資訊卡。",
     "evidence": "Chrome1519732803第二項黑底文字：Alpha EP、曲目A1/A2/B、版權和製作名單、Bohrium小標誌。無video，最後只有返回無下一步。"
+  },
+  {
+    "post_id": "DaAoqJ_i8NV",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示原本frame用於Joy Objects Alu/Ghost release，幾週後為ShipTheWork個人持續創作活動追加動畫；只證明原靜態圖與品牌關聯，未證明此動畫版本被品牌採用。品牌留言表情不足作採用證據。依使用者排除個人練習且確認品牌使用條件排除，不是判成非CG。",
+    "reference_kind": "unverified_personal_animation_extension",
+    "duration_seconds": 22.4,
+    "observed_times": [
+      7.005185,
+      16.012669
+    ],
+    "evidence": "Chrome1519732898單支1080x1350影片；7.005黃色背光椅子底面近景十字形，16.013拉遠為背光椅子剪影與長陰影。https://www.instagram.com/fwiedel/p/DaAoqJ_i8NV/ 原文made this frame for Alu & Ghost release...thought it would be fun to animate it，並講ShipTheWork每週創作。作者明示原本frame用於Joy Objects Alu/Ghost release，幾週後為ShipTheWork個人持續創作活動追加動畫；只證明原靜態圖與品牌關聯，未證明此動畫版本被品牌採用。品牌留言表情不足作採用證據。依使用者排除個人練習且確認品牌使用條件排除，不是判成非CG。"
+  },
+  {
+    "post_id": "DaSvO2hITdz",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者僅標Quick summer study，屬個人夏日場景研究，沒有品牌委託或採用證據；依使用者排除個人練習的條件排除。",
+    "reference_kind": "unverified_personal_study",
+    "duration_seconds": 12.026484,
+    "observed_times": [
+      7.432536,
+      9.884268
+    ],
+    "evidence": "Chrome1519732901單支1080x1920實際畫面：夕照岩壁中的白色水平建築、藍灰天空與底部水面反射，兩時間點構圖接近。原文https://www.instagram.com/francesco.m.lucini/reel/DaSvO2hITdz/ Quick summer study，無品牌名或委託訊息。作者僅標Quick summer study，屬個人夏日場景研究，沒有品牌委託或採用證據；依使用者排除個人練習的條件排除。"
   }
 ]

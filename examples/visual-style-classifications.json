@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2835,
+  "total": 2844,
   "unclassified": 0,
   "counts": {
-    "graphic": 709,
+    "graphic": 718,
     "product": 1022,
     "organic": 637,
     "geometric": 958,
@@ -4273,6 +4273,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732884逐項輪播檢查。5.530黑色手機展示網站；7.262多列手機比例頁面拼貼；15.541K線與座標；24.085桌面顯示器呈Spot及等角板片圖。多鏡頭品牌展示，不推定所有裝置模型皆為CG或特定硬體品牌。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.338滿版粗黑文字和圓形、格線；8.341圓盤切割的人像專輯圖；13.769黑底影片相簿，中央影片較大。依不同時間確認版面切換，單張圓盤角度不單獨推定旋轉。"
           ],
           "matched_tags": []
         }
@@ -19638,6 +19655,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732884逐項輪播檢查。0.440/1.348/3.827中央白色Logo維持固定，周围藍灰短直線的位置與亮度分布改變。不是雨、水流或粒子模擬。最後只剩返回按鈕，確認總數11。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "8.211直排頁面為棕橘人物介紹、Love for Football與綠色表格；17.239不同頁面已移至可見區，有Track not found及年份相簿。沿縱向排列移動，不是液體流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "9.379斜側近景筆電置於粗糙岩石台，螢幕為Track not found；15.942遠一點正面筆電與完整台座、不同網站內容。僅確認鏡位與介面變化，不推定筆電品牌、台座破碎或組裝。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.321圓形範圍的人像傾斜，7.832回到直立；圓外矩形封面與右欄文字位置固定。右下黑色按鈕區域亦有變化。是2D圓形遮罩內旋轉，非人物身體變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.260左方演唱會人群與建築照片，在3.823移至右側，其他照片進入左側。Archive標題與頁框固定，動態為整列照片平移。照片裡的演出不是CG模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.472與3.222均見棕橘底Discover the life of Paul Kalkbrenner大字、左側小文案按鈕與照片，整體位置近乎相同；不以影片格式推定未觀察到的文字生長、捲動或變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.862與3.417 The Sound of Tomorrow黑字白底，右下黑白演出照片、右側小文案。抽查版面近乎固定，不將文案微小差異推定為粒子或字形變形。保留介面設計參考。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "5.930合照在左側、白衣人物在中央；9.310更衣室照片在左，合照移至中央，標題Love for Football與文字固定。動態是網站照片列平移，不是球員CG運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dcx5R6djkEB-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.806前景黑色01/08影片列表與後方綠色行程表、白色頁尾層疊；3.326白色日期表格置頂、背景仍有其他頁面。標記平面圖層切換，不當作物理堆疊或碰撞。"
           ],
           "matched_tags": []
         }
