@@ -6348,10 +6348,12 @@
           "shortcode": "Dcgsyyoim0H",
           "url": "https://www.instagram.com/mariannesanche/reel/Dcgsyyoim0H/",
           "published_at": "2026-08-29T13:50:15.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Dcgsyyoim0H-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
