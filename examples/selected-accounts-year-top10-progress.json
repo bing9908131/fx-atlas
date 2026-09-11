@@ -6229,10 +6229,12 @@
           "shortcode": "Dcfu_ecBICc",
           "url": "https://www.instagram.com/sp1ll/reel/Dcfu_ecBICc/",
           "published_at": "2026-08-26T08:00:13.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Dcfu_ecBICc-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DcX9J5CB5t5",
