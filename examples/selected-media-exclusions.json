@@ -1476,5 +1476,13 @@
     "evidence": "單張照片為手持灰色MIDI控制器，彩色推桿旋鈕，混凝土背景。",
     "source": "visual",
     "reference_kind": "physical_controller_documentation"
+  },
+  {
+    "post_id": "DRxzxLJDJ6T",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示非官方MV與角色動畫測試，未確認樂團採用",
+    "evidence": "單支136.2秒影片；10.382828秒復古拼貼吉他手，20.416405秒鼓手大鼓The Gene Dudley Group字樣，原貼By@cubstudio。作者本人Behance https://www.behance.net/gallery/233945673/Inspector-Norse-Case-Study 明示Unofficial music video，且說明character-driven tests。與使用者排除未被品牌採用的練習/二創規則相符。這是數位角色動畫，非非CG判定。基於整件作品的明確非官方身分排除，未聲稱完整觀看136秒或完成動態標籤。"
   }
 ]

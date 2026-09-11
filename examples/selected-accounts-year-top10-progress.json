@@ -6963,10 +6963,12 @@
           "shortcode": "DRxzxLJDJ6T",
           "url": "https://www.instagram.com/motiongraphics_collective/reel/DRxzxLJDJ6T/",
           "published_at": "2025-12-02T22:43:46.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DRxzxLJDJ6T-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DRxwVxMjFLo",
