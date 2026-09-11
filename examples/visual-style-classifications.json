@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2597,
+  "total": 2602,
   "unclassified": 0,
   "counts": {
     "graphic": 638,
     "product": 890,
-    "organic": 585,
+    "organic": 590,
     "geometric": 909,
     "scifi": 335,
     "effects": 218
@@ -1847,6 +1847,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.98與1.97秒粉紅JAZZ條紋長度與位置改變；2.97秒切黃綠青色，7.04粉紅字面彎曲，8.11與9.19黃綠字形中線條間距變化。 已逐項查看6項，最後僅返回。未推定Cavalry或其他軟體，也不把字體波動標成水或布料模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DblONhyjmmp-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.276秒花苞緊束，1.253秒藍色內瓣抬起展開，2.248及2.364秒花面完全開放；綠色帶狀葉片捲曲。1348x1686。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
           ],
           "matched_tags": []
         }
@@ -14140,6 +14157,74 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.853秒FRIDAY青黃綠標題與密集名單；3.844秒標題離開、名單上移；4.853秒SATURDAY橘粉條紋拉長；5.866秒名單出現；8.545秒名單行距拉大上移，9.744秒SUNDAY紅紫標題和鬆排名單，10.929秒行距收緊。五項均分別查看，末項僅返回，封面在前一項相鄰DOM取得。不把文字條紋或波動標為粒子、水、布料模擬，也未推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DblONhyjmmp-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.664與1.872秒內層紫瓣向上束起，2.812秒內瓣向四周開展；外圈花瓣向下捲，花莖與小葉片為米棕色緞面。1440x1800。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DblONhyjmmp-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.184秒花苞封閉，0.914秒外圈攤開，1.646-1.908秒多層花冠形成，2.854/3.777秒內圈舒展並輕微改變彎曲。原始5秒循環，非從靜態推定生長。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DblONhyjmmp-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第4項為靜態照片元素，特寫藍青紫虹彩帶片、黃色帶片與白色帶片；未加展開、流動或生長標籤。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DblONhyjmmp-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.626秒外圈藍瓣張開但內圈仍直立，1.373秒內圈紅橘帶片打開，2.106與2.940秒米色細花蕊向四周伸展；綠色彎曲莖葉、橘棕漸層背景，1440x1800。共五項逐一查看，最後僅返回。只標可見材質外觀，無Vellum/布料solver證據，不推定模擬工具；緞帶開展不等同植物生長或液體。"
           ],
           "matched_tags": []
         }

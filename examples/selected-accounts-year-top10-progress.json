@@ -8995,10 +8995,16 @@
           "shortcode": "DblONhyjmmp",
           "url": "https://www.instagram.com/steelworksstudio/p/DblONhyjmmp/",
           "published_at": "2026-08-03T14:38:25.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DblONhyjmmp-1"
-          ]
+            "selectedyear-DblONhyjmmp-1",
+            "selectedyear-DblONhyjmmp-2",
+            "selectedyear-DblONhyjmmp-3",
+            "selectedyear-DblONhyjmmp-4",
+            "selectedyear-DblONhyjmmp-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
