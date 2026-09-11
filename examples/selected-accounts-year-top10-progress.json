@@ -5841,10 +5841,12 @@
           "shortcode": "DMGRYs1yPeF",
           "url": "https://www.instagram.com/fitzandthetantrums/reel/DMGRYs1yPeF/",
           "published_at": "2025-07-14T18:21:08.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DMGRYs1yPeF-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DJcLPvSp5-3",
