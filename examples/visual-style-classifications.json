@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2532,
+  "total": 2534,
   "unclassified": 0,
   "counts": {
     "graphic": 602,
     "product": 865,
-    "organic": 568,
+    "organic": 570,
     "geometric": 907,
     "scifi": 333,
     "effects": 214
@@ -2598,6 +2598,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "6.035736秒；.228961羽狀葉片部分覆霜，1.602536枝葉冰晶增厚；2.670483冰晶與電弧近景；4.628291大量碎屑離開表面，露出綠色羽狀葉片，電弧沿周圍閃現。無輪播。未看見碰撞物體或燃燒，不加碰撞/爆炸/火焰；冰的形態變化不等於液體流動，未推定特定solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZF16pKyBet-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "11.007999秒：1.155776透明藍圓形凝膠含泡，2.076381彎曲拉長，3.157299新月形；4.94325附近畫面為青色、金黃及橘色膠體和數字疊字，但該次截圖延遲約8秒，只作內容輔證，不作精準動態時間；7.146407橘色泡沫狀曲形，9.20902多色膏狀碎邊與凝膠形態並列。無輪播。只描述可見材質與形態，不加Houdini、FLIP、Vellum、真實液體流動或品牌委託。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYzWevYIvAr-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "26.048秒：2.622889粉色長條膏體、粗糙邊緣；4.361629珊瑚色彎曲膏體；9.289782蓝色閃粉膏；15.034107金銅色光澤彎曲條；20.81681玫瑰金長曲形粗糙邊；24.105928桃紅彎曲膏體頂端呈厚卷曲塊。各段展示形態、配色和表面切換，不推定真實塗抹工具或物理solver。無輪播。只描述可見材質與形態，不加Houdini、FLIP、Vellum、真實液體流動或品牌委託。"
           ],
           "matched_tags": []
         }
