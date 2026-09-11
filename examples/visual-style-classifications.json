@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2502,
+  "total": 2508,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
     "product": 859,
-    "organic": 560,
+    "organic": 566,
     "geometric": 903,
     "scifi": 331,
     "effects": 209
@@ -2036,6 +2036,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.443秒讀時與截圖間有延遲，只用作前後段輔助；8.470與8.905秒中央模糊人形角度和輪廓不同，青藍環線改變位置。下方人形與左側發光樹並置。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.080和6.246秒粉米色條帶中段較水平；8.395秒左側粉米色團塊突出且中間輪廓分化。可確認外觀形態變化，不確定為實際生長或鏡頭重建變化。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
           ],
           "matched_tags": []
         }
@@ -12177,6 +12194,91 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "7.408秒近側面，8.748與9.152秒轉為較正面、腿部輪廓可見；岩石背景相對視角改變。只標環繞觀看，不把腿部投影差異確定為行走或變身。最後僅返回，輪播共3段影片。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "7.189秒中央窄高棕色隆起與米綠曲線；8.306秒隆起較寬、前方米綠片層更向右彎曲，環狀背景相應變化。可標捲曲形變，不推定水波或液體。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.447秒中心粉米色團塊較居中偏下；1.512秒團塊與周邊條帶位置/角度改變，呈環繞旋轉視覺。僅標旋渦式運動，不標吸入或流體求解器。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.434秒頂部米色片層向右突出；1.980秒頂部與中段輪廓重排。觀察到形態變化但短時間取樣不足以斷定單向生長，保留形變，不加growth。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.866秒上方條帶呈較水平頂緣；8.226秒左側片層抬起、形體扭向另一角度，中心灰綠曲面重排。可標視角改變與形態改變，不能證明破碎。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db_V_OhiDOz-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.747秒大範圍同心弧面，7.383秒中心為深色縱向狹槽、兩側片層延伸至畫面邊缘，形態及視角改變明顯。最後僅返回，共六段影片。 材質僅描述可見外觀，不推定金屬/木材/布料或流體物理。"
           ],
           "matched_tags": []
         }
