@@ -8317,10 +8317,19 @@
           "shortcode": "DGn_YwONgFx",
           "url": "https://www.instagram.com/roma_kuzminykh/p/DGn_YwONgFx/",
           "published_at": "2025-02-28T17:27:19.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DGn_YwONgFx-1"
-          ]
+            "selectedyear-DGn_YwONgFx-1",
+            "selectedyear-DGn_YwONgFx-2",
+            "selectedyear-DGn_YwONgFx-3",
+            "selectedyear-DGn_YwONgFx-4",
+            "selectedyear-DGn_YwONgFx-5",
+            "selectedyear-DGn_YwONgFx-6",
+            "selectedyear-DGn_YwONgFx-7",
+            "selectedyear-DGn_YwONgFx-8"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DGdkAGYNoeD",

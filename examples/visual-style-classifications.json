@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2668,
+  "total": 2676,
   "unclassified": 0,
   "counts": {
     "graphic": 652,
     "product": 930,
-    "organic": 600,
+    "organic": 608,
     "geometric": 922,
     "scifi": 347,
-    "effects": 231
+    "effects": 235
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2261,6 +2261,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "綠底文章封面，黃色有孔起司片中央葉子，人物的手腳穿出孔洞；不同時刻可見片角翹起與人物姿態改變。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際2秒循環多時點，曲面波峰及鱗片傾斜位置改變；不是水面，不標液體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際2秒循環多時點，曲面波峰及鱗片傾斜位置改變；不是水面，不標液體。"
           ],
           "matched_tags": []
         }
@@ -15779,6 +15808,161 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張檢視完整7張輪播第7張：红色厚圓框包圍黃綠色凹面插孔，表面有深色细斑點、凹孔與金色接點，左側可見相連外框的局部。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "可見媒體為靜態img；左側video位於負座標是前一項。沒有動態標籤，不從高反射推定金屬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第三項靜態圖，薄片懸置構圖不等於已觀察到飛散或旋轉。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第四項靜態img；右側video是第五項，不把它的影片狀態套到此圖。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.478至4.224秒兩視角蛇圈位置沿桿移動、頭部抬起，彎曲形狀改變。非薄片動畫，非橡膠實物；未標衝擊碰撞。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.478至4.224秒兩視角蛇圈位置沿桿移動、頭部抬起，彎曲形狀改變。非薄片動畫，非橡膠實物；未標衝擊碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第六項靜態圖；紋理與輪廓可見，不加流動或飛散動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "灰模細蛇由左往右移動，波峰沿蛇身傳遞，旁邊有弧形尾波。未確認平面材料為水，僅標表面波紋，不推定FLIP。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "灰模細蛇由左往右移動，波峰沿蛇身傳遞，旁邊有弧形尾波。未確認平面材料為水，僅標表面波紋，不推定FLIP。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DGn_YwONgFx-8",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際410x360，3.166666秒；0.543至2.854鱗片掀起位置移動，形變可見；最後無下一步，確認总共8項。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際410x360，3.166666秒；0.543至2.854鱗片掀起位置移動，形變可見；最後無下一步，確認总共8項。"
           ],
           "matched_tags": []
         }
