@@ -7295,10 +7295,21 @@
           "shortcode": "DACx40PyHxj",
           "url": "https://www.instagram.com/noah1art/p/DACx40PyHxj/",
           "published_at": "2024-09-18T03:29:06.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DACx40PyHxj-1"
-          ]
+            "selectedyear-DACx40PyHxj-1",
+            "selectedyear-DACx40PyHxj-2",
+            "selectedyear-DACx40PyHxj-3",
+            "selectedyear-DACx40PyHxj-4",
+            "selectedyear-DACx40PyHxj-5",
+            "selectedyear-DACx40PyHxj-6",
+            "selectedyear-DACx40PyHxj-7",
+            "selectedyear-DACx40PyHxj-8",
+            "selectedyear-DACx40PyHxj-9",
+            "selectedyear-DACx40PyHxj-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

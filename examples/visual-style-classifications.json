@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2555,
+  "total": 2565,
   "unclassified": 0,
   "counts": {
     "graphic": 622,
-    "product": 865,
+    "product": 875,
     "organic": 572,
     "geometric": 908,
     "scifi": 334,
@@ -2351,6 +2351,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.277秒紅色背景完整階梯測試機、傾斜行李箱；5.267秒低角度輪組；7.483秒輪子位於金屬階梯邊緣旁；11.714秒剪影人物拖行箱子跨階。可標拖行及階梯測試，impact來自caption，沒有足夠連續影格證明撞擊瞬間，不作碰撞模擬標籤。 單支影片無輪播。未辨識具體行李箱型號，不根據外觀猜測系列。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第1張：斜向顯示卡與黑色風扇，銀色金屬框、細密散熱鰭片；透明線狀氣流視覺橫跨前方。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
           ],
           "matched_tags": []
         }
@@ -13210,6 +13227,159 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "9.070216黑色斜體整句，17.561002壓縮成少數大字形與長筆畫，保留白底。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第2張：直立三風扇顯示卡，兩側灰白霧狀氣流線，側邊可讀SUPRIM MSI GEFORCE RTX。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第3張：黑背景中的橫向三風扇正面，拉絲銀色幾何框、蓝白燈條。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第4張：顯示卡側面SUPRIM、MSI、GEFORCE RTX字樣與藍白色折角燈條。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第5張：直立顯示卡局部，中央黑色風扇龍形徽標、上下折角燈條。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第6張：暗色背板局部，拉絲紋理、幾何鏤空與鑽石造型線條徽標。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第7張：單個黑色散熱風扇近景，中心金屬圓形帽與環繞的拉絲金屬框，顶部藍白燈條。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第8張：斜向背板全景，固定支架、散熱孔、側邊散熱鰭片與SUPRIM字樣。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第9張：銀灰拉絲金屬背板的多邊形開孔與固定螺絲，孔內可見散熱鰭片。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DACx40PyHxj-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看完整10張輪播，第10張：鑽石造型線條徽標、金屬背板髮絲紋、多邊形散熱孔及黑色螺絲特寫。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
           ],
           "matched_tags": []
         }
