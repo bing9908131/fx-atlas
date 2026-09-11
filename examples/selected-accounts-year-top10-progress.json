@@ -8695,10 +8695,12 @@
           "shortcode": "DMkt82qJ0Bb",
           "url": "https://www.instagram.com/shanren.3d/reel/DMkt82qJ0Bb/",
           "published_at": "2025-07-26T14:05:56.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DMkt82qJ0Bb-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
