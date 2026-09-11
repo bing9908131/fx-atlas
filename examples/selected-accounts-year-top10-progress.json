@@ -7286,10 +7286,12 @@
           "shortcode": "DANlz-ZyAy1",
           "url": "https://www.instagram.com/noah1art/reel/DANlz-ZyAy1/",
           "published_at": "2024-09-22T08:17:27.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DANlz-ZyAy1-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DACx40PyHxj",
