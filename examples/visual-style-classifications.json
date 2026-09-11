@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2460,
+  "total": 2464,
   "unclassified": 0,
   "counts": {
-    "graphic": 570,
+    "graphic": 574,
     "product": 849,
-    "organic": 554,
+    "organic": 558,
     "geometric": 892,
     "scifi": 327,
     "effects": 205
@@ -2007,6 +2007,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "綠底文章封面，黃色有孔起司片中央葉子，人物的手腳穿出孔洞；不同時刻可見片角翹起與人物姿態改變。 六項均逐一查看，最後無下一步；時間是截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc3ofrMjU-E-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "藍色與黑色背景中，粉白花瓣與黃橘花心、綠色花莖葉片呈柔焦輪廓。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "藍色與黑色背景中，粉白花瓣與黃橘花心、綠色花莖葉片呈柔焦輪廓。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
           ],
           "matched_tags": []
         }
@@ -11319,6 +11348,93 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "黑底圓角矩形光塊，頂部深藍，中段紫粉，底部橘紅，邊界柔焦。三張輪播全部為靜態圖片，末項無下一步。只描述數位色彩與光暈外觀，不視為玻璃物件或光線流動動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc3ofrMjU-E-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底多朵花卉，左上藍色、右上黃橘、右側淡紫、左下粉紅，中央綠色莖葉，柔和色塊互相重疊。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底多朵花卉，左上藍色、右上黃橘、右側淡紫、左下粉紅，中央綠色莖葉，柔和色塊互相重疊。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc3ofrMjU-E-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底三層花朵輪廓，粉紫花瓣混合藍青與橘色，纖細綠褐色花莖；邊緣高度模糊但仍可辨識花瓣聚合形。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底三層花朵輪廓，粉紫花瓣混合藍青與橘色，纖細綠褐色花莖；邊緣高度模糊但仍可辨識花瓣聚合形。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc3ofrMjU-E-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓形柔光斑，粉紅、青藍、橘黄與淡白中心上下排列，僅餘淡綠莖線暗示花卉。此張以圓形光斑為主，不標明確花瓣細節。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑底圓形柔光斑，粉紅、青藍、橘黄與淡白中心上下排列，僅餘淡綠莖線暗示花卉。此張以圓形光斑為主，不標明確花瓣細節。四張均逐張直接查看，無video且最後無下一步；不推定拍攝/生成技術、植物品種或任何動態。"
           ],
           "matched_tags": []
         }
