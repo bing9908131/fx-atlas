@@ -5153,10 +5153,16 @@
           "shortcode": "DcweGmAHQ4K",
           "url": "https://www.instagram.com/jdashscott/p/DcweGmAHQ4K/",
           "published_at": "2026-09-01T20:00:19.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DcweGmAHQ4K-1"
-          ]
+            "selectedyear-DcweGmAHQ4K-1",
+            "selectedyear-DcweGmAHQ4K-2",
+            "selectedyear-DcweGmAHQ4K-3",
+            "selectedyear-DcweGmAHQ4K-4",
+            "selectedyear-DcweGmAHQ4K-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZLwz7TN1Vq",

@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2476,
+  "total": 2481,
   "unclassified": 0,
   "counts": {
-    "graphic": 582,
+    "graphic": 587,
     "product": 850,
     "organic": 560,
     "geometric": 896,
@@ -2346,6 +2346,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支13.467秒CG影片，無輪播。2.449秒多條金色鍊與淡粉白珠串垂掛於叉子；4.082秒斜側近景顯示珠串、金銀環扣及鏡面粗鍊；9.969秒轉至粗金鍊包圍圓珠的微距。可確認從整體到微距的鏡頭切換與視角變化；未充分證明鍊條主動纏繞、拉伸或碰撞，不新增這些動態標籤。材質為外觀，不判定真金或真珍珠。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcweGmAHQ4K-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.806和4.185秒灰白煙狀區域輪廓改變、圓點大小與亮點位置改變。煙狀背景是可見影像，不證明煙霧求解器；圓點保持規則格點。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
           ],
           "matched_tags": []
         }
@@ -11675,6 +11692,74 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.529秒金黃色亮區在頂部，2.267秒亮區已移至中下方；主體為深綠層疊矩形結構。可以確認縱向掃光與亮度轉換，不將外觀標記成熔化或流體。 三段輪播逐一播放，第三段無下一步。讀值為截圖附近時間，影片循環。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcweGmAHQ4K-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.980秒紅粉白圓點格，中心小點與邊緣較大點；3.969秒近乎全黑；5.637秒僅細小點。可確認整組圓點縮小/消隱，不是物體爆炸。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcweGmAHQ4K-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "5.350秒斜向帶狀小藍青點；8.608秒同區域圓點更大更亮呈青白，外圍暗藍點。標記亮度與縮放波動，不推定聲音反應或粒子物理。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcweGmAHQ4K-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "6.471秒粉紅白色弧形亮點集中上方，11.048秒亮帶在下方；紅色小點尾跡沿格點排列。是圖形序列觸發形成的弧形波前，沒有水面或液體。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcweGmAHQ4K-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.783秒綠青方塊與白圓點滿幅陣列，2.442秒剩斜向X形小方塊，7.352秒全黑。方塊尺度、顯示數量改變；方塊有傾角，但未以單張傾角證明連續旋轉。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
           ],
           "matched_tags": []
         }
