@@ -2544,5 +2544,34 @@
     ],
     "reason": "Altai 2026為登山旅行與聚餐實拍紀錄，無可辨識CG專案內容，依使用者排除實拍規則移除。",
     "evidence": "Chrome1519732726原始影片116.79秒：開場與10.72秒登山旅伴，24至42秒人物山林健行，62秒夕陽，66至71秒羊牛牧場，76至80秒山溪，97至115秒手持攝影聚餐舉杯食物；原作者caption僅Altai 2026，畫面與人物動作呈一般旅行攝影。並非因藝術家其他作品是CG就將此片當CG。"
+  },
+  {
+    "post_id": "Dcyup6ZINlW",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "conference_promotion",
+    "duration_seconds": 75.76666666666667,
+    "observed_times": [
+      7.590289,
+      8.557501,
+      9.524162,
+      10.48873,
+      26.720874,
+      28.605249,
+      30.480475,
+      32.381118,
+      34.237923,
+      44.313967,
+      46.364733,
+      48.423541,
+      50.500363,
+      63.580564,
+      65.349996,
+      67.121359,
+      68.901448
+    ],
+    "reason": "Motion Plus Design紐約場購票活動預告，混合講者名字、不同作品片段與長段活動資訊；依既有排除活動宣傳內容規則移除，不誤判為沒有CG。",
+    "evidence": "Chrome1519732742原始單影片75.7667秒。7.59黑白人物腳步；8.56 Mehdi Hadi名字；9.52科幻機器人10.49火焰角色。26.72 Rachel Brickel名字、28.61字體片段、30.48 Yellowjackets片頭、32.38 Bhakti Patel名字。44.31–48.42 Runway/Spenser Dickerson/Render Network介紹，50.50 SEPT26，63.58–65.35 BOOK NOW motion-plus-design.com，67.12合作夥伴標誌，68.90淡出。原文明確為9月26日Roulette Theatre活動購票。含CG但媒體本身是講者與售票宣傳合集。"
   }
 ]
