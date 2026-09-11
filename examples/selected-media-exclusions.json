@@ -2315,5 +2315,23 @@
       7.005
     ],
     "evidence": "逐項觀看原始輪播第7/7影片。沿湖公路汽車空拍、人物與布幕背景、車尾燈及車內手觸飾板，屬實拍廣告片段，沒有可辨識的CG主體。 正文列攝影ARRI ALEXA 35與美術/服装團隊。第7項只有返回，確認總數7。"
+  },
+  {
+    "post_id": "DZSar5ZE35E",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "僅工作室帳號或聯絡資訊截圖，不作CG素材收錄。",
+    "evidence": "白底工作室簡介/社群外連頁截圖，主要是聯絡連結及follow按鈕；小頭像為原標誌。 第5張無下一步且共5個輪播點，確認已完整檢視。",
+    "reference_kind": "profile_screenshot"
+  },
+  {
+    "post_id": "DZSar5ZE35E",
+    "media_index": 5,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "僅工作室帳號或聯絡資訊截圖，不作CG素材收錄。",
+    "evidence": "黑底IG帳號首頁截圖，白色標誌與貼文數/追蹤數等帳號資訊；無CG展示或動畫。 第5張無下一步且共5個輪播點，確認已完整檢視。",
+    "reference_kind": "profile_screenshot"
   }
 ]

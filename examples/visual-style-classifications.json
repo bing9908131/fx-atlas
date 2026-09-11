@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2720,
+  "total": 2724,
   "unclassified": 0,
   "counts": {
-    "graphic": 669,
-    "product": 964,
+    "graphic": 672,
+    "product": 965,
     "organic": 613,
     "geometric": 923,
     "scifi": 349,
@@ -3658,6 +3658,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome原始Instagram影片12.352秒。3.328/3.833/4.389秒同鏡位的青藍纖維與紅色圓粒側向位移、拱頂纖維彎曲擺動，非水流。4.920/5.448/5.966秒綠色毛絨柱林、紅頂小屋之間運鏡；無足夠證據標植物生長。7.050秒CG向日葵，8.044秒花朵畫面收進SODA字形遮罩。0.488/1.463秒文字縮放，10.993/11.974秒背景SODA字母轉動。僅有人物照片作介紹，不是全片實拍。未推定Houdini、Vellum、FLIP或纖維物理解算器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ4fxpvtqe2-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始單段11.999999秒1916x1078影片完整範圍核對。0.013至1.609碳纖維外殼近景高光移動；2.437/3.282銀色車身局部；4.117/4.835/5.493整車前方視角由斜到正再斜；6.161外殼紅邊；6.828/7.474車尾由遠到近紅燈；7.881輪圈特寫；9.049整車側後方；10.230/10.461快速掠過模糊；11.283/11.400合作標誌。未以畫面暗霧感推定煙霧，也未標為賽道行駛或碰撞。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZSar5ZE35E-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第一張1080x1350靜態影像，未見當前video元素。兩頭相連、三條腿、向外伸手，頭部刻LX/XP字樣。 僅描述石質外觀，未推定大理石或特定實體材質。"
           ],
           "matched_tags": []
         }
@@ -16939,6 +16973,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始輪播第10/10逐項視覺核對。0.302罐背與檸檬碎冰；1.075罐身正面近景；1.895黃色碎屑放射爆散；1.849/2.880手罐標語成品；3.851至8.327黃底多張動態版面漂移，最後無下一步且10點確認完整輪播。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZSar5ZE35E-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第二张为1350高圖檔；當前無video，唯一video在下一頁x613。畫面是白色網站截圖中的雙頭刻字近景，並非自動播放影片。 僅描述石質外觀，未推定大理石或特定實體材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZSar5ZE35E-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第三段4.291666秒716x894；0.054正面三足；0.793轉向；1.508手腳姿態變化；2.221正面；2.948側面；3.666背面。 僅描述石質外觀，未推定大理石或特定實體材質。"
           ],
           "matched_tags": []
         }
