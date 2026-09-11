@@ -2220,5 +2220,14 @@
     "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
     "evidence": "正面遠景照片，螢幕與兩側走道、天雲；末頁只有返回，無下一步、無video。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
     "reference_kind": "onsite_display_documentation"
+  },
+  {
+    "post_id": "DdHEjhYIx2P",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "AI與After Effects操作教學／工具推廣示範，依排除教學內容的收錄要求移除。",
+    "reference_kind": "software_workflow_tutorial",
+    "evidence": "原始IG rourke/reel/DdHEjhYIx2P，單支61.166666秒。9.895/11.478/13.056/14.642秒可見AE時間軸、體育人物影像與身高數字圖卡；31.323/33.201/35.087/36.978/38.831秒可見講解人像與Supercomputer介面，上傳參考、輸入lower-third製作提示、Working狀態；40.730秒切換Nano Banana Pro示例。原文邀請留言AI試用工具，說明生成素材與組裝流程。此判斷為教學類別排除，並非宣稱全片無動態圖形，也未將文案中的模型能力主張當成已驗證事實。"
   }
 ]

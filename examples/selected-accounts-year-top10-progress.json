@@ -8394,10 +8394,12 @@
           "shortcode": "DdHEjhYIx2P",
           "url": "https://www.instagram.com/rourke/reel/DdHEjhYIx2P/",
           "published_at": "2026-09-10T14:40:55.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DdHEjhYIx2P-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdB-EzVqJZ4",
