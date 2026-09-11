@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2468,
+  "total": 2472,
   "unclassified": 0,
   "counts": {
-    "graphic": 578,
+    "graphic": 579,
     "product": 849,
     "organic": 558,
-    "geometric": 892,
+    "geometric": 895,
     "scifi": 327,
     "effects": 205
   },
@@ -2157,6 +2157,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "黑底多行粉、綠、黃、紫、青色點陣圖示，小圓點和短條呈圓環及放射形。前後時刻可見圖示縮小變淡或重新顯現，中心聚合程度與放射條長度改變。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Davk1B1PihD-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單段36秒動態字體影片，無輪播下一步。8.46秒藍底黃綠星星圍成橢圓、MEET THE COUSINS文字；17.56秒黑色字體放大到超出版面，背景黃綠與紫色不規則斑塊；25.99秒紅底黑字THE重複縱向排列。播放可見文字縮放、重排和快速版面切換；不推定字型名稱或軟體，斑塊不當成液體模擬。時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcLCDYukQpp-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.075秒方塊密集直立；2.655與3.873秒橫向長條突出、輪廓展開，青色高光帶移過結構。可見幾何重排與掃光，沒有可確認的爆炸、碰撞、液體。 三段輪播逐一播放，第三段無下一步。讀值為截圖附近時間，影片循環。"
           ],
           "matched_tags": []
         }
@@ -11503,6 +11537,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "白底PRIMARY EXPRESSIONS圖示表，圓周點陣局部偏移形成表情，旁有睡眠Z字；短條及點陣在不同時刻改變長度、密度與明暗。不是真人臉部或物理粒子模擬。四個影片逐一查看，最後無下一步；時間為截圖附近播放讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcLCDYukQpp-2",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.021秒透明方塊及薄片呈黃色高光；3.498秒左側深青綠、右側橘色亮層，形體以水平層片展開。記錄顏色與亮區轉換，不推定真實玻璃、金屬或任何物理模擬。 三段輪播逐一播放，第三段無下一步。讀值為截圖附近時間，影片循環。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcLCDYukQpp-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.529秒金黃色亮區在頂部，2.267秒亮區已移至中下方；主體為深綠層疊矩形結構。可以確認縱向掃光與亮度轉換，不將外觀標記成熔化或流體。 三段輪播逐一播放，第三段無下一步。讀值為截圖附近時間，影片循環。"
           ],
           "matched_tags": []
         }

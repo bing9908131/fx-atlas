@@ -7548,10 +7548,14 @@
           "shortcode": "DcLCDYukQpp",
           "url": "https://www.instagram.com/panoplycreative/p/DcLCDYukQpp/",
           "published_at": "2026-08-18T07:03:42.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DcLCDYukQpp-1"
-          ]
+            "selectedyear-DcLCDYukQpp-1",
+            "selectedyear-DcLCDYukQpp-2",
+            "selectedyear-DcLCDYukQpp-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -7780,10 +7784,12 @@
           "shortcode": "Davk1B1PihD",
           "url": "https://www.instagram.com/pleasecallmechamp/reel/Davk1B1PihD/",
           "published_at": "2026-07-13T18:54:10.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Davk1B1PihD-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
