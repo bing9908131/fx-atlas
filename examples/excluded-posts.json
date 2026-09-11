@@ -94,5 +94,15 @@
     "reason": "使用者截圖指定移除：紅髮人物手持藍頭筆；MPM Solver · Explode。",
     "excluded_at": "2026-09-11",
     "source": "user"
+  },
+  {
+    "post_id": "DcvEqI8iD0f",
+    "url": "https://www.instagram.com/p/DcvEqI8iD0f/",
+    "reason": "作者明確確認整組測試未採用於正式影片；依品牌採用收錄條件排除。",
+    "excluded_at": "2026-09-11",
+    "source": "author_caption_and_user_criteria",
+    "evidence": "Instagram作者正文說明本篇為2025 WINT專案的inflation tests/look dev，並明確指出None of them made it into the film。首兩個輪播媒體已直接查看，為灰白膨脹幾何物件，確有CG。依整篇作者採用聲明判斷不符合使用者品牌採用條件，不宣稱已逐媒體完成剩餘輪播分析。",
+    "review_scope": "post_adoption_eligibility",
+    "visual_review_complete": false
   }
 ]

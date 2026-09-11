@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2442,
+  "total": 2444,
   "unclassified": 0,
   "counts": {
     "graphic": 556,
     "product": 848,
-    "organic": 551,
+    "organic": 553,
     "geometric": 888,
     "scifi": 325,
-    "effects": 204
+    "effects": 205
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1869,6 +1869,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原影片多段觀察：低角度人物近景呈柔軟起伏褶皺的深色表面；中景舞者雙臂展開；後段人物後仰拱背，手臂與身體輪廓有尖刺突起。作者明列3D-CGI Simon Braud，證實含CG，但不把所有舞蹈或布料都判為模擬。沒有足夠連續證據證明尖刺生長、煙霧、液體或碰撞，所以不加這些動態。時間是讀取播放進度的觀察區段，截圖略有延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXJRE7lDM0j-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "棕色亮面醬狀表面呈密集皺摺，中央刮取前緣向下移動，露出米白色細顆粒、多孔甜點內部；邊緣黏稠表層被拉伸、捲起，刮痕延長。單段影片，無輪播下一步。時間是截圖前DOM讀值，截圖稍延遲。不能從外觀斷言甜點配方或MPM求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "棕色亮面醬狀表面呈密集皺摺，中央刮取前緣向下移動，露出米白色細顆粒、多孔甜點內部；邊緣黏稠表層被拉伸、捲起，刮痕延長。單段影片，無輪播下一步。時間是截圖前DOM讀值，截圖稍延遲。不能從外觀斷言甜點配方或MPM求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DBYJQEINPc6-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白色罌粟造型花朵在深色背景中開合，花瓣逐步展開露出黃橘色花蕊，再收攏成花苞；彎曲花莖及花頭朝向改變。薄花瓣有透光感與細皺摺，綠色花莖覆細毛。單段影片無輪播下一步，时间為截圖前讀值。不能把花瓣外觀當成布料模擬證據。"
           ],
           "matched_tags": []
         }

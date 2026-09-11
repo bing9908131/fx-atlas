@@ -8086,10 +8086,10 @@
           "shortcode": "DcvEqI8iD0f",
           "url": "https://www.instagram.com/romain.rosi/p/DcvEqI8iD0f/",
           "published_at": "2026-09-01T06:58:44.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcvEqI8iD0f-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "cg_review": "Instagram作者正文說明本篇為2025 WINT專案的inflation tests/look dev，並明確指出None of them made it into the film。首兩個輪播媒體已直接查看，為灰白膨脹幾何物件，確有CG。依整篇作者採用聲明判斷不符合使用者品牌採用條件，不宣稱已逐媒體完成剩餘輪播分析。",
+          "exclusion_scope": "whole_post_author_confirmed_unused"
         },
         {
           "shortcode": "DcdCnhfzBU6",
@@ -8210,19 +8210,23 @@
           "shortcode": "DXJRE7lDM0j",
           "url": "https://www.instagram.com/sartakov_cg/reel/DXJRE7lDM0j/",
           "published_at": "2026-04-15T08:01:29.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DXJRE7lDM0j-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DBYJQEINPc6",
           "url": "https://www.instagram.com/sartakov_cg/reel/DBYJQEINPc6/",
           "published_at": "2024-10-21T07:12:17.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DBYJQEINPc6-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
