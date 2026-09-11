@@ -1153,10 +1153,12 @@
           "shortcode": "DbqricqNP8I",
           "url": "https://www.instagram.com/alfiemotion/reel/DbqricqNP8I/",
           "published_at": "2026-08-05T17:34:34.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DbqricqNP8I-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

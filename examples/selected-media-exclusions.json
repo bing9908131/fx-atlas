@@ -2416,5 +2416,27 @@
       10.512356,
       11.492752
     ]
+  },
+  {
+    "post_id": "DbqricqNP8I",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "software_tutorial_promotion",
+    "reason": "Figma Weave功能操作教學與推廣，依排除教學內容規則移除；品牌共同發布已確認，不是未採用或非CG的判斷。",
+    "evidence": "Chrome1519732702原作者alfiemotion與figmaweave共同發布，正文說明輸入效果文字、生成節點、調整控制滑桿及限時試用。31.333332秒影片。7.397參考圖輸入；8.382生成ASCII節點；9.364至11.299CellSize/GlowStrength/BrightnessBoost滑桿操作；20.451青色故障魚圖形；21.397至25.334花朵逐步疊加像素紅光、改為藍綠顏色，字幕逐步解說操作。主要為工具示範而非獨立成片。",
+    "observed_times": [
+      7.396556,
+      8.382341,
+      9.364315,
+      10.351973,
+      11.299499,
+      20.451095,
+      21.397215,
+      22.3776,
+      23.378403,
+      24.354624,
+      25.334102
+    ]
   }
 ]
