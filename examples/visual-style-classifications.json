@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2681,
+  "total": 2687,
   "unclassified": 0,
   "counts": {
-    "graphic": 655,
-    "product": 935,
+    "graphic": 659,
+    "product": 941,
     "organic": 608,
-    "geometric": 922,
+    "geometric": 923,
     "scifi": 347,
     "effects": 235
   },
@@ -2140,6 +2140,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第一项為IMG，無可見video，白色機殼與兩側鍵靜態特寫；原先type video錯誤已修正。右側video屬第二項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第一項為靜態IMG，右側5.154829秒video是第二項。車輪無已觀察動態，修正原本video類型。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第一項為靜態IMG，右側5.154829秒video是第二項。車輪無已觀察動態，修正原本video類型。"
           ],
           "matched_tags": []
         }
@@ -16084,6 +16113,139 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.236黑白控制面板，1.122彩虹鏡片，2.004同心光學環，2.892失焦虹彩，3.763與4.991白色背部鏡頭拉遠。光學環不是水波ripple，未標液體；最後只有返回無下一步，確認總共5項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.037支付介面全景，0.872介面放大，1.809介面；2.697賽車後方穿行圓柱、3.580側後跟拍、4.451快速向右。可見運動模糊，沒有碰撞或煙霧。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.037支付介面全景，0.872介面放大，1.809介面；2.697賽車後方穿行圓柱、3.580側後跟拍、4.451快速向右。可見運動模糊，沒有碰撞或煙霧。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.737按鈕，1.662滑開起始，1.840右端露出輪圈，2.580/3.878框內車身輪胎，4.805車輪近景，5.755賽車後方駛離，6.691光帶。是圖形銜接與遮罩，不標液化變形或撞擊。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.737按鈕，1.662滑開起始，1.840右端露出輪圈，2.580/3.878框內車身輪胎，4.805車輪近景，5.755賽車後方駛離，6.691光帶。是圖形銜接與遮罩，不標液化變形或撞擊。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第四項靜態圖，左側video為上一項。體積光外觀可見，不把光柱誤作煙霧模擬，不加行駛動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第五項靜態圖，沒有可見video，矩形柱與硬邊長影；沒有證據支持駕駛或柱體生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第五項靜態圖，沒有可見video，矩形柱與硬邊長影；沒有證據支持駕駛或柱體生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVtwCkPESWm-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第六項靜態圖，無video、只有返回確認總共6項。可讀Cash App、Red Bull、Ford Racing、VISA、Pirelli P ZERO字樣；不推測賽車型號，P ZERO為輪胎可見字樣。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第六項靜態圖，無video、只有返回確認總共6項。可讀Cash App、Red Bull、Ford Racing、VISA、Pirelli P ZERO字樣；不推測賽車型號，P ZERO為輪胎可見字樣。"
           ],
           "matched_tags": []
         }

@@ -8672,10 +8672,17 @@
           "shortcode": "DVtwCkPESWm",
           "url": "https://www.instagram.com/sekanisolomon/p/DVtwCkPESWm/",
           "published_at": "2026-03-10T18:59:35.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DVtwCkPESWm-1"
-          ]
+            "selectedyear-DVtwCkPESWm-1",
+            "selectedyear-DVtwCkPESWm-2",
+            "selectedyear-DVtwCkPESWm-3",
+            "selectedyear-DVtwCkPESWm-4",
+            "selectedyear-DVtwCkPESWm-5",
+            "selectedyear-DVtwCkPESWm-6"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
