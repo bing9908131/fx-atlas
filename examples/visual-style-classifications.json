@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2428,
+  "total": 2432,
   "unclassified": 0,
   "counts": {
     "graphic": 546,
     "product": 848,
-    "organic": 550,
-    "geometric": 876,
+    "organic": 551,
+    "geometric": 880,
     "scifi": 325,
     "effects": 204
   },
@@ -1841,6 +1841,52 @@
       ]
     },
     {
+      "id": "selectedyear-DdGMTu1FLnq-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "直接查看原貼文單張圖，無影片及下一步；圓潤厚實的螺旋扭轉曲面，中央米膚色隆起，外圍銀色、棕色和淡藍色弧面。局部亮面高光與虹彩反射，部分表面有细小砂點；是靜態造型，不能由扭曲外觀推定扭轉動畫或液體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "直接查看原貼文單張圖，無影片及下一步；圓潤厚實的螺旋扭轉曲面，中央米膚色隆起，外圍銀色、棕色和淡藍色弧面。局部亮面高光與虹彩反射，部分表面有细小砂點；是靜態造型，不能由扭曲外觀推定扭轉動畫或液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdDxochG5z_-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "直接查看原貼文單張圖，無影片及下一步；透明彎曲細管、短棒及弧形片相互交錯，端部與沿線有白色圓珠。近景清晰遠景模糊；整體灰白與淡青色，表面透明折射，沒有動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DYZs1PBivP0-1",
       "styles": [
         {
@@ -1852,6 +1898,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "砂粒矩形表面先出現短條凹槽，後續形成完整S形凹槽，周圍砂粒向兩側堆起。兩次截圖有明確短槽與S形差異；短片循環且截圖延遲，時間為觀察區段。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZXZAvrP8cf-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "C4D視窗錄影中，大量白色長方片繞中心球體排列成螺旋方形構圖，長短與傾斜方向改變，後段縮成點狀小片。視窗格線固定，可區分物件變化與相機移動。白色為預覽著色，不推定塑膠或金屬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZII6uGyoqK-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "C4D視窗中方形平面布滿矩形單元，局部長方塊突出並朝不同方向傾斜；後段回到較平整、只見接縫的表面。局部變化區域移動，呈起伏波，不視為水波或破碎碰撞。白灰為視窗預覽材質。"
           ],
           "matched_tags": []
         }

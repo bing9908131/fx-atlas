@@ -5814,19 +5814,23 @@
           "shortcode": "DZXZAvrP8cf",
           "url": "https://www.instagram.com/kskee_sketches/reel/DZXZAvrP8cf/",
           "published_at": "2026-06-09T12:41:13.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZXZAvrP8cf-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZII6uGyoqK",
           "url": "https://www.instagram.com/kskee_sketches/reel/DZII6uGyoqK/",
           "published_at": "2026-06-03T14:32:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZII6uGyoqK-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -7814,19 +7818,23 @@
           "shortcode": "DdGMTu1FLnq",
           "url": "https://www.instagram.com/rawandrendered/p/DdGMTu1FLnq/",
           "published_at": "2026-09-10T06:28:07.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdGMTu1FLnq-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdDxochG5z_",
           "url": "https://www.instagram.com/rawandrendered/p/DdDxochG5z_/",
           "published_at": "2026-09-09T07:56:32.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdDxochG5z_-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9924,10 +9932,14 @@
           "shortcode": "DTyenpRDLcW",
           "url": "https://www.instagram.com/visualoperator/p/DTyenpRDLcW/",
           "published_at": "2026-01-21T22:00:46.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DTyenpRDLcW-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

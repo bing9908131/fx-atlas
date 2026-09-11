@@ -1264,5 +1264,197 @@
     ],
     "source": "visual_and_caption",
     "reference_kind": "product_rnd_unverified_adoption"
+  },
+  {
+    "post_id": "DTyenpRDLcW",
+    "media_index": 1,
+    "total": 3,
+    "decision": "exclude",
+    "disposition": "held_for_brand_evidence",
+    "reason": "已完成CG靜態圖分析；此品牌符號裝置尚缺品牌採用證據，暫不收錄，並非判定非CG或確認未採用。",
+    "evidence": "本輪再次直接觀看全部三張；黑白場景內機械手臂持矩形光源裝置，白色重複輪廓構成三角、圓、叉和方形，地面鏡面反射。 作者正文明列cg frames，第三張無下一步，未見影片。PlayStation符號可辨識，但貼文沒有品牌委託資料；公開查詢未取得相符證據，不以無搜尋結果證明非官方。",
+    "type": "image",
+    "tags": [
+      [
+        "robotic arm",
+        "機械手臂",
+        "subject",
+        []
+      ],
+      [
+        "light installation",
+        "光雕裝置",
+        "subject",
+        []
+      ],
+      [
+        "symbols",
+        "符號",
+        "subject",
+        []
+      ],
+      [
+        "repeated outlines",
+        "重複輪廓",
+        "subject",
+        []
+      ],
+      [
+        "metallic",
+        "金屬感",
+        "material",
+        []
+      ],
+      [
+        "reflective",
+        "鏡面反射",
+        "material",
+        []
+      ],
+      [
+        "emissive",
+        "發光",
+        "material",
+        []
+      ],
+      [
+        "black",
+        "黑色",
+        "color",
+        []
+      ],
+      [
+        "white",
+        "白色",
+        "color",
+        []
+      ]
+    ],
+    "style_ids": [
+      "graphic",
+      "scifi"
+    ],
+    "source": "visual_and_caption",
+    "reference_kind": "cg_installation_adoption_unverified"
+  },
+  {
+    "post_id": "DTyenpRDLcW",
+    "media_index": 2,
+    "total": 3,
+    "decision": "exclude",
+    "disposition": "held_for_brand_evidence",
+    "reason": "已完成CG靜態圖分析；此品牌符號裝置尚缺品牌採用證據，暫不收錄，並非判定非CG或確認未採用。",
+    "evidence": "本輪再次直接觀看全部三張；多個黑色聚光燈固定在弧形支架上，形成白色窄光束；表面高光與近景景深。 作者正文明列cg frames，第三張無下一步，未見影片。PlayStation符號可辨識，但貼文沒有品牌委託資料；公開查詢未取得相符證據，不以無搜尋結果證明非官方。",
+    "type": "image",
+    "tags": [
+      [
+        "spotlight",
+        "聚光燈",
+        "subject",
+        []
+      ],
+      [
+        "curved rig",
+        "弧形支架",
+        "subject",
+        []
+      ],
+      [
+        "light beam",
+        "光束",
+        "subject",
+        []
+      ],
+      [
+        "glossy black",
+        "亮面黑色",
+        "material",
+        []
+      ],
+      [
+        "metallic",
+        "金屬感",
+        "material",
+        []
+      ],
+      [
+        "black",
+        "黑色",
+        "color",
+        []
+      ],
+      [
+        "white",
+        "白色",
+        "color",
+        []
+      ]
+    ],
+    "style_ids": [
+      "product",
+      "scifi"
+    ],
+    "source": "visual_and_caption",
+    "reference_kind": "cg_installation_adoption_unverified"
+  },
+  {
+    "post_id": "DTyenpRDLcW",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "disposition": "held_for_brand_evidence",
+    "reason": "已完成CG靜態圖分析；此品牌符號裝置尚缺品牌採用證據，暫不收錄，並非判定非CG或確認未採用。",
+    "evidence": "本輪再次直接觀看全部三張；另一視角拍攝弧形排列的黑色聚光燈，部分燈具射出白色光束，背景近黑。作者明示為CG frames。 作者正文明列cg frames，第三張無下一步，未見影片。PlayStation符號可辨識，但貼文沒有品牌委託資料；公開查詢未取得相符證據，不以無搜尋結果證明非官方。",
+    "type": "image",
+    "tags": [
+      [
+        "spotlight",
+        "聚光燈",
+        "subject",
+        []
+      ],
+      [
+        "curved array",
+        "弧形排列",
+        "subject",
+        []
+      ],
+      [
+        "light beam",
+        "光束",
+        "subject",
+        []
+      ],
+      [
+        "glossy black",
+        "亮面黑色",
+        "material",
+        []
+      ],
+      [
+        "metallic",
+        "金屬感",
+        "material",
+        []
+      ],
+      [
+        "black",
+        "黑色",
+        "color",
+        []
+      ],
+      [
+        "white",
+        "白色",
+        "color",
+        []
+      ]
+    ],
+    "style_ids": [
+      "product",
+      "scifi"
+    ],
+    "source": "visual_and_caption",
+    "reference_kind": "cg_installation_adoption_unverified"
   }
 ]
