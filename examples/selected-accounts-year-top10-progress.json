@@ -4219,10 +4219,12 @@
           "shortcode": "DTh7axPCEjy",
           "url": "https://www.instagram.com/francesco.m.lucini/reel/DTh7axPCEjy/",
           "published_at": "2026-01-15T11:54:09.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DTh7axPCEjy-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -4435,10 +4437,12 @@
           "shortcode": "CfkCBilBtV7",
           "url": "https://www.instagram.com/ge.iiid/reel/CfkCBilBtV7/",
           "published_at": "2022-07-03T20:09:16.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-CfkCBilBtV7-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2833,
+  "total": 2835,
   "unclassified": 0,
   "counts": {
     "graphic": 709,
-    "product": 1021,
+    "product": 1022,
     "organic": 637,
-    "geometric": 957,
+    "geometric": 958,
     "scifi": 358,
-    "effects": 249
+    "effects": 250
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4543,6 +4543,35 @@
       ]
     },
     {
+      "id": "selectedyear-CfkCBilBtV7-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732890單支6.101332秒1280x720。0.268右側弦線向下大幅彎曲且亮條集中右側；1.492右側波峰轉至另一位置、短條大多黑暗；2.742/2.902中央及右側短條亮起，弦線波峰再位移。支持起伏振盪及亮點變化，不僅憑靜態曲線判斷。圓環亮且有透亮邊緣，但未直接認定玻璃；沒有液體、煙、火焰或碰撞證據，未填這些標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732890單支6.101332秒1280x720。0.268右側弦線向下大幅彎曲且亮條集中右側；1.492右側波峰轉至另一位置、短條大多黑暗；2.742/2.902中央及右側短條亮起，弦線波峰再位移。支持起伏振盪及亮點變化，不僅憑靜態曲線判斷。圓環亮且有透亮邊緣，但未直接認定玻璃；沒有液體、煙、火焰或碰撞證據，未填這些標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DdCPrI0sVlm-1",
       "styles": [
         {
@@ -4595,6 +4624,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732857單支15.018666秒1080x1920。0.332器材與立架位於平台；2.333多器材在空中；3.534圓柱喇叭斜向露底，3.866轉為較直立且SONOS字樣朝前，支持旋轉。5.086長條音響；8.287/8.306兩顆扁橢圓喇叭懸浮；10.083多器材形成斜向平衡排列；11.485多器材在有凹槽且錯層的平台上方，11.612器材傾倒下降；13.562器材已落位，平台拼合為平整布局並出SONOS字樣。金色是顏色，牆地材質僅灰泥外觀，未當成金屬；未推定碰撞求解器或特定產品型號。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DTh7axPCEjy-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732893單支18.791666秒1080x1920。3.906黑白人物戴透明眼鏡，未聲稱人物CG；6.280鉸鏈較模糊，6.443同一構圖金色鉸鏈變清楚，可見暗綠鏡片與玳瑁紋；9.169透明鏡腳中的金色件ATLANT刻字特寫；14.049琥珀色鏡框與銀色鉸鏈；15.867透明鏡框側面懸浮、長鏡腳延伸下方；17.215黑色地面白色噴柱和ATLANT標誌。最後噴柱是否CG未知，不填煙霧求解或噴發模擬。不能用不同款式剪接推定鏡腳開合組裝或變形。未辨識型號不臆填。"
           ],
           "matched_tags": []
         }
