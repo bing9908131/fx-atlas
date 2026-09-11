@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2579,
+  "total": 2584,
   "unclassified": 0,
   "counts": {
     "graphic": 631,
-    "product": 879,
-    "organic": 579,
-    "geometric": 908,
+    "product": 884,
+    "organic": 581,
+    "geometric": 909,
     "scifi": 335,
     "effects": 216
   },
@@ -3041,6 +3041,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支15秒9/16影片完整分段觀察：0.464807鞋底越過混凝土邊；1.462229/2.458595後側鞋身在碎石上，3.428762/4.411772/5.403362鞋跟逐漸抬高，鞋底與地面間距增加，碎石分離並散開；5.978133/6.766926/7.536879鏡頭沿鞋面移動，網眼與鞋帶清楚；8.322772/9.095493/9.85877/10.639626整鞋前側，鞋身上升、鞋跟附近碎石向外飛散；11.719384/12.658447碎石繼續改變位置，13.601157及14.622157黑底白ECCO標誌。棕黑鞋面、灰白鞋底、粉紫背景與紅色光，粗顆粒地面/混凝土與網布/橡膠外觀可辨。無混凝土破裂、煙、火、液體證據，不把飛散推定為爆炸，也不猜RBD/POP/Houdini。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGbVkOCK9j-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.328684軟絨球體滿畫面；1.043702鞋底從球體間露出，1.776171鞋底抬高、周圍球體位置改變；2.516533/2.839428整鞋置於球堆上，3.773774球體聚到鞋口；4.206682零散字母，4.700959完整句，5.818437標誌。未把軟球推擠當作已知物理求解器或液體。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.328684軟絨球體滿畫面；1.043702鞋底從球體間露出，1.776171鞋底抬高、周圍球體位置改變；2.516533/2.839428整鞋置於球堆上，3.773774球體聚到鞋口；4.206682零散字母，4.700959完整句，5.818437標誌。未把軟球推擠當作已知物理求解器或液體。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
           ],
           "matched_tags": []
         }
@@ -13726,6 +13755,98 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第7項15秒動畫，10.263018背景上方SUBMIT/MAY、中央EDITION字形，12.159742背景圖樣往上移，14.036255頂端BY/MAY、中段SUBMIT，固定薄荷綠主標題保持原位；圓點、空心圈、四角星組成字形。文字背景滑動與圖樣變換可見，沒有液體/粒子物理/布料/solver證據。第8項僅返回確認總數8；自身影片封面於第6項相鄰DOM擷取。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGbVkOCK9j-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.117378/0.646099米色短毛地面隆起紋路近拍；1.629397白鞋俯視，毛面有放射凹陷；2.358395/2.966797灰色顆粒地面俯視，3.552132鞋跟抬起成斜側面，3.873081鞋身上移離框。未證明連續材質變形，因此只記錄不同地面，不標morph、液體或碰撞模擬。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.117378/0.646099米色短毛地面隆起紋路近拍；1.629397白鞋俯視，毛面有放射凹陷；2.358395/2.966797灰色顆粒地面俯視，3.552132鞋跟抬起成斜側面，3.873081鞋身上移離框。未證明連續材質變形，因此只記錄不同地面，不標morph、液體或碰撞模擬。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGbVkOCK9j-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.194528/1.733758鞋體垂直分層；2.329765/2.774908鞋帶網面及藍色片懸浮近拍，層片位置改變；3.249119完整分層，3.716953上半部已收合、下方幾層仍分離，3.956644完整鞋身。是零件組合與爆炸圖，不是物件碎裂或爆破。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.194528/1.733758鞋體垂直分層；2.329765/2.774908鞋帶網面及藍色片懸浮近拍，層片位置改變；3.249119完整分層，3.716953上半部已收合、下方幾層仍分離，3.956644完整鞋身。是零件組合與爆炸圖，不是物件碎裂或爆破。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGbVkOCK9j-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0秒窄光束近垂直自上方照向暗鞋；2.331653光束傾斜由左上照入，2.941849光束不再突出、鞋面與地面漸亮，3.561105整鞋清楚。只標光線掃動及照明顯影，不標雷射、魔法、煙霧。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGbVkOCK9j-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.085089牆角鞋影；0.588769鞋底影中出現亮孔，1.112784影子輪廓及位置變化，1.625487與2.319417白鞋懸浮在左、影在右牆。2.91775鞋舌和鞋帶，3.512483及3.93664鏡頭沿鞋面下移露出更多鞋頭網眼；4.70581片尾文字、5.446941ECCO。投影與運鏡可見，不推測骨骼、布料解算。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
           ],
           "matched_tags": []
         }
