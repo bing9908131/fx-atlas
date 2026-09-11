@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2214,
+  "total": 2218,
   "unclassified": 0,
   "counts": {
-    "graphic": 465,
+    "graphic": 467,
     "product": 801,
-    "organic": 480,
+    "organic": 481,
     "geometric": 838,
-    "scifi": 307,
-    "effects": 140
+    "scifi": 308,
+    "effects": 142
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1761,6 +1761,52 @@
       ]
     },
     {
+      "id": "selectedyear-Dc_MrY9zR7y-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DJGzQl2CxCp-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DZzfBCDz5hN-1",
       "styles": [
         {
@@ -1789,6 +1835,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "一秒正方形影片；0.268513兩個白色菱形開口形成偏水平輪廓、Thinking左側較亮；0.636907圖示轉為斜向輪廓、文字中段較暗。固定排版位置，圖示角度變化與文字亮度變化可見。作者明說logo animated for processing states；不推定具體品牌或3D工具。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dci5t6josxm-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaSu2fLIM9f-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
           ],
           "matched_tags": []
         }

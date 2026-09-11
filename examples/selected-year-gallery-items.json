@@ -173,7 +173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。",
       "observed_times": [
         1.7,
@@ -342,7 +342,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第一段4.31秒為粉紅、紫與彩色高光泡狀物密集畫面；15.55秒切到灰白模擬外觀，可見接觸面壓扁及褶皺。標記可見柔體變形，不推定液體或特定模擬器。",
       "observed_times": [
         4.31,
@@ -498,7 +498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.38與2.52秒電弧形狀及亮度改變；貓爪與拉長布面可见。不將靜態拉長造型推定成已觀察拉伸動作。",
       "observed_times": [
         0.38,
@@ -676,7 +676,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。多根透明彎曲管交錯，部分管內有格紋；青藍與虹彩反射，前景淺景深。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -835,7 +835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "首項為0.999999秒影片，檢查0.014、0.194、0.874秒，未確認物件位移或形體轉換；不加入碰撞、堆疊動畫或變形標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [
         0.014,
@@ -987,7 +987,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。暖色餐廳俯視圖，長餐桌鋪著米白桌布，周围有木椅、餐盤、花瓶及植栽。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -1177,7 +1177,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.77與8.35秒內框接近完整矩形；3.03與16.56秒呈壓窄橫向形狀，14.95秒開口較完整。鏡頭及近景家具大致穩定。記錄可見框形變化，不推定旋轉軸、物理壓縮或模擬器。原頁單支24秒Reel。",
       "observed_times": [
         0.77,
@@ -1302,7 +1302,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底橘色瞄準符號、Alpha／Omega 標記、VALORANT 圖標和 26 字體，配細線與介面邊框。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -1482,7 +1482,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。紫黑盔甲角色手持武器，前方綠色煙霧狀圖形，背景是綠色大字與橘色介面符號。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -1703,7 +1703,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "3.43秒角色面部特寫；8.87秒多人頭像及Share介面；11.03秒片尾為彩色符號，11.75秒成為完整Plnty.app字標。可確認剪接切換和字元替換，不憑單張臉部畫面推定眼球動態。",
       "observed_times": [
         3.43,
@@ -1886,7 +1886,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.68與2.35秒碎塊位置、細粒流束輪廓不同；3.77秒金球較高，5.76秒較低且表面紋路朝向改變，8.46秒接近地面。可確認粒子移動、球體下移與旋轉，不推定流體、剛體碰撞求解器。作者及片中文字明示Houdini課程；是具體CG效果示範，非講者操作錄屏。",
       "observed_times": [
         1.68,
@@ -2091,7 +2091,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.72秒為角色背面，14.82秒為正面；角色與岩石底座整體朝向改變，切割墊和旁邊測試球位置固定。姿勢保持一致，標記模型轉台，不標記走路、布料飄動或人物表演。作者明示Turntable並列Houdini/ZBrush。",
       "observed_times": [
         1.72,
@@ -2282,7 +2282,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。女性角色半身，黑色上衣、手部遮住部分臉孔，棕白雙色長髮向側面展開，背景為夜間城市散景。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -2489,7 +2489,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。紅髮角色黑色衣裝、粉紅羽翼和銀黑尖刺框架的完整構圖。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -2649,7 +2649,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.04、2.16、2.82秒瓶底輪廓與氣泡的可見位置改變，氣泡表面保持光滑反射。能確認畫面中的氣泡／瓶身視角變化，尚不能區分所有氣泡位移與視差，不標記氣泡上升、融合、破裂或液體流動。作者明示bubbles/simulation/Houdini/Redshift，但沒有指定求解器。",
       "observed_times": [
         2.04,
@@ -2781,7 +2781,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。車鼻與多層前翼俯視特寫，紅色燈光照亮纖維編織紋理。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -2972,7 +2972,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.78至1.51秒可見外殼打開露出内部層次；3.62秒矩形面板分離並改變角度，旁有活動字樣；6.07秒為傾斜數字手錶展示，8.58秒只留下活動字標。可確認拆分、面板翻轉和畫面轉場，未看到碰撞、破碎或流體。",
       "observed_times": [
         0.78,
@@ -3199,7 +3199,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "實際開啟輪播第1張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -3435,7 +3435,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.16秒為琥珀色透光質地中的螳螂；7.49秒黑白點狀影像；8.58、11.97、14.09秒分別展示模型框架內前肢、翅脈和腹部；19.80秒粗糙塊體配掃描方框；21.39秒頭部近景；24.88與27.48秒S字標視角不同。能確認鏡頭細節巡覽、剪輯切換及字標視角變化。未取得足夠連續肢體證據，不加入行走、捕食、碰撞或生長；粗糙缺口不等於破碎動畫。",
       "observed_times": [
         2.16,
@@ -3669,7 +3669,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "6.30秒機身Formlabs字樣；10.41、11.04秒灰色粉末床及橘色發光部件；17.04秒整機，19.14秒外殼升起分離，22.01秒透明外框內的多層零件展示；24.41秒細光束穿過光學機構，27.16秒粉末床可見亮點軌跡與重複深色圖案；29.04秒容量刻度。確認外殼拆解與雷射掃描呈現，不將加熱光誤標為火焰、不將列印誤標為CNC切削。",
       "observed_times": [
         6.3,
@@ -3810,7 +3810,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第1張觀察：銀白信用卡斜置於淡紫空間，背景及卡面有彩虹色光帶；可讀永豐銀行、DAWAY、VISA Signature。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -4042,7 +4042,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.57秒角色持網、旁有蝴蝶；6.68秒綠色毛蟲在樹枝上呈直立形態，8.40秒彎成拱形且角色嘴型改變；11.58秒手指接近花旁昆蟲；16.29秒多個角色在畫面邊緣。可確認毛蟲彎曲及嘴型表情變化。沒有依留言推定側手翻或任何3D求解器，畫面明確為2D插畫動畫。",
       "observed_times": [
         2.57,
@@ -4266,7 +4266,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "5.94秒角色與毛蟲近景；19.08秒角色位於森林左邊，20.91秒移至中央並持網，蝴蝶在固定樹木間改變位置。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         5.94,
@@ -4481,7 +4481,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第1/8個媒體。黃黑越野鞋置於灰色碎石山坡，周圍有白灰霧塵及懸空碎石。靜態畫面不證明撞擊、落石或煙霧流動。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -4726,7 +4726,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第1/7張：不同大小的桃紅紫色玻璃圓盤散置於淺灰背景，中心帶環狀紋理及綠紅反光。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -4953,7 +4953,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "IG影片12.04秒：0.055黑底；1.365水環已破開，2.252/2.983水滴高度降低並分離；3.261/3.557再次出現起伏的連續環；5.373/6.599為粗糙水面近景，7.770可見分離小水滴及狹長水流。無可識別固體撞擊物，不標碰撞或爆炸；未由評論推定FLIP、Houdini或特定solver。",
       "observed_times": [
         0.055,
@@ -5187,7 +5187,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.199基地雙船；2.250艙內HUD；7.141至7.496角色船艦位置與角度微變。僅依實際畫面標飛行/位移，不標水模擬。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.199,
@@ -5419,7 +5419,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.632白天劇院廣場、左側防護罩；6.579另一夜間圓頂建築場景。屬不同鏡頭，不能由兩張畫面推定罩體擴散或液體流動。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.632,
@@ -5618,7 +5618,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.907可见綠色DNA雙螺旋與粒點；9.710虹膜微距，11.504完整眼睛，確認鏡頭拉遠；13.347卡面Hulk, Strongest There Is與氣泡狀粒點；18.773正式Magic The Gathering/Marvel Super Heroes片尾及Wizards/Marvel版權。未由單幀推定DNA生長、粒子擴散或液體流動。",
       "observed_times": [
         2.907,
@@ -5835,7 +5835,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。",
       "observed_times": [
         3.336,
@@ -6067,7 +6067,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。",
       "observed_times": [
         2.128,
@@ -6339,7 +6339,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "4.783/6.225/25.501同一植被字標的斜俯视角度改變，兩套配色同步展示。沒有觀察到字母生成或植物生長，不標生長解算。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         4.783,
@@ -6639,7 +6639,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "6.714近景繩索連到人物手部；17.903俯視走廊；26.290輪椅人物；35.781與47.142蟻群腿部姿態、前後位置及髮束方向不同。上下為同一動畫的成片及灰模。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         6.714,
@@ -6917,7 +6917,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "4.315兩生物偏垂直；4.979管狀身體更捲曲；7.732白色側面與相對的 C 形輪廓可見，身體確實改變姿態。四項逐一檢視；不把濕潤外觀推定為液體流動。",
       "observed_times": [
         4.315194,
@@ -7146,7 +7146,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.135與5.564砂土脊線及凹槽輪廓不同；12.438碎石與密集粒狀地形；23.513改為層狀黏土般捲曲表面。作者明示材質continual flux與reformation。觀察支持地形形變和顆粒移動；沒有直接看到爆破、燃燒，不標流體或指定solver。單影片25.633秒，無輪播。",
       "observed_times": [
         2.134758,
@@ -7398,7 +7398,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.687海床上方小型發光物與魚隻；4.939紫色瓣狀生物從砂床出現且砂粒向外揚起；8.416大型生物已不見、砂粒雲向上散布；12.653回到平靜海床與游魚。可觀察出現、下潛及粒子散開，不猜爆炸或水流solver。",
       "observed_times": [
         0.686586,
@@ -7607,7 +7607,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "仰角穿過彎曲排列的綠色植栽柱與培育燈，2.119和2.272前景葉片及燈具構圖略移。只確認運鏡，不把彎曲的靜態造型標生長或扭轉。",
       "observed_times": [
         2.119375,
@@ -7810,7 +7810,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "6.673成片綠色機器人與人物腿部；16.653實拍訪談；25.448橘貓毛髮近景；33.159毛髮工具介面，46.333貓與機器人成片。保留獨立CG成片參考，訪談人物不列入物件標籤。觀察到不同鏡頭但不足確認特定角色動作，沒有套用毛髮飄動、成長等動態。",
       "observed_times": [
         6.67309,
@@ -8097,7 +8097,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "7.351車輛駛過住宅車庫前，9.226住宅背景掠過；16.368街道跟拍中輪圈旋轉模糊；25.535車尾X2字標清楚；34.817片尾明確標出THE X1及THE X2。實際觀察行駛與輪轉；車庫揭幕和Houdini葉片模擬僅依作者說明放caption來源，未當作已看清的葉片動態。",
       "observed_times": [
         7.350608,
@@ -8283,7 +8283,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "全景包含多層外掛梯、平台人物、右侧旅館招牌及黃窗光，濃青綠霧景。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -8518,7 +8518,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第1/9張：紅黑衣女性武士手持刀劍站在工業室內，綠灰牆面與金屬橫樑，白色日光燈，樑上紅色血跡。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -8799,7 +8799,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "影片11.624999秒。1.539712嵌套方框呈現斜視透明四圓錶盤；4.17408正面近景橘色數字只有下方清楚發亮；5.011618四組數字全部發亮且產品輪廓略縮小，確認亮度變化與鏡頭拉遠。5.677895切換手持展示，9.343495置於木桌書本旁。畫面中央四葉圖形及畫框構成平面設計疊加。沒有觀察到足以判斷流體、爆破或組裝的動態。",
       "observed_times": [
         1.539712,
@@ -8998,7 +8998,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第1/9項。黑暗背景與硬邊光影中的銀綠長方包裝，綠色紙標寫N°00 CoreDigest，金屬折角與細顆粒反光。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -9302,7 +9302,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "影片56.541677秒，1080方形。9.701727多層手機殼分離排列；11.395049及12.045023標誌周圍凹凸環紋位置改變，表面有波紋變形。24.388294三個藍色殼及繩帶，29.223963黑岩碎塊在手機殼周圍；31.545652與32.193021米色纖維曲面近景，不能僅憑兩個視角推定生長或風吹。38.084852手機殼邊緣碰到地面岩塊，碎屑向周圍飛散；40.590171橘色表面透明及橘色球粒成列，41.654666同類球粒層沿殼面分離起伏。49.894341橘色殼內部，52.846289三種灰色殼並列。只標可見表面波紋、撞擊碎屑與粒子層分離，不猜特定模擬求解器。",
       "observed_times": [
         9.701727,
@@ -9638,7 +9638,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "網站操作錄影71秒，0.545633藍底白色立體MOTIONPUNK字樣与纖維粒子；14.678889橘棕色樹木場景，標CampMograph title sequence/Elastic；22.418576黑底石塊上的耳機盒與耳機，專案頁標GooglePixel7 TVC/TheMillUS（耳機實際型號不從專案標題推測）；30.401479手指、鍵盤及青藍線條粒子，頁標DellAlienwareTVC/Framestore；38.107767AppleStudio電腦螢幕及彩色圖形；48.944103SillyJuice透明瓶粉紅飲料黃標與彎曲線材；58.208642MA(D)CHINES個人探索黑白字樣。這是網頁捲動錄影，不能將所有位置變化当成CG物件運動；未添加流動/風吹/生長等具體模擬動態。",
       "observed_times": [
         0.545633,
@@ -9904,7 +9904,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單張靜態成品：穿深青綠長外套的金棕髮男性背影，手持拐杖立在深色粗糙岩石山頂；遠處淡灰藍山脈、大片白灰雲霧。作者明說man and rocks are3D/Redshift，clouds/fog painted inProcreate，最後Nuke/psd合成。無輪播、無影片，不加入風吹/霧流動等動態。",
       "observed_times": [],
       "dimension_status": {
@@ -10097,7 +10097,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.317949密集藍邊白布皺摺；3.640962同結構展平為多邊形網格；5.560997邊緣再次捲曲皺摺，中心聚集；7.789958課程結尾。明確布片形變，不是相機造成的整體平移。",
       "observed_times": [
         0.317949,
@@ -10340,7 +10340,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "開頁可見木製蜂蜜棒；5.172305上方液流接觸凹槽，底部形成厚液滴；6.317273底部已延長成向下液柱。兩時刻都有中間條帶展示不規則氣泡。10.728257及11.395061結尾明示Adding deforming bubbles to your viscous FLIP sim。確認澆注包覆及向下拉絲，不標火焰或煙霧。",
       "observed_times": [
         5.172305,
@@ -10545,7 +10545,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第1/9項實際畫面：金色厚戒身側面23浮雕和Jumpman標誌，星形飾物，斑駁金屬底板，上緣透明寶石列。 靜態不推定運動。",
       "observed_times": [],
       "dimension_status": {
@@ -10711,7 +10711,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "5.246秒直式CG。0.018892球體在右側曲面後；0.99916淺綠顆粒球體及亮綠光滑斑塊位於曲面頂；1.567501球體已移出近景；3.224724切至雙波形實體軌道；4.232449上方一球、左下低處球有移動模糊，4.46036下方球移出且上方球改變位置與斑塊朝向。支持沿曲面滾動與旋轉，不將靜態波形軌道標成液體或ripple模擬。",
       "observed_times": [
         0.018892,
@@ -10996,7 +10996,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "12.778666秒動畫；4.710756/4.968173彎曲液態薄膜與孔洞，5.931401/6.084609另一液態曲面特寫；8.979622拉遠出現B&輪廓、內部尚有液滴；11.959125成為乾淨空心B&字形。實際觀察形變、輪廓成形與鏡頭拉遠，不推定特定流體求解器。",
       "observed_times": [
         4.710756,
@@ -11317,7 +11317,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "39.70467秒單影片；7.013362建築平面圖與箭頭導航說明；16.547898室內紅棕沙發、混凝土立柱、木椅與花園；22.933377切換廚房金屬櫃檯、窗外綠籬雕塑；29.445245視角推近並向下看到抽屜把手與地磚；36.243132轉為書房桌椅、垂直簾、紙燈和窗外雕塑。動態為視角導航／鏡頭移動，未確認抽屜開啟或植物動態，不加此類標籤。",
       "observed_times": [
         7.013362,
@@ -11509,7 +11509,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態首頁設計圖，Color C大字、藍綠清澈水面、灰白岩岸、柔和天空與景深模糊背景。",
       "observed_times": [],
       "dimension_status": {
@@ -11721,7 +11721,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "3.794217中央綠色長形色塊與粉灰團塊；4.780939已扭變成不同藍綠色帶和有機斑塊，邊緣拉長彎曲、色塊分布改變。表面為平滑漸層與微弱顆粒，不能推定實體玻璃或液體求解器。",
       "observed_times": [
         3.794217,
@@ -11901,7 +11901,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "正面酒桶形手錶，三個副錶盤、指針、錶冠和錶帶，以細線和密集顆粒疊合形成掃描般輪廓。灰底，黑白灰階。 第1/3張確認靜態圖片，輪播第3張無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -12159,7 +12159,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "白馬站在夜間加油站，青綠燈光、紅色招牌、湿地倒影。2.347034/9.467143/14.874074地面水窪的波紋與倒影輪廓不同，LED英文由LORD變為局部字樣，確認水波與文字橫移。白馬站姿大致相同，不推定奔跑或走路。",
       "observed_times": [
         2.347034,
@@ -12325,7 +12325,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單張4:5靜態圖。畫面下方是白色密集短毛/細纖維外觀的緩曲表面，上方大面積黑灰雲霧紋理。沒有影片元素或輪播，不能由「影像製作」標題推定為影片，也不加入風吹、毛髮擺動或霧流動。未展示完整物體，不指定完整馬形。",
       "observed_times": [],
       "dimension_status": {
@@ -12643,7 +12643,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "90秒單影片；3.641618太空人與月球邊緣，14.793589月球粗糙表面與手套；25.330124人物懸浮在黑色星空；35.185112手伸向白色光束；44.984668彩色光軌沿人物穿越畫面；57.059814頭盔近景被青色高速光帶掠過；68.278752人眼近景；77.778505黑色卡帶機正面三角形、白光和虹彩圖案。確定有光軌掠過與光帶拖尾，未從剪接推定產品組裝/爆破或流體。",
       "observed_times": [
         3.641618,
@@ -12889,7 +12889,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "25秒單影片。5.235605黑色耳墊與銀色圓形網罩分層懸浮；6.091688同組零件轉動換方向且耳墊改橘色；12.976452頭帶連接耳罩側視；18.833134金屬網罩特寫；24.965003黃色品牌圖標。此前4.475619頭帶品牌壓印，11.001844耳罩滑槽與R字，13.879978銀色編織網特寫。確認零件旋轉及配色切換；分解狀態有看到，但不由剪接推斷完整組裝或物理爆破；網格不推定動態編織。",
       "observed_times": [
         5.235605,
@@ -13015,7 +13015,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "黑色低矮弧形機身正面，頂部按鈕、品牌壓印、正面H標記，灰色背景。靜態圖，不標駕駛或運動。",
       "observed_times": [],
       "dimension_status": {
@@ -13200,7 +13200,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "左側機身與輪子，右側延伸由綠色細草葉和圓葉組成的長條草團；靜態造型，不標生長或流動。",
       "observed_times": [],
       "dimension_status": {
@@ -13384,7 +13384,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單影片19.033333秒；2.862724狹長豎向線束末端上挑，7.992498轉向成較扁橫向的彎曲線团，15.303188近景展示密集交錯彎曲線束；確認翻轉/扭曲與近景切換，非粒子爆破或植物生長。作者僅寫CONTRAST/art/design/motion/abstract，無solver證據。",
       "observed_times": [
         2.862724,
@@ -13628,7 +13628,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "54.866666秒CG案例合集；9.473497綠色wash圓瓶白色泡沫；11.393941青綠褶皺管狀曲面；15.696226分屏紅色線束與藍色珠粒面；24.175898藍青紫幾何字形細節，24.86428鏡頭拉遠顯示完整字形，確認camera pullback；35.133214透明三角形與黃白米色編織膨軟物；43.765814白色K形軟表面及亮綠球狀末端；52.113367黑場。不同剪接示例不可當同一物體變形。無已確認品牌型號，wash是瓶身文字不當真實品牌。",
       "observed_times": [
         9.473497,
@@ -25604,7 +25604,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Photography + Design · A new chapter",
+    "title": "BLKB Studio · 攝影網點與反相轉場",
     "creator": "blkb.studio",
     "publisher": "blkb.studio",
     "source_accounts": [
@@ -25613,28 +25613,183 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.82787-15/798728888_18631758319059756_114834466389111474_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4MDk1NjM1MzkyMTA5NzQ1ODE4NjMxNzU4MzE2MDU5NzU2.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=TbqINImJul4Q7kNvwHWgGtd&_nc_oc=AdpWYFsCjMz4QZFiQE7E_dgKeXAoH-uQdQK9hikZHSGa_oO6ZiwiYlTKlJA5Kv9FCMo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=3MBXr2X0A6TMeGgGqOLFAg&_nc_ss=7a22e&oh=00_AQImDFlwOLvgN0VHdgHBL0sGOkOKLw8E0ncqrnU9jkLV8g&oe=6AA87D88",
     "url": "https://www.instagram.com/blkb.studio/reel/Dc_MrY9zR7y/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
     "ratio": "9 / 16",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "黑白攝影搭配網點、細線框與定位圓圈，中央白色標誌保持版面焦點，畫面在黑白正負片之間切換。",
+    "tags": [
+      {
+        "en": "logo",
+        "zh": "標誌",
+        "category": "subject",
+        "search_aliases": [
+          "圖標"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "halftone",
+        "zh": "網點",
+        "category": "material",
+        "search_aliases": [
+          "點陣",
+          "印刷網點"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "grain",
+        "zh": "顆粒質感",
+        "category": "material",
+        "search_aliases": [
+          "雜訊"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "line frame",
+        "zh": "線框",
+        "category": "subject",
+        "search_aliases": [
+          "邊框"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "tracking markers",
+        "zh": "定位標記",
+        "category": "subject",
+        "search_aliases": [
+          "圓圈",
+          "方格"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "silhouette",
+        "zh": "人物剪影",
+        "category": "subject",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "building",
+        "zh": "建築",
+        "category": "subject",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "inversion",
+        "zh": "反相",
+        "category": "motion",
+        "search_aliases": [
+          "黑白反轉",
+          "負片切換"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "graphic transition",
+        "zh": "圖形轉場",
+        "category": "motion",
+        "search_aliases": [
+          "match cut"
+        ],
+        "source": "visual",
+        "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+      },
+      {
+        "en": "Swild",
+        "zh": "Swild",
+        "category": "software",
+        "search_aliases": [
+          "swildapp"
+        ],
+        "source": "caption",
+        "evidence": "作者列出設計與攝影合作資訊；此為自己創作/原型示例，沒有聲稱其他品牌委託。"
+      },
+      {
+        "en": "Cyril PT",
+        "zh": "Cyril PT",
+        "category": "subject",
+        "search_aliases": [
+          "cyrilptphoto"
+        ],
+        "source": "caption",
+        "evidence": "作者列出設計與攝影合作資訊；此為自己創作/原型示例，沒有聲稱其他品牌委託。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "After a hiatus of a few years, it is time for me to return to design.\n\nIn recent years, I deliberately set this aspect of my work aside to focus more on photography. It was a period that allowed me to grow, refine my eye, and—above all—see things differently.\n\nNow, I want to bring these two experiences together.\n\nReturning to design with a fresh perspective, enriched by photography, imagery, composition, light, and everything I have learned over the past few years.\n\nThere is no question of simply picking up where I left off.\n\nThe idea is to head in a new direction.\nSomething more contemporary. More creative. More aligned with what inspires me today.\n\nPhotography + Design. A new chapter.\n\nSong Credit : hyroglifics , deft - Two for Two @twoswordsbeats \nPrototype App : @swildapp \nPhotography : @cyrilptphoto \n\n-\n#matchcuts #motiondesign #swildapp #graphicdesign",
     "published_at": "2026-09-07T13:27:01.000Z",
     "imported_at": "2026-09-10",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T08:56:57",
+      "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。",
+      "observed_times": [
+        3.361512,
+        4.252047,
+        12.599999
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 12.599999,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic"
+      ],
+      "evidence": "12.599999秒單影片。3.361512白底黑色建築/人物網點及定位圓圈，4.252047相同構圖轉為黑底白色網點；12.599999人物剪影照片、方格與細框。確認黑白反相與圖形轉場；攝影本身不是3D動畫，但有可用motion graphic覆蓋，依圖形類範圍保留。正文Photography+Design，Prototype App @swildapp，攝影@cyrilptphoto，不能推定Houdini或3D材質。"
+    }
   },
   {
     "id": "selectedyear-DJGzQl2CxCp-1",
@@ -25642,7 +25797,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Graphic6tem × Blackbird Studio",
+    "title": "HOUSE TRONIC · 白色機械與橘紅幾何海報",
     "creator": "blkb.studio",
     "publisher": "g6tem",
     "source_accounts": [
@@ -25652,28 +25807,172 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.75761-15/491442963_17981687639821479_522023181093010218_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzYyMjgwODM5MDc4NDk3OTExMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTM1MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=0X_Nw8nj9uYQ7kNvwHNUYRe&_nc_oc=Adp7l8EaAVTWS20jWFyQMVQiyCMd431ubCGEXXqiWErZYTBOtcq092L6vxRZq5fTdgs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=3MBXr2X0A6TMeGgGqOLFAg&_nc_ss=7a22e&oh=00_AQLd4Wde_wMLKWkoBA-5BMgsari2RWMYNKyFwD0djedHTw&oe=6AA87EDF",
     "url": "https://www.instagram.com/g6tem/p/DJGzQl2CxCp/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "image",
-    "ratio": "1 / 1",
+    "ratio": "1350 / 1688",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "白色科幻機械外殼、圓形接頭與青綠金屬環，搭配橘紅纜線、線形圖標和幾何平面排版。",
+    "tags": [
+      {
+        "en": "mechanical parts",
+        "zh": "機械零件",
+        "category": "subject",
+        "search_aliases": [
+          "機械結構"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "circular joint",
+        "zh": "圓形接頭",
+        "category": "subject",
+        "search_aliases": [
+          "圓環"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "cable",
+        "zh": "纜線",
+        "category": "subject",
+        "search_aliases": [
+          "管線"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "poster",
+        "zh": "海報",
+        "category": "subject",
+        "search_aliases": [
+          "平面排版"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "geometric symbol",
+        "zh": "幾何圖標",
+        "category": "subject",
+        "search_aliases": [
+          "線形標誌"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "metal",
+        "zh": "金屬",
+        "category": "material",
+        "search_aliases": [
+          "反光圓環"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "smooth shell",
+        "zh": "光滑外殼",
+        "category": "material",
+        "search_aliases": [
+          "白色塗裝"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "orange red",
+        "zh": "橘紅色",
+        "category": "color",
+        "search_aliases": [
+          "橘色",
+          "紅色"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "teal",
+        "zh": "青綠色",
+        "category": "color",
+        "search_aliases": [
+          "藍綠色"
+        ],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+      },
+      {
+        "en": "g6tem",
+        "zh": "g6tem",
+        "category": "subject",
+        "search_aliases": [],
+        "source": "caption",
+        "evidence": "貼文共同作者顯示g6tem與blkb.studio，正文HOUSE TRONIC與海報設計標籤。"
+      },
+      {
+        "en": "BLKB Studio",
+        "zh": "BLKB Studio",
+        "category": "subject",
+        "search_aliases": [
+          "blkb.studio"
+        ],
+        "source": "caption",
+        "evidence": "貼文共同作者顯示g6tem與blkb.studio，正文HOUSE TRONIC與海報設計標籤。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Photo by Graphic6tem in Nantes, France with @blkb.studio.",
     "published_at": "2025-05-01T09:40:00.000Z",
     "imported_at": "2026-09-10",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_reviewed",
+      "motion_reviewed": false,
+      "reviewed_at": "2026-09-11T08:56:57",
+      "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。",
+      "observed_times": [],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "not_applicable"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": null,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "graphic",
+        "scifi"
+      ],
+      "evidence": "單張靜態海報，無影片與下一步。白色弧形機械外殼、圓形裝置、螺絲與青綠反光圓環，橘紅管線及大面積幾何標記。作者@ g6tem與blkb.studio標HOUSE TRONIC及posterdesign/graphicdesign，不推測產品品牌、機械用途或軟體。靜態圖不標組裝旋轉。"
+    }
   },
   {
     "id": "selectedyear-DcgNEZuiIAk-1",
@@ -26042,7 +26341,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單支介面錄影。7.162378粉色桌布與聊天視窗；17.605469設定面板與資料夾視窗；35.482992深紫暗色終端主題；45.629373右側通知面板展開；57.706996淺紫主題與圖示/圓角控制；68.519108黃色主題。可辨識視窗展開、介面配色及主題切換，非3D物理動畫。按使用者UI/icon範圍納入graphic，不把壁紙當CG動態或物理材質。",
       "observed_times": [
         7.162378,
@@ -26211,7 +26510,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "一秒正方形影片；0.268513兩個白色菱形開口形成偏水平輪廓、Thinking左側較亮；0.636907圖示轉為斜向輪廓、文字中段較暗。固定排版位置，圖示角度變化與文字亮度變化可見。作者明說logo animated for processing states；不推定具體品牌或3D工具。",
       "observed_times": [
         0.268513,
@@ -26241,7 +26540,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "HExC4D · Houdini Engine",
+    "title": "HExC4D · 編織、粒子路徑與布料示例",
     "creator": "axis_fx",
     "publisher": "axis_fx",
     "source_accounts": [
@@ -26250,28 +26549,229 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-4.fna.fbcdn.net/v/t51.71878-15/787619879_1395047380347903_1273867077526328907_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk3Mjk5MTY2NTE5NjY4MjM0MjE4Mzg1NzU3MzM3NzI5NDM%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=HENZCCFQxfoQ7kNvwEBgUr9&_nc_oc=AdrbJDWMnvTU8EDi-bizFSdg2hkD0fEpKFk3EtqlpOO_ybHXxPDWin6G29CbbamJYf0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-4.fna&_nc_gid=BkEsmYF7LGUmbbyf4guOVA&_nc_ss=7a22e&oh=00_AQJae3UvJLuagu_5BUDFCfh_Rew6AAj16EnYW0AdXhxZhA&oe=6AA880B1",
     "url": "https://www.instagram.com/axis_fx/reel/Dci5t6josxm/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "1 / 1",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "Houdini Engine 在 Cinema 4D 中的幾何示例：編織線圈參數調整、表面張力測試、沿折線行進的青色粒子與覆蓋圓柱的布面。",
+    "tags": [
+      {
+        "en": "knit loops",
+        "zh": "編織線圈",
+        "category": "subject",
+        "search_aliases": [
+          "針織",
+          "線束"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "particles",
+        "zh": "粒子",
+        "category": "subject",
+        "search_aliases": [
+          "particle"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "curve",
+        "zh": "曲線",
+        "category": "subject",
+        "search_aliases": [
+          "折線",
+          "路徑"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "sphere",
+        "zh": "球體",
+        "category": "subject",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "cloth",
+        "zh": "布料",
+        "category": "material",
+        "search_aliases": [
+          "布面"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "fluid",
+        "zh": "流體",
+        "category": "material",
+        "search_aliases": [
+          "液體表面測試"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "blue",
+        "zh": "藍色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "particle flow",
+        "zh": "粒子流動",
+        "category": "motion",
+        "search_aliases": [
+          "沿路徑流動",
+          "flow",
+          "follow path"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "procedural variation",
+        "zh": "程序參數變化",
+        "category": "motion",
+        "search_aliases": [
+          "參數調整"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "surface tension",
+        "zh": "表面張力",
+        "category": "technique",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "Houdini Engine",
+        "zh": "Houdini Engine",
+        "category": "software",
+        "search_aliases": [
+          "HExC4D"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "Cinema 4D",
+        "zh": "Cinema 4D",
+        "category": "software",
+        "search_aliases": [
+          "c4d"
+        ],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "Redshift",
+        "zh": "Redshift",
+        "category": "software",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      },
+      {
+        "en": "Vellum",
+        "zh": "Vellum",
+        "category": "software",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Houdini Engine is now (back) in Cinema 4D. HExC4D allows you to load HDA and OTLs from Houdini. \n\nLicenses available to purchase at hexc4d.axisfx.design\n\nYou can render things including instances, polygons, splines/curves, and particles and they come in with attributes like pscale, orient and Cd\n\nRequires a commercial Houdini license\n\nCurrently in open beta, only tested with Redshift\n\n#cinema4d #houdini #plugin #c4d #redshift",
     "published_at": "2026-08-27T13:32:43.000Z",
     "imported_at": "2026-09-10",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T08:56:57",
+      "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。",
+      "observed_times": [
+        0.41545,
+        4.769812,
+        16.520973,
+        19.169187,
+        24.318061,
+        29.083247,
+        35.219416
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 39.018666,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "effects",
+        "organic"
+      ],
+      "evidence": "0.41545編織細線及thread count5，4.769812增加至55形成密線束；此為參數調整不是從頭編織。16.520973 surface_tension藍色粒子/表面測試。19.169187單球與線段、24.318061多球及折線、29.083247青色粒子沿折線成流束。35.219416灰布面垂掛在中空圓柱，Object/vellum_c4d直接可見，但單個布料畫面不另推定完整落布過程。正文及畫面確認Houdini Engine/Cinema4D/Redshift，無FLIP solver明示。"
+    }
   },
   {
     "id": "selectedyear-DaSu2fLIM9f-1",
@@ -26279,7 +26779,7 @@
     "index": 1,
     "media_index": 1,
     "total": 1,
-    "title": "Simulation work · Past projects",
+    "title": "Axis FX · 水狀薄片與粉末噴散",
     "creator": "axis_fx",
     "publisher": "axis_fx",
     "source_accounts": [
@@ -26288,28 +26788,194 @@
     "credit_aliases": [],
     "image": "https://instagram.ftpe8-1.fna.fbcdn.net/v/t51.71878-15/731365994_1365678762160459_1157442290836420938_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=MzkzMjQxMTQ3OTExMTgxNTAwNzEwMzkxNDA2MDUzNjU4OTI%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=nh6qy1xqCgwQ7kNvwHFZqzb&_nc_oc=AdoeZB1IHtZ_-63WazbqBq4WwdnR66CBJ-DCBehlxv0AW742oBFtoYIDQF8XqMPGGpk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=instagram.ftpe8-1.fna&_nc_gid=BkEsmYF7LGUmbbyf4guOVA&_nc_ss=7a22e&oh=00_AQKqJVSZotuaZX39NisReiAVVqcgO4n2_GKPHd9uflx1Ag&oe=6AA88348",
     "url": "https://www.instagram.com/axis_fx/reel/DaSu2fLIM9f/",
-    "group": "pendingintake",
-    "collection": "最新貼文 · 待分析",
+    "group": "selectedyear",
+    "collection": "名單帳號 · 已分析參考",
     "type": "video",
-    "ratio": "9 / 16",
+    "ratio": "1 / 1",
     "duration": "",
-    "description": "待分析：CG 判定、物件、動態、材質與顏色尚未完成核對。",
-    "tags": [],
+    "description": "黑色背景上的水狀薄片、放射狀噴濺及白色粉末雲，展示粒子碎屑的膨脹與散開。",
+    "tags": [
+      {
+        "en": "particles",
+        "zh": "粒子",
+        "category": "subject",
+        "search_aliases": [
+          "particle",
+          "碎屑"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "spray",
+        "zh": "噴濺",
+        "category": "subject",
+        "search_aliases": [
+          "飛沫"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "powder",
+        "zh": "粉末",
+        "category": "material",
+        "search_aliases": [
+          "粉塵",
+          "雪粉",
+          "snow-like powder"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "fluid",
+        "zh": "液體",
+        "category": "material",
+        "search_aliases": [
+          "水狀薄片",
+          "水",
+          "fluid sheet"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "transparent",
+        "zh": "透明",
+        "category": "material",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "white",
+        "zh": "白色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "black",
+        "zh": "黑色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "gray",
+        "zh": "灰色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "cyan",
+        "zh": "青色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "pink",
+        "zh": "粉紅色",
+        "category": "color",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "burst",
+        "zh": "爆散",
+        "category": "motion",
+        "search_aliases": [
+          "爆破",
+          "爆發",
+          "explode"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "dispersion",
+        "zh": "擴散",
+        "category": "motion",
+        "search_aliases": [
+          "散開",
+          "散射"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "expansion",
+        "zh": "膨脹",
+        "category": "motion",
+        "search_aliases": [
+          "expand"
+        ],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "Houdini",
+        "zh": "Houdini",
+        "category": "software",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      },
+      {
+        "en": "Redshift",
+        "zh": "Redshift",
+        "category": "software",
+        "search_aliases": [],
+        "source": "visual",
+        "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+      }
+    ],
     "styles": [],
     "related": [],
     "caption": [],
     "caption_text": "Some work from past projects of a simulation persuasion \n\n#3d #motiongraphics #digital #redshift #houdini",
     "published_at": "2026-07-02T13:49:31.000Z",
     "imported_at": "2026-09-10",
-    "review_status": "pending_analysis",
-    "reference_kind": "unverified",
+    "review_status": "visual_reviewed",
+    "reference_kind": "original_cg_art",
     "saved": false,
     "tag_review": {
-      "status": "pending_analysis",
-      "motion_reviewed": false
+      "status": "visual_and_motion_reviewed",
+      "motion_reviewed": true,
+      "reviewed_at": "2026-09-11T08:56:57",
+      "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。",
+      "observed_times": [
+        4.820404,
+        7.170076,
+        13.391692,
+        14.536411,
+        15.75444
+      ],
+      "dimension_status": {
+        "subject": "visual_reviewed",
+        "material": "visual_appearance_only",
+        "color": "visual_reviewed",
+        "motion": "observed_video"
+      }
     },
-    "note": "先上架後分析；未確認為 CG。非 CG 內容會在分析後移除。",
-    "carousel_pending": false
+    "note": "依實際媒體畫面辨識；材質為可見外觀，未推定製作軟體。",
+    "carousel_pending": false,
+    "duration_seconds": 17.002666,
+    "content_style_review": {
+      "status": "visual_reviewed",
+      "ids": [
+        "effects"
+      ],
+      "evidence": "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+    }
   },
   {
     "id": "selectedyear-DYhjUCiJeg2-1",
@@ -28025,7 +28691,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "9.611609秒單影片。0.340473各木塊傾斜相接，1.939234方塊分開且繞角翻轉，9.551139重新水平堆疊成塔。五塊木塊、木紋截面年輪、灰綠背景。確認翻轉/分離/堆疊循環，未證實RBD或碰撞solver；正文本身只有shipthework 9/9，不能套用其他相關貼文的軟體資訊。",
       "observed_times": [
         0.340473,
@@ -29114,7 +29780,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第二段9.42與9.93秒近景可見白色球體壓住布面，藍紫色區域與接觸皺摺；28.98秒遠景形體轉至側面且收束扭曲。未將球體接觸直接推定為碰撞模擬。",
       "observed_times": [
         9.42,
@@ -29301,7 +29967,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第三段8.08秒細長形體側向懸浮，22.02秒布面與球群翻至另一朝向，輪廓展開且摺痕位置改變。輪播到此已無下一步按鈕，確認總共三個獨立影片。",
       "observed_times": [
         8.08,
@@ -29455,7 +30121,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.66與0.79秒可見足球下方／鞋面區域像素塊位置變化；短片0.96秒。不推定破碎或剛體碰撞模擬。",
       "observed_times": [
         0.66,
@@ -29620,7 +30286,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.37秒鞋與貓臉，0.57秒電光亮度增強；2.79秒切至GoMad Nike片尾。只記錄看到的閃光與切換。",
       "observed_times": [
         0.37,
@@ -29786,7 +30452,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.28與0.86秒可見中央字標周圍紋理向不同方向延展、像素斷塊位置改變；不標成物理爆破。",
       "observed_times": [
         0.28,
@@ -29930,7 +30596,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第五項為圖片，沒有位於本項的video元素；可見灰白模型、三角網格與軟體時間軸，且已無下一步按鈕，確認共五項。",
       "observed_times": [],
       "dimension_status": {
@@ -30082,7 +30748,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "13.69與23.19秒道路和樹列位置改變，呈現沿路行進的攝影機視差；沒有足夠證據標記樹木生長、流體或風吹模擬。",
       "observed_times": [
         13.69,
@@ -30266,7 +30932,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "3.26與7.25秒下半部道路、近景樹木位移，遠景不同視差；上半部夕陽山丘。以鏡頭行進描述，不將場景位移標為物件模擬。",
       "observed_times": [
         3.26,
@@ -30451,7 +31117,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.26秒車體側前視角，2.35秒轉向更正面的視角；下半部樹木前景快速滑過。可確認相對視角移動，不能據此確定輪胎、碰撞或懸吊模擬。",
       "observed_times": [
         0.26,
@@ -30628,7 +31294,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。斜向曲管特寫，中間青藍透明管與散景光點，遠處清晰網格紋。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -30802,7 +31468,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢查原始輪播，本项為圖片，無影片元素。近景彎管上的格紋與彩虹折射更清楚，透明管相互穿插、背景柔焦。第三項無下一步按鈕，確認共三張；沒有可觀察動態，不加動態標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -30961,7 +31627,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第2項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為球形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31120,7 +31786,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第3項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下寬截錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31279,7 +31945,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第4項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓柱底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31438,7 +32104,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第5項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為尖端朝下的圓錐底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31597,7 +32263,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第6項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為上窄下圓的水滴形底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31756,7 +32422,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第7項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為直立圓角膠囊底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -31915,7 +32581,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第8項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為碗狀半球底座；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -32074,7 +32740,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第9項為靜態圖片，無本項影片；沒有動態標籤。黃色逆光中的幾何靜物，頂部由細繩懸掛橫向圓柱，下方為懸空球體，與下方石塊有間隙；物體表面粗糙，局部有亮面高光。第九項已無下一步，確認總數九項。",
       "observed_times": [],
       "dimension_status": {
@@ -32221,7 +32887,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩張臥室圖，床上打開青色行李箱，下圖多張紙片懸在箱子上方；靜態製作圖不能證實飛散動態。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -32407,7 +33073,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。兩個角度的金屬餐車，托盤上有穀物、莓果、餐碗及橘色果汁。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -32563,7 +33229,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。低角度餐桌上排列酒杯、水杯、餐盤與刀叉，遠處吊燈與壁燈呈暖光。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -32720,7 +33386,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上冷下暖兩種配色的控制室面板，大量按鍵、指示燈、旋鈕與五個圓形時鐘。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -32856,7 +33522,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上下兩種室內走廊燈光版本，多重門框通往房間，藍色月光與橘色壁面照明形成對比。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -32992,7 +33658,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。藍色玻璃走廊的傾斜廣角風格圖，金屬窗框重複排列，畫面具有透視與邊緣模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -33148,7 +33814,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。上圖銀灰汽車在夜間建築街景中，下圖為操作手機的手部與飯店入口。品牌與車款標識無法清楚核實。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -33304,7 +33970,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "本項為原貼文靜態圖片，不加動態標籤。手托透明高腳杯，杯內有淡色飲料，杯口橄欖串與捲曲裝飾；背景灰綠。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [],
       "dimension_status": {
@@ -33461,7 +34127,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.053與1.068秒可見窗框透視、近景位置和畫面傾角改變；為攝影機行進與傾轉，不是走廊幾何扭曲模擬。鏡頭沿玻璃走廊推進，視角傾斜程度改變，近景窗框掠過形成動態模糊。逐項翻到第十項且無下一步，確認總數十項。",
       "observed_times": [
         0.053,
@@ -33593,7 +34259,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底螢光綠 V26 大字，橘色折線向中心收束，背景有暗色鱗片紋理。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -33720,7 +34386,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。中央四枚綠色圓形切角圖標，兩側橘色 26 字形、瞄準及 Alpha／Omega 符號。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -33849,7 +34515,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。綠色直式 V26 字標，字形有斜切缺口；橘色細線與四角裝飾框構成版面。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -33997,7 +34663,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。角色臉部與盤繞的蛇構成遊戲主視覺；綠色發光區、鱗片、橘色 26 標題及淺綠背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -34137,7 +34803,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項開啟原輪播確認靜態圖片，第六項無下一步且無影片。黑底綠色 26 字標，白色 VALORANT 與 Season 2026／Act I 小字；橘色細線與暗色鱗片背景。不以斜切字形推定破碎動畫，也不以角色圖推定角色動作。",
       "observed_times": [],
       "dimension_status": {
@@ -34287,7 +34953,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。淺綠底黑色 VALORANT 標誌，橘色對稱細線，邊緣有六角網格及淡色蛇鱗紋。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -34437,7 +35103,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態原稿，沒有本項影片；煙霧狀圖形不代表已觀察煙霧模擬。黑底綠色 V26 字標，橘色細線對稱排列，暗色鱗片紋理與六角邊框。輪播共四項，最後為4.1秒影片。",
       "observed_times": [],
       "dimension_status": {
@@ -34608,7 +35274,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.22秒重複大數字26，2.50秒字標右侧筆畫尚未完整，3.42秒深色底完整VALORANT字標；可確認字標組合及圖形、配色切換。重複排列的大型綠色 26 切換為 VALORANT 字標，分段筆畫組合完成，背景在深色與淺綠間切換。輪播共四項，最後為4.1秒影片。",
       "observed_times": [
         0.22,
@@ -34780,7 +35446,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。臉部與長髮近景，眼睛、鼻環、皮膚細紋及髮絲高光清楚可見，四周有粉色邊框。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -34967,7 +35633,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。上下分屏特寫，上半為眼睛、瀏海，下半為鼻環、臉頰與髮絲；暗紅色分隔線。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -35155,7 +35821,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認靜態圖片，第四項無下一步且無影片。同一姿勢的製作圖，臉部、手部及衣服顯示密集四邊形線框；皮膚是灰白基底，頭髮仍有深淺髮絲。頭髮展開是造型，沒有動畫證據，不加入風吹或毛髮模擬動態。以人物、毛髮與皮膚的有機形態歸入有機類。",
       "observed_times": [],
       "dimension_status": {
@@ -35362,7 +36028,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色半張臉、紅黑髮絲、黑色尖刺及粉紅羽翼特寫，背景有手繪臉形符號。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -35550,7 +36216,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。裁切至軀幹，黑色亮面衣裝、銀色尖刺弧形框架與粉紅羽片。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -35717,7 +36383,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。無前景尖刺框架的角色與雙側粉紅羽翼，黑色衣服、紅黑髮絲。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -35884,7 +36550,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。粉紅羽翼與半張角色臉部的近景，羽片分層、紅黑髮絲清楚。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -36031,7 +36697,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張確認原輪播為六张靜態圖，末項無下一步且無影片。角色及羽翼的灰模版本，衣服與毛髮灰白，皮膚保留粉色基底；沒有彩色羽翼材質。未見水體或動態，不根據標題Water加水、液體，也不加羽翼拍動或毛髮飄動。",
       "observed_times": [],
       "dimension_status": {
@@ -36155,7 +36821,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。紅色背景下的座艙上方視角，弧形防護架包圍駕駛頭盔。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36280,7 +36946,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼及支撐结构近景，紅橘色高光沿黑色曲面延展。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36407,7 +37073,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。小型後視鏡、支架及車身曲面特寫，可見細密纖維紋理。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36552,7 +37218,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。後翼端板與車尾近景，可見編織紋理、輪胎局部和紅色點陣燈。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36679,7 +37345,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。座艙上方進氣口、頂部結構與紅光車身曲面。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36802,7 +37468,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項翻閱原貼文七張靜態圖，末項無下一步且无影片。賽車座艙側面，防護架、頭盔及上方結構形成深色輪廓與紅色邊光。不將靜態高光加為流動、火焰或車輛行駛動態。",
       "observed_times": [],
       "dimension_status": {
@@ -36992,7 +37658,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "實際開啟輪播第2張，兩張均無video，第二張已無下一步。作者標記3D、render、Blender；畫面為CG角色與科技場景。靜態海報不加入人物運動或布料模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -37201,7 +37867,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第6張為多頁作品拼貼，能辨識多層圓弧、放射扇形、球形與平滑金屬曲面；與第5張攤開書本不同，畫面大部分直接展示CG作品。作者指明兩組為Taipei Design Award 2023與第34屆金曲獎。靜態圖僅標記液滴造型，不標液體流動、擴散、堆疊動作或布料模擬。",
       "observed_times": [],
       "dimension_status": {
@@ -37342,7 +38008,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第2張觀察：信用卡以另一斜角呈現，地面可見放射白色光芒和細小亮點。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -37504,7 +38170,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第3張觀察：紫銀色筆電中顯示DAWAY信用卡網站主視覺，背景為柔和光譜場景。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -37646,7 +38312,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第4張觀察：正面筆電展示人物持購物袋的品牌網站頁面，外部有淡紫反射場景。人物是頁面中的攝影素材，不判為CG角色。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -37837,7 +38503,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第5張觀察：六格CG圖示包含飲料杯、串燒、定位點、P字代幣、放大鏡及手提包，均為透明折射外觀。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -38050,7 +38716,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第6張觀察：中央手機比例的透明社群介面與周圍圖卡展示相同玻璃感生活圖示。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -38219,7 +38885,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張開啟七張轮播；第7張觀察：右側為帶虹彩金屬光澤的DAWAY立體字標及放射光，左側是灰紫及青藍品牌色票。 七張均為靜態圖片，末張無下一步；不標旋轉、流動或光線移動。玻璃、金屬只指可見材質外觀。",
       "observed_times": [],
       "dimension_status": {
@@ -38416,7 +39082,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.41秒角色閉眼張嘴且頭部向另一側；1.89秒睜眼、嘴型與頭朝向改變；蝴蝶翅膀方向亦不同。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         0.41,
@@ -38587,7 +39253,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第3張為靜態六個小熊表情／姿態設定，包含張嘴露齒及閉眼，舞台簾幕邊框；姿勢差異不是動畫證據。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [],
       "dimension_status": {
@@ -38765,7 +39431,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "蜘蛛停在花邊，1.79、4.56、6.04秒花瓣輪廓及細線略微改變；沒有看到蜘蛛爬行、手指或咬合，僅確認手繪線條循環。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         1.79,
@@ -38976,7 +39642,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.96秒葉片頂端小昆蟲呈直立捲曲姿態，3.05秒變為水平，角落蝴蝶翅形亦改變；背景手寫文字及波形邊框。 此篇共6媒體，逐項分開檢查。2D繪製外觀，不推定3D軟體或物理模擬。",
       "observed_times": [
         2.96,
@@ -39154,7 +39820,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第2/8個媒體。由密集黑白粒點描繪樹幹、樹冠和滿地石塊，為森林掃描視覺。靜態圖片不標粒子擴散。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -39344,7 +40010,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第3/8個媒體。黃黑網布越野鞋以側面斜立姿態置於淺灰山岩與白色粒點霧狀環境。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -39522,7 +40188,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第4/8個媒體。兩秒影片中，鞋款的正面與斜側面隨視角變換，周圍點雲呈水平拖抹外觀。可確認鏡頭視差；未見鞋体碎裂或液體流動。 第8個無下一步。",
       "observed_times": [
         0.636,
@@ -39670,7 +40336,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第5/8個媒體。灰色背景中懸置黄黑越野鞋，細看網眼織物、鞋帶、粗糙中底和黑色鞋底齒紋。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -39859,7 +40525,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第6/8個媒體。黃色網布鞋懸置草地與碎石前方，背景有淡綠灰色薄霧及纖細草莖。靜態懸置不標飛行或生長。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -40059,7 +40725,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第7/8個媒體。黃黑鞋款橫置深色岩壁旁，低視角可見凸起鞋底齒纹，背景為灰白霧狀點雲。 第8個無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -40212,7 +40878,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐一打開輪播第8/8個媒體。五秒森林點雲影片呈綠褐樹冠、灰藍天空與模糊粒點邊緣。不同時刻樹幹與前景相對位置略變，記錄鏡頭視差；無法確認獨立風擺、樹木生長或粒子生成。 第8個無下一步。",
       "observed_times": [
         0,
@@ -40422,7 +41088,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第2/7張：黑色背景中單一圓盘，外緣白色高光、透明厚邊與粉紫同心紋理；中心有綠紅光譜。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -40618,7 +41284,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第3/7張：多個透明圓盤以不同角度分布，呈紫粉邊緣及綠色高光，前景與後景大小差異明顯。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -40802,7 +41468,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第4/7張：多個凸面球狀玻璃體以不同大小分布，表面紫色反射和綠色光帶；形體較圓盤飽滿。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -41019,7 +41685,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第5/7張：單一圓盤的大幅裁切微距，能見細密同心刻紋、桃紅高光與綠紅反射。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -41203,7 +41869,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第6/7張：大量不同大小的球狀玻璃體散布於畫面，紫粉外緣與斜向綠色反光；沒有接觸碰撞的可用動態證據。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -41410,7 +42076,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張檢視第7/7張：斜角近景的透明圓盤带桃紅紫色表面與青綠邊緣反光，後方圓盤因景深而模糊。 全部為靜態圖片，末張無下一步。不依animation/simulation hashtags添加旋轉、流動、膨脹或碰撞。",
       "observed_times": [],
       "dimension_status": {
@@ -41643,7 +42309,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.388角色眼睛睜開、船艦偏左；5.113眼皮半閉且船艦位置/角度改變；9.713艙內PORTFOLIO DOWN 70%畫面。非投資推薦內容。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.388,
@@ -41829,7 +42495,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "3.007/3.240藍綠線框船艦；4.450紫船在畫面右緣，6.619回到中央，顯示路徑位移。是大型模型展示，不把曲線圖本身当特效，也不推定物理解算。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         3.007,
@@ -42079,7 +42745,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.413軟體中的紫色模型與曲線，9.759成片的船艦、速度光線與碎片。沒看到碰撞因果，不標撞擊或爆炸。 四段逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.413,
@@ -42309,7 +42975,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.203至1.397上方路旁人物周圍新出現小氣泡。沒有確認氣泡融合過程，不標合併或液體。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.203,
@@ -42540,7 +43206,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.072雙手持手機低頭；0.698/0.751一手抬拳、頭部轉向、通知框顯示。透明罩的尺寸變化未確認。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         0.072,
@@ -42768,7 +43434,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.287近景士兵持槍在青色罩內；6.453與7.747同一俯視戰壕構圖中的無人機位置改變、紅色光暈位置改變。沒有觀察到完整撞擊因果，不標碰撞或爆炸模擬。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         2.287,
@@ -42979,7 +43645,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "12.368左侧獨立圓形與右側多瓣氣泡；16.190同組圓形已連成單一外輪廓；19.824為廣場成片。畫面清楚顯示氣泡幾何融合，非流體解算證據。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         12.368,
@@ -43211,7 +43877,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "10.551黑底青色罩體，建築雕像輪廓被扣出；22.957疊入城市背景、高光与透明罩。是分層合成對照，未確認罩體本身連續移動，不以切換圖層當物件動態。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         10.551,
@@ -43433,7 +44099,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.627軟體內人物側頭、一手高舉手機；8.227成片人物面向前方、手機移至胸前且通知框顯示。確有角色姿勢變化，不標氣泡流動。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         1.627,
@@ -43787,7 +44453,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "8.979男子持手機；12.341街道人群與透明罩；19.666手機人物與通知；26.595城市建築罩體；39.004戰壕前景罩體；46.634士兵持槍；57.856空中飛行器與紅光、散開碎片。僅標看見的飛行與碎片，不推定碰撞原因、火焰或物理解算。 共8段，逐一檢視，末段沒有下一步。",
       "observed_times": [
         8.979,
@@ -44032,7 +44698,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "11.634字標斜橫向，19.627字標近縱向，山體與樹林相對構圖一起改變，確認鏡頭環繞。鳥群存在，但不由兩個不同視角推定群集模擬演算法。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         11.634,
@@ -44275,7 +44941,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "4.312與5.644背景與排列不動，根部朝向和樹冠輪廓改變，符合單株旋轉展示；不把整株視角改變標為風力彎曲或生長。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         4.312,
@@ -44486,7 +45152,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.432與3.174同一枝葉近景構圖有細微輪廓差異，無足夠證據區分視角移動與枝葉擺動，因此不加風流、生長等特定動態。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         0.432,
@@ -44725,7 +45391,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "15.397至24.500字標與山體視角改變，霧團輪廓也不同。能確認鏡頭運動；沒有看到生成過程，不標植物生長、爆炸或煙霧解算器。 此輪播13項均逐一查看，末項無下一步。",
       "observed_times": [
         15.397,
@@ -44959,7 +45625,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "12.057螞蟻側面、20.108螞蟻肢體姿態改變；28.734髮丝束；36.862輪椅角色灰模；46.858Unreal室內與材質選單。只把骨架姿勢改變視作動態，不由單張髮絲畫面推定生長。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         12.057,
@@ -45124,7 +45790,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單張CG近照，清楚顯示外殼、束帶、扣環和牽引繩；沒有時間序列，不標牽引動態。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -45419,7 +46085,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "16.134白色髮束近照；24.531近地面螞蟻前景；33.008角色與蟻群位於另一段窗格旁、髮束輪廓改變。灰模不標棕色外殼，髮絲不是煙霧。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         16.134,
@@ -45551,7 +46217,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態細節圖，能看見密集髮絲及波形外輪廓；不把靜態波形標成波浪動態、流動或煙。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -45846,7 +46512,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "14.173髮束近照；25.360輪椅人物髮束偏向右上；34.565髮束更垂直且外輪廓變化，螞蟻群與人物在走廊中的構圖位置改變。角色、螞蟻與繩索有程序化關係，由caption確認，不推定Vellum。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [
         14.173,
@@ -46071,7 +46737,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單張CG場景圖，窗框、人物、輪椅、螞蟻、繩索與地面光影清楚可辨，不套用影片動態。 七項逐一檢視，末項沒有下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -46260,7 +46926,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.263頂部橄欖色觸手向左成圈；4.460中段觸手交疊位置改變、奶油色觸手向上彎起。可辨識彎曲與纏繞，不推定生長或融合。",
       "observed_times": [
         1.263247,
@@ -46443,7 +47109,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第三項為靜態角色圖，白魚粉唇、管狀生物黑色球狀突起及奶油色附肢可見；不繼承相鄰影片的動態。",
       "observed_times": [],
       "dimension_status": {
@@ -46634,7 +47300,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.688魚身左傾、鰭較收窄；1.772身體更直立、左鰭展寬。這是擺鰭與身體搖擺，不能標膨脹或生長。",
       "observed_times": [
         0.687961,
@@ -46832,7 +47498,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.537螢幕貓咪低扁而有褶皺；2.881頭部仍扁且耳朵彎折；3.045形體更飽滿但尚有皺褶。實拍鏡頭靠近螢幕，角色自身輪廓亦變化；只標螢幕 CG 動態，不將周圍實景當 CG。",
       "observed_times": [
         0.536947,
@@ -46989,7 +47655,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第九項單張角色海報，可見獨立立體貓咪造型及背後粉色文字，沒有實景環境；靜態不標變形或膨脹。",
       "observed_times": [],
       "dimension_status": {
@@ -47192,7 +47858,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.028線框點雲直立結構；2.933細密點雲與數字資料；5.140人形雕塑周围相機視錐及邊界框。直接可見掃描重建介面；不把檢視角度切換誤標粒子擴散、生長或破碎。",
       "observed_times": [
         1.028035,
@@ -47336,7 +48002,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "單張手掌雕塑細節圖，無動態。數位重建判斷由同輪播掃描流程及作者同系列 Artefact 說明輔助：公開相關貼文 DcQRzCGCh6a 明示雕塑以 advanced 3D scanning reconstructed as digital artefacts 呈現；材質只標可見外觀，不推定實際石材或青銅。",
       "observed_times": [],
       "dimension_status": {
@@ -47507,7 +48173,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.393與0.847為水平條狀錯位的重複洞口影像；1.820切到完整石砌洞口；6.691切換螺旋狀黑白構圖及疊加分析標記。保留後製圖形動畫，不把攝影素材或錯位切片標成3D石頭破碎。第四項末尾無下一步，四項已各自確認。",
       "observed_times": [
         0.392841,
@@ -47715,7 +48381,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.519中央培育燈在畫面中央；0.669同組培育燈向左移、右側下一組进入。葉牆不見生長變化，標鏡頭橫移。",
       "observed_times": [
         0.518913,
@@ -47912,7 +48578,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "鏡頭沿白色燈列與密集綠色葉牆行進，0.416與0.627近側葉片和燈列的相對構圖變化；未見植物長出。",
       "observed_times": [
         0.416483,
@@ -48160,7 +48826,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "切入時中央植栽架近垂直；1.034與1.071為向右上傾斜，手臂末端帶動長植栽架旋轉。三支黃色機械臂、灰色底座、綠色培育牆及白燈可見。",
       "observed_times": [
         1.03352,
@@ -48354,7 +49020,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.191植栽架近水平遮擋上方，1.092植栽架變為斜向且黃色機械臂的紅色Plenty標誌露出，手臂角度改變。",
       "observed_times": [
         0.191268,
@@ -48517,7 +49183,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.430與1.638白色架體及葉片近景構圖改變，透光葉緣清楚。前景運動存在，但不足分離葉片擺動和鏡頭移動，所以不標風吹或植物生長。",
       "observed_times": [
         1.429686,
@@ -48701,7 +49367,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "影片切入時幼苗較收窄正向，0.101與0.111為展寬側向，根部懸在軌道上方；記錄懸浮呈現，沒有充分時序證據支持幼苗生長。",
       "observed_times": [
         0.100759,
@@ -48864,7 +49530,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.792片狀螺旋沿左下至右上構圖；1.087接近垂直，呈現旋轉視角。螺旋形態本身不能證明扭曲變形，故不標 twist 或生長。",
       "observed_times": [
         0.792217,
@@ -49059,7 +49725,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "0.555可見白色槽體、根部與綠葉；1.754白霧覆蓋畫面、物件只剩淡輪廓。可見霧化遮蔽，不推定燃燒煙霧或特定流體模擬。",
       "observed_times": [
         0.554911,
@@ -49267,7 +49933,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.010與2.130為高聳平行栽培架與培育燈的仰視，鏡頭沿中軸前進，幾何透視略改變。第十項沒有下一步，十個媒體均為影片且逐項看過。",
       "observed_times": [
         2.010326,
@@ -49429,7 +50095,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "裁切近景聚焦右上平台人物與豎梯，左側大面積青綠霧景；沒有完整旅館招牌，不繼承其標籤。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -49598,7 +50264,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "近景突出斜向梯架、窗框與AMOUR文字燈牌，深綠色調；平台人物不在這張。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -49798,7 +50464,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "同張四格依序顯示灰棕底稿、青色版本、加入招牌、綠色完成稿；屬靜態比較，不將階段差別當成動態。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -49935,7 +50601,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "灰棕背景、深色建築及白色走廊燈，沒有完成稿的霓虹招牌與青綠主色。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -50093,7 +50759,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "灰青背景與平台人物，白走廊燈和小黃窗，尚未加入直式霓虹招牌。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -50273,7 +50939,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "深青色霧景加入AMOUR HOTEL霓虹招牌、人物剪影與多色窗光。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -50453,7 +51119,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "較亮青綠色霧景與完整招牌窗光，沒有最後版本底部字幕。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -50643,7 +51309,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "最終圖含底部英文字幕及較強青綠色背景，與首項相同構圖；仍按媒體索引保留。末項沒有下一步，共九張。 靜態概念圖，不標流動、生長或其他影片動態，未推定製作軟體。",
       "observed_times": [],
       "dimension_status": {
@@ -50839,7 +51505,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第2/9張：同一女性武士與刀劍室內構圖的黑白灰階版本，明亮燈管與暗色布衣、斑駁金屬樑。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -51042,7 +51708,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第3/9張：女性武士黑色剪影、紅色領巾與刀劍，以灰綠大色塊搭建室內橫樑構圖，沒有完稿的血跡細節。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -51276,7 +51942,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第4/9張：藍黑日本街景，黃色店面櫥窗、紅色燈籠與招牌，廣告女性面孔、行人與雨傘，雨線及濕路面倒影。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -51499,7 +52165,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第5/9張：藍黑建築大色塊、黄色明亮店面、數名人物剪影與雨傘，少量青色粉色燈光，地面反射，保留繪畫筆觸。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -51704,7 +52370,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第6/9張：黑白灰階的女性武士背影與髮簪，站在有窗框與半透明簾子的窗前，外側城市建築逆光，室內桌面有反射。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -51910,7 +52576,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第7/9張：女性武士剪影站在城市高架階梯平台，多層斜向樓梯與密集欄杆，路燈、電線及灰白背景霧氣。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -52113,7 +52779,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第8/9張：紅衣女性武士半身肖像，黑色長髮與髮簪、臉頰紅圓妝，白色衣領，背後白色豎向窗格與紅色霧狀色塊。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -52347,7 +53013,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐張查看輪播第9/9張：女性武士紅黑衣、黑髮髮簪，手持橫斜武士刀，刀刃及面部有紅色血跡，深藍灰背景與白黃圓形散景。 靜態數位概念畫，沒有由單張推測物件動態或軟體。作者說明為Onna-Bugeisha artworks並包含process sketches；第9張已確認輪播結尾。",
       "observed_times": [],
       "dimension_status": {
@@ -52647,7 +53313,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第2/9項。0.845包裝盒陣列，1.075虹彩白盒，1.648瓶盒直立，2.425瓶盒斜向懸浮構圖，9.533圓柱瓶疊在蘆薈背景。觀察的是剪輯更換多組構圖，未確認連續拆解或碰撞，不標組裝、爆破或膠囊流動。",
       "observed_times": [
         0.845153,
@@ -52835,7 +53501,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第3/9項。橄欖綠圓形分隔藥盒，盒蓋與盒身錯位呈現，內有三顆米棕膠囊，蓋面白色字母環繞。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -53049,7 +53715,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第4/9項。6.129753背面的密集說明文字朝向鏡頭；11.660317正面N°00及環狀字母朝向鏡頭。瓶子固定於畫框中央且背景不變，確認瓶身轉台旋轉；內部膠囊未判定有碰撞或下落。",
       "observed_times": [
         6.129753,
@@ -53234,7 +53900,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第5/9項。手指握住橄欖綠圓形藥盒，純白背景，蓋面細緻金屬顆粒與環狀白色字母。品牌案的手持產品視覺，手部不推定為CG。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -53429,7 +54095,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第6/9項。橄欖綠圓形藥盒斜靠銀色與綠色印刷包裝，斜向光線強調蓋緣與包裝折角。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -53674,7 +54340,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第7/9項。霧面透明瓶內米色膠囊，银色瓶蓋，旁邊蒜頭與薑片，外框是綠色蘆薈葉片。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -53858,7 +54524,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第8/9項。橄欖綠光線下的圓柱霧面瓶，瓶內膠囊與外側兩顆膠囊，暗綠金屬瓶蓋，底部鏡面倒影。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -54030,7 +54696,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "逐項查看第9/9項。淡黃綠細粉末表面有矩形刮痕、圓形凹印與環狀Clarifie字母；邊缘粉末薄片及碎屑。 靜態圖不推測運動。",
       "observed_times": [],
       "dimension_status": {
@@ -54230,7 +54896,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第2/9項實際畫面：放大23與Jumpman浮雕、旁邊五角星切面，顆粒金屬底板與拋光金屬邊框。 靜態不推定運動。",
       "observed_times": [],
       "dimension_status": {
@@ -54473,7 +55139,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第3/9項實際畫面：0.690861 JORDAN側面朝前，1.202383旋轉至23側面與上方Wings徽章更清楚；整個戒指朝向改變、形狀未變。",
       "observed_times": [
         0.690861,
@@ -54676,7 +55342,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第4/9項實際畫面：戒面籃球徽章的密集透明鑲石、金色分隔線與翅膀分層，黑色AIRJORDAN字樣，淺景深。 靜態不推定運動。",
       "observed_times": [],
       "dimension_status": {
@@ -54876,7 +55542,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第5/9項實際畫面：金色寬戒面正視，上有AIRJORDAN刻字、籃球鑲石與對称分層翅膀，外圍細密粗紋金屬。 靜態不推定運動。",
       "observed_times": [],
       "dimension_status": {
@@ -55077,7 +55743,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第6/9項實際畫面：0.414162金屬翅膀與徽章整體較亮，2.289531高光帶與陰影位置明顯變化。未見戒指拆解或寶石移動，僅標光影變化。",
       "observed_times": [
         0.414162,
@@ -55310,7 +55976,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第7/9項實際畫面：0.215622戒指窄側面朝鏡頭、上方徽章斜向；2.038258另一角度較寬的戒圈與側面標誌朝前，平台保持固定。確認傾斜轉動，不推定碰撞求解器。",
       "observed_times": [
         0.215622,
@@ -55512,7 +56178,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第8/9項實際畫面：簡潔寬戒身的三分之四角度，金色鏡面反射、上方Wings籃球鑲石與AIRJORDAN，側面勾形裝飾。 靜態不推定運動。",
       "observed_times": [],
       "dimension_status": {
@@ -55722,7 +56388,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "第9/9項實際畫面：1.480965側面勾形與斜戒圈較明顯，2.391522正面Wings和戒圈內部轉向觀眾。屬整體轉向，沒有裂解、融化或生長。",
       "observed_times": [
         1.480965,
@@ -55898,7 +56564,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第2/10為靜態圖片：銀黑鏡面有機曲線與孔洞微距，背景灰紫色。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56064,7 +56730,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第3/10為靜態圖片：玻璃般透明曲面與反光邊緣，粉銅高光，米色背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56229,7 +56895,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第4/10為靜態圖片：與前圖相似的透明彎曲輪廓，改為灰紫背景與淡粉反射。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56394,7 +57060,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第5/10為靜態圖片：不規則透明薄膜與鏡面圓潤邊緣，灰白背景、粉色反光。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56568,7 +57234,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第6/10為靜態圖片：玻璃和亮銀曲面上出現金黃色格紋反射，灰白背景和藍色邊光。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56720,7 +57386,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第7/10為靜態圖片：不透明銅色光滑曲面與柔和寬高光，米白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -56883,7 +57549,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第8/10為靜態圖片：高對比黑銀拋光曲面及大片白色環境反射，淡灰紫背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -57036,7 +57702,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第9/10為靜態圖片：金色鏡面不規則孔洞與彎曲邊緣，灰白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -57198,7 +57864,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "輪播第10/10為靜態圖片：銅橘色柔和金屬曲面，不規則孔洞、淺景深、米白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。",
       "observed_times": [],
       "dimension_status": {
@@ -57421,7 +58087,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.960654頁面展示Faust Linoleum桌景和JW Marriott花園入口縮圖；12.994738頁面向下捲動，增加綠色室內和雲霧椅子場景。確定是網站捲動，未從縮圖推定獨立物件動態。",
       "observed_times": [
         2.960654,
@@ -57632,7 +58298,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態網站燈箱圖：俯視戶外桌面，橘色桌墊、白色草圖紙、藍灰工作燈和黄色圓凳；背景草地。沒有可確認品牌或家具型號。",
       "observed_times": [],
       "dimension_status": {
@@ -57803,7 +58469,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "8秒影片，1.306108與4.476908均為工作室介紹文字、白色版面和下方粉橘雲團。已查看影片，但這些時間點未能清楚證實雲團位移或膨脹，因此不加入流動/擴散/生長等動態詞，也不推定Pyro。",
       "observed_times": [
         1.306108,
@@ -57986,7 +58652,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態CG：白米色粗糙岩石上切出階梯，石階延伸到深色青綠透明水池，右側一顆白球。可見水面紋理但沒有動態證據。",
       "observed_times": [],
       "dimension_status": {
@@ -58232,7 +58898,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.908348網站顯示Paris Olympics、Rituals Cosmetics、On The Beach、Rituals Ramadan26縮圖，包含香氛瓶、拱門、陽傘水景。13.049654捲到Permanent Vacation、Microsoft365 Backgrounds等草地與植物建築圖。僅確認頁面捲動，不將不同縮圖之間變換當作物件變形。",
       "observed_times": [
         1.908348,
@@ -58433,7 +59099,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態CG景觀：草地覆蓋的斜切岩塊和環形丘陵、樹林、白色積雲、淺藍天空與小片水面。沒有生長或草地翻卷動態。",
       "observed_times": [],
       "dimension_status": {
@@ -58598,7 +59264,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.935973黑底上多組白色圓潤團塊、群間有大空隙；4.962301團塊擴張貼合幾乎填滿畫面，輪廓形成擠壓邊界和黑色細紋。白色光滑亮面與灰階陰影，不稱為骨頭、石材或破碎。",
       "observed_times": [
         1.935973,
@@ -58797,7 +59463,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.919152白粉紫軟邊團塊與縱向青藍色帶；4.346139轉為白綠長帶交織，輪廓伸展流動，局部色彩明顯更替。柔和粉彩漸層、類顏料色層，未確認真實流體材質。",
       "observed_times": [
         1.919152,
@@ -58997,7 +59663,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.913906白灰斜向長條中穿插青藍綠黃條帶；3.637345各色斜向條带已移位，細碎邊緣被拉成尾跡，呈筆刷拖曳質感。沒有火焰或煙霧證據。",
       "observed_times": [
         1.913906,
@@ -59168,7 +59834,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "機芯橋板、螺絲孔與圓形軸心的微距，表面水平拉絲、黑色陰影和亮銀邊緣，疊有細線痕跡。 第2/3張確認靜態圖片，輪播第3張無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -59339,7 +60005,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "多層手錶零件沿垂直軸分層排列，黑亮曲形外殼與細線半透明內構，白至灰背景。靜態爆炸圖構圖，沒有觀察拆解或組裝動態。 第3/3張確認靜態圖片，輪播第3張無下一步。",
       "observed_times": [],
       "dimension_status": {
@@ -59585,7 +60251,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "1.918637較簡化、強青光的加油站模型場景；11.893513切換到有馬鬃、完整文字與濕地倒影的最終成品。屬製作階段/光照版本切換，不能把跨版本的馬姿態差異當作走路動畫。",
       "observed_times": [
         1.918637,
@@ -59863,7 +60529,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "2.018906展示馬腿毛髮貼圖與UV展开；17.630179成品加油機及部分白馬；25.926121鏡頭改變取景包含完整白馬，LED字樣位置亦改變。確認材質製作展示、鏡頭移動與文字橫移，未確認特定軟體或馬行走。",
       "observed_times": [
         2.018906,
@@ -60140,7 +60806,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "靜態現場照片，歌手站在大型直式專輯CG封面投影前。投影中的白馬加油站和濕地倒影清楚可見，作為已使用CG作品的展示記錄保留。",
       "observed_times": [],
       "dimension_status": {
@@ -60280,7 +60946,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "黑色外殼側面特寫，狹長橫條、弧形稜線、反射高光及接縫。靜態图，不標光線掃動。",
       "observed_times": [],
       "dimension_status": {
@@ -60465,7 +61131,7 @@
     "tag_review": {
       "status": "visual_reviewed",
       "motion_reviewed": false,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "草葉密覆在弧形機身上，右邊可見黑色輪子。靜態lookdev，不能由覆蓋狀態推定生長。",
       "observed_times": [],
       "dimension_status": {
@@ -60667,7 +61333,7 @@
     "tag_review": {
       "status": "visual_and_motion_reviewed",
       "motion_reviewed": true,
-      "reviewed_at": "2026-09-11T08:46:44",
+      "reviewed_at": "2026-09-11T08:56:57",
       "evidence": "4.999999秒動畫；1.609638機身右側草團較窄，3.614244及4.157629草團前端鼓起變厚、葉片方向改變；相機與機身基本固定。確認草團起伏膨脹及葉片擺動，沒有看到植物從無到有生長或切割碎屑，不猜solver。",
       "observed_times": [
         1.609638,
