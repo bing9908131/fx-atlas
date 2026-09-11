@@ -7496,10 +7496,19 @@
           "shortcode": "DWYfk2zDKTG",
           "url": "https://www.instagram.com/signalspaceprague/p/DWYfk2zDKTG/",
           "published_at": "2026-03-27T09:23:03.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DWYfk2zDKTG-1"
-          ]
+            "selectedyear-DWYfk2zDKTG-4",
+            "selectedyear-DWYfk2zDKTG-6",
+            "selectedyear-DWYfk2zDKTG-7"
+          ],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DDHFXHxtaqn",

@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2567,
+  "total": 2570,
   "unclassified": 0,
   "counts": {
-    "graphic": 623,
+    "graphic": 625,
     "product": 877,
-    "organic": 573,
+    "organic": 576,
     "geometric": 908,
     "scifi": 334,
     "effects": 214
@@ -13438,6 +13438,81 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐張查看完整10張輪播，第10張：鑽石造型線條徽標、金屬背板髮絲紋、多邊形散熱孔及黑色螺絲特寫。 此張為靜態圖片，無video元素；最後第10張只有返回按鈕。氣流示意僅是靜態視覺，不標旋轉、流動或任何動態/solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWYfk2zDKTG-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "鏡頭穿行於懸浮的根網和葉叢之間，零散葉片漂移，白色曲線結構穿插於淡綠背景。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWYfk2zDKTG-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "以綠色植物浮島CG為背景，疊加作者人像照片、白底黑字介紹；人像屬實拍合成，不標成CG角色。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "以綠色植物浮島CG為背景，疊加作者人像照片、白底黑字介紹；人像屬實拍合成，不標成CG角色。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWYfk2zDKTG-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白霧背景中的植物浮島，右側粗根形成中空拱環，綠色葉片覆蓋表面；中央疊加票務文字與社群圖示。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "白霧背景中的植物浮島，右側粗根形成中空拱環，綠色葉片覆蓋表面；中央疊加票務文字與社群圖示。 完整7項輪播已查看，末項僅返回無下一步。第4項由首頁連按三次下一步確認索引，13.603173秒：1.026/2.119/3.208根系島靠近，7.735/8.822/9.895/10.969鏡頭穿入植被近景，散葉漂移。不同前後景尺寸不作植物生長或組合證據；無液體/碰撞/solver推定。第6/7項靜態圖片無動態標籤。"
           ],
           "matched_tags": []
         }
