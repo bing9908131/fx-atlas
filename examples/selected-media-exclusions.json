@@ -1660,5 +1660,32 @@
     "decision": "exclude",
     "reason": "演出現場靜態照片，紅色燈光、樂手、舞台與觀眾；不是独立CG素材。",
     "evidence": "演出現場靜態照片，紅色燈光、樂手、舞台與觀眾；不是独立CG素材。 逐項查看六項輪播，保留1、2、4、6的動畫。"
+  },
+  {
+    "post_id": "Dba8vRtDIlM",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "演出現場精華錄影，少量活動字卡疊字，原始字體動畫另有獨立項；依使用者排除實拍紀錄的要求移除。",
+    "duration_seconds": 14.76,
+    "observed_times": [
+      0.299002,
+      1.870261,
+      3.465788,
+      5.065699,
+      6.679146,
+      9.472266,
+      10.864426,
+      12.263556
+    ],
+    "evidence": "首尾為實拍歌手、貝斯手、薩克斯風手和觀眾。1.87秒短暫THIS WAS，3.47秒活動名，後半段純演出。舞台煙光不當作CG煙霧火焰模擬。"
+  },
+  {
+    "post_id": "Dba8vRtDIlM",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "橘色舞台灯光與觀眾的現場照片，非獨立CG作品。",
+    "evidence": "逐項查看第4項：舞台桁架、樂手、觀眾手臂及North Sea Jazz舞台標誌。無video播放，不推定煙霧模擬。"
   }
 ]

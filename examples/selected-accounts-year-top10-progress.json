@@ -9139,10 +9139,17 @@
           "shortcode": "Dba8vRtDIlM",
           "url": "https://www.instagram.com/studiodumbar/p/Dba8vRtDIlM/",
           "published_at": "2026-07-30T14:53:20.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-Dba8vRtDIlM-1"
-          ]
+            "selectedyear-Dba8vRtDIlM-2",
+            "selectedyear-Dba8vRtDIlM-3",
+            "selectedyear-Dba8vRtDIlM-5"
+          ],
+          "excluded_media_indices": [
+            1,
+            4
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
