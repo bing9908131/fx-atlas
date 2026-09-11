@@ -6895,19 +6895,23 @@
           "shortcode": "DdGscH0TUhF",
           "url": "https://www.instagram.com/mojapoly/reel/DdGscH0TUhF/",
           "published_at": "2026-09-10T11:09:15.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdGscH0TUhF-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DdF0KWzTUGF",
           "url": "https://www.instagram.com/mojapoly/reel/DdF0KWzTUGF/",
           "published_at": "2026-09-10T02:58:18.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdF0KWzTUGF-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

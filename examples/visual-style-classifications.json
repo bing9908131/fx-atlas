@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2511,
+  "total": 2513,
   "unclassified": 0,
   "counts": {
-    "graphic": 589,
+    "graphic": 591,
     "product": 861,
     "organic": 566,
-    "geometric": 903,
+    "geometric": 904,
     "scifi": 332,
     "effects": 209
   },
@@ -2305,6 +2305,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.277秒紅色背景完整階梯測試機、傾斜行李箱；5.267秒低角度輪組；7.483秒輪子位於金屬階梯邊緣旁；11.714秒剪影人物拖行箱子跨階。可標拖行及階梯測試，impact來自caption，沒有足夠連續影格證明撞擊瞬間，不作碰撞模擬標籤。 單支影片無輪播。未辨識具體行李箱型號，不根據外觀猜測系列。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGscH0TUhF-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支7.999999秒影片，無輪播。0.26578秒黃色底、黑色圓角十字內藍色環線；1.145229秒多個藍色圓點顯露；2.59815秒轉成紅粉藍花形與小葉片，花形跨出十字邊界；6.753589秒仍為花形但輪廓位置改變。只標圖形顯露與形狀轉換，不推定實體花朵生長或水波流體。caption86s是系列敘述，實際媒體8秒。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdF0KWzTUGF-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支21.999999秒合集，沒有輪播。1.576505秒紅白藍扭帶圈包圍眼睛圖案；6.474449與7.321088秒粉橘斜向大片色塊位置改變；10.71314秒四分割中的圓角色塊與黃色矩形序列；15.18693秒藍紫背景兩個多邊柱體；20.036607秒黃色背景十字內同心環線；21.558309秒圓點顯露填入十字。確定圖形轉場、平移與顯露，不把圖案當成真實眼球、織物或水波模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支21.999999秒合集，沒有輪播。1.576505秒紅白藍扭帶圈包圍眼睛圖案；6.474449與7.321088秒粉橘斜向大片色塊位置改變；10.71314秒四分割中的圓角色塊與黃色矩形序列；15.18693秒藍紫背景兩個多邊柱體；20.036607秒黃色背景十字內同心環線；21.558309秒圓點顯露填入十字。確定圖形轉場、平移與顯露，不把圖案當成真實眼球、織物或水波模擬。"
           ],
           "matched_tags": []
         }
