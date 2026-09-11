@@ -7148,19 +7148,23 @@
           "shortcode": "DYErJXxoNZz",
           "url": "https://www.instagram.com/newnewnew.studio/reel/DYErJXxoNZz/",
           "published_at": "2026-05-08T09:44:08.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DYErJXxoNZz-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DX6Rxnhoigz",
           "url": "https://www.instagram.com/newnewnew.studio/reel/DX6Rxnhoigz/",
           "published_at": "2026-05-04T08:49:14.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DX6Rxnhoigz-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2509,
+  "total": 2511,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
-    "product": 859,
+    "product": 861,
     "organic": 566,
     "geometric": 903,
     "scifi": 332,
@@ -2271,6 +2271,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支31.136507秒影片，無輪播。4.819/5.007與16.526秒藍色科幻機車和貓耳頭盔騎士在暗街騎行，背景位移並有側面跟拍。18.182秒正面傾斜转彎；19.387秒黃色風罩與前輪周邊殼件分離；27.184秒車身零件間距更明顯、騎士坐姿抬高。可確認機械拆解/零件分離，不推定爆炸碰撞或逆向組裝。18.182秒截圖有幾秒延遲，僅作正面轉彎段定位。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYErJXxoNZz-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.292秒箱體與條纹測試帶的斜角近景；7.534秒及9.167秒輪組與帶面接觸，輪心圖案角度改變；13.604秒全箱、拉桿及人物行走剪影，地面有倒影。可辨滾動與拖行，不推定摩擦/磨損物理模擬。 單支影片無輪播。未辨識具體行李箱型號，不根據外觀猜測系列。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DX6Rxnhoigz-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.277秒紅色背景完整階梯測試機、傾斜行李箱；5.267秒低角度輪組；7.483秒輪子位於金屬階梯邊緣旁；11.714秒剪影人物拖行箱子跨階。可標拖行及階梯測試，impact來自caption，沒有足夠連續影格證明撞擊瞬間，不作碰撞模擬標籤。 單支影片無輪播。未辨識具體行李箱型號，不根據外觀猜測系列。"
           ],
           "matched_tags": []
         }
