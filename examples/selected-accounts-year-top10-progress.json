@@ -5760,10 +5760,12 @@
           "shortcode": "DO56ij7gcnW",
           "url": "https://www.instagram.com/keikanamori_/reel/DO56ij7gcnW/",
           "published_at": "2025-09-22T12:56:03.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DO56ij7gcnW-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
