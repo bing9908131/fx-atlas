@@ -8166,10 +8166,12 @@
           "shortcode": "DcoYhgFMNAT",
           "url": "https://www.instagram.com/petertarka/reel/DcoYhgFMNAT/",
           "published_at": "2026-08-29T16:46:52.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcoYhgFMNAT-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DcdgQ46stHv",

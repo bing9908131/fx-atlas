@@ -2791,5 +2791,31 @@
     ],
     "reason": "作者三年產品設計與渲染探索回顧，混合大量概念物件；原文僅說其中一個作品已成真，未確認整段收錄的產品由品牌採用。依排除個人練習/未確認採用之影片條件移除，不把所有概念產品誤標為正式廣告。",
     "evidence": "Chrome1519733009 IG單支13.628661秒。6.488791瀏覽器視窗拼貼中的彩色鍵盤、紫色電子寵物手錶、抽象紫白物件；13.21335改為前景大量小罐容器排列與橘色罐，後方多層產品渲染視窗。片頭文字110 PRODUCTS - EXPLORING PRODUCT DESIGN AND PRODUCT RENDERS APRIL 2023-AUGUST 2026。作者明述three years of exploring product design and product renders，並稱bring one of my projects to life。這不是沒有CG，而是混合概念作品回顧未達品牌採用條件。"
+  },
+  {
+    "post_id": "DcoYhgFMNAT",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "mixed_commercial_and_personal_study_montage",
+    "duration_seconds": 12.723083,
+    "observed_times": [
+      0.686411,
+      3.435864,
+      4.530605,
+      4.82741,
+      5.500104,
+      5.900227,
+      6.509531,
+      7.257495,
+      7.537132,
+      8.555251,
+      9.569128,
+      10.621712,
+      11.644789,
+      12.723083
+    ],
+    "reason": "確認混入個人光影研究的作品混剪，依排除個人練習影片條件移除整支。部分Lexus/Old Mout確有商業來源，這不是否認那些段落的商業性，也不是判定整支沒有CG。",
+    "evidence": "逐段觀察詳見.tmp/petertarka-trust-expanded-review.json。工作桌開場後混剪珠寶、Hyundai雪景賽道、Lexus貼膜車陣、電子裝置、幾何物件、Cuervo微縮場景、WWDC牌、抽象花束與Old Mout。2026-09-12新增精確來源：Behance作者 https://www.behance.net/gallery/243772723/Product-Explorations-2026 明示personal works to train Product Design and Product Renders；Project Module33為金色三朵花形珠寶，Module34標Van Cleef (Light and Shade Study)(2025)。原圖 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/96e3fb243772723.6988f29603c3a.jpg Chrome1519733021截圖與IG4.530605秒三花珠寶構圖吻合。作者另有2018/2019 Van Cleef商業作品，但不能用不同專案取代此光影練習的採用證據。"
   }
 ]
