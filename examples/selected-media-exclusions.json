@@ -2683,5 +2683,31 @@
       6.589064
     ],
     "evidence": "原始IG https://www.instagram.com/rohitbhon.tv/reel/DcchZO_Jy97/ 實際6.589秒為戶外人與狗實拍底圖疊上calm字體、橘色飲料杯、冰塊、紅色車形圖。作者文案明示experiments/studies/explorations；不因確有CG就冒稱品牌廣告。"
+  },
+  {
+    "post_id": "DZKmIB2ofKI",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "unverified_ship_the_work_study",
+    "duration_seconds": 15.114738,
+    "observed_times": [
+      7.136198
+    ],
+    "reason": "Ship the Work系列，原文沒有品牌委託或採用證據；依使用者要求確認品牌使用的收錄條件排除，不宣稱確定沒有任何商業用途。",
+    "evidence": "https://www.instagram.com/agovik/reel/DZKmIB2ofKI/ 作者文案僅6/9或4/9及design/c4d/3d/cinema4d/shipthework標籤；實際7.136198秒：黑色金屬槽型構件及圓形扣件的近景；留言Ikea?只是觀眾疑問，不是品牌委託證據。 以shortcode+作者搜尋未找到額外採用證據。保留排除紀錄以便有證據時重審。"
+  },
+  {
+    "post_id": "DYm59OeIYQs",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "unverified_ship_the_work_study",
+    "duration_seconds": 18.202992,
+    "observed_times": [
+      6.529022
+    ],
+    "reason": "Ship the Work系列，原文沒有品牌委託或採用證據；依使用者要求確認品牌使用的收錄條件排除，不宣稱確定沒有任何商業用途。",
+    "evidence": "https://www.instagram.com/agovik/reel/DYm59OeIYQs/ 作者文案僅6/9或4/9及design/c4d/3d/cinema4d/shipthework標籤；實際6.529022秒：暖棕漸層背景中的不規則黑色懸浮形體，未看到可確認品牌。 以shortcode+作者搜尋未找到額外採用證據。保留排除紀錄以便有證據時重審。"
   }
 ]

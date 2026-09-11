@@ -1052,19 +1052,23 @@
           "shortcode": "DZKmIB2ofKI",
           "url": "https://www.instagram.com/agovik/reel/DZKmIB2ofKI/",
           "published_at": "2026-06-04T13:26:11.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DZKmIB2ofKI-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DYm59OeIYQs",
           "url": "https://www.instagram.com/agovik/reel/DYm59OeIYQs/",
           "published_at": "2026-05-21T16:47:33.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DYm59OeIYQs-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
