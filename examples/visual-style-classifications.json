@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2482,
+  "total": 2484,
   "unclassified": 0,
   "counts": {
     "graphic": 588,
     "product": 850,
     "organic": 560,
-    "geometric": 896,
-    "scifi": 327,
-    "effects": 205
+    "geometric": 897,
+    "scifi": 328,
+    "effects": 206
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2380,6 +2380,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支37.522秒正方形動畫，無輪播。5.361秒粉底橘色曲線形Oils卡片；14.683秒淺青底深藍不規則圓形Edibles卡片；22.596秒淺青底橘色長圓形Slow Onset卡片。前景卡片與文字依序替換，背景彩色卡片位置改變並維持強烈模糊。可見形狀變換和版面切換；不把Oils、Edibles文字當作實際油或食物物件，也不將柔軟曲線推定為液體/布料模擬。时间為截圖附近讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEiK9YTOHK-1",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支30.125秒影片，無輪播。8.560秒木色屋架與梁柱近景，19.443秒多層塔樓灰色瓦頂及金色塔尖，29.331秒完整五層塔與白灰台基階梯。視角與鏡頭距離變換，裸露木架與完成外觀分段展示；沒有據此假定零件飛入自動組装。木材、瓦片、金屬為可見外觀，不判定現實建築名稱。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DCTmNBCx7xm-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支4.083332秒影片，無輪播。2.433、3.067、3.588秒可見黑色中心與四周藍白、銀灰長條光跡，少量橘色線；前後光條長度、位置與中心開口尺度變化，呈高速穿越隧道的視覺。標記高速穿越、放射拖影；不猜測真實建築、太空船或粒子求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支4.083332秒影片，無輪播。2.433、3.067、3.588秒可見黑色中心與四周藍白、銀灰長條光跡，少量橘色線；前後光條長度、位置與中心開口尺度變化，呈高速穿越隧道的視覺。標記高速穿越、放射拖影；不猜測真實建築、太空船或粒子求解器。"
           ],
           "matched_tags": []
         }

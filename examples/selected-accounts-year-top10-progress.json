@@ -4774,10 +4774,12 @@
           "shortcode": "DCTmNBCx7xm",
           "url": "https://www.instagram.com/hanalenofx/reel/DCTmNBCx7xm/",
           "published_at": "2024-11-13T09:19:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DCTmNBCx7xm-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "C4GMxhHxKRT",
@@ -4868,10 +4870,12 @@
           "shortcode": "DdEiK9YTOHK",
           "url": "https://www.instagram.com/hirokazu_yokohara/reel/DdEiK9YTOHK/",
           "published_at": "2026-09-09T15:01:56.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdEiK9YTOHK-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dc9AEMZTs5K",
