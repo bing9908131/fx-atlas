@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2778,
+  "total": 2788,
   "unclassified": 0,
   "counts": {
-    "graphic": 690,
-    "product": 984,
-    "organic": 630,
+    "graphic": 692,
+    "product": 991,
+    "organic": 631,
     "geometric": 945,
     "scifi": 358,
-    "effects": 242
+    "effects": 248
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4147,6 +4147,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支37.522秒正方形動畫，無輪播。5.361秒粉底橘色曲線形Oils卡片；14.683秒淺青底深藍不規則圓形Edibles卡片；22.596秒淺青底橘色長圓形Slow Onset卡片。前景卡片與文字依序替換，背景彩色卡片位置改變並維持強烈模糊。可見形狀變換和版面切換；不把Oils、Edibles文字當作實際油或食物物件，也不將柔軟曲線推定為液體/布料模擬。时间為截圖附近讀值。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.554至.653及1.205可見液膜輪廓改變、飛沫位置改變；畫面不是顯示卡本體。"
           ],
           "matched_tags": []
         }
@@ -18333,6 +18350,231 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第十項為滿版静態圖，無video，只有返回無下一步，確認完整10項。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-2",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.254液膜穿過機械主體上下，1.257液膜輪廓和飛沫分布明顯改變；不從螺旋槳外觀推定已看到旋轉。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.146與1.023粒子空洞和帶狀尾流輪廓改變，風扇姿態近似固定，不標扇葉轉動；粒子外觀不硬寫煙霧。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.146與1.023粒子空洞和帶狀尾流輪廓改變，風扇姿態近似固定，不標扇葉轉動；粒子外觀不硬寫煙霧。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.411海上白色氣旋，.764及1.100黑底白色殼體剖面；證據支持影像快切，不支持氣旋變成殼體的連續morph、或真實流體模擬。素材來源與各鏡頭CG/AI比例未明示。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.411海上白色氣旋，.764及1.100黑底白色殼體剖面；證據支持影像快切，不支持氣旋變成殼體的連續morph、或真實流體模擬。素材來源與各鏡頭CG/AI比例未明示。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.424煙霧高度約位於下半；.920已從鰭片上方湧出。只確認煙霧向上流動，不推定Pyro求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.424煙霧高度約位於下半；.920已從鰭片上方湧出。只確認煙霧向上流動，不推定Pyro求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。2.073至2.729煙柱輪廓持續變化，產品構圖變小；僅從可見畫面標煙霧流動與鏡頭拉遠。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。2.073至2.729煙柱輪廓持續變化，產品構圖變小；僅從可見畫面標煙霧流動與鏡頭拉遠。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。3.251顯示卡近景可見周圍箭頭；5.576機殼全景中有曲線箭頭路徑及技術字卡。藍色是散熱視覺效果，不當作液體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。3.251顯示卡近景可見周圍箭頭；5.576機殼全景中有曲線箭頭路徑及技術字卡。藍色是散熱視覺效果，不當作液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.189與2.231藍煙面積與形狀不同、兩側扇葉朝向改變；不把追蹤標記當真正的外部分析工具結果。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。.189與2.231藍煙面積與形狀不同、兩側扇葉朝向改變；不把追蹤標記當真正的外部分析工具結果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。第九項靜態圖，無活動video，不標旋轉。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ7DOG7Aajo-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732822逐項檢查10媒體，1-8video、9-10still；各封面獨立HTTPS。第十項靜態圖，無活動video，末項僅返回無下一步。不標呼吸燈或光色變化。"
           ],
           "matched_tags": []
         }

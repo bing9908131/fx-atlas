@@ -5097,10 +5097,21 @@
           "shortcode": "DZ7DOG7Aajo",
           "url": "https://www.instagram.com/iantseng_wysi/p/DZ7DOG7Aajo/",
           "published_at": "2026-06-23T09:02:53.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DZ7DOG7Aajo-1"
-          ]
+            "selectedyear-DZ7DOG7Aajo-1",
+            "selectedyear-DZ7DOG7Aajo-2",
+            "selectedyear-DZ7DOG7Aajo-3",
+            "selectedyear-DZ7DOG7Aajo-4",
+            "selectedyear-DZ7DOG7Aajo-5",
+            "selectedyear-DZ7DOG7Aajo-6",
+            "selectedyear-DZ7DOG7Aajo-7",
+            "selectedyear-DZ7DOG7Aajo-8",
+            "selectedyear-DZ7DOG7Aajo-9",
+            "selectedyear-DZ7DOG7Aajo-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZ7B_hSI0km",
