@@ -8505,10 +8505,12 @@
           "shortcode": "DcOkZsGiCX2",
           "url": "https://www.instagram.com/styleframe.studio/reel/DcOkZsGiCX2/",
           "published_at": "2026-08-19T16:03:47.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcOkZsGiCX2-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8528,19 +8530,26 @@
           "shortcode": "DXEXKP5DU4d",
           "url": "https://www.instagram.com/sub.stnc/p/DXEXKP5DU4d/",
           "published_at": "2026-04-13T10:16:06.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DXEXKP5DU4d-1"
-          ]
+            "selectedyear-DXEXKP5DU4d-1",
+            "selectedyear-DXEXKP5DU4d-2"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DVgF49bjchv",
           "url": "https://www.instagram.com/sub.stnc/p/DVgF49bjchv/",
           "published_at": "2026-03-05T11:41:08.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DVgF49bjchv-1"
-          ]
+            "selectedyear-DVgF49bjchv-1",
+            "selectedyear-DVgF49bjchv-2",
+            "selectedyear-DVgF49bjchv-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8560,19 +8569,23 @@
           "shortcode": "DdCUBoBxQVq",
           "url": "https://www.instagram.com/subframe_studio/reel/DdCUBoBxQVq/",
           "published_at": "2026-09-08T18:19:48.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdCUBoBxQVq-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dc_7X0JxYC7",
           "url": "https://www.instagram.com/subframe_studio/reel/Dc_7X0JxYC7/",
           "published_at": "2026-09-07T20:10:57.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-Dc_7X0JxYC7-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

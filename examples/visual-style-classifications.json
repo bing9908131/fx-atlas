@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2204,
+  "total": 2212,
   "unclassified": 0,
   "counts": {
-    "graphic": 462,
-    "product": 795,
-    "organic": 475,
+    "graphic": 463,
+    "product": 801,
+    "organic": 480,
     "geometric": 838,
     "scifi": 307,
     "effects": 140
@@ -1646,6 +1646,115 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "90秒單影片；3.641618太空人與月球邊緣，14.793589月球粗糙表面與手套；25.330124人物懸浮在黑色星空；35.185112手伸向白色光束；44.984668彩色光軌沿人物穿越畫面；57.059814頭盔近景被青色高速光帶掠過；68.278752人眼近景；77.778505黑色卡帶機正面三角形、白光和虹彩圖案。確定有光軌掠過與光帶拖尾，未從剪接推定產品組裝/爆破或流體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcOkZsGiCX2-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "25秒單影片。5.235605黑色耳墊與銀色圓形網罩分層懸浮；6.091688同組零件轉動換方向且耳墊改橘色；12.976452頭帶連接耳罩側視；18.833134金屬網罩特寫；24.965003黃色品牌圖標。此前4.475619頭帶品牌壓印，11.001844耳罩滑槽與R字，13.879978銀色編織網特寫。確認零件旋轉及配色切換；分解狀態有看到，但不由剪接推斷完整組裝或物理爆破；網格不推定動態編織。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXEXKP5DU4d-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑色低矮弧形機身正面，頂部按鈕、品牌壓印、正面H標記，灰色背景。靜態圖，不標駕駛或運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVgF49bjchv-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "左側機身與輪子，右側延伸由綠色細草葉和圓葉組成的長條草團；靜態造型，不標生長或流動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "左側機身與輪子，右側延伸由綠色細草葉和圓葉組成的長條草團；靜態造型，不標生長或流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdCUBoBxQVq-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單影片19.033333秒；2.862724狹長豎向線束末端上挑，7.992498轉向成較扁橫向的彎曲線团，15.303188近景展示密集交錯彎曲線束；確認翻轉/扭曲與近景切換，非粒子爆破或植物生長。作者僅寫CONTRAST/art/design/motion/abstract，無solver證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc_7X0JxYC7-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "54.866666秒CG案例合集；9.473497綠色wash圓瓶白色泡沫；11.393941青綠褶皺管狀曲面；15.696226分屏紅色線束與藍色珠粒面；24.175898藍青紫幾何字形細節，24.86428鏡頭拉遠顯示完整字形，確認camera pullback；35.133214透明三角形與黃白米色編織膨軟物；43.765814白色K形軟表面及亮綠球狀末端；52.113367黑場。不同剪接示例不可當同一物體變形。無已確認品牌型號，wash是瓶身文字不當真實品牌。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "54.866666秒CG案例合集；9.473497綠色wash圓瓶白色泡沫；11.393941青綠褶皺管狀曲面；15.696226分屏紅色線束與藍色珠粒面；24.175898藍青紫幾何字形細節，24.86428鏡頭拉遠顯示完整字形，確認camera pullback；35.133214透明三角形與黃白米色編織膨軟物；43.765814白色K形軟表面及亮綠球狀末端；52.113367黑場。不同剪接示例不可當同一物體變形。無已確認品牌型號，wash是瓶身文字不當真實品牌。"
           ],
           "matched_tags": []
         }
@@ -5483,6 +5592,81 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "靜態現場照片，歌手站在大型直式專輯CG封面投影前。投影中的白馬加油站和濕地倒影清楚可見，作為已使用CG作品的展示記錄保留。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXEXKP5DU4d-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑色外殼側面特寫，狹長橫條、弧形稜線、反射高光及接縫。靜態图，不標光線掃動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVgF49bjchv-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "草葉密覆在弧形機身上，右邊可見黑色輪子。靜態lookdev，不能由覆蓋狀態推定生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "草葉密覆在弧形機身上，右邊可見黑色輪子。靜態lookdev，不能由覆蓋狀態推定生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DVgF49bjchv-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.999999秒動畫；1.609638機身右側草團較窄，3.614244及4.157629草團前端鼓起變厚、葉片方向改變；相機與機身基本固定。確認草團起伏膨脹及葉片擺動，沒有看到植物從無到有生長或切割碎屑，不猜solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "4.999999秒動畫；1.609638機身右側草團較窄，3.614244及4.157629草團前端鼓起變厚、葉片方向改變；相機與機身基本固定。確認草團起伏膨脹及葉片擺動，沒有看到植物從無到有生長或切割碎屑，不猜solver。"
           ],
           "matched_tags": []
         }
