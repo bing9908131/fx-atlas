@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2655,
+  "total": 2662,
   "unclassified": 0,
   "counts": {
     "graphic": 651,
-    "product": 921,
+    "product": 928,
     "organic": 596,
-    "geometric": 915,
+    "geometric": 922,
     "scifi": 347,
     "effects": 227
   },
@@ -2888,6 +2888,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "26.029569秒9/16單片。0.036手機介面平面，1.034文件向外分層、2.114更多紙張張開；3.217/4.305/5.369紙片彎曲包裹成球，6.448球面。7.626/9.017玻璃狀球與文件；10.394/11.779鏡頭穿過懸浮卡片。13.164/14.565拱門前紙片位置及曲率變化，水面反射波紋改變；15.958圖示紙片近景。19.028/20.215俯視水面圈狀漣漪及照片環形排列；21.418 Plus Mind字卡、25.071 Organise。手持手機段不宣稱手部為CG；不由評論推定AI工具，不推定FLIP/Vellum/Houdini，也不把跨剪接形狀改變標為爆破。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第1張：斜角特寫藍色圓形凹槽插孔，奶油色圓角底板帶粉紅斑點，釉面般高光中可見細小顆粒，金色接點與螺絲清楚。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第1張：斜角特寫藍色圓形凹槽插孔，奶油色圓角底板帶粉紅斑點，釉面般高光中可見細小顆粒，金色接點與螺絲清楚。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
           ],
           "matched_tags": []
         }
@@ -15414,6 +15443,180 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項視覺檢視第9/9項；6.63/9.30秒背向行走，11.99/14.69/17.40秒視角變化，下半部節點捲動。未在本段確認跳躍，不照搬第2段跳躍標籤。最後一項只有返回按鈕，完整9項輪播結束。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第2張：正視粉紅花瓣狀放射圓盤，青藍外圈和內圈包圍中央插孔，表面有白色細斑點與柔和亮面。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第2張：正視粉紅花瓣狀放射圓盤，青藍外圈和內圈包圍中央插孔，表面有白色細斑點與柔和亮面。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第3張：兩個藍色圓形插孔並排在奶油色長圓底板上，粉紅斑點分布於底板，周邊是淡米色細紋牆面。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第3張：兩個藍色圓形插孔並排在奶油色長圓底板上，粉紅斑點分布於底板，周邊是淡米色細紋牆面。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第4張：黃綠色多層圓環圍繞插孔，紅色細圓環與上下小紅球形成裝飾，表面亮面高光帶細小瑕點。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第4張：黃綠色多層圓環圍繞插孔，紅色細圓環與上下小紅球形成裝飾，表面亮面高光帶細小瑕點。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第5張：只截取黃綠色曲面槽邊、一顆紅色裝飾球與上方紅色圓環局部，底部奶油色背景有細紋；這張看不到完整插孔。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第5張：只截取黃綠色曲面槽邊、一顆紅色裝飾球與上方紅色圓環局部，底部奶油色背景有細紋；這張看不到完整插孔。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第6張：黃色放射起伏圓盤與紅色外圈，中心紅色插孔配黃色內圈，白色顆粒與亮面反射在表面形成微細起伏。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第6張：黃色放射起伏圓盤與紅色外圈，中心紅色插孔配黃色內圈，白色顆粒與亮面反射在表面形成微細起伏。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZ78RCEFj-H-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第7張：红色厚圓框包圍黃綠色凹面插孔，表面有深色细斑點、凹孔與金色接點，左側可見相連外框的局部。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張檢視完整7張輪播第7張：红色厚圓框包圍黃綠色凹面插孔，表面有深色细斑點、凹孔與金色接點，左側可見相連外框的局部。 均為靜態圖，第2–7張DOM2160x2160；第7張只見返回沒有下一步。釉面為可見外觀，不推定實際陶土或化學成分；沒有動態標籤。"
           ],
           "matched_tags": []
         }
