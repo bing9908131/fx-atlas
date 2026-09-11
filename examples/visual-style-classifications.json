@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2819,
+  "total": 2833,
   "unclassified": 0,
   "counts": {
-    "graphic": 698,
+    "graphic": 709,
     "product": 1021,
-    "organic": 634,
-    "geometric": 954,
+    "organic": 637,
+    "geometric": 957,
     "scifi": 358,
     "effects": 249
   },
@@ -4262,6 +4262,23 @@
       ]
     },
     {
+      "id": "selectedyear-DdBxo2HAtca-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。5.530黑色手機展示網站；7.262多列手機比例頁面拼貼；15.541K線與座標；24.085桌面顯示器呈Spot及等角板片圖。多鏡頭品牌展示，不推定所有裝置模型皆為CG或特定硬體品牌。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DdBpMHhNlvg-1",
       "styles": [
         {
@@ -4578,6 +4595,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732857單支15.018666秒1080x1920。0.332器材與立架位於平台；2.333多器材在空中；3.534圓柱喇叭斜向露底，3.866轉為較直立且SONOS字樣朝前，支持旋轉。5.086長條音響；8.287/8.306兩顆扁橢圓喇叭懸浮；10.083多器材形成斜向平衡排列；11.485多器材在有凹槽且錯層的平台上方，11.612器材傾倒下降；13.562器材已落位，平台拼合為平整布局並出SONOS字樣。金色是顏色，牆地材質僅灰泥外觀，未當成金屬；未推定碰撞求解器或特定產品型號。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C2P9O5XReOb-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732878各段720x720。0.581外圍部分小花已開、中央多為閉合花苞；1.553更多圈小花伸出；4.039花盤中更多黃色小花與長花絲張開，中央閉合區縮小。大花瓣呈粉褐皺紋、細蕊有乳黃絨毛，後方綠色散景。不是實拍；原作者明說3D/Houdini系統。"
           ],
           "matched_tags": []
         }
@@ -19318,6 +19352,246 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Instagram Chrome1519732862先前逐段觀察及本輪1519732866補完。第10個靜態圖，DOM無活動video且輪播僅有返回無下一步，確認共10個。單側黑亮環弧占滿畫面，可見透明覆蓋中的晶片與凸起感測器側面。不是爆炸分解、液體或金屬流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C2P9O5XReOb-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732878各段720x720。0.855前方小花開且粉色枝絲較短、後方多數灰色花苞仍閉合；2.721前後各圈已伸出長粉色枝絲，灰色包覆片外翻。斜視灰模動態，不把灰模當真正石材或塑膠；無教學者、講解或課程畫面。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C2P9O5XReOb-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732878各段720x720。1.310外圈粉色細絲張開、中心多為灰色小花苞；4.055中心也長出粉色細絲，灰色花苞區縮小，俯視可見向內傳遞展開。不能因放射排列就標整體旋轉。末張只剩返回按鈕，確認共3段。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.845黑底首頁Where Sui Finance Starts，5.499Deep Liquidity展開面板，8.679白底This is where it gets interesting和Leveraged Trading卡片。手機外框位置固定，內容縱向切換，並非手機飛行或變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。9.491灰底排列多張桌面頁面，中央Battle-Tested Security；16.921同一縱列已移到Choose where to trade、community與Builders/Traders版面。是整列版面平移，未看見物理材質或模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.436積木在凸點底板上；3.474四塊平板與分岔箭頭；8.956四平台錯層、代幣堆高；12.613雙代幣堆在一塊大藍板上。等角平塗插畫，不能把硬幣推定為金屬，也不加碰撞求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.436積木在凸點底板上；3.474四塊平板與分岔箭頭；8.956四平台錯層、代幣堆高；12.613雙代幣堆在一塊大藍板上。等角平塗插畫，不能把硬幣推定為金屬，也不加碰撞求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.297四個功能區塊包含三枚平放代幣、方格曲線和下方多平台；8.621上區代幣由平放變兩堆高柱，下區堆疊高度也不同。版面固定、卡片內圖形變化，不是整頁捲動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.297四個功能區塊包含三枚平放代幣、方格曲線和下方多平台；8.621上區代幣由平放變兩堆高柱，下區堆疊高度也不同。版面固定、卡片內圖形變化，不是整頁捲動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。1.432Very Light Gray大色塊，底部依序灰藍黑白条帶；3.142大色塊變Light Gray、下方條帶順序與位置移動。只是平面色票，不標任何真實石材、塑膠、液體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。5.969畫面兩張行動版長卡；9.890畫面中央移到白底Battle-Tested Security卡，左右各有被裁切其他頁面，支持橫向頁面展示。盾牌與網格僅圖案，不標實體護盾特效。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。第8個靜態圖，DOM無活動影片。黑灰底3列版面，白藍灰卡片、數字18B、DeepBook標誌、線條波形與懸浮板片插畫。沒有影片動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。第9個靜態圖，DOM無活動影片。黑灰白卡片，K線、程式碼背景DeepBook藍標誌、4B數字、98百分比。不可因條狀圖形就標雨、粒子或流動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-10",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.794中央藍色方形左緣小缺口；1.111水平缺口延伸至大半寬，1.366幾乎橫貫；4.780切到放大曲線輪廓與貝茲控制點。僅2D圖形構形，不推定物理切割或分裂模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.794中央藍色方形左緣小缺口；1.111水平缺口延伸至大半寬，1.366幾乎橫貫；4.780切到放大曲線輪廓與貝茲控制點。僅2D圖形構形，不推定物理切割或分裂模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBxo2HAtca-11",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732884逐項輪播檢查。0.440/1.348/3.827中央白色Logo維持固定，周围藍灰短直線的位置與亮度分布改變。不是雨、水流或粒子模擬。最後只剩返回按鈕，確認總數11。"
           ],
           "matched_tags": []
         }

@@ -4051,10 +4051,14 @@
           "shortcode": "C2P9O5XReOb",
           "url": "https://www.instagram.com/zachdarren/p/C2P9O5XReOb/",
           "published_at": "2024-01-18T17:04:25.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-C2P9O5XReOb-1"
-          ]
+            "selectedyear-C2P9O5XReOb-1",
+            "selectedyear-C2P9O5XReOb-2",
+            "selectedyear-C2P9O5XReOb-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -5031,10 +5035,22 @@
           "shortcode": "DdBxo2HAtca",
           "url": "https://www.instagram.com/holographik.co/p/DdBxo2HAtca/",
           "published_at": "2026-09-08T13:18:07.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdBxo2HAtca-1"
-          ]
+            "selectedyear-DdBxo2HAtca-1",
+            "selectedyear-DdBxo2HAtca-2",
+            "selectedyear-DdBxo2HAtca-3",
+            "selectedyear-DdBxo2HAtca-4",
+            "selectedyear-DdBxo2HAtca-5",
+            "selectedyear-DdBxo2HAtca-6",
+            "selectedyear-DdBxo2HAtca-7",
+            "selectedyear-DdBxo2HAtca-8",
+            "selectedyear-DdBxo2HAtca-9",
+            "selectedyear-DdBxo2HAtca-10",
+            "selectedyear-DdBxo2HAtca-11"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dcx5R6djkEB",
