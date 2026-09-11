@@ -6536,10 +6536,14 @@
           "shortcode": "C5QV-34NnhL",
           "url": "https://www.instagram.com/maximeroz/p/C5QV-34NnhL/",
           "published_at": "2024-04-02T10:14:52.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-C5QV-34NnhL-1"
-          ]
+            "selectedyear-C5QV-34NnhL-1",
+            "selectedyear-C5QV-34NnhL-2",
+            "selectedyear-C5QV-34NnhL-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
