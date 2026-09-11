@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2545,
+  "total": 2550,
   "unclassified": 0,
   "counts": {
-    "graphic": 613,
+    "graphic": 618,
     "product": 865,
     "organic": 570,
     "geometric": 907,
@@ -2649,6 +2649,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "密集切片與多重輪廓重疊的黑色23，白色網格縫隙。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DadNLJNjU3y-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "16.539807整句可讀的圓潤字，24.317869部分筆畫拉長連成大片黑形，字形高度寬度明顯變化。最初28.112327截圖22秒延遲不用作精準動態證據。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
           ],
           "matched_tags": []
         }
@@ -13004,6 +13021,74 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "中等大小圆角方塊拼成23，斜向灰階漸層、顆粒和模糊邊。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DadNLJNjU3y-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "9.090842紅色句子與黑色疊層，16.873352較完整句子，25.423088紅色筆畫伸展合併、黑色交疊位置改變。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DadNLJNjU3y-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.465165字形大幅拉長為少數抽象大字，15.994476恢復較完整四行句子，桃紅/深紫字、螢光黃綠底。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DadNLJNjU3y-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "7.752619藍色斜體句子，17.570381文字放寬、部分筆畫連接，更多字母超出局部排版範圍。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DadNLJNjU3y-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "9.070216黑色斜體整句，17.561002壓縮成少數大字形與長筆畫，保留白底。全部五支各自播放核對，末支只有返回。平面字形變形並非液體或布料模擬；沒有推定軟體。"
           ],
           "matched_tags": []
         }

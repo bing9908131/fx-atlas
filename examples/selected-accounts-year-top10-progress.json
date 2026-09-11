@@ -6458,10 +6458,16 @@
           "shortcode": "DadNLJNjU3y",
           "url": "https://www.instagram.com/masd.lab/p/DadNLJNjU3y/",
           "published_at": "2026-07-06T15:24:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DadNLJNjU3y-1"
-          ]
+            "selectedyear-DadNLJNjU3y-1",
+            "selectedyear-DadNLJNjU3y-2",
+            "selectedyear-DadNLJNjU3y-3",
+            "selectedyear-DadNLJNjU3y-4",
+            "selectedyear-DadNLJNjU3y-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
