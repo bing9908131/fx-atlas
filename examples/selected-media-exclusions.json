@@ -2618,5 +2618,29 @@
     ],
     "reason": "Motion Plus Design紐約講者與售票預告，非單一品牌CG作品；依活動宣傳排除規則移除。影片含CG片段，不判為非CG。",
     "evidence": "Chrome1519732750單支75.7667秒獨立檢查，8.94科幻場景10.71黑白公路12.48重複人物群像33.08黃色作品畫面35.65黑白物體38.21ValleeDuhamel講者名卡；59.04–61.32MotionPlusDesignNewYorkSEPT26,2026、63.60BOOKNOW官網、65.85Runway等合作標誌。原文明確9月26日RouletteTheatre活動與Reserve your spot。"
+  },
+  {
+    "post_id": "DFFVKs_tI5u",
+    "media_index": 10,
+    "total": 10,
+    "decision": "exclude",
+    "reference_kind": "live_action_exhibition_documentation",
+    "duration_seconds": 17.668933,
+    "observed_times": [
+      7.772521,
+      9.321256,
+      15.759675
+    ],
+    "reason": "店內展示的手持實拍紀錄，畫面包含鞋架、展示設備、門窗和行人。作為CG作品已展出證據保留紀錄，但不將現場實拍獨立加入CG參考卡片。",
+    "evidence": "Chrome1519732794末項，17.668933秒。7.773拍向窗前螢幕與街景；9.321拍鞋架與展示台；15.760拍向店門和外部行人。CG只在實體螢幕中播放。末項無下一步。"
+  },
+  {
+    "post_id": "DAtAIgptKw0",
+    "media_index": 2,
+    "total": 2,
+    "decision": "exclude",
+    "reference_kind": "static_credits",
+    "reason": "唱片背面曲目與製作名單，沒有CG畫面，排除純資訊卡。",
+    "evidence": "Chrome1519732803第二項黑底文字：Alpha EP、曲目A1/A2/B、版權和製作名單、Bohrium小標誌。無video，最後只有返回無下一步。"
   }
 ]

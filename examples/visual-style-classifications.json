@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2756,
+  "total": 2767,
   "unclassified": 0,
   "counts": {
-    "graphic": 688,
+    "graphic": 689,
     "product": 974,
-    "organic": 620,
+    "organic": 630,
     "geometric": 934,
-    "scifi": 357,
-    "effects": 241
+    "scifi": 358,
+    "effects": 242
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4009,6 +4009,81 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "79.920226秒720x1280單支。8.799–12.332平台花叢緩慢起伏與搖曳；13.859–18.946懸浮花環形狀旋轉、扭動，各花簇改變朝向；31.277俯視同心圓花床；35.844–40.412中央花團體積縮小、周邊環狀花叢變化，44.989近景花叢波紋；49.569庭院水池花球及波紋倒影；64.799花瓣近景；67.870完整花球轉為70.945凹陷皺褶收縮形態、花覆蓋變少，水面倒影變形；74.029–77.095片尾Jordi/Echoic。主體不是液體或煙霧；水標籤僅源自實際可見水池，不把花圈當流體solver。不推測花種或生物生長技術。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。8.086灰色深褶；19.261粉花浮現；22.147及25.006米白粉紫黃花叢覆蓋、褶皺變形；27.905花退回灰色纖維褶皺。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DAtAIgptKw0-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732803共2項。第一項1:1靜態：上下收口的玻璃沙漏輪廓、頂底金屬圓盤、三個斜環、藍青透明光澤、內部橘粉有機結構及後方藍煙霧。未推定液體、水或火，沒有影片不能標煙霧擴散、流動、旋轉；不推定Pyro。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732803共2項。第一項1:1靜態：上下收口的玻璃沙漏輪廓、頂底金屬圓盤、三個斜環、藍青透明光澤、內部橘粉有機結構及後方藍煙霧。未推定液體、水或火，沒有影片不能標煙霧擴散、流動、旋轉；不推定Pyro。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C-H2NaGNwGq-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732800單支64.526801秒，1048x720。6.214搬衣架實拍；18.711球員走向拍攝台；25.835球衣上有青色細光點；32.907球場屋頂邊緣大量青色多邊形碎片；38.632/39.158空間中碎片及光點隨時間改變位置；45.644完成屋頂與場內FC25標誌；55.452拉遠看球員及完整看台。標粒子/碎片運動和數位轉換，不把缺少連續證據的具體破碎方向、碰撞或RBD求解器寫成已確認。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732800單支64.526801秒，1048x720。6.214搬衣架實拍；18.711球員走向拍攝台；25.835球衣上有青色細光點；32.907球場屋頂邊緣大量青色多邊形碎片；38.632/39.158空間中碎片及光點隨時間改變位置；45.644完成屋頂與場內FC25標誌；55.452拉遠看球員及完整看台。標粒子/碎片運動和數位轉換，不把缺少連續證據的具體破碎方向、碰撞或RBD求解器寫成已確認。"
           ],
           "matched_tags": []
         }
@@ -17803,6 +17878,142 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome 1519732710 與前次1519732706逐張查看，同篇7個圓點，最後只有返回；第7/7媒體。黑色筆電由斜角轉正放大，再展示後方重複螺旋陣列；螢幕內網站向上捲動，後半切換 DOF 點陣圓形標誌與灰階作品背景，結尾橘色DOF字樣。未確認筆電廠牌與型號，不標成 Apple 或硬體品牌廣告。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。11.083收縮灰球；15.659粉花展開；20.249縮回灰色；24.820藍綠白花球展開；29.423收縮。背景直槽牆面、樹及岩石，水面細波和倒影有變化。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。輪播第三項靜態圖，未把相鄰影片的生長或膨脹動態標到此圖。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。0.040近乎空白灰底；0.559/0.633下方小花出現；2.004彎曲花枝增多；2.582及3.154向上填滿畫面。不是花瓣向外散落。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。13.959螢幕藍綠花叢；18.229灰褶；22.513粉黃白花；26.819退回灰褶；0.894灰褶混合粉花。固定展示視角；沒有把畫面當純灰模或店內手持紀錄。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。第六項靜態圖，水池反射可見，但不標浮動、膨脹或水面運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。15.806三畫面粉紫、暖白粉黄、藍綠花叢；25.845至28.343花覆蓋退回灰色褶皺；循環開頭0.016各區花量不同。各分割顏色隨循環變化，不固定把某色指派給某一格。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-8",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。第八項實際靜態畫面：藍綠白花近景、右下灰褶，無運動標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DFFVKs_tI5u-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。第九項為灰色褶皺靜態特寫，沒有清楚花朵，不加入花朵或花卉顏色、動態。"
           ],
           "matched_tags": []
         }

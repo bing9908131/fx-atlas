@@ -5591,10 +5591,22 @@
           "shortcode": "DFFVKs_tI5u",
           "url": "https://www.instagram.com/jordipagespons/p/DFFVKs_tI5u/",
           "published_at": "2025-01-21T09:52:50.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DFFVKs_tI5u-1"
-          ]
+            "selectedyear-DFFVKs_tI5u-1",
+            "selectedyear-DFFVKs_tI5u-2",
+            "selectedyear-DFFVKs_tI5u-3",
+            "selectedyear-DFFVKs_tI5u-4",
+            "selectedyear-DFFVKs_tI5u-5",
+            "selectedyear-DFFVKs_tI5u-6",
+            "selectedyear-DFFVKs_tI5u-7",
+            "selectedyear-DFFVKs_tI5u-8",
+            "selectedyear-DFFVKs_tI5u-9"
+          ],
+          "excluded_media_indices": [
+            10
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -5614,19 +5626,25 @@
           "shortcode": "DAtAIgptKw0",
           "url": "https://www.instagram.com/bohrium_records/p/DAtAIgptKw0/",
           "published_at": "2024-10-04T13:01:41.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DAtAIgptKw0-1"
-          ]
+          ],
+          "excluded_media_indices": [
+            2
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "C-H2NaGNwGq",
           "url": "https://www.instagram.com/jose_motiondesigner/reel/C-H2NaGNwGq/",
           "published_at": "2024-08-01T09:41:36.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-C-H2NaGNwGq-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
