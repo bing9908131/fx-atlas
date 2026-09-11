@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2498,
+  "total": 2499,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
-    "product": 858,
+    "product": 859,
     "organic": 560,
     "geometric": 903,
     "scifi": 328,
@@ -2477,6 +2477,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單張靜態圖，無輪播按鈕或影片。多層矩形門洞與錯位牆體向中央延伸，牆面青綠、局部黃綠，右側及地面有暖黃色照明。表面微粗糙、低反射。只標光影構圖，不推定光在移動或幾何生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第一個媒體實際為4.666666秒影片，非原匯入的image。1.564秒及2.908秒雪山冰湖紅白產品，3.310秒玻璃廊道，3.870秒夜間店面。快速場景切換；僅標已確認的剪輯轉場，不將静態懸浮構圖或雪點誤認為旋轉/降雪模擬。"
           ],
           "matched_tags": []
         }
