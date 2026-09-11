@@ -262,5 +262,13 @@
     "decision": "exclude",
     "reason": "鳥棲息在圓孔石建築的黑白攝影資料，無獨立可辨識CG。",
     "evidence": "第一項為靜態黑白照片，只疊少量文字；與第二項掃描動畫及第四項影像切片動畫分開處理。"
+  },
+  {
+    "post_id": "DWESHqLDE7A",
+    "media_index": 5,
+    "total": 8,
+    "decision": "exclude",
+    "reason": "工作室實際辦公室的介紹頁，餐桌椅與花瓶照片，文字介紹historical Loods6 building in Amsterdam及Studio Bakker設計；無可確認CG作品畫面，依使用者排除純實拍。",
+    "evidence": "第5/8張靜態網站截圖，白色雙欄版面，左側介紹實際工作場所，右側桌椅花瓶照片。"
   }
 ]

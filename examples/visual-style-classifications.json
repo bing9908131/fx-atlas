@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2184,
+  "total": 2195,
   "unclassified": 0,
   "counts": {
-    "graphic": 446,
-    "product": 788,
-    "organic": 467,
-    "geometric": 836,
+    "graphic": 455,
+    "product": 791,
+    "organic": 474,
+    "geometric": 838,
     "scifi": 306,
-    "effects": 139
+    "effects": 140
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1496,6 +1496,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "39.70467秒單影片；7.013362建築平面圖與箭頭導航說明；16.547898室內紅棕沙發、混凝土立柱、木椅與花園；22.933377切換廚房金屬櫃檯、窗外綠籬雕塑；29.445245視角推近並向下看到抽屜把手與地磚；36.243132轉為書房桌椅、垂直簾、紙燈和窗外雕塑。動態為視角導航／鏡頭移動，未確認抽屜開啟或植物動態，不加此類標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態首頁設計圖，Color C大字、藍綠清澈水面、灰白岩岸、柔和天空與景深模糊背景。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態首頁設計圖，Color C大字、藍綠清澈水面、灰白岩岸、柔和天空與景深模糊背景。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DNgNZA2Nxf5-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.794217中央綠色長形色塊與粉灰團塊；4.780939已扭變成不同藍綠色帶和有機斑塊，邊緣拉長彎曲、色塊分布改變。表面為平滑漸層與微弱顆粒，不能推定實體玻璃或液體求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "3.794217中央綠色長形色塊與粉灰團塊；4.780939已扭變成不同藍綠色帶和有機斑塊，邊緣拉長彎曲、色塊分布改變。表面為平滑漸層與微弱顆粒，不能推定實體玻璃或液體求解器。"
           ],
           "matched_tags": []
         }
@@ -4963,6 +5021,267 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "輪播第10/10為靜態圖片：銅橘色柔和金屬曲面，不規則孔洞、淺景深、米白背景。 各張單獨辨識，無影片動態證據，不加入流動、碰撞或模擬標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.960654頁面展示Faust Linoleum桌景和JW Marriott花園入口縮圖；12.994738頁面向下捲動，增加綠色室內和雲霧椅子場景。確定是網站捲動，未從縮圖推定獨立物件動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.960654頁面展示Faust Linoleum桌景和JW Marriott花園入口縮圖；12.994738頁面向下捲動，增加綠色室內和雲霧椅子場景。確定是網站捲動，未從縮圖推定獨立物件動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態網站燈箱圖：俯視戶外桌面，橘色桌墊、白色草圖紙、藍灰工作燈和黄色圓凳；背景草地。沒有可確認品牌或家具型號。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態網站燈箱圖：俯視戶外桌面，橘色桌墊、白色草圖紙、藍灰工作燈和黄色圓凳；背景草地。沒有可確認品牌或家具型號。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "8秒影片，1.306108與4.476908均為工作室介紹文字、白色版面和下方粉橘雲團。已查看影片，但這些時間點未能清楚證實雲團位移或膨脹，因此不加入流動/擴散/生長等動態詞，也不推定Pyro。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "8秒影片，1.306108與4.476908均為工作室介紹文字、白色版面和下方粉橘雲團。已查看影片，但這些時間點未能清楚證實雲團位移或膨脹，因此不加入流動/擴散/生長等動態詞，也不推定Pyro。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-6",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態CG：白米色粗糙岩石上切出階梯，石階延伸到深色青綠透明水池，右側一顆白球。可見水面紋理但沒有動態證據。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態CG：白米色粗糙岩石上切出階梯，石階延伸到深色青綠透明水池，右側一顆白球。可見水面紋理但沒有動態證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.908348網站顯示Paris Olympics、Rituals Cosmetics、On The Beach、Rituals Ramadan26縮圖，包含香氛瓶、拱門、陽傘水景。13.049654捲到Permanent Vacation、Microsoft365 Backgrounds等草地與植物建築圖。僅確認頁面捲動，不將不同縮圖之間變換當作物件變形。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.908348網站顯示Paris Olympics、Rituals Cosmetics、On The Beach、Rituals Ramadan26縮圖，包含香氛瓶、拱門、陽傘水景。13.049654捲到Permanent Vacation、Microsoft365 Backgrounds等草地與植物建築圖。僅確認頁面捲動，不將不同縮圖之間變換當作物件變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DWESHqLDE7A-8",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態CG景觀：草地覆蓋的斜切岩塊和環形丘陵、樹林、白色積雲、淺藍天空與小片水面。沒有生長或草地翻卷動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "靜態CG景觀：草地覆蓋的斜切岩塊和環形丘陵、樹林、白色積雲、淺藍天空與小片水面。沒有生長或草地翻卷動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DNgNZA2Nxf5-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.935973黑底上多組白色圓潤團塊、群間有大空隙；4.962301團塊擴張貼合幾乎填滿畫面，輪廓形成擠壓邊界和黑色細紋。白色光滑亮面與灰階陰影，不稱為骨頭、石材或破碎。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.935973黑底上多組白色圓潤團塊、群間有大空隙；4.962301團塊擴張貼合幾乎填滿畫面，輪廓形成擠壓邊界和黑色細紋。白色光滑亮面與灰階陰影，不稱為骨頭、石材或破碎。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DNgNZA2Nxf5-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.919152白粉紫軟邊團塊與縱向青藍色帶；4.346139轉為白綠長帶交織，輪廓伸展流動，局部色彩明顯更替。柔和粉彩漸層、類顏料色層，未確認真實流體材質。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.919152白粉紫軟邊團塊與縱向青藍色帶；4.346139轉為白綠長帶交織，輪廓伸展流動，局部色彩明顯更替。柔和粉彩漸層、類顏料色層，未確認真實流體材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DNgNZA2Nxf5-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.913906白灰斜向長條中穿插青藍綠黃條帶；3.637345各色斜向條带已移位，細碎邊緣被拉成尾跡，呈筆刷拖曳質感。沒有火焰或煙霧證據。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.913906白灰斜向長條中穿插青藍綠黃條帶；3.637345各色斜向條带已移位，細碎邊緣被拉成尾跡，呈筆刷拖曳質感。沒有火焰或煙霧證據。"
           ],
           "matched_tags": []
         }

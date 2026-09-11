@@ -8620,10 +8620,15 @@
           "shortcode": "DNgNZA2Nxf5",
           "url": "https://www.instagram.com/sy_gaussens/p/DNgNZA2Nxf5/",
           "published_at": "2025-08-18T16:35:32.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DNgNZA2Nxf5-1"
-          ]
+            "selectedyear-DNgNZA2Nxf5-1",
+            "selectedyear-DNgNZA2Nxf5-2",
+            "selectedyear-DNgNZA2Nxf5-3",
+            "selectedyear-DNgNZA2Nxf5-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DJ9-gYUtu7B",
@@ -8812,10 +8817,20 @@
           "shortcode": "DWESHqLDE7A",
           "url": "https://www.instagram.com/teaaalexis/p/DWESHqLDE7A/",
           "published_at": "2026-03-19T13:00:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DWESHqLDE7A-1"
-          ]
+            "selectedyear-DWESHqLDE7A-1",
+            "selectedyear-DWESHqLDE7A-2",
+            "selectedyear-DWESHqLDE7A-3",
+            "selectedyear-DWESHqLDE7A-4",
+            "selectedyear-DWESHqLDE7A-6",
+            "selectedyear-DWESHqLDE7A-7",
+            "selectedyear-DWESHqLDE7A-8"
+          ],
+          "excluded_media_indices": [
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
