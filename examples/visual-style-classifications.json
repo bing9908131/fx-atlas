@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2619,
+  "total": 2626,
   "unclassified": 0,
   "counts": {
     "graphic": 640,
-    "product": 904,
-    "organic": 590,
+    "product": 909,
+    "organic": 592,
     "geometric": 909,
     "scifi": 335,
-    "effects": 221
+    "effects": 224
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1426,6 +1426,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "5.246秒直式CG。0.018892球體在右側曲面後；0.99916淺綠顆粒球體及亮綠光滑斑塊位於曲面頂；1.567501球體已移出近景；3.224724切至雙波形實體軌道；4.232449上方一球、左下低處球有移動模糊，4.46036下方球移出且上方球改變位置與斑塊朝向。支持沿曲面滾動與旋轉，不將靜態波形軌道標成液體或ripple模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.935秒醬體覆於上側，3.110秒沿右側增厚，4.255秒拉長垂下；草莓有籽粒凹點與綠葉。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.935秒醬體覆於上側，3.110秒沿右側增厚，4.255秒拉長垂下；草莓有籽粒凹點與綠葉。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
           ],
           "matched_tags": []
         }
@@ -14538,6 +14567,132 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2.013/4.084秒枯枝骨骼和沙面；6.230/8.307秒鏡頭沿殘缺頭骨移動；10.418/12.273秒俯視多顆頭骨；13.549至17.394秒FX遮罩下骷髏邊缘持續剝落；28.595秒長骨；31.143/33.729/36.335秒骷髏近景侵蝕；38.927秒沙地；45.028/47.616/50.193秒塵雲覆蓋增加及碎屑散落，52.756秒AHS文字遮罩。638x360後續串流同56.033333秒。最後只有返回按鈕，輪播共3支。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.061秒帶片仍包覆，2.164秒上下拉長，3.033秒多數帶片離開中央。中央橢圓物未具可辨識果皮，不推定果種或布料。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.363秒果仁分離在殼上方，1.381秒兩片殼位於左右，2.439秒殼靠近包圍果仁。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-4",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.688秒流束還未接觸，1.889秒上方開始包覆，6.254秒藍色流體表面沿草莓右側拉長；顏色是製程預覽，不標成藍色食用醬或水。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.688秒流束還未接觸，1.889秒上方開始包覆，6.254秒藍色流體表面沿草莓右側拉長；顏色是製程預覽，不標成藍色食用醬或水。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.689/2.759/3.855秒罐體大致固定，周圍草莓與堅果相對位置及朝向變化；不宣稱碰撞求解或由掉落造成堆疊。包裝可讀CREMA SUAVE DE ANACARDO TOSTADO。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.938/2.130/3.320/4.484/5.563秒連續向前運鏡，前景碎粒大小和相對位置改變；表面呈濃稠光澤褶皺，不把運鏡引起的視差全當成表面流動。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.938/2.130/3.320/4.484/5.563秒連續向前運鏡，前景碎粒大小和相對位置改變；表面呈濃稠光澤褶皺，不把運鏡引起的視差全當成表面流動。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dclo7W_DMRp-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.879/1.297秒草地與農田；2.020秒樹枝框景；2.739秒田野；3.458秒樹樁；4.194/4.918秒秋色地景；7.216秒堆石上另一包裝。這些是剪接和場景方案切換，不標生長、季節變形、風流或植物擺動。 1080x1080，逐支播放核對；第7支僅返回按鈕。"
           ],
           "matched_tags": []
         }
