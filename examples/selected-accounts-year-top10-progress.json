@@ -878,10 +878,12 @@
           "shortcode": "DZu0VkIsgsL",
           "url": "https://www.instagram.com/romenkaelin/reel/DZu0VkIsgsL/",
           "published_at": "2026-06-18T15:03:04.000Z",
-          "status": "published_pending_analysis",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZu0VkIsgsL-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZaE579jQIV",
@@ -6079,10 +6081,12 @@
           "shortcode": "DZu0VkIsgsL",
           "url": "https://www.instagram.com/romenkaelin/reel/DZu0VkIsgsL/",
           "published_at": "2026-06-18T15:03:04.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZu0VkIsgsL-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DYj5l3oMzkR",
