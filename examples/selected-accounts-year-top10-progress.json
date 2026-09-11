@@ -6803,10 +6803,12 @@
           "shortcode": "DXf3r04k1mG",
           "url": "https://www.instagram.com/mingrising/reel/DXf3r04k1mG/",
           "published_at": "2026-04-24T02:40:55.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DXf3r04k1mG-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DMO5BsBTB2V",
