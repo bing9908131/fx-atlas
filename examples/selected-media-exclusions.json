@@ -2596,5 +2596,27 @@
     ],
     "reason": "Motion Plus Design與Motionographer的紐約活動合作宣傳，講者名卡、各作品短片、日期與夥伴標誌交錯；按既有活动宣傳排除規則處理。不是判定沒有CG。",
     "evidence": "Chrome1519732746單支76.933秒實際播放。8.77黑白腳步9.63Mehdi Hadi名卡10.51機器人11.38火焰角色29.57SMOKE字體33.15BhaktiPatel名卡36.74黑白物體特寫51.49SEPT55.56THE BEST59.61MotionPlusDesignNewYorkSEPT26,2026及71.32夥伴標誌。原文明確Motionographer合作與Tickets now live。與前筆預告相近但已另行檢視。"
+  },
+  {
+    "post_id": "Dcgv2RRpy6f",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "conference_promotion",
+    "duration_seconds": 75.76666666666667,
+    "observed_times": [
+      8.941364,
+      10.707125,
+      12.483592,
+      33.084315,
+      35.649226,
+      38.205223,
+      59.040019,
+      61.324068,
+      63.597761,
+      65.851903
+    ],
+    "reason": "Motion Plus Design紐約講者與售票預告，非單一品牌CG作品；依活動宣傳排除規則移除。影片含CG片段，不判為非CG。",
+    "evidence": "Chrome1519732750單支75.7667秒獨立檢查，8.94科幻場景10.71黑白公路12.48重複人物群像33.08黃色作品畫面35.65黑白物體38.21ValleeDuhamel講者名卡；59.04–61.32MotionPlusDesignNewYorkSEPT26,2026、63.60BOOKNOW官網、65.85Runway等合作標誌。原文明確9月26日RouletteTheatre活動與Reserve your spot。"
   }
 ]

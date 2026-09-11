@@ -6923,10 +6923,12 @@
           "shortcode": "Dcgv2RRpy6f",
           "url": "https://www.instagram.com/motionplusdesign/reel/Dcgv2RRpy6f/",
           "published_at": "2026-08-26T17:28:54.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Dcgv2RRpy6f-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
