@@ -7587,19 +7587,26 @@
           "shortcode": "DYZs1PBivP0",
           "url": "https://www.instagram.com/paulesteves28/p/DYZs1PBivP0/",
           "published_at": "2026-05-16T13:40:55.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DYZs1PBivP0-1"
-          ]
+            "selectedyear-DYZs1PBivP0-1",
+            "selectedyear-DYZs1PBivP0-2",
+            "selectedyear-DYZs1PBivP0-3",
+            "selectedyear-DYZs1PBivP0-4"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DUqVjNiCkdF",
           "url": "https://www.instagram.com/paulesteves28/reel/DUqVjNiCkdF/",
           "published_at": "2026-02-12T14:39:33.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DUqVjNiCkdF-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -8528,10 +8535,12 @@
           "shortcode": "DUSnE55Dn4t",
           "url": "https://www.instagram.com/simonbrauud/reel/DUSnE55Dn4t/",
           "published_at": "2026-02-03T09:30:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DUSnE55Dn4t-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DOYNF3rDBBG",
@@ -9683,10 +9692,12 @@
           "shortcode": "DcOPxOah_c9",
           "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
           "published_at": "2026-08-19T13:00:05.000Z",
-          "status": "excluded_by_user",
+          "status": "excluded",
           "media_ids": [],
-          "excluded_media_indices": [],
-          "cg_review": "User explicitly requested removal based on matched screenshot."
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DbsVnpkoB4C",
@@ -9777,10 +9788,12 @@
           "shortcode": "DdCRmFGJV0V",
           "url": "https://www.instagram.com/vertex.cgi/reel/DdCRmFGJV0V/",
           "published_at": "2026-09-08T17:57:48.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DdCRmFGJV0V-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

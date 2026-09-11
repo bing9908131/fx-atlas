@@ -87,5 +87,12 @@
     "reason": "使用者指定截圖要求移除：Peel Animation · One Year Recap",
     "excluded_at": "2026-09-11",
     "source": "user"
+  },
+  {
+    "post_id": "DUqVjNiCkdF",
+    "url": "https://www.instagram.com/p/DUqVjNiCkdF/",
+    "reason": "使用者截圖指定移除：紅髮人物手持藍頭筆；MPM Solver · Explode。",
+    "excluded_at": "2026-09-11",
+    "source": "user"
   }
 ]

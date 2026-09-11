@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2415,
+  "total": 2421,
   "unclassified": 0,
   "counts": {
-    "graphic": 545,
+    "graphic": 546,
     "product": 841,
-    "organic": 549,
+    "organic": 550,
     "geometric": 874,
-    "scifi": 324,
-    "effects": 199
+    "scifi": 325,
+    "effects": 204
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -989,6 +989,23 @@
       ]
     },
     {
+      "id": "selectedyear-DdCRmFGJV0V-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原貼文單影片直接觀看：全景有兩个人形機器人在球網兩側移位揮拍，近景機器人屈膝側跨並擺動持拍手臂。銀白外殼、黑色關節、藍色場地與綠色外場可見。畫面為數位角色效果；不能由成片判定傳統3D或生成式製作，不標軟體或物理求解器。讀取時間與截圖間有播放延遲，時間為觀察區段而非逐幀定位。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DaVW5N0iJ6e-1",
       "styles": [
         {
@@ -1697,6 +1714,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "54.866666秒CG案例合集；9.473497綠色wash圓瓶白色泡沫；11.393941青綠褶皺管狀曲面；15.696226分屏紅色線束與藍色珠粒面；24.175898藍青紫幾何字形細節，24.86428鏡頭拉遠顯示完整字形，確認camera pullback；35.133214透明三角形與黃白米色編織膨軟物；43.765814白色K形軟表面及亮綠球狀末端；52.113367黑場。不同剪接示例不可當同一物體變形。無已確認品牌型號，wash是瓶身文字不當真實品牌。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUSnE55Dn4t-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原影片多段觀察：低角度人物近景呈柔軟起伏褶皺的深色表面；中景舞者雙臂展開；後段人物後仰拱背，手臂與身體輪廓有尖刺突起。作者明列3D-CGI Simon Braud，證實含CG，但不把所有舞蹈或布料都判為模擬。沒有足夠連續證據證明尖刺生長、煙霧、液體或碰撞，所以不加這些動態。時間是讀取播放進度的觀察區段，截圖略有延遲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原影片多段觀察：低角度人物近景呈柔軟起伏褶皺的深色表面；中景舞者雙臂展開；後段人物後仰拱背，手臂與身體輪廓有尖刺突起。作者明列3D-CGI Simon Braud，證實含CG，但不把所有舞蹈或布料都判為模擬。沒有足夠連續證據證明尖刺生長、煙霧、液體或碰撞，所以不加這些動態。時間是讀取播放進度的觀察區段，截圖略有延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYZs1PBivP0-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "砂粒矩形表面先出現短條凹槽，後續形成完整S形凹槽，周圍砂粒向兩側堆起。兩次截圖有明確短槽與S形差異；短片循環且截圖延遲，時間為觀察區段。"
           ],
           "matched_tags": []
         }
@@ -10314,6 +10377,69 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "1.602至2.065秒四格展示白金細絲、粒點與薄膜團，輪廓和線條位置變化；只確認形狀變化，不猜煙火模擬。作者明示2024年任職Ars Thanea期間参与SK-II LXP品牌專案，從研發到最終視覺；全程Houdini與Redshift。六項逐一觀看，末項無下一步。不猜具體LXP子產品型號，也不把本篇推定Pyro/Vellum。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYZs1PBivP0-2",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "斜向紅色砂面有層層薄片與壓痕；後一時刻下半部變成更寬深的空隙，砂粒表層沿斜方向被推開，形成層状隆起。不將壓痕猜成鞋印或機具。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYZs1PBivP0-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "初段紅色細砂表面平整，後段出現兩組HOUDINI TIME凹字；字形邊緣砂粒堆高，形成由平面到字樣的壓印。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "初段紅色細砂表面平整，後段出現兩組HOUDINI TIME凹字；字形邊緣砂粒堆高，形成由平面到字樣的壓印。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYZs1PBivP0-4",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "紅色顆粒表面中央形成多臂旋渦凹槽，彎曲脊線繞中心改變位置，周圍出現放射狀刮痕及砂粒堆高。兩個循環位置可見脊線方向差異，不視為水流或煙霧。"
           ],
           "matched_tags": []
         }
