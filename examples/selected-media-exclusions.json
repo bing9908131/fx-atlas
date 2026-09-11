@@ -2175,5 +2175,50 @@
       8.934308
     ],
     "caption_evidence": "作者描述以重複數學運算創造數位生命；僅列 hej_fund 音效合作。"
+  },
+  {
+    "post_id": "DcZEXS6iIiW",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
+    "evidence": "17.199999秒現場錄影；1.453/3.534/5.617秒側面街景與行人，7.694/9.774秒靠近螢幕，11.841/12.500/14.594秒遠景，16.661秒回到側面。全段為實際拍攝戶外LED螢幕，未插入獨立全幅CG原片。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
+    "reference_kind": "onsite_display_documentation"
+  },
+  {
+    "post_id": "DcZEXS6iIiW",
+    "media_index": 2,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
+    "evidence": "側面近景照片，街角大樓LED螢幕顯示粉色長鼻狗、橘色狗、黑白斑點狗。可見媒體為img，前一支video位於畫面左外側。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
+    "reference_kind": "onsite_display_documentation"
+  },
+  {
+    "post_id": "DcZEXS6iIiW",
+    "media_index": 3,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
+    "evidence": "正面遠景照片，大樓、天雲、街道與螢幕，全幅實拍。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
+    "reference_kind": "onsite_display_documentation"
+  },
+  {
+    "post_id": "DcZEXS6iIiW",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
+    "evidence": "側面仰角照片，同一戶外螢幕與周圍高樓。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
+    "reference_kind": "onsite_display_documentation"
+  },
+  {
+    "post_id": "DcZEXS6iIiW",
+    "media_index": 5,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "戶外螢幕展映的現場實拍紀錄；依略過純實拍的要求排除，不把拍攝中的建築、天空誤標為CG。",
+    "evidence": "正面遠景照片，螢幕與兩側走道、天雲；末頁只有返回，無下一步、無video。 原文明示Dog Series at K-pop Square in Seoul並致謝led.art_official；品牌展映已確認，不是因未被品牌使用而排除。螢幕內確有CG狗作品，但此輪播沒有獨立原片。",
+    "reference_kind": "onsite_display_documentation"
   }
 ]

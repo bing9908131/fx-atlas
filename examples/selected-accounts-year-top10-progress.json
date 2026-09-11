@@ -6043,10 +6043,16 @@
           "shortcode": "DcZEXS6iIiW",
           "url": "https://www.instagram.com/look.deva/p/DcZEXS6iIiW/",
           "published_at": "2026-08-23T17:52:53.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcZEXS6iIiW-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
