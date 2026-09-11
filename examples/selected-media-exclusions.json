@@ -1249,5 +1249,20 @@
       13.377964,
       20.062251
     ]
+  },
+  {
+    "post_id": "DTaWPR9DR26",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "商品液體模擬R&D，作者未提供品牌採用證據，依使用者排除商品練習片的要求移出收錄。",
+    "evidence": "完整單影片30.125秒；7.145、16.906、27.974秒觀察到銀色易開罐頂部與青色背景、透明液片及液滴旋轉流動。確實含CG，非實拍誤判；正文Playing with C4D new liquid sims並標RND，沒有客戶、品牌或正式委託證據。無下一步按鈕。",
+    "observed_times": [
+      7.145099,
+      16.90576,
+      27.973669
+    ],
+    "source": "visual_and_caption",
+    "reference_kind": "product_rnd_unverified_adoption"
   }
 ]

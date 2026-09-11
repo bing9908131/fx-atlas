@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2421,
+  "total": 2428,
   "unclassified": 0,
   "counts": {
     "graphic": 546,
-    "product": 841,
+    "product": 848,
     "organic": 550,
-    "geometric": 874,
+    "geometric": 876,
     "scifi": 325,
     "effects": 204
   },
@@ -1714,6 +1714,98 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "54.866666秒CG案例合集；9.473497綠色wash圓瓶白色泡沫；11.393941青綠褶皺管狀曲面；15.696226分屏紅色線束與藍色珠粒面；24.175898藍青紫幾何字形細節，24.86428鏡頭拉遠顯示完整字形，確認camera pullback；35.133214透明三角形與黃白米色編織膨軟物；43.765814白色K形軟表面及亮綠球狀末端；52.113367黑場。不同剪接示例不可當同一物體變形。無已確認品牌型號，wash是瓶身文字不當真實品牌。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcLjvMHgbdq-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "上下相向兩組各三支黑色自動鉛筆；先有短折角筆芯，後來延長出多節鋸齒彎折。黑色菱格握柄、銀色錐狀筆尖與灰底可見。筆芯長度與曲折節數變化，非只靠鏡頭移動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "上下相向兩組各三支黑色自動鉛筆；先有短折角筆芯，後來延長出多節鋸齒彎折。黑色菱格握柄、銀色錐狀筆尖與灰底可見。筆芯長度與曲折節數變化，非只靠鏡頭移動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbGJUQ8gxtR-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "多支黑色自動鉛筆並列，細長筆芯延伸並捲成曲線，包含小型心形迴圈。觀察兩位置筆芯長度與彎曲輪廓改變，銀色筆尖與菱格握柄保持剛性。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "多支黑色自動鉛筆並列，細長筆芯延伸並捲成曲線，包含小型心形迴圈。觀察兩位置筆芯長度與彎曲輪廓改變，銀色筆尖與菱格握柄保持剛性。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAzUsTCKUU-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播靜態圖片，直立金屬叉子上有兩顆红色覆盆莓；果肉由小顆粒構成，帶細毛，銀色叉子反射高光，灰色背景。 作者本篇明示Cinema4D/Redshift/3Dart，非依外觀臆斷真實攝影。第四張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZuvh1KoLRb-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "直接觀看单影片，不是輪播。球體位置大致固定，前兩觀察畫面近似，但11.765秒區段下方球面的青色三角圖紋方向與前段明顯不同，支持緩慢旋轉；兩球相鄰不代表發生碰撞，不標撞擊、滾落。表面拼片接縫、壓紋、深藍光與彩色圖案可見。"
           ],
           "matched_tags": []
         }
@@ -10440,6 +10532,57 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "紅色顆粒表面中央形成多臂旋渦凹槽，彎曲脊線繞中心改變位置，周圍出現放射狀刮痕及砂粒堆高。兩個循環位置可見脊線方向差異，不視為水流或煙霧。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAzUsTCKUU-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播靜態圖片，紅色覆盆莓與深藍藍莓密集交錯；覆盆莓小顆粒與細毛可見，藍莓果皮帶霧面果粉，高光集中在前方果實，背景近黑。 作者本篇明示Cinema4D/Redshift/3Dart，非依外觀臆斷真實攝影。第四張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAzUsTCKUU-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播靜態圖片，灰色表面上斜放銀色四齒叉子，旁邊散置紅色覆盆莓與深藍藍莓，強烈側光形成深色投影。 作者本篇明示Cinema4D/Redshift/3Dart，非依外觀臆斷真實攝影。第四張無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAzUsTCKUU-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "逐張查看輪播靜態圖片，銀色叉子和紅色覆盆莓、深藍藍莓集中在灰色畫面中央偏上；遠景與大範圍留白，果皮霧面和金屬亮面對照。 作者本篇明示Cinema4D/Redshift/3Dart，非依外觀臆斷真實攝影。第四張無下一步。"
           ],
           "matched_tags": []
         }
