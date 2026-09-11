@@ -5140,10 +5140,12 @@
           "shortcode": "DY4uf6ntOT5",
           "url": "https://www.instagram.com/imnidiadias/reel/DY4uf6ntOT5/",
           "published_at": "2026-05-28T14:53:28.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DY4uf6ntOT5-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -5463,10 +5465,21 @@
           "shortcode": "DUnYTlGjLjK",
           "url": "https://www.instagram.com/joangarciapons/p/DUnYTlGjLjK/",
           "published_at": "2026-02-11T11:05:21.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DUnYTlGjLjK-1"
-          ]
+            "selectedyear-DUnYTlGjLjK-1",
+            "selectedyear-DUnYTlGjLjK-2",
+            "selectedyear-DUnYTlGjLjK-3",
+            "selectedyear-DUnYTlGjLjK-4",
+            "selectedyear-DUnYTlGjLjK-5",
+            "selectedyear-DUnYTlGjLjK-6",
+            "selectedyear-DUnYTlGjLjK-7",
+            "selectedyear-DUnYTlGjLjK-8",
+            "selectedyear-DUnYTlGjLjK-9",
+            "selectedyear-DUnYTlGjLjK-10"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

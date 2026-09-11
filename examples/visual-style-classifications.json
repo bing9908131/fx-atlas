@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2767,
+  "total": 2778,
   "unclassified": 0,
   "counts": {
-    "graphic": 689,
-    "product": 974,
+    "graphic": 690,
+    "product": 984,
     "organic": 630,
-    "geometric": 934,
+    "geometric": 945,
     "scifi": 358,
     "effects": 242
   },
@@ -4090,6 +4090,35 @@
       ]
     },
     {
+      "id": "selectedyear-DUnYTlGjLjK-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。4.587分割畫面：左側積木組合斜置，右側符號碎塊排列；7.250積木人形近景，9.914同人形不同朝向；11.841四種符號零件分開傾轉、正組成形狀。未推測磁力或模擬器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。4.587分割畫面：左側積木組合斜置，右側符號碎塊排列；7.250積木人形近景，9.914同人形不同朝向；11.841四種符號零件分開傾轉、正組成形狀。未推測磁力或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DcweGmAHQ4K-1",
       "styles": [
         {
@@ -4147,6 +4176,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "45.2秒16/9。0.690535快速黑白粒子拖曳；1.780677螺旋槳形物周圍粒子流，2.902612透明螺旋殼；4.031762/5.169634渦輪引擎周圍黑粒子流位置改變；6.288633風扇由粒子流中顯形，7.428597/8.549402扇葉近拍粒子殘留減少；9.662077雙風扇分離懸浮，10.803251成品，11.920786鰭片間白煙，13.052487白煙柱穿過風扇。16.196624/17.371779/18.592161線框機殼內顯示卡轉向、白箭頭循路移動；19.786898/20.968875/22.167884機殼全景與氣流圖示。23.383013/24.579641扇葉不同角度；25.752097/26.92071中央小風扇、上方網蓋懸浮，28.014797/29.106199中央網罩已覆回。30.180739/31.263175/32.352984藍煙團外擴，33.45105更稀疏流散；34.53851/35.643353三角品牌燈近拍，37.38359標誌，38.471956/39.571807/40.635413鏡頭沿金屬側邊滑動；41.732527至44.981878整卡及型號，扇葉持續改變角度。無火焰、液態水或爆破證據；粒子流不標水波，煙氣不猜Pyro，泛用軟體hashtags不當求解器證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DY4uf6ntOT5-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732816單支42.709332秒1080x1080。6.624空中彩色圓盤、圓角塊轉向；7.984紫色圖示位於白台，台側有藍黃細分層；15.323圖示到房屋柱上方，此柱升起；16.852圖示移到後方，房屋/人物/笑臉/網路四柱已依序升起；22.671五個圓角模組位於高台；24.564移到不同台階上；32.972多層模組組成中央矩形陣列，邊緣個體正在半空跳動；39.791純白收尾。標示圖示與模組移動而非液體流動，不推定水、煙、RBD、Houdini。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732816單支42.709332秒1080x1080。6.624空中彩色圓盤、圓角塊轉向；7.984紫色圖示位於白台，台側有藍黃細分層；15.323圖示到房屋柱上方，此柱升起；16.852圖示移到後方，房屋/人物/笑臉/網路四柱已依序升起；22.671五個圓角模組位於高台；24.564移到不同台階上；32.972多層模組組成中央矩形陣列，邊緣個體正在半空跳動；39.791純白收尾。標示圖示與模組移動而非液體流動，不推定水、煙、RBD、Houdini。"
           ],
           "matched_tags": []
         }
@@ -18014,6 +18072,267 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項觀看；Chrome1519732790先前逐格時間紀錄，1519732794再核對輪播與第7至10項；共10項末項僅返回無下一步。第九項為灰色褶皺靜態特寫，沒有清楚花朵，不加入花朵或花卉顏色、動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第二項靜態PLAY字樣，桌板木紋可見，沒有動畫標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第二項靜態PLAY字樣，桌板木紋可見，沒有動畫標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第三項靜態完整四符號、木板側邊與框架；方形符號中空。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第三項靜態完整四符號、木板側邊與框架；方形符號中空。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。2.387棋盤只有一排四個白面棋子；8.903棋盤多行黑白棋子且周圍有半空翻轉形體；10.052同場棋子位置和朝向不同。沒有用白面變黑面就猜材質變色。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。2.387棋盤只有一排四個白面棋子；8.903棋盤多行黑白棋子且周圍有半空翻轉形體；10.052同場棋子位置和朝向不同。沒有用白面變黑面就猜材質變色。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第五項靜態；層壓木板側邊和黑白棋子各有不同材質。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第五項靜態；層壓木板側邊和黑白棋子各有不同材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-6",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第六項靜態；此圖板材為米色平整表面，未沿用第五項明顯木紋標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第六項靜態；此圖板材為米色平整表面，未沿用第五項明顯木紋標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。4.462藍色叉形壓在綠三角上、接觸處變形；6.874分割畫面四形狀沿面翻滾；10.628綠三角歪斜受壓、紅圓皺褶；11.822藍叉底部壓扁、粉方形傾斜觸地。確定可見形變，但不推定Vellum或特定solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。4.462藍色叉形壓在綠三角上、接觸處變形；6.874分割畫面四形狀沿面翻滾；10.628綠三角歪斜受壓、紅圓皺褶；11.822藍叉底部壓扁、粉方形傾斜觸地。確定可見形變，但不推定Vellum或特定solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-8",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第八項是硬質積木靜態圖，不是第七段軟質符號；不附加擠壓回彈標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第八項是硬質積木靜態圖，不是第七段軟質符號；不附加擠壓回彈標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-9",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第九項平台近景靜態，物件平衡姿態不等於已觀察到堆疊動作。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第九項平台近景靜態，物件平衡姿態不等於已觀察到堆疊動作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUnYTlGjLjK-10",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第十項為滿版静態圖，無video，只有返回無下一步，確認完整10項。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519732810逐項檢視10媒體；1/4/7各15.04秒1280x720，其餘靜態。第十項為滿版静態圖，無video，只有返回無下一步，確認完整10項。"
           ],
           "matched_tags": []
         }
