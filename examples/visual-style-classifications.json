@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2666,
+  "total": 2667,
   "unclassified": 0,
   "counts": {
-    "graphic": 651,
+    "graphic": 652,
     "product": 930,
-    "organic": 598,
+    "organic": 599,
     "geometric": 922,
     "scifi": 347,
     "effects": 230
@@ -3462,6 +3462,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始IG41.813332秒1080x1350單支合集，分輪涵蓋開頭至結尾。1.37拼貼2.94PULK；4.54懸浮顆粒6.12波形液面7.69尖狀液體；8.48圓形加工紋9.27加工件旁碎屑；10.06/10.86黑亮片狀表面邊緣消退並有橘光；11.64/12.44/13.22機芯錶殼分層組合14.01/14.81青綠IWC錶盤；16.38錶帶纖維形成，17.96環形錶框轉動，19.51機芯21.07錶鏈組件22.66成錶24.24錶冠；25.80/26.42透明盤片橘光邊緣消退27.09錶盤組合27.78/28.46月相盤旋轉；29.13/29.82金棕片狀表面起伏30.36散成細顆粒；31.43/35.39/36.10機芯轉動32.50/33.22尖狀顆粒物件34.68白色錶帶局部顆粒消退；36.78 IWC字樣37.86白色計時腕錶38.58/40.00 Portugieser Eternal Calendar錶面。分類product/effects。橘光不等於爆炸，分解視圖不標爆破；不猜FLIP/Vellum等solver，無確認碰撞/ripple不標。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdGklSFt_Vx-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome原始Instagram影片12.352秒。3.328/3.833/4.389秒同鏡位的青藍纖維與紅色圓粒側向位移、拱頂纖維彎曲擺動，非水流。4.920/5.448/5.966秒綠色毛絨柱林、紅頂小屋之間運鏡；無足夠證據標植物生長。7.050秒CG向日葵，8.044秒花朵畫面收進SODA字形遮罩。0.488/1.463秒文字縮放，10.993/11.974秒背景SODA字母轉動。僅有人物照片作介紹，不是全片實拍。未推定Houdini、Vellum、FLIP或纖維物理解算器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome原始Instagram影片12.352秒。3.328/3.833/4.389秒同鏡位的青藍纖維與紅色圓粒側向位移、拱頂纖維彎曲擺動，非水流。4.920/5.448/5.966秒綠色毛絨柱林、紅頂小屋之間運鏡；無足夠證據標植物生長。7.050秒CG向日葵，8.044秒花朵畫面收進SODA字形遮罩。0.488/1.463秒文字縮放，10.993/11.974秒背景SODA字母轉動。僅有人物照片作介紹，不是全片實拍。未推定Houdini、Vellum、FLIP或纖維物理解算器。"
           ],
           "matched_tags": []
         }
