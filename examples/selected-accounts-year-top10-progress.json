@@ -8825,10 +8825,14 @@
           "shortcode": "DBzIMvStuHI",
           "url": "https://www.instagram.com/simonholmedal/p/DBzIMvStuHI/",
           "published_at": "2024-10-31T18:39:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DBzIMvStuHI-1"
-          ]
+            "selectedyear-DBzIMvStuHI-1",
+            "selectedyear-DBzIMvStuHI-2",
+            "selectedyear-DBzIMvStuHI-3"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

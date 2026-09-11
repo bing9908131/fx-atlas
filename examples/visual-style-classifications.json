@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2616,
+  "total": 2619,
   "unclassified": 0,
   "counts": {
-    "graphic": 638,
+    "graphic": 640,
     "product": 904,
     "organic": 590,
     "geometric": 909,
     "scifi": 335,
-    "effects": 218
+    "effects": 221
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -1978,6 +1978,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原影片多段觀察：低角度人物近景呈柔軟起伏褶皺的深色表面；中景舞者雙臂展開；後段人物後仰拱背，手臂與身體輪廓有尖刺突起。作者明列3D-CGI Simon Braud，證實含CG，但不把所有舞蹈或布料都判為模擬。沒有足夠連續證據證明尖刺生長、煙霧、液體或碰撞，所以不加這些動態。時間是讀取播放進度的觀察區段，截圖略有延遲。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DBzIMvStuHI-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0秒暖色骷髏；1.479秒橫向分層；3.071秒白色碎塊散出；4.152/9.789秒線框；6.031/16.355/22.811秒暖色沙化；17.176/19.055秒骷髏邊緣侵蝕與塵雲擴大；20.918/31.037/32.635秒碎片向周圍散出，末尾Panoply字樣。1276x720。橫條為合成分層切換，非實體切割；橘黃為沙塵與燈光，未標火焰。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0秒暖色骷髏；1.479秒橫向分層；3.071秒白色碎塊散出；4.152/9.789秒線框；6.031/16.355/22.811秒暖色沙化；17.176/19.055秒骷髏邊緣侵蝕與塵雲擴大；20.918/31.037/32.635秒碎片向周圍散出，末尾Panoply字樣。1276x720。橫條為合成分層切換，非實體切割；橘黃為沙塵與燈光，未標火焰。"
           ],
           "matched_tags": []
         }
@@ -14463,6 +14492,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Instagram輪播逐次點選第14/14張的實際靜態圖片。閉合的白色圓蓋斜角特寫，中央 ZHIBEN 立體字樣與側邊半圓缺口可見，背景灰白柔光。 全篇14張；末張只剩返回按鈕；未出現video元素。沒有將圖片切換當作動態，沒有液體或泡沫效果。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DBzIMvStuHI-2",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.311秒眼窩外形完整，2.686秒表面散成粉塵；4.076至5.451及6.194秒同段額頭邊界持續崩解、碎塊散出；9.030至10.312至11.619秒另一近景由完整眉骨進展到孔洞擴大及塵霧覆蓋。1276x720。只標砂塵，不把它當成液體或火焰。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DBzIMvStuHI-3",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.013/4.084秒枯枝骨骼和沙面；6.230/8.307秒鏡頭沿殘缺頭骨移動；10.418/12.273秒俯視多顆頭骨；13.549至17.394秒FX遮罩下骷髏邊缘持續剝落；28.595秒長骨；31.143/33.729/36.335秒骷髏近景侵蝕；38.927秒沙地；45.028/47.616/50.193秒塵雲覆蓋增加及碎屑散落，52.756秒AHS文字遮罩。638x360後續串流同56.033333秒。最後只有返回按鈕，輪播共3支。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2.013/4.084秒枯枝骨骼和沙面；6.230/8.307秒鏡頭沿殘缺頭骨移動；10.418/12.273秒俯視多顆頭骨；13.549至17.394秒FX遮罩下骷髏邊缘持續剝落；28.595秒長骨；31.143/33.729/36.335秒骷髏近景侵蝕；38.927秒沙地；45.028/47.616/50.193秒塵雲覆蓋增加及碎屑散落，52.756秒AHS文字遮罩。638x360後續串流同56.033333秒。最後只有返回按鈕，輪播共3支。"
           ],
           "matched_tags": []
         }
