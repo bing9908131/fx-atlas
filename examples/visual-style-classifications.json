@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2481,
+  "total": 2482,
   "unclassified": 0,
   "counts": {
-    "graphic": 587,
+    "graphic": 588,
     "product": 850,
     "organic": 560,
     "geometric": 896,
@@ -2363,6 +2363,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "3.806和4.185秒灰白煙狀區域輪廓改變、圓點大小與亮點位置改變。煙狀背景是可見影像，不證明煙霧求解器；圓點保持規則格點。 五段輪播逐一觀看，第五段無下一步；時間為截圖附近讀值，循環播放。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZLwz7TN1Vq-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支37.522秒正方形動畫，無輪播。5.361秒粉底橘色曲線形Oils卡片；14.683秒淺青底深藍不規則圓形Edibles卡片；22.596秒淺青底橘色長圓形Slow Onset卡片。前景卡片與文字依序替換，背景彩色卡片位置改變並維持強烈模糊。可見形狀變換和版面切換；不把Oils、Edibles文字當作實際油或食物物件，也不將柔軟曲線推定為液體/布料模擬。时间為截圖附近讀值。"
           ],
           "matched_tags": []
         }
