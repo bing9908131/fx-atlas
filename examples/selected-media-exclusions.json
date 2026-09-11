@@ -2374,5 +2374,26 @@
       42.971903,
       44.436894
     ]
+  },
+  {
+    "post_id": "DdCIIhMz3lG",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "unverified_personal_exploration",
+    "reason": "CG技術探索，未找到品牌委託或採用證據，不符合目前品牌使用的收錄條件。不是因為沒有辨別出CG而排除。",
+    "evidence": "Chrome1519732694原作者只描述Blender Geometry Nodes與volume shading及渲染時間。20.014148秒影片，0.392/1.262/2.138/3.004、6.965/7.834/8.700/9.564/10.440及19.728畫面皆為青藍背景上相連透明球體，內部雲狀黑白體積紋理持續變化。無產品品牌或專案署名。音樂Aura Minimum Spatial Dub是配樂，不能当作品牌採用證據。",
+    "observed_times": [
+      0.391958,
+      1.261774,
+      2.138442,
+      3.003952,
+      6.965329,
+      7.833998,
+      8.699851,
+      9.563889,
+      10.440213,
+      19.728328
+    ]
   }
 ]
