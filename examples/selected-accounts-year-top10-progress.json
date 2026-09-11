@@ -30,11 +30,12 @@
           "published_at": "2026-06-25T16:47:02.000Z",
           "likes": 2003,
           "likes_evidence": "marco.londero和其他2002人都說讚",
-          "cg_review": "wood block stack seen on video; motion review incomplete",
-          "status": "imported_partial_visual_review",
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media.",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DaBB2KBN567-1"
-          ]
+          ],
+          "excluded_media_indices": []
         },
         {
           "shortcode": "DZb_q5Stjji",
@@ -1384,10 +1385,12 @@
           "shortcode": "DO-bPGdCoN_",
           "url": "https://www.instagram.com/art.of.styleframe/p/DO-bPGdCoN_/",
           "published_at": "2025-09-23",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DO-bPGdCoN_-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -1407,19 +1410,23 @@
           "shortcode": "DcL4pQbhAR8",
           "url": "https://www.instagram.com/gxace/reel/DcL4pQbhAR8/",
           "published_at": "2026-08-19T11:17:39.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcL4pQbhAR8-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DcGacl-B8RM",
           "url": "https://www.instagram.com/gxace/reel/DcGacl-B8RM/",
           "published_at": "2026-08-16T12:00:03.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcGacl-B8RM-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -1439,19 +1446,23 @@
           "shortcode": "DZzfBCDz5hN",
           "url": "https://www.instagram.com/atom63_/reel/DZzfBCDz5hN/",
           "published_at": "2026-06-20T10:36:00.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZzfBCDz5hN-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DZV1Cl2TCr8",
           "url": "https://www.instagram.com/atom63_/reel/DZV1Cl2TCr8/",
           "published_at": "2026-06-08T22:07:19.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZV1Cl2TCr8-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

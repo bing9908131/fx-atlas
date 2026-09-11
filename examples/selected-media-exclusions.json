@@ -270,5 +270,29 @@
     "decision": "exclude",
     "reason": "工作室實際辦公室的介紹頁，餐桌椅與花瓶照片，文字介紹historical Loods6 building in Amsterdam及Studio Bakker設計；無可確認CG作品畫面，依使用者排除純實拍。",
     "evidence": "第5/8張靜態網站截圖，白色雙欄版面，左側介紹實際工作場所，右側桌椅花瓶照片。"
+  },
+  {
+    "post_id": "DO-bPGdCoN_",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "software_promotion_without_cg_reference",
+    "evidence": "單張工具宣傳封面：PROJECT OPS CODE GENERATOR、標誌與小字，背景模糊程式碼畫面。作者說明是專案代號生成器，不是CG作品展示；無影片或輪播，不能依附帶大量軟體hashtag判為CG。"
+  },
+  {
+    "post_id": "DcL4pQbhAR8",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "live_action_product_footage",
+    "evidence": "GXACE與Ash Thorp合作GX-P1相機公布，作者明說not a render、real working camera。7.583372/14.103532/23.014411為暗光下相機背側/頂面產品展示，未見CG模擬段；此篇CNC是實機加工歷程，不能當CG切削效果。單影片無輪播。"
+  },
+  {
+    "post_id": "DcGacl-B8RM",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "live_action_aerial_footage",
+    "evidence": "作者標明Shot on Fujifilm GFX Eterna55、film photos developed by Gelatinlabs。單影片56.375秒；6.832443牲畜棚俯視、16.97579太陽能板實景反光、30.563926與41.484908大型養殖場牲畜與棚頂實景空拍，無可確認CG效果。"
   }
 ]

@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2212,
+  "total": 2214,
   "unclassified": 0,
   "counts": {
-    "graphic": 463,
+    "graphic": 465,
     "product": 801,
     "organic": 480,
     "geometric": 838,
@@ -1761,6 +1761,40 @@
       ]
     },
     {
+      "id": "selectedyear-DZzfBCDz5hN-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支介面錄影。7.162378粉色桌布與聊天視窗；17.605469設定面板與資料夾視窗；35.482992深紫暗色終端主題；45.629373右側通知面板展開；57.706996淺紫主題與圖示/圓角控制；68.519108黃色主題。可辨識視窗展開、介面配色及主題切換，非3D物理動畫。按使用者UI/icon範圍納入graphic，不把壁紙當CG動態或物理材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZV1Cl2TCr8-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "一秒正方形影片；0.268513兩個白色菱形開口形成偏水平輪廓、Thinking左側較亮；0.636907圖示轉為斜向輪廓、文字中段較暗。固定排版位置，圖示角度變化與文字亮度變化可見。作者明說logo animated for processing states；不推定具體品牌或3D工具。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DZKek3hNXOC-1",
       "styles": [
         {
@@ -1827,16 +1861,12 @@
           "zh": "幾何構成",
           "en": "Geometric Forms",
           "role": "primary",
-          "source": "existing_media_tags",
-          "review_status": "tag_based",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
           "evidence": [
-            "依個別素材現有標籤分類；不使用發布人、品牌或整篇文案。"
+            "9.611609秒單影片。0.340473各木塊傾斜相接，1.939234方塊分開且繞角翻轉，9.551139重新水平堆疊成塔。五塊木塊、木紋截面年輪、灰綠背景。確認翻轉/分離/堆疊循環，未證實RBD或碰撞solver；正文本身只有shipthework 9/9，不能套用其他相關貼文的軟體資訊。"
           ],
-          "matched_tags": [
-            "cube",
-            "wood block",
-            "立方體"
-          ]
+          "matched_tags": []
         }
       ]
     },
