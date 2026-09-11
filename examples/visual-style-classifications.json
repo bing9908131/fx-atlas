@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2847,
+  "total": 2849,
   "unclassified": 0,
   "counts": {
     "graphic": 721,
-    "product": 1024,
+    "product": 1025,
     "organic": 637,
-    "geometric": 958,
-    "scifi": 358,
-    "effects": 250
+    "geometric": 959,
+    "scifi": 359,
+    "effects": 251
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4514,6 +4514,35 @@
       ]
     },
     {
+      "id": "selectedyear-DcOkB_2PsE1-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單一19.933333秒720x1280。1.261069粒子場近景上下超出邊框，中央暗區細紅點；7.424152較完整沙漏/雙葉狀上下扇形發光點線，中腰收窄；18.169287/18.350448/18.861115全體縮小且亮點與光束強度不同。可見鏡頭拉遠、粒子位置/亮度變化；未可靠判斷徑向移動方向，不把縮放推成擴散或聚集。橘紅發光不是火焰，無煙或爆炸證據。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單一19.933333秒720x1280。1.261069粒子場近景上下超出邊框，中央暗區細紅點；7.424152較完整沙漏/雙葉狀上下扇形發光點線，中腰收窄；18.169287/18.350448/18.861115全體縮小且亮點與光束強度不同。可見鏡頭拉遠、粒子位置/亮度變化；未可靠判斷徑向移動方向，不把縮放推成擴散或聚集。橘紅發光不是火焰，無煙或爆炸證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-Db-9tP6CBTW-1",
       "styles": [
         {
@@ -4658,6 +4687,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732893單支18.791666秒1080x1920。3.906黑白人物戴透明眼鏡，未聲稱人物CG；6.280鉸鏈較模糊，6.443同一構圖金色鉸鏈變清楚，可見暗綠鏡片與玳瑁紋；9.169透明鏡腳中的金色件ATLANT刻字特寫；14.049琥珀色鏡框與銀色鉸鏈；15.867透明鏡框側面懸浮、長鏡腳延伸下方；17.215黑色地面白色噴柱和ATLANT標誌。最後噴柱是否CG未知，不填煙霧求解或噴發模擬。不能用不同款式剪接推定鏡腳開合組裝或變形。未辨識型號不臆填。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C2ednr2gvQo-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "IG單一10.005333秒影片720x1280：3.171440近景黑色圓形關節、黃橘線纜、綠色電路板置於黑銀立柱；7.760432大範圍斜向排列白色機械臂向外伸展，9.050568同列手臂姿態較收攏，關節角度改變且動作沿列編排。僅標關節轉動、彎折與同步編排；未確認實際加工/切削/焊接/抓取/碰撞，不加CNC或物理模擬標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "IG單一10.005333秒影片720x1280：3.171440近景黑色圓形關節、黃橘線纜、綠色電路板置於黑銀立柱；7.760432大範圍斜向排列白色機械臂向外伸展，9.050568同列手臂姿態較收攏，關節角度改變且動作沿列編排。僅標關節轉動、彎折與同步編排；未確認實際加工/切削/焊接/抓取/碰撞，不加CNC或物理模擬標籤。"
           ],
           "matched_tags": []
         }

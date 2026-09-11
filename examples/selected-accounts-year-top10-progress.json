@@ -4050,10 +4050,12 @@
           "shortcode": "C2ednr2gvQo",
           "url": "https://www.instagram.com/flojuri/reel/C2ednr2gvQo/",
           "published_at": "2024-01-24T08:49:01.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-C2ednr2gvQo-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "C2P9O5XReOb",
@@ -4622,10 +4624,12 @@
           "shortcode": "DcOkB_2PsE1",
           "url": "https://www.instagram.com/gmunk/reel/DcOkB_2PsE1/",
           "published_at": "2026-08-19T15:59:13.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DcOkB_2PsE1-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
