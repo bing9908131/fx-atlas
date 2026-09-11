@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2417,
+  "total": 2416,
   "unclassified": 0,
   "counts": {
-    "graphic": 547,
+    "graphic": 546,
     "product": 841,
     "organic": 549,
     "geometric": 874,
     "scifi": 324,
-    "effects": 201
+    "effects": 200
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -209,35 +209,6 @@
     "seed1"
   ],
   "items": [
-    {
-      "id": "selectedyear-DbQrqIfKbJh-1",
-      "styles": [
-        {
-          "id": "graphic",
-          "zh": "圖標與介面",
-          "en": "Icons & UI",
-          "role": "primary",
-          "source": "visual_review",
-          "review_status": "visual_reviewed",
-          "evidence": [
-            "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
-          ],
-          "matched_tags": []
-        },
-        {
-          "id": "effects",
-          "zh": "動態特效",
-          "en": "Visual Effects",
-          "role": "secondary",
-          "source": "visual_review",
-          "review_status": "visual_reviewed",
-          "evidence": [
-            "Instagram 播放畫面核對：1.70秒視窗在螢幕內；2.89、3.84秒介面橫跨兩螢幕並出現向外的彎曲面；6.90秒可見手部與離屏視窗的前後遮擋。是真實桌面加合成效果；未確認使用何種軟體或模擬器。"
-          ],
-          "matched_tags": []
-        }
-      ]
-    },
     {
       "id": "selectedyear-DC4VFp0NL2T-1",
       "styles": [

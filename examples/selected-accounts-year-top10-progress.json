@@ -4736,12 +4736,12 @@
           "shortcode": "DbQrqIfKbJh",
           "url": "https://www.instagram.com/hamidebrahimnia/reel/DbQrqIfKbJh/",
           "published_at": "2026-07-26T15:13:40.000Z",
-          "status": "visual_reviewed",
-          "media_ids": [
-            "selectedyear-DbQrqIfKbJh-1"
-          ],
+          "status": "excluded",
+          "media_ids": [],
           "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media.",
-          "excluded_media_indices": []
+          "excluded_media_indices": [
+            1
+          ]
         },
         {
           "shortcode": "DbBFi5mKbVH",

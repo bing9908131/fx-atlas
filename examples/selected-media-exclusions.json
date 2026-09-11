@@ -1062,5 +1062,14 @@
     "decision": "exclude",
     "reason": "攝影敘事圖像，未確認為 CG 或特效製作參考。",
     "evidence": "逐張檢查 Instagram 輪播第 13/13 張：麵包店櫥窗文字與待續標牌。作者描述十三張巴黎麵包店日常照片，標記 editorialphotography、photostory 等；未提供 CG 製作證據。不將其宣稱為真實歷史照片或 AI 生成。第13張確認無下一步。"
+  },
+  {
+    "post_id": "DbQrqIfKbJh",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "使用者要求移除「檔案視窗拉出螢幕 · UI 彎折合成」。",
+    "evidence": "User explicitly requested removal by exact title; exclude regardless of previous CG assessment.",
+    "source": "user"
   }
 ]
