@@ -6437,10 +6437,22 @@
           "shortcode": "DbI14N4jT4S",
           "url": "https://www.instagram.com/masd.lab/p/DbI14N4jT4S/",
           "published_at": "2026-07-23T14:07:03.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DbI14N4jT4S-1"
-          ]
+            "selectedyear-DbI14N4jT4S-1",
+            "selectedyear-DbI14N4jT4S-2",
+            "selectedyear-DbI14N4jT4S-3",
+            "selectedyear-DbI14N4jT4S-4",
+            "selectedyear-DbI14N4jT4S-5",
+            "selectedyear-DbI14N4jT4S-6",
+            "selectedyear-DbI14N4jT4S-7",
+            "selectedyear-DbI14N4jT4S-8",
+            "selectedyear-DbI14N4jT4S-9",
+            "selectedyear-DbI14N4jT4S-10",
+            "selectedyear-DbI14N4jT4S-11"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DadNLJNjU3y",

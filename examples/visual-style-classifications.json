@@ -1,10 +1,10 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2534,
+  "total": 2545,
   "unclassified": 0,
   "counts": {
-    "graphic": 602,
+    "graphic": 613,
     "product": 865,
     "organic": 570,
     "geometric": 907,
@@ -2632,6 +2632,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "26.048秒：2.622889粉色長條膏體、粗糙邊緣；4.361629珊瑚色彎曲膏體；9.289782蓝色閃粉膏；15.034107金銅色光澤彎曲條；20.81681玫瑰金長曲形粗糙邊；24.105928桃紅彎曲膏體頂端呈厚卷曲塊。各段展示形態、配色和表面切換，不推定真實塗抹工具或物理solver。無輪播。只描述可見材質與形態，不加Houdini、FLIP、Vellum、真實液體流動或品牌委託。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "密集切片與多重輪廓重疊的黑色23，白色網格縫隙。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
           ],
           "matched_tags": []
         }
@@ -12817,6 +12834,176 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "黑色背景中的抽象異形花瓣，大片彎曲薄片彼此包覆，表面有細密縱向紋理、銅粉色高光與深色凹折。逐張查看共3張，末張僅返回按鈕，DOM無video。這是靜態造型及光影，不推定旋轉、生長、流動、布料或液體模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "放大的黑色23重複錯位，白色橫向間隙切斷粗筆畫。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "黑色23被矩形網格分段，字形邊緣帶立體明暗漸層。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-4",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "23字形呈柔焦黑灰暈邊，細網格造成錯位切片。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "方形像素塊排成23，邊緣模糊並有灰色顆粒。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-6",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "較粗的大型圓角方塊拼成23，方塊內有方向不同的灰階漸層。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "較細圓角方塊排成清楚的23，黑灰顆粒及模糊外暈。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-8",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "全幅直向條帶形成棱鏡般折射錯位的23，字形周圍有紅黃藍色邊。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "極簡黑色圓弧與幾何切片構成抽象23，中央接縫有柔和高光。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-10",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "較大網格切片中的柔焦23，黑色字形在格線處錯位且帶灰階暈邊。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbI14N4jT4S-11",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "中等大小圆角方塊拼成23，斜向灰階漸層、顆粒和模糊邊。逐張檢視十一張靜態圖，末張只有返回按鈕且無video。不因切片或錯位外觀推定切割、旋轉等動畫，不推定真實玻璃或軟體。"
           ],
           "matched_tags": []
         }
