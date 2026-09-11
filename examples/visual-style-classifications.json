@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2687,
+  "total": 2689,
   "unclassified": 0,
   "counts": {
     "graphic": 659,
     "product": 941,
     "organic": 608,
     "geometric": 923,
-    "scifi": 347,
-    "effects": 235
+    "scifi": 349,
+    "effects": 236
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -2169,6 +2169,52 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第一項為靜態IMG，右側5.154829秒video是第二項。車輪無已觀察動態，修正原本video類型。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYXP7YeiAKw-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "可見單張1350x1688 IMG三格拼圖，無video無Next。上格隧道入口，中格城市，下格裝備角色。碎石僅為靜態殘骸，不標破碎動態、倒塌或行走。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYSGXbeiEIG-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張1350x1688 IMG三格拼圖，無video無Next。上格暗色地面與人物，中格燃燒建築角色剪影，下格防護面罩人物抱人。火焰外觀確認但沒有時間序列，不標擴散、爆炸或燃燒動作，不推測pyro求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單張1350x1688 IMG三格拼圖，無video無Next。上格暗色地面與人物，中格燃燒建築角色剪影，下格防護面罩人物抱人。火焰外觀確認但沒有時間序列，不標擴散、爆炸或燃燒動作，不推測pyro求解器。"
           ],
           "matched_tags": []
         }
