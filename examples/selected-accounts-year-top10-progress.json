@@ -5021,10 +5021,12 @@
           "shortcode": "DZ7B_hSI0km",
           "url": "https://www.instagram.com/iantseng_wysi/reel/DZ7B_hSI0km/",
           "published_at": "2026-06-23T08:53:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZ7B_hSI0km-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
@@ -9087,10 +9089,12 @@
           "shortcode": "DZWlhzHxluN",
           "url": "https://www.instagram.com/studiobyts/reel/DZWlhzHxluN/",
           "published_at": "2026-06-09T05:12:02.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DZWlhzHxluN-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
