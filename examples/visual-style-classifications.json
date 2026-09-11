@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2706,
+  "total": 2710,
   "unclassified": 0,
   "counts": {
-    "graphic": 661,
-    "product": 958,
-    "organic": 608,
+    "graphic": 663,
+    "product": 960,
+    "organic": 610,
     "geometric": 923,
     "scifi": 349,
     "effects": 237
@@ -5648,6 +5648,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支1080方形影片31.936秒。0–1.721裝置懸浮，2.603金屬連接器，3.475彩色節點環形陣列4.337圓形曲線5.222放射線；6.452實拍手操作，7.481控制器，8.509筆電9.563筆尖，10.587線框飛機；11.608/12.626白色粒子曲線網變形。13.675/14.190裝置分割近景14.972放射排列15.729鍵盤16.502綠外殼；17.251/18.021滑板為實拍，18.800花卉素材19.592空間介面；19.981至20.911點雲花朵旋轉並由鬆散粒子變為較實體花朵，不說自然生長。21.234/21.548綠紫布片層疊起伏，21.859鏡片示意，22.411幾何膠囊圖形；23.333手部關蓋24.268銀筆電25.186線框道路26.092廚房27.011彩色節點介面27.939筆電UI28.862/29.785產品合影與品牌結尾。未把實拍滑板動作當CG碰撞，不推定液體/煙/火或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBwRD8lZ7M-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第1/4影片逐項視覺核對。0.227/1.140布料褶皺變化；2.064至7.587節點及灰階織線；10.668/11.635/12.622縫線路徑由直變彎再直；13.593至19.453為彩色遮罩；20.433至23.749完成服裝視角變化。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第1/4影片逐項視覺核對。0.227/1.140布料褶皺變化；2.064至7.587節點及灰階織線；10.668/11.635/12.622縫線路徑由直變彎再直；13.593至19.453為彩色遮罩；20.433至23.749完成服裝視角變化。 僅記錄可見外觀，未推定纖維成分或模擬器。"
           ],
           "matched_tags": []
         }
@@ -16617,6 +16646,69 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "逐項點選第8/8媒體。紅黃包裝表面透明圓潤水滴的特寫，近處水滴有折射與淺景深散景。 實際為靜態圖片，未標記運動。 第8項只有返回、沒有下一步且無video，確認總數8。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBwRD8lZ7M-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第2/4影片逐項視覺核對。0.324多股橫向線束交織；0.958密集斜針腳；1.200較疏斜針腳；1.805/2.429單列白色針腳與灰階背景改變。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBwRD8lZ7M-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第3/4影片逐項視覺核對。0.193直路徑/0.796弧線；1.404/2.021針腳密度變化；3.119紅線3.785綠線；5.208紅藍遮罩；5.837/6.468/7.707切多種縫線並轉視角拉近。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdBwRD8lZ7M-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第4/4影片逐項視覺核對。0.114/0.924上衣轉動；3.273/4.109腰部布邊位置改變；4.947/5.751近景褶皺波動。最後第4點亮，只見返回沒有下一步，確認共4個影片。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "原始輪播第4/4影片逐項視覺核對。0.114/0.924上衣轉動；3.273/4.109腰部布邊位置改變；4.947/5.751近景褶皺波動。最後第4點亮，只見返回沒有下一步，確認共4個影片。 僅記錄可見外觀，未推定纖維成分或模擬器。"
           ],
           "matched_tags": []
         }
