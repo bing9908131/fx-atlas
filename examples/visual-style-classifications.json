@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2508,
+  "total": 2509,
   "unclassified": 0,
   "counts": {
     "graphic": 589,
     "product": 859,
     "organic": 566,
     "geometric": 903,
-    "scifi": 331,
+    "scifi": 332,
     "effects": 209
   },
   "fallback_count": 194,
@@ -2254,6 +2254,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "砂粒矩形表面先出現短條凹槽，後續形成完整S形凹槽，周圍砂粒向兩側堆起。兩次截圖有明確短槽與S形差異；短片循環且截圖延遲，時間為觀察區段。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbFF003zAFB-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支31.136507秒影片，無輪播。4.819/5.007與16.526秒藍色科幻機車和貓耳頭盔騎士在暗街騎行，背景位移並有側面跟拍。18.182秒正面傾斜转彎；19.387秒黃色風罩與前輪周邊殼件分離；27.184秒車身零件間距更明顯、騎士坐姿抬高。可確認機械拆解/零件分離，不推定爆炸碰撞或逆向組裝。18.182秒截圖有幾秒延遲，僅作正面轉彎段定位。"
           ],
           "matched_tags": []
         }
