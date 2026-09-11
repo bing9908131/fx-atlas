@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2586,
+  "total": 2589,
   "unclassified": 0,
   "counts": {
     "graphic": 631,
-    "product": 886,
-    "organic": 582,
+    "product": 889,
+    "organic": 585,
     "geometric": 909,
     "scifi": 335,
     "effects": 217
@@ -1772,6 +1772,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "多支黑色自動鉛筆並列，細長筆芯延伸並捲成曲線，包含小型心形迴圈。觀察兩位置筆芯長度與彎曲輪廓改變，銀色筆尖與菱格握柄保持剛性。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZWmpqIGeni-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.7427/1.658964/2.562157軟管拉遠，標籤PORE POLISHING PEEL-OFF MASK；5.982128/6.441445/6.88603連續珠光膏條由上流下、彎折接觸下方堆疊，7.790739–10.497188膏層近拍，11.397326文字14.951056品牌。沒有撕下面膜動作，不因型號Peel-Off增加剝離標籤。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.7427/1.658964/2.562157軟管拉遠，標籤PORE POLISHING PEEL-OFF MASK；5.982128/6.441445/6.88603連續珠光膏條由上流下、彎折接觸下方堆疊，7.790739–10.497188膏層近拍，11.397326文字14.951056品牌。沒有撕下面膜動作，不因型號Peel-Off增加剝離標籤。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
           ],
           "matched_tags": []
         }
@@ -13905,6 +13934,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "0.085089牆角鞋影；0.588769鞋底影中出現亮孔，1.112784影子輪廓及位置變化，1.625487與2.319417白鞋懸浮在左、影在右牆。2.91775鞋舌和鞋帶，3.512483及3.93664鏡頭沿鞋面下移露出更多鞋頭網眼；4.70581片尾文字、5.446941ECCO。投影與運鏡可見，不推測骨骼、布料解算。 全部為4/5短片，片尾字母逐漸組成BIOM720文字再切ECCO標誌。材質僅描述可見外觀，不推定Houdini、Vellum、RBD、FLIP等工具或求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZWmpqIGeni-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.327188–2.55315透明橘色按壓瓶拉遠，型號RICE FOAMING DEEP CLEANSER；3.400586/4.22951/5.076783透明泡沫連片與大量小氣泡，5.923544失焦過渡；6.767023乳白與透明球，8.588586/9.36905/10.182311/10.992835/11.800144/12.589141球體位置與輪廓緩慢變動，13.383712文字15.750569品牌。沒有明確爆泡、融合或水面漣漪，不標這些動態。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.327188–2.55315透明橘色按壓瓶拉遠，型號RICE FOAMING DEEP CLEANSER；3.400586/4.22951/5.076783透明泡沫連片與大量小氣泡，5.923544失焦過渡；6.767023乳白與透明球，8.588586/9.36905/10.182311/10.992835/11.800144/12.589141球體位置與輪廓緩慢變動，13.383712文字15.750569品牌。沒有明確爆泡、融合或水面漣漪，不標這些動態。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DZWmpqIGeni-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.873136/2.732017保濕瓶拉遠，包裝SHINE CONTROL WEIGHTLESS MOISTURIZER；3.590117球在液面上方，4.42224靠近5.261349接觸6.104675融合頸部6.966716融入平滑表面；7.821299/8.690824/9.035142/9.866635/10.726685/11.585005乳霜團塊起伏逐漸收圓，12.443739文字14.14676品牌。沒有噴濺或明確環形漣漪。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "1.873136/2.732017保濕瓶拉遠，包裝SHINE CONTROL WEIGHTLESS MOISTURIZER；3.590117球在液面上方，4.42224靠近5.261349接觸6.104675融合頸部6.966716融入平滑表面；7.821299/8.690824/9.035142/9.866635/10.726685/11.585005乳霜團塊起伏逐漸收圓，12.443739文字14.14676品牌。沒有噴濺或明確環形漣漪。 三段皆為720×970；第三段末頁只有返回按鈕。未推定任何模擬軟體或solver。"
           ],
           "matched_tags": []
         }
