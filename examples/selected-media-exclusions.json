@@ -1071,5 +1071,169 @@
     "reason": "使用者要求移除「檔案視窗拉出螢幕 · UI 彎折合成」。",
     "evidence": "User explicitly requested removal by exact title; exclude regardless of previous CG assessment.",
     "source": "user"
+  },
+  {
+    "post_id": "DcOPxOah_c9",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "title": "Yifan × Vacades · 拉動相機構圖線",
+    "description": "實拍人物與相機構圖線互動，將原本水平的白色格線拉高彎曲，再從線條旁走過；保留為實拍合成特效參考。",
+    "type": "video",
+    "ratio": "9 / 16",
+    "duration_seconds": 9.56,
+    "reference_kind": "original_cg_art",
+    "observed_times": [
+      2.128,
+      3.885,
+      5.193,
+      8.288
+    ],
+    "evidence": "原貼文與使用者截圖核對一致，依使用者指定排除。",
+    "brand_evidence": "yifan.liii與vacades共同發布，caption nothing can stop me，合作留言確認collab；無明示商品品牌，不猜手機型號或衣服品牌。",
+    "style_ids": [
+      "graphic",
+      "effects"
+    ],
+    "tags": [
+      [
+        "camera interface",
+        "相機介面",
+        "subject",
+        [
+          "UI",
+          "使用者介面"
+        ]
+      ],
+      [
+        "grid",
+        "構圖格線",
+        "subject",
+        [
+          "網格",
+          "九宮格",
+          "線條"
+        ]
+      ],
+      [
+        "woman",
+        "女性人物",
+        "subject",
+        [
+          "女人",
+          "人物"
+        ]
+      ],
+      [
+        "dress",
+        "洋裝",
+        "subject",
+        [
+          "長裙"
+        ]
+      ],
+      [
+        "building",
+        "建築",
+        "subject",
+        [
+          "曲面建築"
+        ]
+      ],
+      [
+        "fabric",
+        "布料",
+        "material",
+        [
+          "織物",
+          "布"
+        ]
+      ],
+      [
+        "concrete",
+        "混凝土",
+        "material",
+        [
+          "水泥"
+        ]
+      ],
+      [
+        "metal cladding",
+        "金屬外牆",
+        "material",
+        [
+          "金屬板"
+        ]
+      ],
+      [
+        "black",
+        "黑色",
+        "color",
+        [
+          "黑"
+        ]
+      ],
+      [
+        "white",
+        "白色",
+        "color",
+        [
+          "白"
+        ]
+      ],
+      [
+        "gray",
+        "灰色",
+        "color",
+        [
+          "灰"
+        ]
+      ],
+      [
+        "red",
+        "紅色",
+        "color",
+        [
+          "紅"
+        ]
+      ],
+      [
+        "pull",
+        "拉動",
+        "motion",
+        [
+          "拉扯",
+          "提起"
+        ]
+      ],
+      [
+        "bend",
+        "彎曲",
+        "motion",
+        [
+          "折彎",
+          "線條變形"
+        ]
+      ],
+      [
+        "walk",
+        "行走",
+        "motion",
+        [
+          "走路"
+        ]
+      ],
+      [
+        "live-action compositing",
+        "實拍合成",
+        "subject",
+        [
+          "VFX",
+          "視覺特效"
+        ]
+      ]
+    ],
+    "reason": "使用者要求移除：Yifan × Vacades 拉動相機構圖線",
+    "source": "user"
   }
 ]

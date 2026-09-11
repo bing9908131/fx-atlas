@@ -59,5 +59,19 @@
     "excluded_at": "2026-09-11",
     "source": "user",
     "evidence": "已在 Instagram 原貼文核對封面與使用者截圖一致；整篇依使用者要求排除，非宣稱已逐張分析輪播。"
+  },
+  {
+    "post_id": "DcOPxOah_c9",
+    "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
+    "reason": "使用者指定截圖要求移除：Yifan × Vacades 拉動相機構圖線",
+    "excluded_at": "2026-09-11",
+    "source": "user"
+  },
+  {
+    "post_id": "DdBHe9DtfbT",
+    "url": "https://www.instagram.com/a_iwaac/reel/DdBHe9DtfbT/",
+    "reason": "使用者指定截圖要求移除：Best Student Artworks Part 1",
+    "excluded_at": "2026-09-11",
+    "source": "user"
   }
 ]

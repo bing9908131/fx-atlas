@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2416,
+  "total": 2415,
   "unclassified": 0,
   "counts": {
-    "graphic": 546,
+    "graphic": 545,
     "product": 841,
     "organic": 549,
     "geometric": 874,
     "scifi": 324,
-    "effects": 200
+    "effects": 199
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -925,35 +925,6 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "3.336橘紅發光曲折線條特寫；6.321至6.558雷電分支形狀和細碎火星位置改變，槌置於地面；15.756與17.155清楚可讀Thor, God of Thunder及Wizards/Marvel卡面版權。17.155斜向圖形轉場。未看到槌從空中落下撞地的完整因果，不標碰撞；雷電不誤標為火焰。"
-          ],
-          "matched_tags": []
-        }
-      ]
-    },
-    {
-      "id": "selectedyear-DcOPxOah_c9-1",
-      "styles": [
-        {
-          "id": "graphic",
-          "zh": "圖標與介面",
-          "en": "Icons & UI",
-          "role": "primary",
-          "source": "visual_review",
-          "review_status": "visual_reviewed",
-          "evidence": [
-            "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。"
-          ],
-          "matched_tags": []
-        },
-        {
-          "id": "effects",
-          "zh": "動態特效",
-          "en": "Visual Effects",
-          "role": "secondary",
-          "source": "visual_review",
-          "review_status": "visual_reviewed",
-          "evidence": [
-            "2.128與3.885底部橫向構圖線近水平；5.193人物手部把白線向上提起，格線呈折彎狀；8.288人物走向右前方而線條仍彎曲。是與人物互動的合成UI效果，不是純實拍。只有一段影片。"
           ],
           "matched_tags": []
         }

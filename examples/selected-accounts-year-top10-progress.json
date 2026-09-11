@@ -909,10 +909,9 @@
           "shortcode": "DdBHe9DtfbT",
           "url": "https://www.instagram.com/a_iwaac/reel/DdBHe9DtfbT/",
           "published_at": "2026-09-08T07:11:45.000Z",
-          "status": "published_pending_analysis",
-          "media_ids": [
-            "selectedyear-DdBHe9DtfbT-1"
-          ]
+          "status": "excluded_by_user",
+          "media_ids": [],
+          "cg_review": "User explicitly requested removal based on matched screenshot."
         }
       ],
       "previous_status": "pending",
@@ -9686,12 +9685,10 @@
           "shortcode": "DcOPxOah_c9",
           "url": "https://www.instagram.com/yifan.liii/reel/DcOPxOah_c9/",
           "published_at": "2026-08-19T13:00:05.000Z",
-          "status": "visual_reviewed",
-          "media_ids": [
-            "selectedyear-DcOPxOah_c9-1"
-          ],
+          "status": "excluded_by_user",
+          "media_ids": [],
           "excluded_media_indices": [],
-          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
+          "cg_review": "User explicitly requested removal based on matched screenshot."
         },
         {
           "shortcode": "DbsVnpkoB4C",
