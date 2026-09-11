@@ -1,14 +1,14 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2444,
+  "total": 2446,
   "unclassified": 0,
   "counts": {
-    "graphic": 556,
-    "product": 848,
-    "organic": 553,
+    "graphic": 557,
+    "product": 849,
+    "organic": 554,
     "geometric": 888,
-    "scifi": 325,
+    "scifi": 326,
     "effects": 205
   },
   "fallback_count": 194,
@@ -1915,6 +1915,64 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "白色罌粟造型花朵在深色背景中開合，花瓣逐步展開露出黃橘色花蕊，再收攏成花苞；彎曲花莖及花頭朝向改變。薄花瓣有透光感與細皺摺，綠色花莖覆細毛。單段影片無輪播下一步，时间為截圖前讀值。不能把花瓣外觀當成布料模擬證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcdCnhfzBU6-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支50.04秒合作影片，無輪播下一步。約4.45秒細胞截面紋理加白色數據標示；16.99秒淡青薄膜的圓角充氣單元；24.37秒四分畫面中氣囊薄片由平坦向上下彎折；36.27秒透明凹凸包裝膜包覆銀色螺紋金屬件；後段大型半透明氣囊拱形空間。播放中可見充氣鼓起、薄片彎曲與皺摺，不推定Vellum或其他求解器。時間為截圖前後讀值，45.30秒那次截圖耗時18秒，僅用作後段內容觀察而非精確幀對應。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單支50.04秒合作影片，無輪播下一步。約4.45秒細胞截面紋理加白色數據標示；16.99秒淡青薄膜的圓角充氣單元；24.37秒四分畫面中氣囊薄片由平坦向上下彎折；36.27秒透明凹凸包裝膜包覆銀色螺紋金屬件；後段大型半透明氣囊拱形空間。播放中可見充氣鼓起、薄片彎曲與皺摺，不推定Vellum或其他求解器。時間為截圖前後讀值，45.30秒那次截圖耗時18秒，僅用作後段內容觀察而非精確幀對應。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEqBteCVJU-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單段21.28秒數位拼貼動畫，無下一步。5.19秒可見黑白人臉、粉色腦部及青色像素游標；8.66秒綠色眼球重複陣列、洋紅底和人物疊影及水平雜訊；13.44秒綠色城市與紅色人形、畫面傾斜移動；20.15秒黑白WATCH DOGS 2標誌文字橫向斷裂錯位。播放中快速剪接、圖像抖動及故障閃爍，不能將城市段落推定為某軟體或流體模擬。時間為截圖附近DOM播放讀值。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "單段21.28秒數位拼貼動畫，無下一步。5.19秒可見黑白人臉、粉色腦部及青色像素游標；8.66秒綠色眼球重複陣列、洋紅底和人物疊影及水平雜訊；13.44秒綠色城市與紅色人形、畫面傾斜移動；20.15秒黑白WATCH DOGS 2標誌文字橫向斷裂錯位。播放中快速剪接、圖像抖動及故障閃爍，不能將城市段落推定為某軟體或流體模擬。時間為截圖附近DOM播放讀值。"
           ],
           "matched_tags": []
         }
