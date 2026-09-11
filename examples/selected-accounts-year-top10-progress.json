@@ -1107,10 +1107,16 @@
           "shortcode": "DaQhZ6Ijvss",
           "url": "https://www.instagram.com/alexandreveaux/p/DaQhZ6Ijvss/",
           "published_at": "2026-07-01T17:10:41.000Z",
-          "status": "published_pending_analysis",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DaQhZ6Ijvss-1"
-          ]
+            "selectedyear-DaQhZ6Ijvss-1",
+            "selectedyear-DaQhZ6Ijvss-2",
+            "selectedyear-DaQhZ6Ijvss-3",
+            "selectedyear-DaQhZ6Ijvss-4",
+            "selectedyear-DaQhZ6Ijvss-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

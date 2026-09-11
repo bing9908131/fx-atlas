@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2724,
+  "total": 2729,
   "unclassified": 0,
   "counts": {
     "graphic": 672,
-    "product": 965,
+    "product": 970,
     "organic": 613,
     "geometric": 923,
     "scifi": 349,
@@ -5682,6 +5682,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "17.002666秒單影片。4.820404透明及青色水狀薄片，7.170076粉紅光照的放射狀細絲噴濺；13.391692、14.536411至15.75444白色雪粉狀團塊膨脹，碎屑與粉末向外散開。後三個時間點確認爆散和擴散；前段不能僅凭單張指定碰撞物。作者說past projects simulations並標Houdini/Redshift，無具體品牌，留言MPM或Grains問題不能當solver證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQhZ6Ijvss-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.084斜角較遠；0.603/1.141近景移動高光；1.734/1.844更近錶盤；2.369推到局部時標，1080x1350。"
           ],
           "matched_tags": []
         }
@@ -17007,6 +17024,74 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "第三段4.291666秒716x894；0.054正面三足；0.793轉向；1.508手腳姿態變化；2.221正面；2.948側面；3.666背面。 僅描述石質外觀，未推定大理石或特定實體材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQhZ6Ijvss-2",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第2張為1440x1800圖片，銀色上方齒盤與下方齒形零件垂直分離。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQhZ6Ijvss-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.280/0.418右側進場；0.879/0.943中央手錶；1.371移往左方並出現斜向拖尾；1.832移出左邊，1080x1350。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQhZ6Ijvss-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第4張當前無video，正面整錶與織紋錶帶，藍色邊緣光，數次截图不變。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaQhZ6Ijvss-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "0.366明顯向下拉影；0.865/0.933完整斜面錶盘加短拖尾；1.426較正面增亮；1.927藍白光暈覆蓋大部分細節；1080x1350。第5張無下一步，五點確認輪播完整。"
           ],
           "matched_tags": []
         }
