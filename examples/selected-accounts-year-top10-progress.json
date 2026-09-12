@@ -5858,10 +5858,12 @@
           "shortcode": "DdEvDWHNnd2",
           "url": "https://www.instagram.com/julian_hespenheide/reel/DdEvDWHNnd2/",
           "published_at": "2026-09-09T16:55:39.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DdEvDWHNnd2-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dc_dBsbxn4T",
@@ -6364,10 +6366,12 @@
           "shortcode": "DYpifm6IFy-",
           "url": "https://www.instagram.com/loremdeloop/reel/DYpifm6IFy-/",
           "published_at": "2026-05-23T12:29:58.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DYpifm6IFy--1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

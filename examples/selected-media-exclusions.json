@@ -2846,5 +2846,38 @@
     "observed_times": [],
     "reason": "文章與會員內容導流封面，依排除介紹/宣傳內容條件移除；背景確實為環境概念圖，不將它誤判為沒有CG，也不據取消專案字樣推定它是個人練習。",
     "evidence": "2026-09-12 Chrome1519733040 https://www.instagram.com/p/DdAXjxIkhq1/ 單張靜態橫圖，無輪播下一步。前景背影人物站橋邊，後方湖面、山巒與高塔城市，青灰暮色；中央大字STORIES UNTOLD與紅條，上方作者標誌，下方hendrix-design.com。貼文明示Sign up for free to see the full art dump，導向stories-untold文章。以封面性質排除，未取閱登入後完整作品，不猜測商業採用或動態。"
+  },
+  {
+    "post_id": "DdEvDWHNnd2",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "live_action_hardware_display_demo",
+    "duration_seconds": 13.814421,
+    "observed_times": [
+      7.408479,
+      8.577415,
+      9.762067,
+      10.931154
+    ],
+    "reason": "實拍桌面硬體螢幕展示，依排除實拍展示影片條件移除。螢幕內確實有生成圖形動畫，並非沒有電腦圖像；本貼文主要呈現外接線材和實體顯示模組，沒有可確認品牌採用的CG廣告內容。",
+    "evidence": "2026-09-12 Chrome1519733046 https://www.instagram.com/p/DdEvDWHNnd2/ 單支13.814421秒。實體多邊形模組放棕灰桌面，上接USB線與銀色接頭，下方金色接點；攝影反光和視角變動持續可見。7.408479圓形螢幕密集黑白字元；8.577415底部白區增加；9.762067中央下方大白區；10.931154字元重新分布。螢幕圖形變化不等於外殼CG變形，不標液體或波浪模擬。原文VMU with a more circular and wavy approach；同帳號相關Dci3tWAtqnu稱Volatile Memory Unit/CustomPCB/SharpMemoryDisplay/ESP32-S3，僅作實體展示背景，不套用未看見的技術規格。"
+  },
+  {
+    "post_id": "DYpifm6IFy-",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "unverified_abstract_render_process",
+    "duration_seconds": 15.950656,
+    "observed_times": [
+      7.872464,
+      9.234851,
+      10.619309,
+      11.982617,
+      13.363311
+    ],
+    "reason": "抽象材質製作流程與成果展示，原貼文未提供品牌採用證據，依排除練習/未確認採用的影片條件移除；畫面確實有CG與連續形變，不能說沒有CG。",
+    "evidence": "2026-09-12 Chrome1519733049 https://www.instagram.com/p/DYpifm6IFy-/ 單支15.950656秒。7.872464軟體介面、EXR檔視窗與虹彩圓角物件；9.234851渲染預覽噪點；10.619309白底完成畫面虹彩半透明圓角塊狀物，上半深色區；11.982617深色區向中下部移動，外輪廓彎曲；13.363311深色區位於下半，頂面傾斜和表面高光變化。不是爆破或粒子擴散。原文僅Wait for it… the process，沒有客戶名稱。同帳號另一則DYpg74Yovyv提RufusDuSol舞台合作但不是本貼文的採用證據，不跨作品套用。"
   }
 ]
