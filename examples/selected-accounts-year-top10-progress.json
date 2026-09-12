@@ -4149,10 +4149,15 @@
           "shortcode": "Dc_U2HZCPlU",
           "url": "https://www.instagram.com/found_studio/p/Dc_U2HZCPlU/",
           "published_at": "2026-09-07T14:28:02.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Dc_U2HZCPlU-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
