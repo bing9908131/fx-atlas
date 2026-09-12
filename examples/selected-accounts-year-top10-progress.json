@@ -3848,10 +3848,12 @@
           "shortcode": "DbBZKAQOvZ-",
           "url": "https://www.instagram.com/eynnbarriosart/reel/DbBZKAQOvZ-/",
           "published_at": "2026-07-20T16:48:04.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DbBZKAQOvZ--1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

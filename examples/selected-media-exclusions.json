@@ -3388,5 +3388,23 @@
     "reference_kind": "live_event_documentation",
     "evidence": "2026-09-12 Chrome1519733219逐張查看3張，最後只有返回無下一步，各張均無video。第一張深藍背景上密集銀紫色光滑細絲形成彎曲帶狀結構，部分細絲向外分離，下方青藍細纖維。這是靜態圖，只記形狀不宣稱流動、撕裂或生長。第二張講者舞台/觀眾，第三張更廣角會場觀眾；兩張螢幕有CG但屬活動紀錄，不是直接成品。",
     "observed_times": []
+  },
+  {
+    "post_id": "DbBZKAQOvZ-",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "software_tutorial",
+    "duration_seconds": 56.16907,
+    "observed_times": [
+      9.74272,
+      10.711738,
+      11.741763,
+      31.660036,
+      32.62992,
+      33.605558
+    ],
+    "reason": "Blender故障效果逐步操作教學，依排除教學影片條件移除；不代表內容沒有CG，不影響同作者已驗證採用的BCON海報。",
+    "evidence": "2026-09-12 Chrome1519733250單支影片duration初始56.133333後56.16907。9.74272/10.711738/11.741763 Blender視窗操作杯子材質與遮罩，畫面字幕提醒黑色或透明背景及建立物件遮罩。31.660036/32.62992顯示第7步UV unwrap plane與UV編輯器；33.605558第8步Add mix color node，節點操作。作者原文明述How I fake digital glitches in Blender Pt.3及tutorial。判定為教學用途，不從教學示範物件推定商業品牌採用。"
   }
 ]
