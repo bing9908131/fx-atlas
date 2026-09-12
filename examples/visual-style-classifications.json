@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2873,
+  "total": 2878,
   "unclassified": 0,
   "counts": {
     "graphic": 740,
     "product": 1032,
-    "organic": 644,
+    "organic": 649,
     "geometric": 968,
     "scifi": 359,
-    "effects": 252
+    "effects": 255
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -4866,6 +4866,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733219逐張查看3張，最後只有返回無下一步，各張均無video。第一張深藍背景上密集銀紫色光滑細絲形成彎曲帶狀結構，部分細絲向外分離，下方青藍細纖維。這是靜態圖，只記形狀不宣稱流動、撕裂或生長。第二張講者舞台/觀眾，第三張更廣角會場觀眾；兩張螢幕有CG但屬活動紀錄，不是直接成品。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXeRW6UjX9n-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。0.028808/0.931996/1.927966半透明絲狀腳部踩向光滑液面，接觸處同心波紋改變。3.015681/3.980462/4.986874暗底青粉反射液面，白細線拖曳過亮足印。7.699906/8.710861液面凹陷與波紋擴展；9.693988黑底兩亮足印與拖尾線。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。0.028808/0.931996/1.927966半透明絲狀腳部踩向光滑液面，接觸處同心波紋改變。3.015681/3.980462/4.986874暗底青粉反射液面，白細線拖曳過亮足印。7.699906/8.710861液面凹陷與波紋擴展；9.693988黑底兩亮足印與拖尾線。"
           ],
           "matched_tags": []
         }
@@ -20560,6 +20589,98 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Instagram逐媒體視覺審查。5.175951 purple thin curves and outlined endpoint dots; loop reset0.31846 white disc on yellow/orange gradient band;1.3039 disc shifted relative to bands and crossing curved path. This is graphic path animation, not liquid flow. Black/purple background."
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXeRW6UjX9n-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第2張密集銀紫線束近景，上部彎曲呈圓弧，多層亮面曲線與細纖維。静態無動態推定。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXeRW6UjX9n-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第3張寬幅彎曲絲束與分離青藍細纖維，與上一DDD貼文同場景不同裁切。靜態無動態推定。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXeRW6UjX9n-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第4張青粉虹彩反射表面上兩足跡，白色細線從左側進入。靜態只標波紋形狀，不宣稱正在擴散。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第4張青粉虹彩反射表面上兩足跡，白色細線從左側進入。靜態只標波紋形狀，不宣稱正在擴散。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DXeRW6UjX9n-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第5張微距低角度液面弧形凹陷與亮邊，青粉白光澤、暖金反射，淺景深。沒有腳部與細線，不從其他張沿用這些標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第5張微距低角度液面弧形凹陷與亮邊，青粉白光澤、暖金反射，淺景深。沒有腳部與細線，不從其他張沿用這些標籤。"
           ],
           "matched_tags": []
         }

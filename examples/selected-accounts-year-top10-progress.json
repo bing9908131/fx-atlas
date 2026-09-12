@@ -4129,10 +4129,16 @@
           "shortcode": "DXeRW6UjX9n",
           "url": "https://www.instagram.com/fluentstudio/p/DXeRW6UjX9n/",
           "published_at": "2026-04-23T11:45:39.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DXeRW6UjX9n-1"
-          ]
+            "selectedyear-DXeRW6UjX9n-1",
+            "selectedyear-DXeRW6UjX9n-2",
+            "selectedyear-DXeRW6UjX9n-3",
+            "selectedyear-DXeRW6UjX9n-4",
+            "selectedyear-DXeRW6UjX9n-5"
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
