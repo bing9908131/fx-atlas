@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2888,
+  "total": 2896,
   "unclassified": 0,
   "counts": {
     "graphic": 743,
-    "product": 1034,
-    "organic": 654,
+    "product": 1037,
+    "organic": 659,
     "geometric": 971,
     "scifi": 359,
-    "effects": 258
+    "effects": 259
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -5389,6 +5389,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "7.275秒黑白密集作品縮圖網格，20.022秒白底Editorial Features & Contributions文字列表；只確認網頁版面切換。作者發布DIA Studio正式網站作品檔案，列出Bänziger Hug、Samuel Bänziger、Olivier Hug、Optimo、François Rappo與DIA Meg設計協作。僅辨識網站介面，不把縮圖中的作品推定為獨立CG；未聲明軟體。逐項看到第七項，最後無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第1：圓角米褐色瓶身、分離上蓋、紅色M標記與地面倒影。靜態產品研究。 靜態不推定動態，未推定軟體與物理求解器。"
           ],
           "matched_tags": []
         }
@@ -20923,6 +20940,137 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第8：深色透明液滴相接成六角孔洞，網絡向下收束為單一液滴。靜態圖。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第2：單一乳白透明球形節點與四條曲線管狀連結，近景凸顯折射。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-3",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第3：鏡頭穿過相连透明大球、細連桿與金棕色小球群，呈現近遠景深與折射。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第4：從頂部近景到側面瓶身，鏡頭繞行並拉遠，展示斜切頂部與柔光表面。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第5：傾斜透明滴管內紅色液體與細小氣泡移動，端部呈圓形液滴；未看到液滴脫落。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第5：傾斜透明滴管內紅色液體與細小氣泡移動，端部呈圓形液滴；未看到液滴脫落。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第7：不同大小透明球與琥珀色小球群、細線連結形成分子般靜態構圖。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-8",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第8：孤立透明球內部含多個圓形空腔，明暗折射形成液泡般外觀。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaLBuX1jYPc-9",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第9：深色透明球形節點與細長彎曲連線組成多層網絡，局部球面帶細小氣泡。 靜態不推定動態，未推定軟體與物理求解器。"
           ],
           "matched_tags": []
         }
