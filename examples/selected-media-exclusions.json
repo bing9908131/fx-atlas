@@ -3242,5 +3242,23 @@
     "observed_times": [],
     "reason": "作者直接說明為重新整理尚未完成的個人作品，依排除個人練習/未確認品牌採用的條件移除；不是因為沒有CG。",
     "evidence": "2026-09-12 Chrome1519733160 https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/ 輪播三張皆為靜態圖片，逐張截圖核對，第三張只剩返回按鈕、無影片元素。第3張：桌遊與手機近景，前後景藍色座椅、窗與斜射日光。 作者主文Revisiting unfinished personal projects。未將附近已完成的PlayStation或Brizo商業專案套用到本貼文，也未猜测手機品牌型號。"
+  },
+  {
+    "post_id": "DZ7UfZANhpq",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "portfolio_website_promotion",
+    "duration_seconds": 49.48,
+    "observed_times": [
+      8.679503,
+      9.845379,
+      11.02664,
+      28.74861,
+      29.818289,
+      30.881984
+    ],
+    "reason": "個人新網站上線導覽宣傳：筆電螢幕內捲動作品縮圖、簡介與演講經歷。依排除宣傳/非直接特效作品條件移除；不否認作品縮圖可能含CG，也不影響另行核對的商業成品。",
+    "evidence": "2026-09-12 Chrome1519733171 https://www.instagram.com/imnidiadias/reel/DZ7UfZANhpq/ 單支49.48秒。8.679503至11.02664灰色背景黑色筆電螢幕顯示PLAYGROUND標題及多張作品縮圖；28.74861至30.881984同一螢幕捲動履歷、SPEAKING EVENTS清單及人物活動照片。作者主文New Website，說明coming soon半年後上線並邀請瀏覽case studies和playground。依內容用途判定網站宣傳，不臆測筆電是實拍或CG，不把縮圖的材質與動態當作本支獨立素材標籤。"
   }
 ]
