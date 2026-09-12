@@ -2836,5 +2836,15 @@
     ],
     "reason": "工作室開幕宣言影片，作者明述用產品、汽車、時尚及抽象探索建立工作室視覺語言；相關產品拆段也標記 RnD / studies / explorations。未有外部產品品牌採用證據，依使用者排除練習與未確認品牌採用作品的条件移除。不是因為缺少 CG。",
     "evidence": "2026-09-12 Chrome1519733030，https://www.instagram.com/p/DYSNyhYR7xO/ 單支43.791666秒，沒有輪播下一步。6.746504紅光車輪；8.105935灰色耳塞特寫；9.479604透明黃綠耳塞；19.486525金色尖刺與透明寶石排列；20.879622金色眼鏡鉸鏈特寫；22.253595鏡腿印有Saga Toronto；23.648092黑白鞋子與抽象背景。以上不同鏡頭不推定連續變形。作者原文Launching today with our first manifesto film，a chance to experiment, explore。頁面同帳號拆段：Pods RnD DcBu6U0EWSG、Shoe studies DZs1WbfD9QD、crown jewels + RnD DZnXqpgiYsN。鏡腿自身品牌Saga標記不能當成外部產品客戶採用證明。"
+  },
+  {
+    "post_id": "DdAXjxIkhq1",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "editorial_membership_article_cover",
+    "observed_times": [],
+    "reason": "文章與會員內容導流封面，依排除介紹/宣傳內容條件移除；背景確實為環境概念圖，不將它誤判為沒有CG，也不據取消專案字樣推定它是個人練習。",
+    "evidence": "2026-09-12 Chrome1519733040 https://www.instagram.com/p/DdAXjxIkhq1/ 單張靜態橫圖，無輪播下一步。前景背影人物站橋邊，後方湖面、山巒與高塔城市，青灰暮色；中央大字STORIES UNTOLD與紅條，上方作者標誌，下方hendrix-design.com。貼文明示Sign up for free to see the full art dump，導向stories-untold文章。以封面性質排除，未取閱登入後完整作品，不猜測商業採用或動態。"
   }
 ]
