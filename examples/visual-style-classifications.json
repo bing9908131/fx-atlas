@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2857,
+  "total": 2864,
   "unclassified": 0,
   "counts": {
-    "graphic": 727,
+    "graphic": 734,
     "product": 1030,
-    "organic": 638,
-    "geometric": 961,
+    "organic": 643,
+    "geometric": 963,
     "scifi": 359,
     "effects": 251
   },
@@ -4176,6 +4176,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519733034輪播第1/5張實際截圖。上半為黑底黃綠GOTCHA標誌、白色眼睛圖形與密集字元；下半白底雙手剪影各持藍色發光圓角裝置，畫面有互動標註。屬靜態概念視覺，不推定碰撞、配對動畫或真實操作。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第1/8項，實際播放時刻[6.420592, 6.662946, 7.739031, 8.807682]。圓形黑底內白色細線與霧狀光暈；6.662946中央水平亮帶與向下線束，7.739031線束上揚拉長，8.807682中央亮區下移、周圍線条彎曲。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第1/8項，實際播放時刻[6.420592, 6.662946, 7.739031, 8.807682]。圓形黑底內白色細線與霧狀光暈；6.662946中央水平亮帶與向下線束，7.739031線束上揚拉長，8.807682中央亮區下移、周圍線条彎曲。"
           ],
           "matched_tags": []
         }
@@ -20132,6 +20161,180 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519733034輪播第5/5張實際截圖。米白紙感底，上方圓形輔助線構成標誌與網點漸層；左列分解TOTORO face、BAT silhouette與Radio/wifi signal圖形，右側GOTCHA字標及造型變體，下方一排蝙蝠形圖示。為靜態品牌識別說明，不把圖形排列誤認為變形動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第2/8項，實際播放時刻[0.334122, 1.511126, 2.686444]。白色半透明球面/圓形場，中央有不規則網絡和放射線，外圍點狀曲面與孔洞輪廓；0.334122至2.686444中央網絡密度與孔洞連續重組，圈層大小改變。不是實體細胞或水母。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第2/8項，實際播放時刻[0.334122, 1.511126, 2.686444]。白色半透明球面/圓形場，中央有不規則網絡和放射線，外圍點狀曲面與孔洞輪廓；0.334122至2.686444中央網絡密度與孔洞連續重組，圈層大小改變。不是實體細胞或水母。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-3",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第3/8項，實際播放時刻[6.196775, 7.256181, 8.331886]。金白細線組成對稱弧邊方格與圓環；6.196775白金方格，7.256181較亮金線、中心圓點，8.331886格紋重新組成中央菱形並變暗。只描述圖形變化，不推定物理材質。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第3/8項，實際播放時刻[6.196775, 7.256181, 8.331886]。金白細線組成對稱弧邊方格與圓環；6.196775白金方格，7.256181較亮金線、中心圓點，8.331886格紋重新組成中央菱形並變暗。只描述圖形變化，不推定物理材質。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-4",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第4/8項，實際播放時刻[3.969116, 5.048755, 6.147254]。圓形構圖中心收窄、上下延伸的紫藍細線網絡，橫跨畫面金紫長線。3.969116至6.147254線頭、分支和光點逐步位移，主輪廓維持上下對稱。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第4/8項，實際播放時刻[3.969116, 5.048755, 6.147254]。圓形構圖中心收窄、上下延伸的紫藍細線網絡，橫跨畫面金紫長線。3.969116至6.147254線頭、分支和光點逐步位移，主輪廓維持上下對稱。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第5/8項，實際播放時刻[0.716728, 3.67291, 4.738962]。穹頂藍色光線與黃綠弧形投影，下方可見躺坐觀眾。3.67291至4.738962細線和點持續位移；0.716728為同段另一時間畫面，不將循環切點當爆發。保留投影作品內容，人物不是CG主體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第5/8項，實際播放時刻[0.716728, 3.67291, 4.738962]。穹頂藍色光線與黃綠弧形投影，下方可見躺坐觀眾。3.67291至4.738962細線和點持續位移；0.716728為同段另一時間畫面，不將循環切點當爆發。保留投影作品內容，人物不是CG主體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-6",
+      "styles": [
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第6/8項，實際播放時刻[1.587064, 2.661708, 3.734717]。金白弧邊網格投在穹頂，下方觀眾。1.587064細長格網，2.661708方格開口更清楚，3.734717中央格網尺度變大、交點移動，亮度變化。不把觀眾動作當圖形模擬。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第6/8項，實際播放時刻[1.587064, 2.661708, 3.734717]。金白弧邊網格投在穹頂，下方觀眾。1.587064細長格網，2.661708方格開口更清楚，3.734717中央格網尺度變大、交點移動，亮度變化。不把觀眾動作當圖形模擬。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DcELa6blEE1-7",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第7/8項，實際播放時刻[0.407249, 1.490178, 14.497472]。現場投影近景白淡紫孔洞網絡、枝狀細線與點陣曲面。0.407249至1.490178中心孔洞網絡張開重排；14.497472為另一時間的密集枝狀紋理，不把跨循環前後當連續生長。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "Chrome1519733058輪播第7/8項，實際播放時刻[0.407249, 1.490178, 14.497472]。現場投影近景白淡紫孔洞網絡、枝狀細線與點陣曲面。0.407249至1.490178中心孔洞網絡張開重排；14.497472為另一時間的密集枝狀紋理，不把跨循環前後當連續生長。"
           ],
           "matched_tags": []
         }

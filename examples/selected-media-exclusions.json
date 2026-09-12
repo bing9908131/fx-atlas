@@ -2879,5 +2879,15 @@
     ],
     "reason": "抽象材質製作流程與成果展示，原貼文未提供品牌採用證據，依排除練習/未確認採用的影片條件移除；畫面確實有CG與連續形變，不能說沒有CG。",
     "evidence": "2026-09-12 Chrome1519733049 https://www.instagram.com/p/DYpifm6IFy-/ 單支15.950656秒。7.872464軟體介面、EXR檔視窗與虹彩圓角物件；9.234851渲染預覽噪點；10.619309白底完成畫面虹彩半透明圓角塊狀物，上半深色區；11.982617深色區向中下部移動，外輪廓彎曲；13.363311深色區位於下半，頂面傾斜和表面高光變化。不是爆破或粒子擴散。原文僅Wait for it… the process，沒有客戶名稱。同帳號另一則DYpg74Yovyv提RufusDuSol舞台合作但不是本貼文的採用證據，不跨作品套用。"
+  },
+  {
+    "post_id": "DcELa6blEE1",
+    "media_index": 8,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "live_action_exhibition_portrait",
+    "observed_times": [],
+    "reason": "兩位人物的展演現場照片，依排除人物/現場合照條件移除；背景有生成投影，不把整張誤稱沒有CG。",
+    "evidence": "Chrome1519733058末張僅返回無影片；兩位黑衣人物站在劇院座椅旁仰望穹頂，上方白青投影。"
   }
 ]

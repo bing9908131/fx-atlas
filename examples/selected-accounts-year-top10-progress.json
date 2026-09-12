@@ -5508,10 +5508,20 @@
           "shortcode": "DcELa6blEE1",
           "url": "https://www.instagram.com/jieliouart/p/DcELa6blEE1/",
           "published_at": "2026-08-15T15:10:29.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DcELa6blEE1-1"
-          ]
+            "selectedyear-DcELa6blEE1-1",
+            "selectedyear-DcELa6blEE1-2",
+            "selectedyear-DcELa6blEE1-3",
+            "selectedyear-DcELa6blEE1-4",
+            "selectedyear-DcELa6blEE1-5",
+            "selectedyear-DcELa6blEE1-6",
+            "selectedyear-DcELa6blEE1-7"
+          ],
+          "excluded_media_indices": [
+            8
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DWH2ojJEyLY",
