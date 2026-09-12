@@ -3260,5 +3260,24 @@
     ],
     "reason": "個人新網站上線導覽宣傳：筆電螢幕內捲動作品縮圖、簡介與演講經歷。依排除宣傳/非直接特效作品條件移除；不否認作品縮圖可能含CG，也不影響另行核對的商業成品。",
     "evidence": "2026-09-12 Chrome1519733171 https://www.instagram.com/imnidiadias/reel/DZ7UfZANhpq/ 單支49.48秒。8.679503至11.02664灰色背景黑色筆電螢幕顯示PLAYGROUND標題及多張作品縮圖；28.74861至30.881984同一螢幕捲動履歷、SPEAKING EVENTS清單及人物活動照片。作者主文New Website，說明coming soon半年後上線並邀請瀏覽case studies和playground。依內容用途判定網站宣傳，不臆測筆電是實拍或CG，不把縮圖的材質與動態當作本支獨立素材標籤。"
+  },
+  {
+    "post_id": "DdEgtLAuoOB",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "physical_sculpture_workshop_recording",
+    "duration_seconds": 20.548207,
+    "observed_times": [
+      0.0271,
+      1.58917,
+      6.962419,
+      8.031029,
+      9.09249,
+      17.623906,
+      19.194275
+    ],
+    "reason": "實拍手工修整花朵人物雕塑的製作記錄，非CG動畫或特效成品，依排除純實拍影片條件移除。作者標示for Contemporary100/Hypeart，不因此當成CG。",
+    "evidence": "2026-09-12 Chrome1519733175 https://www.instagram.com/fvckrender/reel/DdEgtLAuoOB/ 單支20.548207秒。0.0271/1.58917手持灰色花瓣人物雕塑近景，桌面、刺青手、衣袖與工作室實景；6.962419/8.031029/9.09249人物戴帽低頭在金屬工作桌用手及工具修整底座；17.623906/19.194275仍為同一實物手工操作。作者主文The little empress for contemporary100 hypeart。評論Epoxy clay是提問，未把它當確定材質，也未推論鑄造或物理模擬。"
   }
 ]
