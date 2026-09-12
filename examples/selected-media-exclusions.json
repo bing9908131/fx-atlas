@@ -3196,5 +3196,51 @@
     "observed_times": [],
     "reason": "作者自發短片Untitled Spaces的場景圖，非品牌委託；依既有自發作品排除條件移除，不是非CG判定。",
     "evidence": "2026-09-12 Chrome1519733141逐張截圖，8項皆靜態，第8項僅返回按鈕且無影片。黑白編織格狀紋理近景，有圓形高光/陰影。 原始https://www.instagram.com/landgrenwilliam/p/DOVPm9GE56k/作者明列Stills from my latest project - Untitled Spaces。連結同作者DODySyEgEL_說明自身興趣/自作音樂/建築雜誌質感探索；設計師為靈感來源，非委託採用證據。"
+  },
+  {
+    "post_id": "Dcaou3ho3s3",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "animation_interaction_test",
+    "duration_seconds": 24.021332,
+    "observed_times": [
+      5.449009,
+      18.422189,
+      19.400032,
+      20.388414
+    ],
+    "reason": "作者明述為完整鼓組動畫之前的早期建模、動畫與渲染測試，未提供品牌採用依據。依先前排除練習影片條件移除，不是判為非CG。Greyscalegorilla及Toontrack是工具來源，不當作客戶品牌。",
+    "evidence": "2026-09-12 Chrome1519733155 https://www.instagram.com/jaevnstroem/reel/Dcaou3ho3s3/ 單支24.021332秒。5.449009金色凹紋金屬鈸、木色鼓棒、銀色支架白背景；18.422189畫面局部展示線框與控制參數；19.400032至20.388414鼓棒位置變化、鈸面傾斜回彈。作者標題Cymbal interaction test，主文明確early test of modeling animating and rendering believable cymbal behavior for a bigger project of a complete drum kit，並解釋手動keyframe、Signal旋轉及bend deformer、Superior Drummer 3音訊。未把程序動畫誤標為物理碰撞模擬。"
+  },
+  {
+    "post_id": "DVJwP-QDLoK",
+    "media_index": 1,
+    "total": 3,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_environment_study",
+    "observed_times": [],
+    "reason": "作者直接說明為重新整理尚未完成的個人作品，依排除個人練習/未確認品牌採用的條件移除；不是因為沒有CG。",
+    "evidence": "2026-09-12 Chrome1519733160 https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/ 輪播三張皆為靜態圖片，逐張截圖核對，第三張只剩返回按鈕、無影片元素。第1張：藍色座椅、桌面桌遊、船艙式圓角窗與暖色斜射光的環境全景。 作者主文Revisiting unfinished personal projects。未將附近已完成的PlayStation或Brizo商業專案套用到本貼文，也未猜测手機品牌型號。"
+  },
+  {
+    "post_id": "DVJwP-QDLoK",
+    "media_index": 2,
+    "total": 3,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_environment_study",
+    "observed_times": [],
+    "reason": "作者直接說明為重新整理尚未完成的個人作品，依排除個人練習/未確認品牌採用的條件移除；不是因為沒有CG。",
+    "evidence": "2026-09-12 Chrome1519733160 https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/ 輪播三張皆為靜態圖片，逐張截圖核對，第三張只剩返回按鈕、無影片元素。第2張：俯視米色桌面，紅黃藍綠桌遊、棋子、紙本及小型手機，周圍藍色座椅。 作者主文Revisiting unfinished personal projects。未將附近已完成的PlayStation或Brizo商業專案套用到本貼文，也未猜测手機品牌型號。"
+  },
+  {
+    "post_id": "DVJwP-QDLoK",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_environment_study",
+    "observed_times": [],
+    "reason": "作者直接說明為重新整理尚未完成的個人作品，依排除個人練習/未確認品牌採用的條件移除；不是因為沒有CG。",
+    "evidence": "2026-09-12 Chrome1519733160 https://www.instagram.com/joangarciapons/p/DVJwP-QDLoK/ 輪播三張皆為靜態圖片，逐張截圖核對，第三張只剩返回按鈕、無影片元素。第3張：桌遊與手機近景，前後景藍色座椅、窗與斜射日光。 作者主文Revisiting unfinished personal projects。未將附近已完成的PlayStation或Brizo商業專案套用到本貼文，也未猜测手機品牌型號。"
   }
 ]
