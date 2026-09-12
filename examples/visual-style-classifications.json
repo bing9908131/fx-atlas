@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2878,
+  "total": 2880,
   "unclassified": 0,
   "counts": {
-    "graphic": 740,
+    "graphic": 742,
     "product": 1032,
     "organic": 649,
-    "geometric": 968,
+    "geometric": 970,
     "scifi": 359,
     "effects": 255
   },
@@ -4895,6 +4895,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。0.028808/0.931996/1.927966半透明絲狀腳部踩向光滑液面，接觸處同心波紋改變。3.015681/3.980462/4.986874暗底青粉反射液面，白細線拖曳過亮足印。7.699906/8.710861液面凹陷與波紋擴展；9.693988黑底兩亮足印與拖尾線。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbWAw5QFf0V-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733230逐張查看共2張，無video，第二張僅返回無下一步。第一張白底左側層疊藍粉黃綠立方塊、右上網格圓環，星形、箭頭、游標、信封與吉他等圖示，人形剪影與演講標題。黑描邊加色塊，有Blender標誌，沒有動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733230逐張查看共2張，無video，第二張僅返回無下一步。第一張白底左側層疊藍粉黃綠立方塊、右上網格圓環，星形、箭頭、游標、信封與吉他等圖示，人形剪影與演講標題。黑描邊加色塊，有Blender標誌，沒有動態。"
           ],
           "matched_tags": []
         }
@@ -20681,6 +20710,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733226逐一查看，共5媒體，1影片9.799999秒，2至5圖片；第5張僅返回無下一步。第5張微距低角度液面弧形凹陷與亮邊，青粉白光澤、暖金反射，淺景深。沒有腳部與細線，不從其他張沿用這些標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DbWAw5QFf0V-2",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733230逐張查看共2張，無video，第二張僅返回無下一步。第二張同場景無主標題版本，綠底、右上金綠色網格圓環，左側灰色幾何塊，粉紅星形、信封、游標、箭頭、人形及吉他。無程式介面框架，實際是3D場景圖。沒有動態推定。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733230逐張查看共2張，無video，第二張僅返回無下一步。第二張同場景無主標題版本，綠底、右上金綠色網格圓環，左側灰色幾何塊，粉紅星形、信封、游標、箭頭、人形及吉他。無程式介面框架，實際是3D場景圖。沒有動態推定。"
           ],
           "matched_tags": []
         }
