@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2881,
+  "total": 2888,
   "unclassified": 0,
   "counts": {
     "graphic": 743,
-    "product": 1032,
-    "organic": 649,
-    "geometric": 970,
+    "product": 1034,
+    "organic": 654,
+    "geometric": 971,
     "scifi": 359,
-    "effects": 256
+    "effects": 258
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -5389,6 +5389,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "7.275秒黑白密集作品縮圖網格，20.022秒白底Editorial Features & Contributions文字列表；只確認網頁版面切換。作者發布DIA Studio正式網站作品檔案，列出Bänziger Hug、Samuel Bänziger、Olivier Hug、Optimo、François Rappo與DIA Meg設計協作。僅辨識網站介面，不把縮圖中的作品推定為獨立CG；未聲明軟體。逐項看到第七項，最後無下一步。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第1：透明球體與細管相接，內含細小氣泡，藍灰背景。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
           ],
           "matched_tags": []
         }
@@ -20768,6 +20785,144 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733230逐張查看共2張，無video，第二張僅返回無下一步。第二張同場景無主標題版本，綠底、右上金綠色網格圓環，左側灰色幾何塊，粉紅星形、信封、游標、箭頭、人形及吉他。無程式介面框架，實際是3D場景圖。沒有動態推定。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-2",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第2：透明液態網膜的圓形孔洞持續變形，小氣泡在表面與內部移動。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第2：透明液態網膜的圓形孔洞持續變形，小氣泡在表面與內部移動。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-3",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第3：米褐色方形圓角滴管瓶，球狀滴管頭、紅色M標記與鏡面倒影。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-5",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第5：黑色透明球體與白色節點由細長曲線相連，形成有機網狀結構。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-6",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第6：透明球體群移動轉向，剪輯切換不同細胞般球體、內部微粒及不規則表面研究。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第6：透明球體群移動轉向，剪輯切換不同細胞般球體、內部微粒及不規則表面研究。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-7",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第7：棕褐色圓柱容器與上蓋分開呈現，柔和高光勾勒階梯狀結構。靜態構圖。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DaAunBQja8d-8",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第8：深色透明液滴相接成六角孔洞，網絡向下收束為單一液滴。靜態圖。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733262逐一檢查8張，第8僅返回且無video。第8：深色透明液滴相接成六角孔洞，網絡向下收束為單一液滴。靜態圖。 未由留言Houdini問題推定軟體；第6不同球體間為剪接，不推定全部是連續變形。"
           ],
           "matched_tags": []
         }
