@@ -2904,5 +2904,115 @@
     ],
     "reason": "作者明述是結合3D渲染與生成素材的嘗試，且回覆否認Figma Weave贊助。未確認燈具品牌採用，依排除練習/未確認採用影片的條件移除；不是因為沒有CG，也不把使用的軟體名稱當客戶品牌。",
     "evidence": "2026-09-12 Chrome1519733070 https://www.instagram.com/p/DcfugwsAruF/ 單支15.999999秒。4.023779手指懸於銀色拉絲圓盤按鈕上，下方暖白發光燈罩；5.086135手指接觸並壓下按鈕；6.168179持續接觸。主文Attempt to combine 3D renders and generated assets/Lots to learn。展開Sponsored post by Figma Weave?留言的兩則回覆，作者joonathanlindgren明確回答nope!。這只否認Figma贊助，不推廣成所有可能合作皆不存在；本貼文未提供燈具客戶採用證據。"
+  },
+  {
+    "post_id": "Dak_vaWDRK0",
+    "media_index": 1,
+    "total": 2,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_expressive_digital_art",
+    "observed_times": [],
+    "reason": "作者將BLEEDBORN說明為個人背叛、韌性與傷痛的表達，延伸自己2022年Sentio舊作；本貼未確認品牌採用。依排除個人自發作品的條件移除，並非判定不是CG。",
+    "evidence": "2026-09-12 Chrome1519733086逐張截圖確認兩張靜態圖片，沒有影片。藍色人物側影、橙色光環、背後放射劍形與手上小劍。 原始https://www.instagram.com/p/Dak_vaWDRK0/作者說明明列個人表達與Sentio舊作延伸；Octane/Cinema4D為使用工具，不當作委託品牌。"
+  },
+  {
+    "post_id": "Dak_vaWDRK0",
+    "media_index": 2,
+    "total": 2,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_expressive_digital_art",
+    "observed_times": [],
+    "reason": "作者將BLEEDBORN說明為個人背叛、韌性與傷痛的表達，延伸自己2022年Sentio舊作；本貼未確認品牌採用。依排除個人自發作品的條件移除，並非判定不是CG。",
+    "evidence": "2026-09-12 Chrome1519733086逐張截圖確認兩張靜態圖片，沒有影片。藍色手部托著紅色劍刃與銀色劍柄的近景。最後僅返回按鈕，無下一步。 原始https://www.instagram.com/p/Dak_vaWDRK0/作者說明明列個人表達與Sentio舊作延伸；Octane/Cinema4D為使用工具，不當作委託品牌。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 1,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅光單支花朵靜態影像。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 2,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [
+      0.603805,
+      0.892893,
+      0.183533
+    ],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。0.603805黑白奔馬，0.892893馬離開畫面、模糊樹林，0.183533另一循環馬頭進入；0.966666秒短片。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。",
+    "duration_seconds": 0.966666
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 3,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅背景男性側臉及前景模糊花朵靜態肖像。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 4,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅光照亮黑暗中的貓科動物靜態影像。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 5,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。深藍背景紅色花叢靜態影像。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 6,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [
+      4.495976,
+      5.258091,
+      0.156548
+    ],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。5.8秒影片，4.495976/5.258091紅光馬匹站於草地頭部略轉，0.156548循環起點馬頭向左；不跨循環推定形變。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。",
+    "duration_seconds": 5.8
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 7,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅色花朵帶水平模糊拖影的靜態影像，不能標為實際運動。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DcQ9bFfjKyQ",
+    "media_index": 8,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "studio_visual_experiment_without_brand_adoption",
+    "observed_times": [],
+    "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
+    "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅背景男性正面肖像、前方模糊紅花；無影片且僅返回按鈕，確認輪播結束。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
   }
 ]

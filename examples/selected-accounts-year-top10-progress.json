@@ -4345,10 +4345,19 @@
           "shortcode": "DcQ9bFfjKyQ",
           "url": "https://www.instagram.com/futuredeluxe/p/DcQ9bFfjKyQ/",
           "published_at": "2026-08-20T14:18:18.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DcQ9bFfjKyQ-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Db-9tP6CBTW",
@@ -5657,10 +5666,13 @@
           "shortcode": "Dak_vaWDRK0",
           "url": "https://www.instagram.com/jonathanplesel/p/Dak_vaWDRK0/",
           "published_at": "2026-07-09T16:00:35.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-Dak_vaWDRK0-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1,
+            2
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DaGLYD8tqzK",
