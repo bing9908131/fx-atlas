@@ -5517,10 +5517,12 @@
           "shortcode": "DWH2ojJEyLY",
           "url": "https://www.instagram.com/pingsheng_wu/reel/DWH2ojJEyLY/",
           "published_at": "2026-03-20T22:20:22.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DWH2ojJEyLY-1"
-          ]
+          ],
+          "excluded_media_indices": [],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",
