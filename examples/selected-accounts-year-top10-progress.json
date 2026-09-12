@@ -6385,10 +6385,12 @@
           "shortcode": "DZQJmDvIJ_O",
           "url": "https://www.instagram.com/loremdeloop/reel/DZQJmDvIJ_O/",
           "published_at": "2026-06-06T17:13:47.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DZQJmDvIJ_O-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DYpifm6IFy-",

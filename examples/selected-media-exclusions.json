@@ -3014,5 +3014,22 @@
     "observed_times": [],
     "reason": "FuturePlay視覺實驗系列，未確認外部品牌採用；依使用者排除練習/自發探索條件移除。不據寫實外觀斷定是否CG或AI。",
     "evidence": "2026-09-12 Chrome1519733089輪播8項逐項檢查。紅背景男性正面肖像、前方模糊紅花；無影片且僅返回按鈕，確認輪播結束。 原始https://www.instagram.com/p/DcQ9bFfjKyQ/明列Red Study in FuturePlay、yas_nv的紅光/通道/疊加/模糊探索。官方https://futuredeluxe.com/futureplay明列ongoing visual experimental sessions；不能用鄰近Audi/Sonos委託證明本研究有品牌採用。"
+  },
+  {
+    "post_id": "DZQJmDvIJ_O",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "interview_meme_and_artwork_montage",
+    "duration_seconds": 9.611609,
+    "observed_times": [
+      4.283948,
+      5.248283,
+      6.216436,
+      7.176987,
+      8.150469
+    ],
+    "reason": "訪談迷因與藍色作品混剪，非單一委託CG展示，未確認片段品牌採用。不是判定整支沒有CG。",
+    "evidence": "2026-09-12 Chrome1519733097原始https://www.instagram.com/loremdeloop/reel/DZQJmDvIJ_O/單支9.611609秒。4.283948/5.248283實拍孩童拿玩偶接受麥克風訪問與MLUE文字；6.216436藍色透明抽象長方體；7.176987藍色反射曲面近景；8.150469藍色透明泡狀物。片段剪接不代表物體變形。作者明言gather artworks與blue ones，沒有品牌採用證據，不能沿用鄰近RufusDuSol委託。"
   }
 ]
