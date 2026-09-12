@@ -3279,5 +3279,94 @@
     ],
     "reason": "實拍手工修整花朵人物雕塑的製作記錄，非CG動畫或特效成品，依排除純實拍影片條件移除。作者標示for Contemporary100/Hypeart，不因此當成CG。",
     "evidence": "2026-09-12 Chrome1519733175 https://www.instagram.com/fvckrender/reel/DdEgtLAuoOB/ 單支20.548207秒。0.0271/1.58917手持灰色花瓣人物雕塑近景，桌面、刺青手、衣袖與工作室實景；6.962419/8.031029/9.09249人物戴帽低頭在金屬工作桌用手及工具修整底座；17.623906/19.194275仍為同一實物手工操作。作者主文The little empress for contemporary100 hypeart。評論Epoxy clay是提問，未把它當確定材質，也未推論鑄造或物理模擬。"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 2,
+    "total": 10,
+    "duration_seconds": 5.433333,
+    "observed_times": [
+      2.589606,
+      3.547203,
+      4.528848,
+      2.048685,
+      3.018895,
+      3.988208,
+      2.594533,
+      3.563324,
+      4.524558
+    ],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Gray viewport with yellow central geometric form, surrounding wireframe lights/camera and transform controllers. Object orientation/configuration changes. Pure working-viewport presentation in observed segment; inspect opening if needed before final exclusion. Additional Chrome1519733213 confirms same working viewport at recorded times, no clean rendered result in these samples.",
+    "decision": "exclude",
+    "reason": "以工作視窗及控制器展示製作過程，保留對應成品第1段。",
+    "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 4,
+    "total": 10,
+    "duration_seconds": 7.999999,
+    "observed_times": [
+      2.826719,
+      3.780781,
+      4.817445
+    ],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Gray working viewport of blue/yellow concentric rings, surrounding light/camera wireframes and controller paths. Rings rotate and change orientation relative to each other. Need opening/end check before treating entire clip as working-viewport only.",
+    "decision": "exclude",
+    "reason": "以工作視窗展示同心環與燈光攝影機控制器；正式片頭已有乾淨成品。",
+    "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 6,
+    "total": 10,
+    "duration_seconds": 4.933333,
+    "observed_times": [
+      0.896264,
+      1.852928,
+      2.838689
+    ],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Split working view: top shows unlit blue/yellow radial shapes rotating, bottom side viewport with cameras and controllers. Production breakdown, not final glossy render.",
+    "decision": "exclude",
+    "reason": "上下分割製作視窗，保留对应成品第5段。",
+    "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 8,
+    "total": 10,
+    "duration_seconds": null,
+    "observed_times": [],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Static gray graph editor screenshot with cyan curves and yellow control points, bounding box and grid. No active video.",
+    "decision": "exclude",
+    "reason": "動畫曲線編輯器截圖，非成品效果素材。",
+    "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 9,
+    "total": 10,
+    "duration_seconds": null,
+    "observed_times": [],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Static black storyboard sheet with white hand-drawn frames, words and movement arrows. No active video.",
+    "decision": "exclude",
+    "reason": "手繪分鏡文件，非成品效果素材。",
+    "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DUGxKcrjJLE",
+    "media_index": 10,
+    "total": 10,
+    "duration_seconds": 15.173796,
+    "observed_times": [
+      13.624262,
+      8.719557,
+      9.68526,
+      10.653768
+    ],
+    "evidence": "2026-09-12 Instagram逐媒體視覺審查。Live event venue in blue light, seats/camera equipment foreground and large screen showing the commissioned geometric opener. Actual screening proof. Do not call pure nonCG because screen contains CG, but separate venue documentation from clean source already available.",
+    "decision": "exclude",
+    "reason": "活動現場紀錄，座椅設備與會場佔據畫面；銀幕確實有CG，但已有直接成品，不以會場紀錄重複收錄。",
+    "reference_kind": "production_documentation"
   }
 ]

@@ -988,10 +988,22 @@
           "shortcode": "DUGxKcrjJLE",
           "url": "https://www.instagram.com/abraham___3/p/DUGxKcrjJLE/",
           "published_at": "2026-01-29T19:07:37.000Z",
-          "status": "published_pending_analysis",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DUGxKcrjJLE-1"
-          ]
+            "selectedyear-DUGxKcrjJLE-1",
+            "selectedyear-DUGxKcrjJLE-3",
+            "selectedyear-DUGxKcrjJLE-5",
+            "selectedyear-DUGxKcrjJLE-7"
+          ],
+          "excluded_media_indices": [
+            2,
+            4,
+            6,
+            8,
+            9,
+            10
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DUBQIQ8DUv9",

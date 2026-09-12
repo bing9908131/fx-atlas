@@ -1,13 +1,13 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2868,
+  "total": 2872,
   "unclassified": 0,
   "counts": {
-    "graphic": 736,
+    "graphic": 740,
     "product": 1032,
     "organic": 643,
-    "geometric": 964,
+    "geometric": 968,
     "scifi": 359,
     "effects": 252
   },
@@ -6582,6 +6582,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "原始輪播第1/4影片逐項視覺核對。0.227/1.140布料褶皺變化；2.064至7.587節點及灰階織線；10.668/11.635/12.622縫線路徑由直變彎再直；13.593至19.453為彩色遮罩；20.433至23.749完成服裝視角變化。 僅記錄可見外觀，未推定纖維成分或模擬器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUGxKcrjJLE-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。8.484164 blue/yellow thick arc surrounding BlackLine unites text. Loop reset then 0.543384 separated curved geometric panels with silvery faces;1.531718 joined circular configuration and text. Loop transition is NOT motion evidence;0.543384 to1.531718 demonstrates panels approach/assemble and view scales down."
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。8.484164 blue/yellow thick arc surrounding BlackLine unites text. Loop reset then 0.543384 separated curved geometric panels with silvery faces;1.531718 joined circular configuration and text. Loop transition is NOT motion evidence;0.543384 to1.531718 demonstrates panels approach/assemble and view scales down."
           ],
           "matched_tags": []
         }
@@ -20427,6 +20456,93 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733107輪播第5張截圖，獨立HTTPS currentSrc已取得。黑邊框內青綠背景雙圈金色珠寶與鳥形鑲嵌裝飾，較正面構圖及下方倒影，細微螢幕紋理。 全部五張為靜態圖，最後只有返回按鈕。沒有影片動態，不加旋轉/生長/組裝。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUGxKcrjJLE-3",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。White isn't a dream text on dark blue gradient; words enlarge and separate horizontally, then switch to it's a decision. Only later segment observed so far; opening still needs inspection. Additional Chrome1519733210:0.96386 white text on blue background;1.942371 letters enlarge and separate vertically/horizontally;2.939077 a large blue/purple/yellow gradient ring surrounds central black disc with replacement text;3.912266 switches back.7.266666 also shows ring. Graphic transition, not liquid."
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。White isn't a dream text on dark blue gradient; words enlarge and separate horizontally, then switch to it's a decision. Only later segment observed so far; opening still needs inspection. Additional Chrome1519733210:0.96386 white text on blue background;1.942371 letters enlarge and separate vertically/horizontally;2.939077 a large blue/purple/yellow gradient ring surrounds central black disc with replacement text;3.912266 switches back.7.266666 also shows ring. Graphic transition, not liquid."
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUGxKcrjJLE-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。Rendered radial arrangement of glossy blue/yellow/orange/pink rounded leaf-like geometric slices. 4.076976 to5.053776 slices rotate around their axes and arrangement enlarges. 0.684652 is loop start and not shrink evidence. Black background, break free white text."
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。Rendered radial arrangement of glossy blue/yellow/orange/pink rounded leaf-like geometric slices. 4.076976 to5.053776 slices rotate around their axes and arrangement enlarges. 0.684652 is loop start and not shrink evidence. Black background, break free white text."
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUGxKcrjJLE-7",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。5.175951 purple thin curves and outlined endpoint dots; loop reset0.31846 white disc on yellow/orange gradient band;1.3039 disc shifted relative to bands and crossing curved path. This is graphic path animation, not liquid flow. Black/purple background."
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "geometric",
+          "zh": "幾何構成",
+          "en": "Geometric Forms",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Instagram逐媒體視覺審查。5.175951 purple thin curves and outlined endpoint dots; loop reset0.31846 white disc on yellow/orange gradient band;1.3039 disc shifted relative to bands and crossing curved path. This is graphic path animation, not liquid flow. Black/purple background."
           ],
           "matched_tags": []
         }
