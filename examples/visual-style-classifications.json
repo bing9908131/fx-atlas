@@ -1,12 +1,12 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2872,
+  "total": 2873,
   "unclassified": 0,
   "counts": {
     "graphic": 740,
     "product": 1032,
-    "organic": 643,
+    "organic": 644,
     "geometric": 968,
     "scifi": 359,
     "effects": 252
@@ -4849,6 +4849,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519732878各段720x720。0.581外圍部分小花已開、中央多為閉合花苞；1.553更多圈小花伸出；4.039花盤中更多黃色小花與長花絲張開，中央閉合區縮小。大花瓣呈粉褐皺紋、細蕊有乳黃絨毛，後方綠色散景。不是實拍；原作者明說3D/Houdini系統。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DYVRjv5jfxs-1",
+      "styles": [
+        {
+          "id": "organic",
+          "zh": "有機形態",
+          "en": "Organic Forms",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733219逐張查看3張，最後只有返回無下一步，各張均無video。第一張深藍背景上密集銀紫色光滑細絲形成彎曲帶狀結構，部分細絲向外分離，下方青藍細纖維。這是靜態圖，只記形狀不宣稱流動、撕裂或生長。第二張講者舞台/觀眾，第三張更廣角會場觀眾；兩張螢幕有CG但屬活動紀錄，不是直接成品。"
           ],
           "matched_tags": []
         }

@@ -4115,10 +4115,15 @@
           "shortcode": "DYVRjv5jfxs",
           "url": "https://www.instagram.com/fluentstudio/p/DYVRjv5jfxs/",
           "published_at": "2026-05-14T20:25:38.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
             "selectedyear-DYVRjv5jfxs-1"
-          ]
+          ],
+          "excluded_media_indices": [
+            2,
+            3
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "DXeRW6UjX9n",

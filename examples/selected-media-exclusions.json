@@ -3368,5 +3368,25 @@
     "decision": "exclude",
     "reason": "活動現場紀錄，座椅設備與會場佔據畫面；銀幕確實有CG，但已有直接成品，不以會場紀錄重複收錄。",
     "reference_kind": "production_documentation"
+  },
+  {
+    "post_id": "DYVRjv5jfxs",
+    "media_index": 2,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "實拍活動會場與觀眾紀錄；螢幕有CG但第一張已提供直接成品參考。",
+    "reference_kind": "live_event_documentation",
+    "evidence": "2026-09-12 Chrome1519733219逐張查看3張，最後只有返回無下一步，各張均無video。第一張深藍背景上密集銀紫色光滑細絲形成彎曲帶狀結構，部分細絲向外分離，下方青藍細纖維。這是靜態圖，只記形狀不宣稱流動、撕裂或生長。第二張講者舞台/觀眾，第三張更廣角會場觀眾；兩張螢幕有CG但屬活動紀錄，不是直接成品。",
+    "observed_times": []
+  },
+  {
+    "post_id": "DYVRjv5jfxs",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "實拍活動會場與觀眾紀錄；螢幕有CG但第一張已提供直接成品參考。",
+    "reference_kind": "live_event_documentation",
+    "evidence": "2026-09-12 Chrome1519733219逐張查看3張，最後只有返回無下一步，各張均無video。第一張深藍背景上密集銀紫色光滑細絲形成彎曲帶狀結構，部分細絲向外分離，下方青藍細纖維。這是靜態圖，只記形狀不宣稱流動、撕裂或生長。第二張講者舞台/觀眾，第三張更廣角會場觀眾；兩張螢幕有CG但屬活動紀錄，不是直接成品。",
+    "observed_times": []
   }
 ]
