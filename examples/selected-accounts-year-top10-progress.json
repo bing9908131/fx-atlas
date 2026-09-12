@@ -6191,10 +6191,12 @@
           "shortcode": "DODySyEgEL_",
           "url": "https://www.instagram.com/landgrenwilliam/reel/DODySyEgEL_/",
           "published_at": "2025-09-01T12:13:33.000Z",
-          "status": "already_published",
-          "media_ids": [
-            "selectedyear-DODySyEgEL_-1"
-          ]
+          "status": "excluded",
+          "media_ids": [],
+          "excluded_media_indices": [
+            1
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         }
       ],
       "previous_status": "pending",

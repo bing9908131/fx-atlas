@@ -3101,5 +3101,20 @@
     "observed_times": [],
     "reason": "本輪播為實體珠寶參考攝影及攝影棚紀錄，排除純實拍；已核實Tiffany專案，並非因缺少品牌證據排除。",
     "evidence": "2026-09-12 Chrome1519733115四張靜態圖逐項截圖，末張僅返回且無影片。相機對著白色台面上的珠寶，下一格是色卡遮住部分珠寶的實拍。 官方https://www.found-studio.com/material/no-5-fundamentals/將首圖放在Photography / Real Cameras, Real Lights, Real Action下，文字說明實體珠寶攝影供後續CG參考。Chrome1519733120直接原圖https://media.found-studio.com/app/uploads/2026/07/07144400/found-studio-3d-motion-design-material-no.5-fundamentals-tiffany-bracelet-still-01-3308x1861-1-2560x1440.webp截圖確認與IG第1張構圖、珠寶方向、反射相符。不要與前輪播DdEcLt1iELE第4/5張CG重攝成果混淆。"
+  },
+  {
+    "post_id": "DODySyEgEL_",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "self_initiated_architectural_short_film",
+    "duration_seconds": 155.08333333333334,
+    "observed_times": [
+      9.149723,
+      10.325045,
+      11.515018
+    ],
+    "reason": "作者自發建築短片，明列建築/家具設計師為靈感來源，沒有品牌採用聲明；依自發作品排除條件移除。不是非CG判定。",
+    "evidence": "2026-09-12 Chrome1519733134原始https://www.instagram.com/landgrenwilliam/reel/DODySyEgEL_/。9.149723/10.325045黑白幾何屋頂/室內光帶視角略變，11.515018剪接到深色單椅、地毯與格柵陰影。作者明列個人建築、室內、攝影及音樂熱情的成果、自己作曲、100%CGI，以二十世紀中期建築雜誌掃描/網點/CMYK錯位質感做探索。Blender等為工具，Koolhaas/Eames/Knoll等為inspired by，不當作品牌委託。未完整標記155秒全部動態；依作品用途已足以判定排除。"
   }
 ]
