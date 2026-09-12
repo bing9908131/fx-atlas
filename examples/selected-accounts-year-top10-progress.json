@@ -4133,10 +4133,17 @@
           "shortcode": "DdEcLt1iELE",
           "url": "https://www.instagram.com/found_studio/p/DdEcLt1iELE/",
           "published_at": "2026-09-09T14:08:21.000Z",
-          "status": "already_published",
+          "status": "visual_reviewed",
           "media_ids": [
-            "selectedyear-DdEcLt1iELE-1"
-          ]
+            "selectedyear-DdEcLt1iELE-4",
+            "selectedyear-DdEcLt1iELE-5"
+          ],
+          "excluded_media_indices": [
+            1,
+            2,
+            3
+          ],
+          "cg_review": "All carousel media inspected separately; evidence and observed video times are stored per media."
         },
         {
           "shortcode": "Dc_U2HZCPlU",

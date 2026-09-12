@@ -1,11 +1,11 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2865,
+  "total": 2867,
   "unclassified": 0,
   "counts": {
     "graphic": 735,
-    "product": 1030,
+    "product": 1032,
     "organic": 643,
     "geometric": 963,
     "scifi": 359,
@@ -20364,6 +20364,40 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "Chrome1519733058輪播第7/8項，實際播放時刻[0.407249, 1.490178, 14.497472]。現場投影近景白淡紫孔洞網絡、枝狀細線與點陣曲面。0.407249至1.490178中心孔洞網絡張開重排；14.497472為另一時間的密集枝狀紋理，不把跨循環前後當連續生長。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEcLt1iELE-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733107輪播第4張截圖，獨立HTTPS currentSrc已取得。青綠漸層背景，直立細長金色雙圈珠寶，頂部鳥形鑲嵌細小透明寶石與深色喙。 全部五張為靜態圖，最後只有返回按鈕。沒有影片動態，不加旋轉/生長/組裝。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DdEcLt1iELE-5",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733107輪播第5張截圖，獨立HTTPS currentSrc已取得。黑邊框內青綠背景雙圈金色珠寶與鳥形鑲嵌裝飾，較正面構圖及下方倒影，細微螢幕紋理。 全部五張為靜態圖，最後只有返回按鈕。沒有影片動態，不加旋轉/生長/組裝。"
           ],
           "matched_tags": []
         }

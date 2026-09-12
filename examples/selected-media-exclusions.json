@@ -3031,5 +3031,35 @@
     ],
     "reason": "訪談迷因與藍色作品混剪，非單一委託CG展示，未確認片段品牌採用。不是判定整支沒有CG。",
     "evidence": "2026-09-12 Chrome1519733097原始https://www.instagram.com/loremdeloop/reel/DZQJmDvIJ_O/單支9.611609秒。4.283948/5.248283實拍孩童拿玩偶接受麥克風訪問與MLUE文字；6.216436藍色透明抽象長方體；7.176987藍色反射曲面近景；8.150469藍色透明泡狀物。片段剪接不代表物體變形。作者明言gather artworks與blue ones，沒有品牌採用證據，不能沿用鄰近RufusDuSol委託。"
+  },
+  {
+    "post_id": "DdEcLt1iELE",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reference_kind": "photographic_setup_documentation",
+    "observed_times": [],
+    "reason": "相機/螢幕/光學裝置的幕後攝影紀錄，非單獨CG成果展示。保留同輪播第4/5張成果。",
+    "evidence": "2026-09-12 Chrome1519733107逐項實見靜態圖片。青綠背景珠寶環前方有黑色方形光學裝置，明顯螢幕像素。 Found正式案例https://www.found-studio.com/material/no-5-fundamentals/明列與Marius Hansen Studio合作的Tiffany專案。完成CG渲染後在螢幕上以實體相機重新拍攝，屬混合攝影/CG成果，不等於直接珠寶實拍或純CG。未確認珠寶具體型號。"
+  },
+  {
+    "post_id": "DdEcLt1iELE",
+    "media_index": 2,
+    "total": 5,
+    "decision": "exclude",
+    "reference_kind": "photographic_setup_documentation",
+    "observed_times": [],
+    "reason": "相機/螢幕/光學裝置的幕後攝影紀錄，非單獨CG成果展示。保留同輪播第4/5張成果。",
+    "evidence": "2026-09-12 Chrome1519733107逐項實見靜態圖片。實體相機、校正棋盤格螢幕和攝影軟體三格幕後拼圖。 Found正式案例https://www.found-studio.com/material/no-5-fundamentals/明列與Marius Hansen Studio合作的Tiffany專案。完成CG渲染後在螢幕上以實體相機重新拍攝，屬混合攝影/CG成果，不等於直接珠寶實拍或純CG。未確認珠寶具體型號。"
+  },
+  {
+    "post_id": "DdEcLt1iELE",
+    "media_index": 3,
+    "total": 5,
+    "decision": "exclude",
+    "reference_kind": "photographic_setup_documentation",
+    "observed_times": [],
+    "reason": "相機/螢幕/光學裝置的幕後攝影紀錄，非單獨CG成果展示。保留同輪播第4/5張成果。",
+    "evidence": "2026-09-12 Chrome1519733107逐項實見靜態圖片。木桌上平放螢幕、筆電及軟體畫面，拍攝渲染圖的幕後拼圖。 Found正式案例https://www.found-studio.com/material/no-5-fundamentals/明列與Marius Hansen Studio合作的Tiffany專案。完成CG渲染後在螢幕上以實體相機重新拍攝，屬混合攝影/CG成果，不等於直接珠寶實拍或純CG。未確認珠寶具體型號。"
   }
 ]
