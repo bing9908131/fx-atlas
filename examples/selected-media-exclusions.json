@@ -3406,5 +3406,1095 @@
     ],
     "reason": "Blender故障效果逐步操作教學，依排除教學影片條件移除；不代表內容沒有CG，不影響同作者已驗證採用的BCON海報。",
     "evidence": "2026-09-12 Chrome1519733250單支影片duration初始56.133333後56.16907。9.74272/10.711738/11.741763 Blender視窗操作杯子材質與遮罩，畫面字幕提醒黑色或透明背景及建立物件遮罩。31.660036/32.62992顯示第7步UV unwrap plane與UV編輯器；33.605558第8步Add mix color node，節點操作。作者原文明述How I fake digital glitches in Blender Pt.3及tutorial。判定為教學用途，不從教學示範物件推定商業品牌採用。"
+  },
+  {
+    "post_id": "DZuQPu9Ajo3",
+    "media_index": 1,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "工作流程教學與說明筆記，不屬成品CG參考。",
+    "reference_kind": "software_workflow_tutorial",
+    "evidence": "2026-09-12 Chrome1519733275逐張查看3個媒體，第三僅返回無當前video。作者caption明示教學如何用Cinema4D XRef分離模型材質與render setup。第一段：XRef章節標題，藍色布面家具CG範例插圖，以及作者對鏡頭講解搭配桌面錄影。屬XRef工作流程教學，不是獨立成品廣告；包含CG不等於可作已完成商業作品收錄。",
+    "observed_times": [
+      6.868957,
+      13.965817,
+      33.893929
+    ],
+    "duration_seconds": 59.2
+  },
+  {
+    "post_id": "DZuQPu9Ajo3",
+    "media_index": 2,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "工作流程教學與說明筆記，不屬成品CG參考。",
+    "reference_kind": "software_workflow_tutorial",
+    "evidence": "2026-09-12 Chrome1519733275逐張查看3個媒體，第三僅返回無當前video。作者caption明示教學如何用Cinema4D XRef分離模型材質與render setup。第二段：Cinema 4D場景/物件列表操作，開啟檔案對話框选择side table模型，字幕逐步解說匯入引用。屬軟體操作教學。",
+    "observed_times": [
+      1.853026,
+      11.701597
+    ],
+    "duration_seconds": 55.03333333333333
+  },
+  {
+    "post_id": "DZuQPu9Ajo3",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "工作流程教學與說明筆記，不屬成品CG參考。",
+    "reference_kind": "software_workflow_tutorial",
+    "evidence": "2026-09-12 Chrome1519733275逐張查看3個媒體，第三僅返回無當前video。作者caption明示教學如何用Cinema4D XRef分離模型材質與render setup。第三張：綠色桌面上的筆記本與粉紅筆，手寫WHY should I care及XRef優點。是工作流程教學筆記，不是CG效果成品。",
+    "observed_times": []
+  },
+  {
+    "post_id": "DbX_1-dDZgF",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者自發的故障手錶CG創作，非品牌採用作品。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733279逐一檢查5支影片，第5僅返回。作者明確說自己手錶螢幕壞掉，將隨機故障轉成CG短片，並延後換錶。這是作者自身靈感創作的正面證據，不是僅因缺少品牌名便推定練習。彩色機構塊與透明錶殼切換成條紋故障畫面。",
+    "duration_seconds": 5.738666,
+    "observed_times": [
+      2.241288,
+      3.030467
+    ]
+  },
+  {
+    "post_id": "DbX_1-dDZgF",
+    "media_index": 2,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者自發的故障手錶CG創作，非品牌採用作品。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733279逐一檢查5支影片，第5僅返回。作者明確說自己手錶螢幕壞掉，將隨機故障轉成CG短片，並延後換錶。這是作者自身靈感創作的正面證據，不是僅因缺少品牌名便推定練習。粉紅錶殼上彩色直條故障圖樣變換。",
+    "duration_seconds": 3.733333,
+    "observed_times": [
+      0.06714,
+      1.83357
+    ]
+  },
+  {
+    "post_id": "DbX_1-dDZgF",
+    "media_index": 3,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者自發的故障手錶CG創作，非品牌採用作品。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733279逐一檢查5支影片，第5僅返回。作者明確說自己手錶螢幕壞掉，將隨機故障轉成CG短片，並延後換錶。這是作者自身靈感創作的正面證據，不是僅因缺少品牌名便推定練習。彩色弧形機構在透明錶殼中位移與轉向。",
+    "duration_seconds": 2.368,
+    "observed_times": [
+      0.928573,
+      1.594502
+    ]
+  },
+  {
+    "post_id": "DbX_1-dDZgF",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者自發的故障手錶CG創作，非品牌採用作品。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733279逐一檢查5支影片，第5僅返回。作者明確說自己手錶螢幕壞掉，將隨機故障轉成CG短片，並延後換錶。這是作者自身靈感創作的正面證據，不是僅因缺少品牌名便推定練習。上下兩個錶盤指針和黑色直條圖形變化。",
+    "duration_seconds": 6.058666,
+    "observed_times": [
+      1.820125,
+      4.965701
+    ]
+  },
+  {
+    "post_id": "DbX_1-dDZgF",
+    "media_index": 5,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者損壞手錶的實拍參考。",
+    "reference_kind": "live_action_reference",
+    "evidence": "2026-09-12 Chrome1519733279逐一檢查5支影片，第5僅返回。作者明確說自己手錶螢幕壞掉，將隨機故障轉成CG短片，並延後換錶。這是作者自身靈感創作的正面證據，不是僅因缺少品牌名便推定練習。實拍手腕上損壞手錶的螢幕綠色直條，室內外角度變化。",
+    "duration_seconds": 5.781333,
+    "observed_times": [
+      1.489668,
+      2.258793
+    ]
+  },
+  {
+    "post_id": "DagDd0jjZcB",
+    "media_index": 1,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "作者以日常鴿子照片自發創作的CG實驗，未作品牌作品收錄。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733283逐一檢查4支影片，第4僅返回。作者明示Theory of the day、收集照片並做動畫，為日常靈感創作；不是僅根據沒寫品牌作推定。評論MTV2026不是委託證據。銀色機械結構、紫綠底座旋轉展示。",
+    "duration_seconds": 5.461332,
+    "observed_times": [
+      2.653532,
+      3.436993
+    ]
+  },
+  {
+    "post_id": "DagDd0jjZcB",
+    "media_index": 2,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "作者以日常鴿子照片自發創作的CG實驗，未作品牌作品收錄。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733283逐一檢查4支影片，第4僅返回。作者明示Theory of the day、收集照片並做動畫，為日常靈感創作；不是僅根據沒寫品牌作推定。評論MTV2026不是委託證據。兩隻風格化鴿子站在金屬架上，鏡頭/架體相對角度改變。",
+    "duration_seconds": 4.821332,
+    "observed_times": [
+      3.369075,
+      4.132424
+    ]
+  },
+  {
+    "post_id": "DagDd0jjZcB",
+    "media_index": 3,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "作者以日常鴿子照片自發創作的CG實驗，未作品牌作品收錄。",
+    "reference_kind": "personal_cg_experiment",
+    "evidence": "2026-09-12 Chrome1519733283逐一檢查4支影片，第4僅返回。作者明示Theory of the day、收集照片並做動畫，為日常靈感創作；不是僅根據沒寫品牌作推定。評論MTV2026不是委託證據。橘粉底白色立體字與彩色軟質形態，背景色塊移動。",
+    "duration_seconds": 3.455999,
+    "observed_times": [
+      1.974981,
+      2.734292
+    ]
+  },
+  {
+    "post_id": "DagDd0jjZcB",
+    "media_index": 4,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "街景鴿子與鳥糞的實拍參考剪輯。",
+    "reference_kind": "live_action_reference",
+    "evidence": "2026-09-12 Chrome1519733283逐一檢查4支影片，第4僅返回。作者明示Theory of the day、收集照片並做動畫，為日常靈感創作；不是僅根據沒寫品牌作推定。評論MTV2026不是委託證據。實拍街道鴿子與石面鳥糞的參考照片剪輯。",
+    "duration_seconds": 4.458666,
+    "observed_times": [
+      3.1422,
+      3.910627
+    ]
+  },
+  {
+    "post_id": "Cz6SIDBN9hQ",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "Cinema 4D Journey課程展示內容，依既有課程展示排除範圍移除。",
+    "reference_kind": "course_showcase",
+    "evidence": "2026-09-12 Chrome1519733287實際單支19.033333秒。2.048325/9.483919/10.249546白底藍色V形卡通造型，黃色圓柱、粉紅彈簧與底座，彈簧壓縮伸展及造型傾斜。是CG動畫，不是實拍或軟體操作錄影。發布者motiondesignschool與elmotionlab，caption明示Course:Cinema4DJourney並附課程連結。官方課程頁https://motiondesign.school/courses/cinema-4d-journey/確認課程與合作成果展示脈絡；不宣稱已證明此片是某位學生作業，不宣稱沒有正式學校合作。排除理由是課程展示範圍。",
+    "observed_times": [
+      2.048325,
+      9.483919,
+      10.249546
+    ],
+    "duration_seconds": 19.033333
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 1,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。6秒動畫：藍底粉紅扭曲絲帶、透明虹彩環與球、金色薄片、晶體分枝。0.215745與0.895728可見環旋轉、晶體相對位移；不是煙火或爆破。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。",
+    "observed_times": [
+      0.215745,
+      0.895728
+    ],
+    "duration_seconds": 5.999999
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 2,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。靜態作品標題CRYSTAL REVERIE；下方明示ARTWORK STUDY / 10 SEPTEMBER 2026。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。"
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 3,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "tutorial",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。靜態說明頁IMAGE PROMPT / BUILDING THE VISUAL WORLD，描述生成畫面。Cinema4D/Redshift aesthetic是提示詞，不是實際軟體使用證據。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。"
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 4,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。靜態SELECTED ARTWORK，展示同一粉紅絲帶、透明環與晶體作品。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。"
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 5,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "tutorial",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。靜態概念頁ONE WORLD,TWO LIGHTS，列出材質、色盤、氛圍。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。"
+  },
+  {
+    "post_id": "DdGSbqvmR6p",
+    "media_index": 6,
+    "total": 6,
+    "decision": "exclude",
+    "reason": "個人AI視覺研究及提示詞教學，依排除個人練習與教學內容的範圍移除。",
+    "reference_kind": "tutorial",
+    "evidence": "2026-09-12 Chrome1519733295逐項實際檢視。靜態VEO PROMPT / THE SELECTED ANIMATION PROMPT；production note明示Veo gave the preferred result in this test。末頁只有返回、無下一步，確認共6項。 全輪播以Artwork Study、Veo test和Patreon Tips PDF明確呈現個人研究教學脈絡；不是僅因未見品牌而推定。相關Coachella貼文不是同一作品使用證據。"
+  },
+  {
+    "post_id": "DcEuU6aSY5Q",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示個人CG挑戰作品及其製作過程，依排除個人練習的要求移除。",
+    "reference_kind": "personal_challenge",
+    "evidence": "2026-09-12實際檢視單支reel。Chrome1519733302。教堂場景天使雕像、懸浮女性角色、金色粒子流與光線，CG成品。作者正文明示My first @_pwnisher_ challenge，Gauntlet of Gods / Solene Saint of Ash，是個人挑戰作品。 不是非CG或實拍；工作室共同發布不代表此挑戰是品牌廣告。",
+    "duration_seconds": 22.833332,
+    "observed_times": [
+      6.739199,
+      16.429776
+    ]
+  },
+  {
+    "post_id": "Dc0W2pOC2Iz",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示個人CG挑戰作品及其製作過程，依排除個人練習的要求移除。",
+    "reference_kind": "personal_challenge",
+    "evidence": "2026-09-12實際檢視單支reel。Chrome1519733305。7.909383灰色場景中女性角色及CHAMPION NAME卡框，18.481655同一角色與教堂天使雕像完成渲染。作者GOG Viewport & Render以及pwnisherchallenge；與DcEuU6aSY5Q同一挑戰作品的過程比較。 不是非CG或實拍；工作室共同發布不代表此挑戰是品牌廣告。",
+    "duration_seconds": 29.916666,
+    "observed_times": [
+      7.909383,
+      18.481655
+    ]
+  },
+  {
+    "post_id": "Da5KlOoD5XE",
+    "media_index": 1,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者個人R&D實驗作品合集，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733334逐項檢視。綠色半圓軌道、黃白球、白色機構；軌道和鏡頭方向變化。 正文明示Daniel的personal project/open-ended R&D及experiments，這則Artist of the Week為作品精選而非品牌委託廣告。不是把有CG誤判為非CG；也不是僅因未出現品牌就排除。",
+    "duration_seconds": 16,
+    "observed_times": [
+      7.588914,
+      15.939533
+    ]
+  },
+  {
+    "post_id": "Da5KlOoD5XE",
+    "media_index": 2,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者個人R&D實驗作品合集，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733334逐項檢視。白色機械臂承托綠色U形軌道、黃白球；機構朝向變化，非流體。 正文明示Daniel的personal project/open-ended R&D及experiments，這則Artist of the Week為作品精選而非品牌委託廣告。不是把有CG誤判為非CG；也不是僅因未出現品牌就排除。",
+    "duration_seconds": 8,
+    "observed_times": [
+      1.668373,
+      4.455591
+    ]
+  },
+  {
+    "post_id": "Da5KlOoD5XE",
+    "media_index": 3,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者個人R&D實驗作品合集，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733334逐項檢視。白色機器、紫色方平台、大理石紋方塊與黃球，平台位置和球的位置變化。 正文明示Daniel的personal project/open-ended R&D及experiments，這則Artist of the Week為作品精選而非品牌委託廣告。不是把有CG誤判為非CG；也不是僅因未出現品牌就排除。",
+    "duration_seconds": 11.999999,
+    "observed_times": [
+      9.157243,
+      4.962093
+    ]
+  },
+  {
+    "post_id": "Da5KlOoD5XE",
+    "media_index": 4,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者個人R&D實驗作品合集，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733334逐項檢視。暗色空間兩隻橘色機械臂與方框，方框由不同手臂承托、機臂轉動；沒有流體。 正文明示Daniel的personal project/open-ended R&D及experiments，這則Artist of the Week為作品精選而非品牌委託廣告。不是把有CG誤判為非CG；也不是僅因未出現品牌就排除。",
+    "duration_seconds": 18.017232,
+    "observed_times": [
+      11.551205,
+      2.460325
+    ]
+  },
+  {
+    "post_id": "Da5KlOoD5XE",
+    "media_index": 5,
+    "total": 5,
+    "decision": "exclude",
+    "reason": "作者個人R&D實驗作品合集，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733334逐項檢視。靜態兩張綠色布椅懸空、金色椅腳、橘色靠墊、米色室內與條紋光影。末頁只有返回，沒有當前影片，確認總共五項。 正文明示Daniel的personal project/open-ended R&D及experiments，這則Artist of the Week為作品精選而非品牌委託廣告。不是把有CG誤判為非CG；也不是僅因未出現品牌就排除。"
+  },
+  {
+    "post_id": "DdBWecYuE8Y",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "After Effects預設操作示範／教學宣傳，依教學內容排除範圍移除。",
+    "reference_kind": "tutorial",
+    "evidence": "2026-09-12實際檢視單支reel。Chrome1519733350，AE曲線面板、Offset SPEED設定及藍色發光螺旋預览，正文FREE After Effects preset、免費下載與SPIRAL留言領取。 有數位效果與工具操作，不是判定沒有CG；不把軟體介面相機移動誤當物體動態。",
+    "observed_times": [
+      6.965138,
+      4.703234
+    ],
+    "duration_seconds": 9.843808
+  },
+  {
+    "post_id": "Dcx9dibBgE4",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "After Effects預設操作示範／教學宣傳，依教學內容排除範圍移除。",
+    "reference_kind": "tutorial",
+    "evidence": "2026-09-12實際檢視單支reel。Chrome1519733353，AE三維相機線框與HUD BASE 2合成、Glow與Curves參數面板，正文Full tutorial on my YT Channel與aftereffectstutorial。 有數位效果與工具操作，不是判定沒有CG；不把軟體介面相機移動誤當物體動態。",
+    "observed_times": [
+      7.671148,
+      5.152758
+    ],
+    "duration_seconds": 10.033333
+  },
+  {
+    "post_id": "DdF8sCmMsIg",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "personal_satire",
+    "reason": "個人諷刺圖像，不符合已確認品牌採用的CG廣告／特效參考範圍。",
+    "evidence": "2026-09-12實際圖片檢視。Chrome1519733370，單張靜態灰底人物與手機構成的荒誕情境，作者提問is anyone else worried about this happening。 無輪播按鈕、無影片，確認單張。畫面中的手機與電腦不是品牌廣告採用證據。不推定生成工具、不把合成畫面當真實事件，也不宣稱是純實拍。"
+  },
+  {
+    "post_id": "Dc3K4eNsv80",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "personal_satire",
+    "reason": "個人諷刺圖像，不符合已確認品牌採用的CG廣告／特效參考範圍。",
+    "evidence": "2026-09-12實際圖片檢視。Chrome1519733373，單張靜態虛構監牢場景、人物、橘色服裝及堆疊桌上電腦；作者標題BERNIE OUTLAWING AI，屬政治科技諷刺。 無輪播按鈕、無影片，確認單張。畫面中的手機與電腦不是品牌廣告採用證據。不推定生成工具、不把合成畫面當真實事件，也不宣稱是純實拍。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 1,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第1張：戴金屬頭飾與放射狀衣領的女性正面肖像。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 2,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第2張：攝影師、老式相機與坐姿人物的攝影棚全景。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 3,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第3張：助手整理人物耳側頭飾。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 4,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第4張：人物大笑，旁有助手。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 5,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第5張：人物閉眼扶頸的坐姿。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 6,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第6張：側臉與金屬頭飾特寫。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 7,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第7張：老式相機正面特寫。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 8,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第8張：人物持煙嘴，旁有攝影師。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 9,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第9張：側面坐姿與棚燈、相機。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 10,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第10張：頭飾放在支架上，桌面手鏡與手套。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 11,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第11張：模糊的人物近照。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Dan-TtnDYly",
+    "media_index": 12,
+    "total": 12,
+    "decision": "exclude",
+    "reason": "復古人物攝影敘事及棚拍幕後圖集，不符合目前CG廣告／特效參考的收錄範圍。",
+    "reference_kind": "editorial_portrait_series",
+    "evidence": "2026-09-12 Chrome1519733386逐張檢視，12張均靜態。第12張：人物吐舌與後方攝影师合照。全組黑白偏褐色復古影像。正文以photographic studio journal及editorialphotography/portraitphotography描述，沒有可驗證CG製作或品牌採用資訊。排除基於人物攝影敘事內容，不聲稱已證明純實拍、不推定AI工具、不把1927故事日期當真實拍攝年代。末頁只有返回且無video，確認輪播完整。"
+  },
+  {
+    "post_id": "Crs45T-B323",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示 cloth explorations 並以 everyday / dailyrender 發布的個人布料探索，依排除個人練習要求移除。",
+    "reference_kind": "personal_study",
+    "evidence": "2026-09-12 Chrome1519733428 實際查看單支影片，無輪播。3.090985 秒橘色網格與綠灰色圓形凸起布面，中心收縮扭曲；7.0628 秒米黃色平整蜂巢網格。正文明示 ..and more cloth explorations，配 everyday、dailyrender。確實有 CG 布面形變，不是非 CG；分類依據是作者明示探索用途。",
+    "duration_seconds": 15.136507,
+    "observed_times": [
+      3.090985,
+      7.0628
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 1,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第1項：林中登山者人像。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 2,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第2項：森林與黃花。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 3,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第3項：登山者自拍。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 4,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第4項：山峰湖泊與山屋。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 5,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第5項：山峰雲層實拍影片。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。",
+    "duration_seconds": 18.511723,
+    "observed_times": [
+      2.095713,
+      10.473137
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 6,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第6項：陽光湖泊。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 7,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第7項：山谷夕陽。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 8,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第8項：山峰湖面倒影影片。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。",
+    "duration_seconds": 13.366666,
+    "observed_times": [
+      0.113917,
+      0.753017
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 9,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第9項：紅衣登山者在岩石山地行走影片。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。",
+    "duration_seconds": 36.639439,
+    "observed_times": [
+      12.434689,
+      20.71067
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 10,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第10項：岩石上人像。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 11,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第11項：森林瀑布手持影片。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。",
+    "duration_seconds": 15.299999,
+    "observed_times": [
+      2.91515,
+      15.099271
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 12,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第12項：溪水中人物。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 13,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第13項：森林溪流。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 14,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第14項：峽谷岩壁。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 15,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第15項：山峰湖泊山屋。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 16,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第16項：山前自拍。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 17,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第17項：紅色山屋。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 18,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第18項：暮色湖面。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 19,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第19項：森林湖泊遠景平移影片。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。",
+    "duration_seconds": 11.566666,
+    "observed_times": [
+      6.916284,
+      8.921671
+    ]
+  },
+  {
+    "post_id": "DU0xENCER7Y",
+    "media_index": 20,
+    "total": 20,
+    "decision": "exclude",
+    "reason": "個人巴塔哥尼亞登山旅遊實拍紀錄，非CG特效參考。",
+    "reference_kind": "personal_travel_documentation",
+    "evidence": "2026-09-12 Chrome1519733447實際逐項檢視全部20媒體，最後犬照片僅返回無下一步。第20項：黑白犬近照。作者明示Magical days in Patagonia，與朋友登山接觸自然的旅程；畫面與旅遊紀錄一致，無CG製作或合成效果證據。"
+  },
+  {
+    "post_id": "C_j64ZlS-W0",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者獨立實驗短片，非品牌採用廣告；依品牌作品收錄要求排除。",
+    "reference_kind": "independent_short_film",
+    "duration_seconds": 14.124999,
+    "observed_times": [
+      0.20827,
+      9.915255
+    ],
+    "evidence": "2026-09-12 Chrome1519733470，單支reel。0.20827地面上米色扭曲帶狀物，9.915255建築空間懸空金屬欄杆與混凝土地面。確實CG動畫，非實拍排除。作者官方https://www.joakim.design/project/sights-on-scene列Short Film，敘述自身滑板視角與城市空間創作；作者首頁將本作與Commercial作品分別分類。Zelig Sound自身Vimeo https://vimeo.com/997679128列Visuals Client: Joakim Ekström，FilmFreeway https://filmfreeway.com/SightsonScene列Animation Experimental Short且非學生作品。GoodMoves是選片轉載，不代表滑板品牌委託或廣告採用。"
+  },
+  {
+    "post_id": "C_OojeLBTHR",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "動畫畢業短片預告，非品牌廣告參考，依排除學生創作展示的範圍移除。",
+    "reference_kind": "graduation_film",
+    "duration_seconds": 14.124999,
+    "observed_times": [
+      0.248294,
+      9.049625
+    ],
+    "evidence": "2026-09-12 Chrome1519733473實看單支reel。0.248294綠底手繪人物紅衣、頭部花草；9.049625暗紅場景粉紅月亮下坐著男性與散落磚塊。不是實拍，是2D角色敘事動畫預告。IG正文Above the Clouds/Felhők felett、Vivien Hárshegyi與MOME。MOME官方https://anim.mome.hu/film/felhok-felett/?lang=en確認作品與製作名單；Annecy官方https://www.annecyfestival.com/en/above-the-clouds列Graduation Films。依畢業作品性質排除，不將2D動畫概括為非CG。"
+  },
+  {
+    "post_id": "DczsPkcN24L",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reason": "作者明示為幾何doodles草稿練習，依排除個人練習的要求移除。",
+    "reference_kind": "personal_study",
+    "duration_seconds": 7.382493,
+    "observed_times": [
+      0.356413,
+      3.02542
+    ],
+    "evidence": "2026-09-12 Chrome1519733481實際單支reel。0.356413黑白點紋立方體及弧形圖樣長陰影，3.02542圖塊縮小分散並變換方向。原文Hexagonal derivatives doodles，明確幾何草稿。確有CG圖形動畫，不是非CG。相關Maxon/GSG品牌介紹屬其他貼文，不能推定此則草稿已採用。"
+  },
+  {
+    "post_id": "Db8os2ejSUI",
+    "media_index": 1,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "人工製作與AI生成的技術對照展示，依排除教學／比較展示的內容範圍移除。",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 12.374999,
+    "observed_times": [
+      8.64569,
+      8.678977
+    ],
+    "evidence": "2026-09-12 Chrome1519733486實際逐項查看4支影片，最後僅返回無下一步。Google字樣、足球人物與球的Human/AI上下對照。原文明示所有AIexamples使用Seedance，請滑動比較差異。排除的是這組比較展示，不是否認其中原始人工動畫可能為商業作品，也不將品牌出現當成AI測試被品牌採用。不是因為含AI便排除。"
+  },
+  {
+    "post_id": "Db8os2ejSUI",
+    "media_index": 2,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "人工製作與AI生成的技術對照展示，依排除教學／比較展示的內容範圍移除。",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 5.749999,
+    "observed_times": [
+      5.120809,
+      5.372956
+    ],
+    "evidence": "2026-09-12 Chrome1519733486實際逐項查看4支影片，最後僅返回無下一步。Choose Your Way字樣周圍行李箱、啞鈴、杯子、椅子等物件的Human/AI上下對照。原文明示所有AIexamples使用Seedance，請滑動比較差異。排除的是這組比較展示，不是否認其中原始人工動畫可能為商業作品，也不將品牌出現當成AI測試被品牌採用。不是因為含AI便排除。"
+  },
+  {
+    "post_id": "Db8os2ejSUI",
+    "media_index": 3,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "人工製作與AI生成的技術對照展示，依排除教學／比較展示的內容範圍移除。",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 3.958332,
+    "observed_times": [
+      1.735512,
+      3.597948
+    ],
+    "evidence": "2026-09-12 Chrome1519733486實際逐項查看4支影片，最後僅返回無下一步。Doodles AI標誌與彩色玩具式圖示的Human/AI上下對照。原文明示所有AIexamples使用Seedance，請滑動比較差異。排除的是這組比較展示，不是否認其中原始人工動畫可能為商業作品，也不將品牌出現當成AI測試被品牌採用。不是因為含AI便排除。"
+  },
+  {
+    "post_id": "Db8os2ejSUI",
+    "media_index": 4,
+    "total": 4,
+    "decision": "exclude",
+    "reason": "人工製作與AI生成的技術對照展示，依排除教學／比較展示的內容範圍移除。",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 7.374999,
+    "observed_times": [
+      0.656218,
+      6.126875
+    ],
+    "evidence": "2026-09-12 Chrome1519733486實際逐項查看4支影片，最後僅返回無下一步。紅色飲料罐與綠色遊戲控制器的Human/AI上下對照。原文明示所有AIexamples使用Seedance，請滑動比較差異。排除的是這組比較展示，不是否認其中原始人工動畫可能為商業作品，也不將品牌出現當成AI測試被品牌採用。不是因為含AI便排除。"
+  },
+  {
+    "post_id": "Dak_6x2FM1h",
+    "media_index": 3,
+    "total": 3,
+    "decision": "exclude",
+    "reason": "製作比較示範影片，畫面明示Viewport Render與Color Correction，依排除製作比較示範的要求不收錄。",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 7.666666,
+    "observed_times": [
+      1.921804,
+      6.032725
+    ],
+    "evidence": "2026-09-12 Chrome1519733515輪播第3個為最後一支影片，只有返回。1.921804手指伸向fred again字樣食物及錫箔盤，字幕VIEWPORT RENDER；6.032725手在盤上，字幕COLOR CORRECTION WITH SOME TEXTURE SPICE。是明示製作前後比較，不由此推定第1/2成品未被採用。"
+  },
+  {
+    "post_id": "C0JooztSNlb",
+    "media_index": 3,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "product_photography",
+    "reason": "盆栽實品攝影／目錄應用，排除非CG參考部分。",
+    "evidence": "Chrome1519733535逐張實看第3張：全株龍舌蘭盆栽放置於書本與桌面，實品花牌插土。照片重點為實體植株和產品使用，不因同篇有CG宣傳圖而整篇收錄。",
+    "observed_times": []
+  },
+  {
+    "post_id": "C0JooztSNlb",
+    "media_index": 4,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "product_photography",
+    "reason": "盆栽實品攝影／目錄應用，排除非CG參考部分。",
+    "evidence": "Chrome1519733535逐張實看第4張：龍舌蘭葉片與插土金屬花牌特寫。照片重點為實體植株和產品使用，不因同篇有CG宣傳圖而整篇收錄。",
+    "observed_times": []
+  },
+  {
+    "post_id": "C0JooztSNlb",
+    "media_index": 6,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "product_photography",
+    "reason": "盆栽實品攝影／目錄應用，排除非CG參考部分。",
+    "evidence": "Chrome1519733535逐張實看第6張：三腳花盆、龍舌蘭和右下品種資訊疊圖。照片重點為實體植株和產品使用，不因同篇有CG宣傳圖而整篇收錄。",
+    "observed_times": []
+  },
+  {
+    "post_id": "C0JooztSNlb",
+    "media_index": 7,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "product_photography",
+    "reason": "盆栽實品攝影／目錄應用，排除非CG參考部分。",
+    "evidence": "Chrome1519733535逐張實看第7張：灰黑浮紋盆栽、龍舌蘭與資訊疊圖。照片重點為實體植株和產品使用，不因同篇有CG宣傳圖而整篇收錄。",
+    "observed_times": []
+  },
+  {
+    "post_id": "C0JooztSNlb",
+    "media_index": 8,
+    "total": 8,
+    "decision": "exclude",
+    "reference_kind": "product_photography",
+    "reason": "盆栽實品攝影／目錄應用，排除非CG參考部分。",
+    "evidence": "Chrome1519733535逐張實看第8張：粗糙銀色盆栽、龍舌蘭、桌面與資訊疊圖。照片重點為實體植株和產品使用，不因同篇有CG宣傳圖而整篇收錄。",
+    "observed_times": []
+  },
+  {
+    "post_id": "Dc_ZyZ2DtRs",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "process_comparison",
+    "reason": "渲染原理教學的白模／成品對照圖，依排除教學及製作比較示範的要求移除。不是因為缺品牌採用證據而排除。",
+    "type": "image",
+    "evidence": "2026-09-12 Chrome1519733550直接重看原帖：單張左右對照，左白模咖啡機／右黑金屬木側板玻璃壺成品；0video，無輪播下一步。Maxon Redshift原文明示quick guide breaks down what rendering is & why it matters並導向教學，故確定是渲染教學對照。仍承認是CG圖，不標成非CG。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 1,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "live_action_ad_cg_not_verified",
+    "duration_seconds": 10.645333,
+    "observed_times": [
+      0.013,
+      1.163,
+      2.307,
+      3.455,
+      4.584,
+      5.713,
+      6.862,
+      7.976,
+      9.107
+    ],
+    "reason": "實拍主導的品牌廣告片段；畫面與專案資料無法支持具體CG參考標籤，依CG素材庫收錄門檻排除。不宣稱完全沒有合成或後製，也不因缺品牌採用而排除。",
+    "evidence": "原逐段實際觀看紀錄.tmp/benz-comfort-pending.md，Chrome2622benz，全7支輪播已看。木拱／水池／椅子及女演員，俯視椅子，人物近景與手觸水，沿木拱走動及腳部特寫。木拱維持靜態，沒有觀察到幾何生長或變形。2026-09-12重新核對導演專案 https://currytian.com/works/works-all/mercedes-benz-c-class-stay-in-your-comfort-zone/project-info_for-video ，明列Mercedes-Benz/Ogilvy Beijing/Dongtutang、攝影Sam Datou、美術Heyang Wang、道具Feng Zhang及Online Longlong/Jiguang/Shannai；沒有將所見木拱、水面、車內或岩石場景界定為CG。採用已確認，但CG參考資格無足夠依據。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 2,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "live_action_ad_cg_not_verified",
+    "duration_seconds": 8.768,
+    "observed_times": [
+      0.729,
+      1.845,
+      2.98,
+      4.092,
+      5.238,
+      6.349,
+      7.499,
+      8.615
+    ],
+    "reason": "實拍主導的品牌廣告片段；畫面與專案資料無法支持具體CG參考標籤，依CG素材庫收錄門檻排除。不宣稱完全沒有合成或後製，也不因缺品牌採用而排除。",
+    "evidence": "原逐段實際觀看紀錄.tmp/benz-comfort-pending.md，Chrome2622benz，全7支輪播已看。車輪前景、女演員與白色布棚、切換車內、按鍵、男性在車窗旁、車輛岩石景觀。不能從布棚或風景直接推定布料模擬或CG環境。2026-09-12重新核對導演專案 https://currytian.com/works/works-all/mercedes-benz-c-class-stay-in-your-comfort-zone/project-info_for-video ，明列Mercedes-Benz/Ogilvy Beijing/Dongtutang、攝影Sam Datou、美術Heyang Wang、道具Feng Zhang及Online Longlong/Jiguang/Shannai；沒有將所見木拱、水面、車內或岩石場景界定為CG。採用已確認，但CG參考資格無足夠依據。"
+  },
+  {
+    "post_id": "DbayLnuEVR_",
+    "media_index": 4,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "live_action_ad_cg_not_verified",
+    "duration_seconds": 11.328,
+    "observed_times": [
+      0.117,
+      1.286,
+      2.454,
+      3.625,
+      4.822,
+      6.017,
+      7.179,
+      8.342,
+      9.525
+    ],
+    "reason": "實拍主導的品牌廣告片段；畫面與專案資料無法支持具體CG參考標籤，依CG素材庫收錄門檻排除。不宣稱完全沒有合成或後製，也不因缺品牌採用而排除。",
+    "evidence": "原逐段實際觀看紀錄.tmp/benz-comfort-pending.md，Chrome2622benz，全7支輪播已看。女演員、水池和椅子、面部與手部近景、同款木拱，末段汽車峭壁與標題。是同一實拍主導的廣告剪輯，無清楚可識別的CG模擬。2026-09-12重新核對導演專案 https://currytian.com/works/works-all/mercedes-benz-c-class-stay-in-your-comfort-zone/project-info_for-video ，明列Mercedes-Benz/Ogilvy Beijing/Dongtutang、攝影Sam Datou、美術Heyang Wang、道具Feng Zhang及Online Longlong/Jiguang/Shannai；沒有將所見木拱、水面、車內或岩石場景界定為CG。採用已確認，但CG參考資格無足夠依據。"
+  },
+  {
+    "post_id": "DIykgQuN9EB",
+    "media_index": 10,
+    "total": 12,
+    "decision": "exclude",
+    "reference_kind": "physical_installation_photography",
+    "type": "image",
+    "reason": "實體Hermès櫥窗裝置攝影，非CG成品參考。CNC與3D列印製作不等於此照片是CG渲染；依排除純實拍要求移除。",
+    "evidence": "2026-09-12 Chrome1519733566直接重看OFFF第10張。Tin&Ed官方 https://tinanded.com/projects/hermes 明示Deep Flight,Hermès Flagship Hong Kong,3-axis CNC milling/3D printing/hand painted。Chrome1519733569官方頁可見實體店面及同系列櫥窗。Tin Nguyen在AGI https://a-g-i.org/design/deep-flight 的原圖tinanded_hermes_00003b.jpg，Chrome1519733572顯示與OFFF同一橙色枝狀雕塑、綠色海藻雕塑、懸掛人台與包袋、紫色波浪底座、牆面和玻璃反射；是同一裝置照片的裁切加字。品牌採用已確認，但此媒體是攝影，無流體、布料或生長動畫。"
+  },
+  {
+    "post_id": "DIykgQuN9EB",
+    "media_index": 2,
+    "total": 12,
+    "decision": "exclude",
+    "reference_kind": "technical_workflow_study",
+    "type": "image",
+    "reason": "作者以Houdini／Unreal動畫工作流程為重點的技術研究展示，依排除個人技術練習的要求不收錄；不是實拍，也不將OFFF展示當成Ford採用。",
+    "evidence": "2026-09-12 Chrome1519733578重看第2張黑色Mustang賽道双畫面；Petfactory作者原站 https://www.petfactory.se/work/mustang-02/ 以及mustang-01明示專案重點為Houdini與Unreal動畫workflow，簡化HDRI環境與地面、低設定render，Model65FordMustangFastback byLuisLara。Chrome1519733581作者原始mustang_drift_03_960.jpg確認同車、紅白賽道護牆、鏡面鍍鉻、輪圈與灰塵效果。這是具體專案的技術研究說明，不因泛用作者背景或搜尋不到客戶而排除。"
+  },
+  {
+    "post_id": "DShIbvJDWlI",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "physical_installation_recording",
+    "duration_seconds": 11.566666,
+    "observed_times": [
+      2.773239,
+      4.684993,
+      6.537801,
+      11.260549
+    ],
+    "reason": "實體光影裝置錄影：懸掛燈泡照射蝶翼產生變動陰影，非CG蝶群、羽毛或風場模擬，依排除純實拍要求移除。",
+    "evidence": "2026-09-12 Chrome1519733586直接重看Motionmate原帖，Created by @kosei_komatsu。2.773239完整長方形壁面與懸掛裸燈泡，11.260549近景可見白色半片蝶翼及褐色陰影；與先前4.684993/6.537801觀察同一單支11.566666秒影片。金津創作の森美術館官方 https://sosaku.jp/event/2024/komatsu/ 作品介紹明列光と影の蝶（2023）材料ピカサス、電球、和紙、アクリル、モーター、真鍮、木。作品名稱與光源/蝶翼影子的實體機制相符，不是僅以作者一般背景判定。未聲稱確切拍攝展館或日期。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 4,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "process_comparison",
+    "duration_seconds": 29.599999,
+    "observed_times": [
+      9.31502,
+      19.105885
+    ],
+    "reason": "白模VR操作及完成渲染對照的製作示範，依排除製作比較內容要求移除。",
+    "evidence": "2026-09-12 Chrome1519733590直接由img_index4開啟；9.31502畫中畫暖色石質場景與金屬球，底部白模場景；19.105885相同渲染嵌圖，底部灰模場景及VR控制器，確定是製作操作對照。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 6,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "text_only",
+    "type": "image",
+    "reason": "純黑底文字卡，無CG作品畫面。",
+    "evidence": "2026-09-12 Chrome1519733590從第5次Next到第6，畫面只有A spoon digging stairs into the earth。當前區域沒有video，輪播第6點亮；不把文案描述的挖掘當作畫面動態。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 1,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "personal_technical_experiment",
+    "type": "video",
+    "duration_seconds": 49.666667,
+    "observed_times": [
+      7.946077
+    ],
+    "reason": "作者官方明示個人技術實驗，探索Nanite、Lumen與VR建模；依排除藝術家個人練習的要求移除。提供免費下載不等於品牌委託。",
+    "evidence": "2026-09-12核對作者原始專案 https://secondarybounce.com/arcanumforge/：作者明示personal project、explore capabilities of Nanite、experiment at intersection of art/technology/VR；提供Windows免費下載。該頁與IG均名Arcanum Forge、SecondaryBounce、UE5、photogrammetry及VRsculpture。實際逐項畫面見.tmp/arcanum-gallery-pending.md及.tmp/arcanum-followup.json：暗色建築空間、雕塑碎片與樹形底座。 此次依確定的作品性質排除，不宣稱所有影片時間軸均已逐秒辨識；不借用另案Dinesen/Apartment的委託證據。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 2,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "personal_technical_experiment",
+    "type": "video",
+    "duration_seconds": 10.966666,
+    "observed_times": [
+      9.188934
+    ],
+    "reason": "作者官方明示個人技術實驗，探索Nanite、Lumen與VR建模；依排除藝術家個人練習的要求移除。提供免費下載不等於品牌委託。",
+    "evidence": "2026-09-12核對作者原始專案 https://secondarybounce.com/arcanumforge/：作者明示personal project、explore capabilities of Nanite、experiment at intersection of art/technology/VR；提供Windows免費下載。該頁與IG均名Arcanum Forge、SecondaryBounce、UE5、photogrammetry及VRsculpture。實際逐項畫面見.tmp/arcanum-gallery-pending.md及.tmp/arcanum-followup.json：綠色植物中的白色無頭軀幹雕塑。 此次依確定的作品性質排除，不宣稱所有影片時間軸均已逐秒辨識；不借用另案Dinesen/Apartment的委託證據。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 3,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "personal_technical_experiment",
+    "type": "video",
+    "duration_seconds": 51.733333,
+    "observed_times": [
+      9.537066
+    ],
+    "reason": "作者官方明示個人技術實驗，探索Nanite、Lumen與VR建模；依排除藝術家個人練習的要求移除。提供免費下載不等於品牌委託。",
+    "evidence": "2026-09-12核對作者原始專案 https://secondarybounce.com/arcanumforge/：作者明示personal project、explore capabilities of Nanite、experiment at intersection of art/technology/VR；提供Windows免費下載。該頁與IG均名Arcanum Forge、SecondaryBounce、UE5、photogrammetry及VRsculpture。實際逐項畫面見.tmp/arcanum-gallery-pending.md及.tmp/arcanum-followup.json：分屏暖色極簡展場、雕塑家具與日光。 此次依確定的作品性質排除，不宣稱所有影片時間軸均已逐秒辨識；不借用另案Dinesen/Apartment的委託證據。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 5,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "personal_technical_experiment",
+    "type": "video",
+    "duration_seconds": 15.333333,
+    "observed_times": [
+      6.76402,
+      10.532036
+    ],
+    "reason": "作者官方明示個人技術實驗，探索Nanite、Lumen與VR建模；依排除藝術家個人練習的要求移除。提供免費下載不等於品牌委託。",
+    "evidence": "2026-09-12核對作者原始專案 https://secondarybounce.com/arcanumforge/：作者明示personal project、explore capabilities of Nanite、experiment at intersection of art/technology/VR；提供Windows免費下載。該頁與IG均名Arcanum Forge、SecondaryBounce、UE5、photogrammetry及VRsculpture。實際逐項畫面見.tmp/arcanum-gallery-pending.md及.tmp/arcanum-followup.json：雙畫面軀幹雕塑及含階梯切口球體，綠色枝葉背景。 此次依確定的作品性質排除，不宣稱所有影片時間軸均已逐秒辨識；不借用另案Dinesen/Apartment的委託證據。"
+  },
+  {
+    "post_id": "DSaEKNHEXxR",
+    "media_index": 7,
+    "total": 7,
+    "decision": "exclude",
+    "reference_kind": "personal_technical_experiment",
+    "type": "image",
+    "duration_seconds": null,
+    "observed_times": [],
+    "reason": "作者官方明示個人技術實驗，探索Nanite、Lumen與VR建模；依排除藝術家個人練習的要求移除。提供免費下載不等於品牌委託。",
+    "evidence": "2026-09-12核對作者原始專案 https://secondarybounce.com/arcanumforge/：作者明示personal project、explore capabilities of Nanite、experiment at intersection of art/technology/VR；提供Windows免費下載。該頁與IG均名Arcanum Forge、SecondaryBounce、UE5、photogrammetry及VRsculpture。實際逐項畫面見.tmp/arcanum-gallery-pending.md及.tmp/arcanum-followup.json：黑白古典胸像，眼前黑色板狀幾何遮罩；最後一張靜態圖。 此次依確定的作品性質排除，不宣稱所有影片時間軸均已逐秒辨識；不借用另案Dinesen/Apartment的委託證據。"
+  },
+  {
+    "post_id": "Dcf1dh5sipC",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "reference_kind": "educational_explainer_with_cg_examples",
+    "type": "video",
+    "reason": "真人對鏡頭講解AI產品視覺溝通方法，穿插CG範例；依使用者排除教學／解說內容的要求移除整則。承認範例含CG，不以沒有品牌採用證據作為排除依據。",
+    "evidence": "2026-09-12 Chrome1519733598直接開啟原帖，單影片55.8秒，頁面沒有輪播下一步。13.104989秒真人講者與字幕 then I’ll explain how to apply；19.326333秒黑底嵌入矩形CG畫面，灰色圓筒出口有黃紫線束；35.885102秒回到真人解說，字幕 different data sources，下方是介面與黃色粒點圓角方塊示意。原作者alex_romanenko與ping.motiondesign原文明示See how showing the process can make your AI product stand out，結合畫面可確認是產品溝通方法教學。以上為實際分段核對，未宣稱逐幀完整觀看。",
+    "source_url": "https://www.instagram.com/p/Dcf1dh5sipC/"
+  },
+  {
+    "post_id": "DbWBMwDjYmK",
+    "media_index": 1,
+    "total": 1,
+    "decision": "exclude",
+    "type": "video",
+    "reference_kind": "artist_interview_with_cg_examples",
+    "reason": "藝術家出鏡自我介紹與工具使用心得，穿插CG作品。依既有排除人物訪談／解說內容的要求移除這則；不否認CG作品，也不以缺乏品牌採用為由排除。",
+    "evidence": "2026-09-12 Chrome1519733627原帖單影片，解碼時長72.530864至72.533332秒，沒有輪播下一步。1.41783秒Nako真人出鏡，字幕Hey guys, I am Nako Baev，並標Creative Director & 3D Artist；8.325972秒藍色車燈CG，Minimal bold and creative字幕；28.007253秒行星CG並談material node setup；44.684652秒幾何排列CG並談mograph tools；58.13163秒金屬鑲石飾物CG並談user interface。原文明示Nako shared how Cinema4D and Redshift enable a flexible workflow。這些分段畫面與文字確認為工具心得訪談，未聲稱逐幀看完整片。官方Maxon共同發布確立本訪談用途，不能據此把內嵌各原作一律當成獨立品牌委託。",
+    "source_url": "https://www.instagram.com/p/DbWBMwDjYmK/"
   }
 ]

@@ -1,15 +1,15 @@
 {
   "version": "content-six-20260910",
   "method": "六类内容分类；每个素材一个主类、最多一个次类。依个别媒体既有标签重新分配，非重新观看全部影片。抽象液体归有机；水、烟火与具体模拟归特效。品牌或软件名称不构成特效／科幻证据。",
-  "total": 2896,
+  "total": 2909,
   "unclassified": 0,
   "counts": {
-    "graphic": 743,
-    "product": 1037,
+    "graphic": 750,
+    "product": 1042,
     "organic": 659,
     "geometric": 971,
-    "scifi": 359,
-    "effects": 259
+    "scifi": 365,
+    "effects": 264
   },
   "fallback_count": 194,
   "fallback_ids": [
@@ -3589,6 +3589,23 @@
       ]
     },
     {
+      "id": "selectedyear-DQvxI1Kkwok-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733406單支11.007999秒直式三層製作分解。2.44869秒人形機械角色在競技場躍起、伸展肢體，4.130398秒角色沿傾斜彎道前進，7.791723秒Bonus鏡頭高速橫向追蹤場地。上層起始方塊動畫、中層完成渲染、下層彩色線框場景；不將剪接誤判形變，不推定爆破碰撞或火煙模擬。作者與FoxRenderfarm共同發布，正文競賽第三名、FoxRenderfarm/JangaFX支持；相關FoxRenderfarm官方DOabCe6DF8L為此作品得獎宣傳，DPDjM0BCCk1為作者訪談宣傳。原本是個人挑戰，但有後續渲染品牌宣傳採用證據；並非汽車品牌委託，不將XPPen獎品當片中產品。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-Dcfu_ecBICc-1",
       "styles": [
         {
@@ -4607,6 +4624,23 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "實際播放8.016666秒4/5影片：1.355825三張深藍待辦卡片與空心圓；1.968562點擊指示接近第二卡片；2.238323仍為藍色，2.465994卡片轉粉紅漸層，2.59594/2.692679圓角變大並出現紫色實心勾選圓與白勾；3.161612維持完成狀態；3.861233漸層轉近純粉紅；4.509338點擊指示消失；5.775965按壓時邊角由膠囊回到較小圓角。可見2D填色、圓角形變、勾選狀態及指示淡出；沒有水、液體、布料、粒子或Houdini solver的視覺證據。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc_D-mqBqDe-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733324單支6.198275秒影片。1.738539秒白桌、螢幕、桌面喇叭、藍牆與橘球；4.398873秒取景向右至橘椅邊緣、深藍牆層架書本盆栽與米色地毯；5.573522秒切換完整室內構圖，外側模糊填充。橫向取景及全景剪接，不推定家具自行移動、組裝、球體彈跳、液體或物理模擬。品牌本人greyscalegorilla發布，正文明示Office Desk Models與Cargo library，使用自家模型和材質搭配呈現辦公室，屬正式資產產品宣傳，不是個人spec。不把畫面中的螢幕猜成特定硬體品牌或型號。"
           ],
           "matched_tags": []
         }
@@ -5637,6 +5671,35 @@
       ]
     },
     {
+      "id": "selectedyear-Db405gaAhEN-1",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。樂團表演的4DGS重建、紫色拖影與製作視窗對照，穿插紅藍幾何背景版本。專案研發素材，包含未採用測試。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。1.668831紫色人物拖影及分割畫面；6.522518擊鼓人物灰白場景紅色橫帶；9.385234軟體視窗與成品比較；15.636377鏡頭變換至藍色背景鼓手。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。樂團表演的4DGS重建、紫色拖影與製作視窗對照，穿插紅藍幾何背景版本。專案研發素材，包含未採用測試。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。1.668831紫色人物拖影及分割畫面；6.522518擊鼓人物灰白場景紅色橫帶；9.385234軟體視窗與成品比較；15.636377鏡頭變換至藍色背景鼓手。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DbIdJyqFAw4-1",
       "styles": [
         {
@@ -6513,6 +6576,35 @@
       ]
     },
     {
+      "id": "selectedyear-DavsPAUK0Cj-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733398實際單張靜態原圖2048×1359橫幅。右側雙捲盤復古錄音機、旋鈕、綠色電平表與紅色指示燈；左側Higgsfield標誌、RUDOLF STEINER AUDIO奶油白字，橄欖綠Available now按鈕，黑灰背景與做舊金屬。無video、無輪播下一步。盤片不標旋轉，電平表不標跳動，沒有動態證據。作者正文明示自行建置Rudolf Steiner Audio平台並提供公開網址，畫面為該平台上線宣傳，不是未採用第三方品牌spec。Instagram標示AI內容；作者提及Higgsfield Supercomputer with Claude Fable是平台製作說明，不據此推定圖片生成模型或傳統3D渲染器。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733398實際單張靜態原圖2048×1359橫幅。右側雙捲盤復古錄音機、旋鈕、綠色電平表與紅色指示燈；左側Higgsfield標誌、RUDOLF STEINER AUDIO奶油白字，橄欖綠Available now按鈕，黑灰背景與做舊金屬。無video、無輪播下一步。盤片不標旋轉，電平表不標跳動，沒有動態證據。作者正文明示自行建置Rudolf Steiner Audio平台並提供公開網址，畫面為該平台上線宣傳，不是未採用第三方品牌spec。Instagram標示AI內容；作者提及Higgsfield Supercomputer with Claude Fable是平台製作說明，不據此推定圖片生成模型或傳統3D渲染器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DZzfBCDz5hN-1",
       "styles": [
         {
@@ -6784,6 +6876,64 @@
       ]
     },
     {
+      "id": "selectedyear-C0JooztSNlb-1",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733535逐張檢查8張，最後只有返回且無video。第1張黑底長條尖端標牌、上方放射尖葉，銀白鏡面高光、品牌字體及小圖示。此靜態不標飛行或光軌運動。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733535逐張檢查8張，最後只有返回且無video。第1張黑底長條尖端標牌、上方放射尖葉，銀白鏡面高光、品牌字體及小圖示。此靜態不標飛行或光軌運動。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzYhrN7yqD9-1",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際輪播第1張：灰米色砌塊牆及黑色框內海報，海報主體是銀色機械植物，牆前斜向陰影。沒有影片；只標靜態材質與主體，不由故事標粒子升起、成長、飛行。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "實際輪播第1張：灰米色砌塊牆及黑色框內海報，海報主體是銀色機械植物，牆前斜向陰影。沒有影片；只標靜態材質與主體，不由故事標粒子升起、成長、飛行。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
       "id": "selectedyear-DbnvMMhAC7M-1",
       "styles": [
         {
@@ -6853,6 +7003,35 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "單支39.84秒影片，Chrome1519732730前輪與1519732734本輪自然播放觀察。3.38–4.37鞋面纖維編織與鞋底組合，4.83–5.18碎片散開，6.38液體葉片旋流；8.99–9.80車架陣列旋轉，10.59–11.39紅車岩石場景；12.68–13.55條帶扭環，14.43–15.29白色流體越過表面；16.15–17.05青色光球，18.40火焰活塞；19.39–20.35滾筒組裝，21.33氣泡水流；22.21布料、22.31車身液態波動，22.99–23.28粉底瓶變形，23.77–24.26糖果下落。25.48–26.37汽車行駛巨型棋子環境；27.25–29.51粒子細絲捲動；30.34機床遠景未見切削，31.17洗衣機外殼組裝；32.01紋理近景到32.84整塊板材，33.67片材翻動，34.50–35.53條帶木塊懸浮；36.49–37.48IWC腕錶環繞近景，37.77–38.49On THE ROGER鞋面。材質僅可見外觀；不推測FLIP/Vellum等solver，沒有足夠碰撞或切削證據所以不標。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Dc-FbTItjL5-1",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733497直接觀看單支6.476915秒影片，無輪播下一步。0.816579中央桃紅紙盒及米白、黃色紙盒懸空交錯；5.334001中央改為黃白紙盒，盒面及邊緣朝向不同，可見盒群翻轉漂移。紙盒印有2DPete、Creative Design、笑臉、字體和貼紙式圖案；灰底，紙板印刷霧面外觀。只依畫面標旋轉/翻滾/漂移/交錯，不宣稱RBD、碰撞、掉落、流體或特定軟體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733497直接觀看單支6.476915秒影片，無輪播下一步。0.816579中央桃紅紙盒及米白、黃色紙盒懸空交錯；5.334001中央改為黃白紙盒，盒面及邊緣朝向不同，可見盒群翻轉漂移。紙盒印有2DPete、Creative Design、笑臉、字體和貼紙式圖案；灰底，紙板印刷霧面外觀。只依畫面標旋轉/翻滾/漂移/交錯，不宣稱RBD、碰撞、掉落、流體或特定軟體。"
           ],
           "matched_tags": []
         }
@@ -21071,6 +21250,168 @@
           "review_status": "visual_reviewed",
           "evidence": [
             "2026-09-12 Chrome1519733266逐一查看共9媒體，第9僅返回/無video。第9：深色透明球形節點與細長彎曲連線組成多層網絡，局部球面帶細小氣泡。 靜態不推定動態，未推定軟體與物理求解器。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db405gaAhEN-2",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。紫色與洋紅色電光包圍吉他手，強烈白色光暈與線狀能量紋理。靜態合成圖。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。自然尺寸1440x810，僅第一項video留在畫面外，當前項為IMG；第三項無下一步。未將靜態光線當成已觀察到的動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。紫色與洋紅色電光包圍吉他手，強烈白色光暈與線狀能量紋理。靜態合成圖。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。自然尺寸1440x810，僅第一項video留在畫面外，當前項為IMG；第三項無下一步。未將靜態光線當成已觀察到的動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-Db405gaAhEN-3",
+      "styles": [
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。鼓手與鼓組被紫色分岔電弧包圍，前景鈸與鼓面形成斜向構圖。靜態合成圖。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。自然尺寸1440x810，僅第一項video留在畫面外，當前項為IMG；第三項無下一步。未將靜態光線當成已觀察到的動態。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733432/1519733439實際逐張查看，輪播共3項。鼓手與鼓組被紫色分岔電弧包圍，前景鈸與鼓面形成斜向構圖。靜態合成圖。作者明示與Prism AI為Death by Romy製作4DGS；相關Prism官方貼文DbLj74bjBss明示DEATHBYROMY XR、體積捕捉與Dave Webster的Houdini特效製作。此篇明示部分looks/tests未繼續採用，歸為該商業專案研發／製作分解，不宣稱每個版本都是最終成片。自然尺寸1440x810，僅第一項video留在畫面外，當前項為IMG；第三項無下一步。未將靜態光線當成已觀察到的動態。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-C0JooztSNlb-5",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "同輪播第5張單獨截圖：白底黑色異形標牌，白字Agave Oteroi Seedling、SKS-002、刀鋒女王、品牌logo、植物剪影與細線六角格。已取得此張自己的1440x1798遠端圖，不從靜態標成動畫。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-CzYhrN7yqD9-2",
+      "styles": [
+        {
+          "id": "scifi",
+          "zh": "科幻電競",
+          "en": "Sci-Fi & Gaming",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第2張原圖1440x1800，純海報平面，鏡面銀色尖葉、兩側多面裝甲、底部機械管狀結構，黑白漸層及品牌文字。只有返回按鈕、video DOM=0，確認全2張静態。材質為圖像呈現，不推定真實金屬雕塑或流體。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "第2張原圖1440x1800，純海報平面，鏡面銀色尖葉、兩側多面裝甲、底部機械管狀結構，黑白漸層及品牌文字。只有返回按鈕、video DOM=0，確認全2張静態。材質為圖像呈現，不推定真實金屬雕塑或流體。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DIykgQuN9EB-9",
+      "styles": [
+        {
+          "id": "graphic",
+          "zh": "圖標與介面",
+          "en": "Icons & UI",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733561以img_index=9直接查看：1080x1350静態圖，主圖x134.708/y38.514，filename491432626，採用自身遠端封面。原案放大圖Chrome1519733558 module296304891逐圖比對一致。無動態標籤。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733561以img_index=9直接查看：1080x1350静態圖，主圖x134.708/y38.514，filename491432626，採用自身遠端封面。原案放大圖Chrome1519733558 module296304891逐圖比對一致。無動態標籤。"
+          ],
+          "matched_tags": []
+        }
+      ]
+    },
+    {
+      "id": "selectedyear-DUU7dT-jEPo-4",
+      "styles": [
+        {
+          "id": "product",
+          "zh": "產品設計",
+          "en": "Product Design",
+          "role": "primary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733531重新確認第4媒體為720x720影片6.133333秒。1.140648/1.541118店內全景人偶與傾斜吊燈；4.235203紙袋、盒蓋在櫃台上方散開，鏡頭轉至側方。灰模單片6.133333秒。1.620秒店內全景，人偶、吊燈和紙盒離開固定位置；3.151秒產品瓶罐離開禮盒內槽；4.144與4.599秒視角轉至櫃台上方散開紙袋盒蓋。可標懸浮、散開、鏡頭移動；不推定碰撞/破碎求解器。先前播放中未露出封面；本次已在相鄰第3張頁面取得第4段待播封面。 2026-09-12 Chrome1519733653開啟img_index=3，實際第3張彩色店內圖位於x20.20；右側x728.75的第4影片6.133333秒尚未播放，其同位置720x720 img.currentSrc為627690582_18068867249542051。因此為第4段自己的封面，不是第3張628184115或第5張628245275。"
+          ],
+          "matched_tags": []
+        },
+        {
+          "id": "effects",
+          "zh": "動態特效",
+          "en": "Visual Effects",
+          "role": "secondary",
+          "source": "visual_review",
+          "review_status": "visual_reviewed",
+          "evidence": [
+            "2026-09-12 Chrome1519733531重新確認第4媒體為720x720影片6.133333秒。1.140648/1.541118店內全景人偶與傾斜吊燈；4.235203紙袋、盒蓋在櫃台上方散開，鏡頭轉至側方。灰模單片6.133333秒。1.620秒店內全景，人偶、吊燈和紙盒離開固定位置；3.151秒產品瓶罐離開禮盒內槽；4.144與4.599秒視角轉至櫃台上方散開紙袋盒蓋。可標懸浮、散開、鏡頭移動；不推定碰撞/破碎求解器。先前播放中未露出封面；本次已在相鄰第3張頁面取得第4段待播封面。 2026-09-12 Chrome1519733653開啟img_index=3，實際第3張彩色店內圖位於x20.20；右側x728.75的第4影片6.133333秒尚未播放，其同位置720x720 img.currentSrc為627690582_18068867249542051。因此為第4段自己的封面，不是第3張628184115或第5張628245275。"
           ],
           "matched_tags": []
         }
